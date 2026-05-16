@@ -4,7 +4,7 @@ Use a private GitHub repo for this system.
 
 ## Recommended Steps
 
-From inside `hermes_youtube_growth_os/`:
+From inside the repo root, `hermes-youtube-growth-os/`:
 
 ```bash
 git init
