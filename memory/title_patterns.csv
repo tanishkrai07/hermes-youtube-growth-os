@@ -1,0 +1,11 @@
+pattern_id,pattern_name,pattern_formula,example,source_channel,score,date_discovered
+P001,"Specialty WARNS","[Specialty] WARNS: If Your [Body Part] [Symptom] After 60, [Hidden Cause]","Neurologist WARNS: If Your LEGS Feel HEAVY After 60, Your Body Is Missing 1 Critical Vitamin",Dr. James Hargrove,19,2026-05-16
+P002,"Time Before Disaster","[X] Signs/Symptoms [Time Period] Before [Health Disaster] After 60","Signs of a Stroke 24 Hours Before the Attack",Dr. Adewale,20,2026-05-16
+P003,"Body Hiding/Missing","Your Body Is [Missing/Hiding] [Number] [Critical Thing] After 60","Your Body Is Hiding 7 Diseases",Dr. James Hargrove,18,2026-05-16
+P004,"NEVER Do/Eat","NEVER [Verb] These [Number] [Items] After 60 ([Consequence])","These FOUR Cheeses You Must NEVER Eat After 60",Dr. James Hargrove,19,2026-05-16
+P005,"Disease Outbreak","[Disease Name]: How It Spreads and Why It's Dangerous for Seniors","Hantavirus: How It Spreads and Why It Kills So Fast",Dr. Michael Kent,20,2026-05-16
+P006,"Longevity Promise","You Could Live [X] More Years After [Age] – [Action]","You Could Live 30 More Years After 65 – Try Doing This In The Morning",Dr. Michael Kent,15,2026-05-16
+P007,"Doctor Won't Tell","[X] [Things] Your Doctor Won't [Do/Tell] (But [Benefit])","5 Blood Tests Your Doctor Won't Order (But Could Save Your Life)",Dr. Michael Kent,17,2026-05-16
+P008,"Misdirection Reveal","[Common Symptom] After 60 Is NOT [Common Belief] — It's [True Cause]","SWOLLEN ANKLES AFTER 60 ARE NOT YOUR HEART — It's Your Lymph",Dr. Michael Kent,17,2026-05-16
+P009,"List + Forbidden","[Number] [Items] That [Benefit/Harm] | [Number] [Items] to Avoid","10 Fruits That Reverse Blood Sugar | 5 Worst to Avoid",Dr. Adewale,16,2026-05-16
+P010,"STOP Eating","STOP Eating These [Number] [Food Items] After 60 ([Consequence])","STOP Eating These 4 Common Fish After 60 (Causing Stroke)",Dr. James Hargrove,17,2026-05-16
