@@ -1,0 +1,33 @@
+{
+  "task_id": "comment-mining-pipeline",
+  "task_type": "recurring",
+  "priority": "medium",
+  "owner": "pattern-analyst",
+  "schedule": "daily 14:00 UTC",
+  "description": "Mine comments from top-performing competitor videos for pain points and sentiment analysis.",
+  "inputs": {
+    "database": "data/hermes_intelligence.db → videos table",
+    "api_key_env": "YOUTUBE_API_KEY",
+    "max_videos_per_channel": 5,
+    "max_comments_per_video": 50
+  },
+  "outputs": {
+    "database": "data/hermes_intelligence.db → comments table",
+    "summary": "memory/comment_pain_points.md"
+  },
+  "steps": [
+    "Query database for top-performing videos (by view velocity)",
+    "Fetch comments via YouTube Data API commentThreads endpoint",
+    "Analyze sentiment (fear, trust, question, pain, neutral)",
+    "Extract pain point categories (heart, brain, legs, sleep, food, etc.)",
+    "Store structured comments in database",
+    "Update pain point summary file"
+  ],
+  "done_criteria": [
+    "Comments mined from at least 20 videos",
+    "All comments stored with sentiment and pain point tags",
+    "Pain point summary updated"
+  ],
+  "status": "ACTIVE",
+  "created_date": "2026-05-16"
+}

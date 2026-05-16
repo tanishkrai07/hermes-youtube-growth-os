@@ -1,0 +1,31 @@
+{
+  "task_id": "trend-scoring-engine",
+  "task_type": "recurring",
+  "priority": "high",
+  "owner": "pattern-analyst",
+  "schedule": "daily 16:00 UTC",
+  "description": "Analyze recent competitor videos, detect trending topics, and score trends 1-20.",
+  "inputs": {
+    "database": "data/hermes_intelligence.db → videos table",
+    "lookback_days": 7
+  },
+  "outputs": {
+    "database": "data/hermes_intelligence.db → trend_scores table",
+    "file": "memory/trend_scores.csv"
+  },
+  "steps": [
+    "Query videos from last 7 days",
+    "Extract topics from titles using keyword matching",
+    "Count frequency of each topic",
+    "Score trends: frequency * 3 + 10, capped at 20",
+    "Only preserve trends scoring 15+",
+    "Update database and CSV"
+  ],
+  "done_criteria": [
+    "All recent videos analyzed",
+    "Trends scored and stored",
+    "CSV file updated"
+  ],
+  "status": "ACTIVE",
+  "created_date": "2026-05-16"
+}

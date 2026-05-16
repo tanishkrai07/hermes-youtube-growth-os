@@ -1,0 +1,32 @@
+{
+  "task_id": "competitor-daily-scan",
+  "task_type": "recurring",
+  "priority": "high",
+  "owner": "competitor-watcher",
+  "schedule": "daily 09:00 UTC",
+  "description": "Scan all competitor channels for new uploads, extract metadata, and store in database.",
+  "inputs": {
+    "watchlist": "memory/competitor_watchlist.csv",
+    "api_key_env": "YOUTUBE_API_KEY"
+  },
+  "outputs": {
+    "database": "data/hermes_intelligence.db → videos table",
+    "report": "outputs/reports/YYYY-MM-DD_competitor_report.md"
+  },
+  "steps": [
+    "Read competitor watchlist from CSV",
+    "For each channel, fetch latest 10 videos via YouTube Data API",
+    "For each new video, fetch statistics (views, likes, comments, duration)",
+    "Calculate view velocity and engagement rate",
+    "Store in SQLite database",
+    "Generate daily report"
+  ],
+  "done_criteria": [
+    "All active competitors scanned",
+    "New videos stored in database",
+    "Daily report generated",
+    "Scan logged in scan_log table"
+  ],
+  "status": "ACTIVE",
+  "created_date": "2026-05-16"
+}
