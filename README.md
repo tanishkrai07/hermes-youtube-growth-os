@@ -29,6 +29,7 @@ Hermes should never load all raw files into context by default. Raw data lives i
 - `data/thumbnails/`: thumbnail swipe file, design metadata, and analysis notes.
 - `data/video_pipeline/`: per-video production status records.
 - `agents/`: role definitions for the multi-agent system.
+- `automation/`: self-update workflow, task queue, and change proposals.
 - `prompts/`: reusable prompts for Telegram/Hermes runs.
 - `schemas/`: expected CSV/JSON shapes for clean ingestion.
 - `scripts/`: local utilities to build context packs and validate data.
@@ -43,6 +44,25 @@ Hermes should never load all raw files into context by default. Raw data lives i
 5. Ask Hermes to run `prompts/daily_competitor_review.md`.
 6. Save Hermes output as a dated report under `outputs/reports/`.
 7. If the insight matters long-term, update `memory/channel_brain.md` and `memory/competitor_memory.md`.
+
+## Auto-Update Loop
+
+Hermes can evolve the operating system by using `prompts/auto_update_orchestrator.md` and the files under `automation/`.
+
+Allowed changes:
+
+- Create new agent specs under `agents/generated/`.
+- Create delegated task files under `automation/tasks/`.
+- Propose prompt, memory, schema, and script improvements.
+- Create new support files when a recurring workflow needs structure.
+- Run validation before committing or pushing.
+
+Guardrails:
+
+- Raw SOPs in `knowledge/raw_initial_upload/` are read-only unless you explicitly approve changes.
+- Medical claims must pass the Safety and Claims Checker.
+- Every self-update must leave a proposal or task record.
+- Push only after validation passes.
 
 ## Weekly Operating Loop
 

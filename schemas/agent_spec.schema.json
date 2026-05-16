@@ -1,0 +1,21 @@
+{
+  "name": "agent_spec",
+  "description": "Generated agent spec shape.",
+  "format": "markdown_with_front_matter",
+  "required_fields": [
+    "id",
+    "name",
+    "created_at",
+    "mission",
+    "inputs",
+    "outputs",
+    "boundaries",
+    "handoff_rules"
+  ],
+  "notes": [
+    "Generated agents must have narrow ownership.",
+    "Generated agents must not override core channel safety rules.",
+    "Generated agents must hand off medical claims to Safety and Claims Checker."
+  ]
+}
+

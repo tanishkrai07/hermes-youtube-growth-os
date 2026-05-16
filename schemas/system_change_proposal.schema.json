@@ -1,0 +1,35 @@
+{
+  "name": "system_change_proposal",
+  "description": "Audit record for changes Hermes proposes or applies to the operating system.",
+  "format": "markdown_with_front_matter",
+  "required_fields": [
+    "id",
+    "created_at",
+    "owner_agent",
+    "change_type",
+    "status",
+    "reason",
+    "files_affected",
+    "evidence",
+    "validation_plan",
+    "rollback_note"
+  ],
+  "change_types": [
+    "prompt",
+    "memory",
+    "schema",
+    "script",
+    "agent",
+    "data_template",
+    "docs",
+    "workflow"
+  ],
+  "statuses": [
+    "proposed",
+    "accepted",
+    "applied",
+    "rejected",
+    "rolled_back"
+  ]
+}
+

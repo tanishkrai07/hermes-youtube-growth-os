@@ -25,9 +25,14 @@ Output:
 - Proposed memory updates
 - Proposed prompt updates
 - Proposed next-week strategy
+- Proposed delegated tasks for `automation/tasks/`
+- Proposed new agents for `agents/generated/` when an existing role is insufficient
+- Proposed files, scripts, schemas, or templates needed to remove repeated manual work
 
 Rules:
 
 - Do not rewrite raw SOPs.
 - Do not overfit to one video unless performance is extreme.
 - Preserve exact evidence: titles, CTR, AVD, views, dates.
+- Record every repo change as a proposal or task before committing.
+- Run validation before pushing.

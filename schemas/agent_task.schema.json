@@ -1,0 +1,29 @@
+{
+  "name": "agent_task",
+  "description": "Delegated task file shape for Hermes agents.",
+  "format": "markdown_with_front_matter",
+  "required_fields": [
+    "id",
+    "created_at",
+    "owner_agent",
+    "priority",
+    "status",
+    "source_files",
+    "expected_output",
+    "done_criteria"
+  ],
+  "statuses": [
+    "open",
+    "in_progress",
+    "blocked",
+    "done",
+    "cancelled"
+  ],
+  "priorities": [
+    "low",
+    "medium",
+    "high",
+    "urgent"
+  ]
+}
+
