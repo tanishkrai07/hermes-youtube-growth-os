@@ -1,0 +1,25 @@
+{
+  "name": "thumbnail_record",
+  "description": "Thumbnail design memory for competitor and Dr. Victor Kane thumbnails.",
+  "format": "csv",
+  "required_columns": [
+    "date_added",
+    "source",
+    "channel",
+    "video_title",
+    "url",
+    "pillar",
+    "thumbnail_text",
+    "layout",
+    "background_color",
+    "doctor_position",
+    "doctor_expression",
+    "prop",
+    "estimated_performance",
+    "lesson"
+  ],
+  "notes": [
+    "Store image files in data/thumbnails/swipe_file/ and reference the path in url or lesson if local.",
+    "Estimated performance can include views, CTR, or rough label such as high/medium/low."
+  ]
+}

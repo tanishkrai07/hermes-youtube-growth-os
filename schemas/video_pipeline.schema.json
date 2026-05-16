@@ -1,0 +1,29 @@
+{
+  "name": "video_pipeline",
+  "description": "Per-video production tracker.",
+  "format": "csv",
+  "required_columns": [
+    "release_order",
+    "long_form_title",
+    "pillar",
+    "persona",
+    "score",
+    "target_length",
+    "script_words",
+    "short_upload_topic",
+    "thumbnail_a_text",
+    "thumbnail_b_text",
+    "primary_safety_note",
+    "status"
+  ],
+  "status_values": [
+    "Idea approved",
+    "Script drafted",
+    "Script approved",
+    "Avatar brief ready",
+    "Thumbnails ready",
+    "SEO ready",
+    "Uploaded",
+    "Analytics reviewed"
+  ]
+}

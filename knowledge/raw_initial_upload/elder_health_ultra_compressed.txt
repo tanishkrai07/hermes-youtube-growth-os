@@ -1,0 +1,200 @@
+
+### Elder_Health_Idea_Generation_SOP.docx
+
+1. Efficiency = average views per video. This tells you whose formula is most worth studying.
+2. 1.4 Title Pattern Performance
+3. Section 2: The 8 Content Pillars
+4. Every viral video in this niche lives in one of these 8 pillars. Never generate an idea outside them. Each pillar has proven demand, working title formulas, and a data-backed view range. When you sit down to generate ideas - pick a pillar first, then
+5. PILLAR 1: FOOD & DRINK REVELATION
+6. Highest total views (14.7M). Model channel: Senior Facts Daily (651K avg). Formula: take ONE food or drink the audience already knows, then reveal a hidden danger OR shocking benefit. The simpler the food, the better.
+7. PILLAR 2: EXERCISE BREAKTHROUGH
+8. 13.1M total, 375K avg. Model: Senior Wellness. Key insight: seniors want movement that fits their life with a 'better than X' hook. Cultural authority framing (Japanese, Greek) = instant credibility.
+9. PILLAR 3: SLEEP / NIGHT PEEING
+10. 34 videos, 8.9M views - and demand is NOT saturated. Waking up 2-4x per night is the #1 pain point for the 60+ audience. Every new angle on this topic still works.
+11. PILLAR 4: LEG & CIRCULATION
+12. Only 6 competitor videos despite 368K average views. This is the MOST UNDERSERVED high-value pillar. Wide open for your channel to dominate.
+13. PILLAR 5: MUSCLE / STRENGTH
+14. 8 videos, 376K avg - second-highest average per video. Dramatically underserved. The fear of sarcopenia (muscle loss after 60) is one of the deepest anxieties in this audience.
+15. 7 videos, 344K avg. Knee pain, sciatica, back stiffness - universal for the 60+ audience. High demand, underserved content.
+16. PILLAR 7: WARNING / NEVER DO X
+17. 36 videos, 262K avg. This is a framing OVERLAY more than a standalone pillar - any topic from pillars 1-6 can be reframed as a warning. The word NEVER is the single highest-CTR word in this niche.
+18. PILLAR 8: BRAIN / MEMORY / CANCER
+19. Section 6: 30 Ready Ideas Across All 8 Pillars
+20. PILLAR 1: FOOD AND DRINK REVELATION
+21. PILLAR 3: SLEEP AND NIGHT PEEING
+22. PILLAR 4: LEG AND CIRCULATION
+23. PILLAR 5: MUSCLE AND STRENGTH
+24. PILLAR 6: PAIN AND JOINTS
+
+### Project_Upload_Guide_and_Activation_Prompt.docx
+
+1. Upload all 35 transcript CSV files as a single batch. These teach Claude the exact language patterns, phrasing, analogies, and emotional beats used in the highest-performing videos in your niche.
+2. The Master Upload Checklist
+3. After uploading all files and setting the Project Instruction, run this prompt ONCE to activate the system. Claude will read every file, confirm it understands the system, and tell you exactly what it is ready to produce.
+
+### SOP_1_Channel_Strategy.docx
+
+1. This channel uses an AI-generated surgeon avatar — a 40-50 year old male, experienced-looking, in full surgical/medical uniform — to deliver elder health content in the most credible, click-worthy format proven in this niche. The channel is modeled a
+2. Analysis of 109 competitor videos reveals that every video exceeding 500K views contains all three of these ingredients. Missing even one drops average views by 60%.
+3. 2.3 The 8 Content Pillars and Weekly Rotation
+4. Each week, rotate through these pillars. Never publish two consecutive videos on the same pillar. This prevents the algorithm from narrowing your audience.
+5. Use this framework to populate your full calendar. Rotate pillars to prevent algorithm narrowing. Each row = one week.
+6. Upload this as the pinned instruction in your Claude Project:
+
+### SOP_2_ShortForm_Script.docx
+
+1. 1.1 Why Shorts Need a Different Formula
+2. 2.1 The 3-Act Formula (60 Seconds)
+3. 3.1 Short-Form Hook Archetypes
+4. These 5 hook types are proven to stop the scroll for the 60+ audience on mobile. The hook must begin the very first word of the script — no lead-in, no title card, no intro music before the first spoken word.
+5. 6.1 On-Screen Text Rules for the 60+ Audience
+6. The 60+ audience on mobile needs larger, simpler text than younger demographics. Every Short must have on-screen text reinforcing the spoken words. This also improves accessibility and watch time.
+7. 8.1 Pre-Production Short Checklist
+
+### SOP_3_AI_Avatar_Production.docx
+
+1. 1.1 Avatar Visual Specification
+2. The avatar is the single most important factor in building trust and CTR in this niche. The Dr. Adewale and Dr. Michael Kent channels both use a professionally credible doctor/surgeon appearance. This SOP defines the exact appearance parameters.
+3. Complete this brief for every video before submitting to your AI avatar generation tool. This brief tells the tool everything it needs to render consistent, high-quality output.
+4. Use these delivery notes when prompting your avatar tool or when writing direction notes in the script. Each section of the script requires a different emotional register.
+5. Before submitting any script to your avatar tool, mark it up using these annotations. These tell the tool exactly how to render each line. Use square brackets for all directions.
+6. 5.1 Pre-Approval Render Checklist
+
+### SOP_4_Thumbnail_System.docx
+
+1. 1.1 The 3-Element Thumbnail Rule
+2. Every high-performing thumbnail in this niche uses exactly 3 elements. Dr. Michael Kent's thumbnails (avg 200K+ views) and Dr. Adewale's thumbnails (avg 150K+ views) both follow this formula without exception. Any thumbnail missing one element underp
+3. 3.1 The 12 Formulas (Ranked by CTR)
+4. These formulas are extracted directly from the highest-CTR thumbnails across Dr. Kent and Dr. Adewale's channels. Use these as your starting templates.
+5. 4.1 The Thumbnail Brief (Fill Per Video)
+6. Every video must launch with 2 thumbnail versions. YouTube allows you to test thumbnails natively. Here is the exact protocol:
+7. Create Version A (your primary choice based on the formula)
+8. Create Version B (same formula, different text or doctor expression)
+9. Upload both to YouTube Studio > Customization > Thumbnails > Test and Compare
+10. After 1,000 impressions, check which version has higher CTR
+11. 5.1 Thumbnail Anti-Patterns
+
+### SOP_5_Title_SEO.docx
+
+1. 1.1 The 6 Click Triggers for the 60+ Audience
+2. The 60+ audience clicks on YouTube videos for fundamentally different psychological reasons than younger audiences. They are not looking for entertainment — they are looking for answers to fears they already have. Every title must activate at least 2
+3. 2.1 The Master Title Formulas
+4. Every title must be: under 70 characters (to show fully on mobile), contain an age group marker, contain a number or specific claim, and trigger at least 2 psychological click triggers.
+5. The first 2 lines of the description appear in YouTube search results before the viewer clicks. These 2 lines must function as a second hook — they must make the viewer click even if the title alone does not close it.
+6. YouTube uses tags to understand video context and connect it to related videos. Use exactly 15-20 tags per video, structured in 3 tiers. Total character limit: 500 characters.
+7. 4.2 Tag Templates by Pillar
+
+### SOP_6_Upload_Publishing_Checklist_and_SOP7_Analytics.docx
+
+1. YouTube's algorithm makes a binary decision in the first 72 hours: is this video worth pushing to a wider audience, or is it not? Every action in this SOP is designed to give the algorithm the signals it needs to choose YES. Missing even 2 of these s
+2. The Complete Upload Checklist
+3. STAGE 1: Pre-Upload Verification (Day Before Upload)
+4. STAGE 2: YouTube Studio Upload Settings
+5. Every channel that stalls does so because the creator stopped listening to data. The analytics review is not optional — it is what tells you which pillar to double down on, which title formula is working, which thumbnail style is winning, and which i
+6. If a video has been live for 7 days and is below target CTR — use this exact rescue sequence before abandoning it.
+7. Day 1: Change thumbnail to the opposite formula (if you used dark background, switch to red. If pointing, switch to concerned face.)
+8. Day 2: Update the title. Use a different formula from the 8 in SOP 5. Add a number if it did not have one. Add age group if missing.
+9. Day 3: Add a pinned comment with a question that hooks viewers into the comments section.
+10. Day 7: If still below target after all interventions, note the pillar and title formula as 'tested and failed' in your analytics log. Do not repeat this angle.
+
+### SOP5_AI_Avatar_Production_Brief.docx
+
+1. Section 1: Avatar Character Specification
+2. Your AI avatar is the face of your entire channel. The design must be deliberate, consistent across every video, and engineered to signal credibility to the 60+ audience in the first 2 seconds. These are the exact specifications derived from analyzin
+3. 1.2 Your Avatar Specifications
+4. Your avatar should be generated in two consistent modes. Use the correct mode for each video type.
+5. Section 2: Avatar Generation Prompts
+6. These are the exact prompts to use in your AI avatar generation tool (HeyGen, D-ID, Synthesia, or similar). Run the base prompt first to generate your character, then use the mode-specific prompts for each video.
+7. When generating the video (not just still image), these are the direction notes that go into the avatar tool's prompt or director notes field.
+8. Section 3: Script-to-Avatar Markup Guide
+9. Every script must be marked up with delivery instructions before it goes to avatar production. These markers tell the avatar tool exactly how to deliver each line. Use this system on every script.
+10. Section 4: Pre-Approval Quality Checklist
+11. Before any rendered avatar video moves to the editing or upload stage, it must pass every item on this checklist. One person approves every render against this list. Never skip items.
+12. 4.1 Avatar Visual Checklist
+13. Avatar looks 40-50 years old — not younger, not older
+14. Facial expression matches the content mood (urgent for warnings, empathetic for patient stories)
+15. 4.2 Audio Delivery Checklist
+16. The hook (first 15 seconds) has the highest energy of the entire video
+17. File format: MP4, H.264 codec for upload compatibility
+18. No watermarks from the avatar tool visible in final render
+19. The avatar render is the base layer. Add these visual enhancements during editing before upload.
+
+### SOP6_Thumbnail_System copy.docx
+
+1. Section 1: The Psychology of the Elder Health Click
+2. Your thumbnail has 0.3 seconds to stop a scroll. For the 60+ audience on YouTube, this happens differently than for younger audiences. Understanding the exact psychological triggers that cause this audience to click is the foundation of every thumbna
+3. 1.1 The 3 Click Triggers for the 60+ Audience
+4. 1.2 Channel Analysis: What Their Thumbnails Prove
+5. Section 2: The 3-Zone Thumbnail Layout
+6. Every thumbnail is divided into 3 zones. Each zone has a specific job. Follow this layout for every single video. Never deviate from the zone structure. The only variable is content within each zone.
+7. Use one of these four layouts for every thumbnail. All four are proven from the reference channels.
+8. Section 3: Thumbnail Text Rules
+9. 3.1 The 6 Proven Text Formulas
+10. 3.3 The Color-Psychology Pairing System
+11. Section 4: Thumbnail Prop and Visual System
+12. 4.1 The Prop Library — One per Thumbnail
+13. Every thumbnail should contain ONE prop element that visually represents the danger or solution. This gives the viewer a second visual story alongside the text and doctor. The prop must be recognizable at thumbnail size.
+14. Red arrows are one of the highest-CTR visual elements in elder health thumbnails. Both reference channels use them extensively. Here is the exact system.
+15. Maximum 2 arrows per thumbnail. More than 2 creates visual chaos.
+16. Section 5: Thumbnail A/B Testing Protocol
+17. YouTube allows you to test multiple thumbnails. For every video, create 2 thumbnail variations (A and B). Run them in rotation and pick the winner at 48 hours based on CTR data. This single habit compounds across 60 videos into a massive CTR advantag
+18. 5.3 The Thumbnail Review Checklist
+19. Every thumbnail must pass this checklist before uploading. No exceptions.
+20. Both thumbnails tested at actual YouTube thumbnail size (320x180px) on mobile screen
+21. No faces other than the avatar doctor appear in the thumbnail
+22. No text in thumbnail is identical to video title — thumbnail text should TEASE, not repeat
+23. File saved as: [PILLAR]-[VIDEO#]-THUMB-A.png and [PILLAR]-[VIDEO#]-THUMB-B.png
+
+### SOP6_Thumbnail_System.docx
+
+1. Section 1: The Psychology of the Elder Health Click
+2. Your thumbnail has 0.3 seconds to stop a scroll. For the 60+ audience on YouTube, this happens differently than for younger audiences. Understanding the exact psychological triggers that cause this audience to click is the foundation of every thumbna
+3. 1.1 The 3 Click Triggers for the 60+ Audience
+4. 1.2 Channel Analysis: What Their Thumbnails Prove
+5. Section 2: The 3-Zone Thumbnail Layout
+6. Every thumbnail is divided into 3 zones. Each zone has a specific job. Follow this layout for every single video. Never deviate from the zone structure. The only variable is content within each zone.
+7. Use one of these four layouts for every thumbnail. All four are proven from the reference channels.
+8. Section 3: Thumbnail Text Rules
+9. 3.1 The 6 Proven Text Formulas
+10. 3.3 The Color-Psychology Pairing System
+11. Section 4: Thumbnail Prop and Visual System
+12. 4.1 The Prop Library — One per Thumbnail
+13. Every thumbnail should contain ONE prop element that visually represents the danger or solution. This gives the viewer a second visual story alongside the text and doctor. The prop must be recognizable at thumbnail size.
+14. Red arrows are one of the highest-CTR visual elements in elder health thumbnails. Both reference channels use them extensively. Here is the exact system.
+15. Maximum 2 arrows per thumbnail. More than 2 creates visual chaos.
+16. Section 5: Thumbnail A/B Testing Protocol
+17. YouTube allows you to test multiple thumbnails. For every video, create 2 thumbnail variations (A and B). Run them in rotation and pick the winner at 48 hours based on CTR data. This single habit compounds across 60 videos into a massive CTR advantag
+18. 5.3 The Thumbnail Review Checklist
+19. Every thumbnail must pass this checklist before uploading. No exceptions.
+20. Both thumbnails tested at actual YouTube thumbnail size (320x180px) on mobile screen
+21. No faces other than the avatar doctor appear in the thumbnail
+22. No text in thumbnail is identical to video title — thumbnail text should TEASE, not repeat
+23. File saved as: [PILLAR]-[VIDEO#]-THUMB-A.png and [PILLAR]-[VIDEO#]-THUMB-B.png
+
+### SOP7_Title_YouTube_SEO copy.docx
+
+1. Section 1: The Science of the Elder Health Title
+2. Your title does two completely different jobs simultaneously. Job 1: It tells YouTube's algorithm what your video is about so it can recommend it to the right people. Job 2: It triggers a psychological response in the 60+ viewer that makes clicking f
+3. 1.2 The 8 Title Formulas (Proven in This Niche)
+4. 1.3 The Psychological Trigger Word Bank
+5. These are the exact words that trigger involuntary clicking in the 60+ audience. Use at least TWO from the fear/authority bank in every title.
+6. 1.4 The Title Construction Rules
+7. 1.5 Real Title Examples (From Reference Channels)
+8. Your description is read by two audiences: YouTube's algorithm (which indexes every word for search and topic matching) and the rare viewer who scrolls below the video. Both must be served. The structure below optimizes for both simultaneously.
+9. Second tag should always be the exact video title — this helps YouTube match your content
+10. Use this template for every single video. Fill in the bracketed fields. Do not skip any section. Completing this template before upload is the last step before the upload checklist.
+11. YouTube's algorithm makes its biggest decision about your video in the first 72 hours. It tests your video on a sample audience and measures CTR and watch time. If both are strong, it pushes to a wider audience. Here is exactly what to do in those 72
+
+### SOP7_Title_YouTube_SEO.docx
+
+1. Section 1: The Science of the Elder Health Title
+2. Your title does two completely different jobs simultaneously. Job 1: It tells YouTube's algorithm what your video is about so it can recommend it to the right people. Job 2: It triggers a psychological response in the 60+ viewer that makes clicking f
+3. 1.2 The 8 Title Formulas (Proven in This Niche)
+4. 1.3 The Psychological Trigger Word Bank
+5. These are the exact words that trigger involuntary clicking in the 60+ audience. Use at least TWO from the fear/authority bank in every title.
+6. 1.4 The Title Construction Rules
+7. 1.5 Real Title Examples (From Reference Channels)
+8. Your description is read by two audiences: YouTube's algorithm (which indexes every word for search and topic matching) and the rare viewer who scrolls below the video. Both must be served. The structure below optimizes for both simultaneously.
+9. Second tag should always be the exact video title — this helps YouTube match your content
+10. Use this template for every single video. Fill in the bracketed fields. Do not skip any section. Completing this template before upload is the last step before the upload checklist.
+11. YouTube's algorithm makes its biggest decision about your video in the first 72 hours. It tests your video on a sample audience and measures CTR and watch time. If both are strong, it pushes to a wider audience. Here is exactly what to do in those 72

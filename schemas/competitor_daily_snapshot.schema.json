@@ -1,0 +1,27 @@
+{
+  "name": "competitor_daily_snapshot",
+  "description": "Daily observed competitor video data for Hermes analysis.",
+  "format": "csv",
+  "required_columns": [
+    "date_found",
+    "channel",
+    "video_title",
+    "url",
+    "published_date",
+    "views",
+    "duration",
+    "pillar",
+    "hook_type",
+    "title_formula",
+    "thumbnail_text",
+    "thumbnail_layout",
+    "thumbnail_colors",
+    "comment_themes",
+    "idea_signal"
+  ],
+  "notes": [
+    "One row per competitor video checked.",
+    "Use estimated views per day in comment_themes or idea_signal if exact velocity is unavailable.",
+    "Do not paste full transcripts here; link or summarize only."
+  ]
+}

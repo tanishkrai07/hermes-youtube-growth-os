@@ -1,0 +1,26 @@
+{
+  "name": "memory_update",
+  "description": "Format Hermes should use when proposing memory changes.",
+  "format": "json",
+  "required_fields": [
+    "date",
+    "source",
+    "target_file",
+    "update_type",
+    "summary",
+    "evidence",
+    "proposed_text"
+  ],
+  "update_types": [
+    "winning_pattern",
+    "failed_pattern",
+    "competitor_signal",
+    "analytics_learning",
+    "next_action",
+    "prompt_improvement"
+  ],
+  "notes": [
+    "Do not directly overwrite memory unless the user approves.",
+    "Always preserve evidence such as video title, date, CTR, AVD, or view count."
+  ]
+}

@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+*token*
+*secret*
+*api_key*
+
+# Large generated media
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.aiff
+*.psd
+*.prproj
+*.aep
+
+# Local/cache files
+.DS_Store
+__pycache__/
+*.pyc
+.cache/
+
+# Rebuildable outputs
+outputs/context_packs/*.md
+outputs/reports/*.tmp
+
+# Keep folders
+!outputs/context_packs/.gitkeep
+!outputs/reports/.gitkeep
