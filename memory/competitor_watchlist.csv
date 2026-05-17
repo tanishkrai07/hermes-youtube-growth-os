@@ -1,13 +1,13 @@
-channel_name,channel_url,priority,notes,latest_scan_date
-Doctor Laura,https://www.youtube.com/@DoctorLaura-e1w1o,Medium,Senior health framing and emotional hooks.,2026-05-17
-Dr. James Hargrove,https://www.youtube.com/@Dr.JamesHargrove,High,Strong for doctor-never and survival-style hooks. Uses "[Specialty] WARNS" format. Daily uploads at 21:00 UTC. Multi-ID upload strategy confirmed.,2026-05-17
-Dr. Michael Kent,https://www.youtube.com/@DrMichaelKent-m2d,High,Primary reference for senior health title/thumbnail/script pacing. Question format + longevity hooks.,2026-05-17
-Dr. Adewale,https://www.youtube.com/@Dr.Adewale,High,Primary reference for urgent surgeon warning framing. "X Hours Before" format pioneer. NOW expanding into longevity/genetic content (blood type + lifespan at 200K+ views).,2026-05-17
-Dr. Sarah Mitchell 60+,https://www.youtube.com/@DrSarahMitchell60,Medium,Senior wellness and aging-focused educational angles.,2026-05-17
-Dr. Favor Adeyemi,https://www.youtube.com/@Dr.FavorAdeyemi,Medium,Strong emotional storytelling and health warning hooks.,2026-05-17
-Dr. Rachel Foster,https://www.youtube.com/@DrRachelFoster,Medium,Useful for symptom-explanation and trust-building delivery. B12/supplement warning angle is novel.,2026-05-17
-Doctor Leana,https://www.youtube.com/@DoctorLeana,Medium,Strong for scientific proof food/metabolism angles. More lifestyle/wellness oriented. Dominating stem cell content (340K views on "Forgotten Seed").,2026-05-17
-Dr. Richard Ben,https://www.youtube.com/@DrRichardBen_3M,Medium,Good for authority-style senior health positioning. Rapidly gaining velocity — "Simple Daily Habit" format at 157K views.,2026-05-17
-Dr. Franklin | Senior Health,https://www.youtube.com/@Dr.Franklin-SeniorHealth,Medium,Senior-focused daily health education and prevention topics. Body-shock format performing at ~20K/day.,2026-05-17
-Mr. Greendude,https://www.youtube.com/@Mr.Greendude,Low,Alternative wellness and natural remedy trend monitoring. Appears suppressed/offline.,2026-05-17
-Doctor Becker,https://www.youtube.com/@doctorbecker,Medium,Strong for cancer/food repair style angles. Dominant in stem cell sub-niche (1.3M views). Expanding to microplastics.,2026-05-17
+channel_name,channel_url,priority,channel_id,latest_scan_date,notes
+Doctor Laura,https://www.youtube.com/@DoctorLaura-e1w1o,Medium,UCJfBMXDeDrdciKFPnvdJmSA,2026-05-17,Senior health framing and emotional hooks. Family/relationship angle unique.
+Dr. James Hargrove,https://www.youtube.com/@Dr.JamesHargrove,High,UCc3pBOuX5Y2WuQKnu12axBA,2026-05-17,Strong for doctor-never and survival-style hooks. Uses "[Specialty] WARNS" format. Daily uploads at 21:00 UTC.
+Dr. Michael Kent,https://www.youtube.com/@DrMichaelKent-m2d,High,UCysWUz-N1hK_JfLJ1nOF7EA,2026-05-17,Primary reference for senior health title/thumbnail/script pacing. Question format + longevity hooks.
+Dr. Adewale,https://www.youtube.com/@Dr.Adewale,High,UC7ivaclFinbGScyo7CV916Q,2026-05-17,Primary reference for urgent surgeon warning framing. "X Hours Before" format pioneer.
+Dr. Sarah Mitchell 60+,https://www.youtube.com/@DrSarahMitchell60,Medium,UCELVIE0suhrFa5n0PoiMEdQ,2026-05-17,Senior wellness and aging-focused educational angles. Blood pressure drug warnings.
+Dr. Favor Adeyemi,https://www.youtube.com/@Dr.FavorAdeyemi,Medium,UCDR6aTCctLO9uTQqJyQkjBg,2026-05-17,Strong emotional storytelling and health warning hooks. Nail/body signal angle.
+Dr. Rachel Foster,https://www.youtube.com/@DrRachelFoster,Medium,UCQGXh1VxQxnEPUeSz0Q8AiQ,2026-05-17,Useful for symptom-explanation and trust-building delivery. Vegetable/muscle angle.
+Doctor Leana,https://www.youtube.com/@DoctorLeana,Medium,UCvh3EpakF5OtpZ1JPUCJcmA,2026-05-17,Strong for scientific proof food/metabolism angles. More lifestyle/wellness oriented.
+Dr. Richard Ben,https://www.youtube.com/@DrRichardBen_3M,Medium,UCMCXBqHTLla3gRteO0n9Ukw,2026-05-17,Good for authority-style senior health positioning. Urologist/gut health angle.
+Dr. Franklin | Senior Health,https://www.youtube.com/@Dr.Franklin-SeniorHealth,Medium,UCPjG4ZRBkiO1y_vHlnj8jIg,2026-05-17,Senior-focused daily health education and prevention topics. Hantavirus coverage.
+Mr. Greendude,https://www.youtube.com/@Mr.Greendude,Low,UCLVvBoFiBC6oj7mT62GFAEA,2026-05-17,Alternative wellness and natural remedy trend monitoring. Blood sugar/dementia angle.
+Doctor Becker,https://www.youtube.com/@doctorbecker,Medium,UCIC3K8LSV5Kwyfa5ad91L9Q,2026-05-17,Strong for cancer/food repair style angles. Hantavirus + mitochondria content.
