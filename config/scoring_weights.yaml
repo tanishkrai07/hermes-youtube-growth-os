@@ -1,0 +1,63 @@
+# Hermes YouTube Growth OS — Scoring Weights Configuration
+# Adjust these weights to tune the trend scoring engine without editing code.
+#
+# Each weight is a multiplier (1.0 = default, 0.5 = half weight, 2.0 = double weight)
+# Set to 0.0 to disable a signal entirely.
+
+weights:
+  # View velocity: how fast competitor videos are gaining views
+  # Higher = prioritize videos with proven high view rates
+  view_velocity: 1.0
+
+  # Title formula match: overlap with known winning title patterns
+  # Higher = prioritize titles that match proven formulas
+  title_formula_match: 1.0
+
+  # Thumbnail gap: underserved visual angles
+  # Higher = prioritize pillars where competitors haven't created thumbnails
+  thumbnail_gap: 1.0
+
+  # Comment demand: comment volume and question frequency
+  # Higher = prioritize topics with high audience engagement
+  comment_demand: 1.0
+
+  # Pillar priority: current strategic pillar weight
+  # Higher = prioritize top strategic pillars more aggressively
+  pillar_priority: 1.0
+
+  # Freshness: recency of topic trend
+  # Higher = prioritize very recent uploads over older ones
+  freshness: 1.0
+
+  # Competition saturation: penalty for over-covered topics
+  # Higher = stronger penalty when many competitors cover the same pillar
+  competition_saturation: 1.0
+
+# Score thresholds for priority levels
+thresholds:
+  green: 15    # Score >= 15: GREEN priority (produce immediately)
+  yellow: 10   # Score >= 10: YELLOW priority (consider producing)
+  red: 0       # Score < 10: RED priority (monitor only)
+
+# Pillar priority tiers
+# These are read by trend_scorer.py — edit channel_brain.md for strategic changes
+priority_pillars:
+  tier1:  # Score 2 points
+    - Leg / Circulation
+    - Muscle / Strength
+    - Sleep / Night Peeing
+  tier2:  # Score 1 point
+    - Food + Warning
+    - Brain / Memory
+    - Medication Warning
+    - Heart Attack / Stroke Warning
+    - Blood Type / Genetic Risk
+    - Stem Cell / Anti-Aging
+    - Microplastics / Organ Damage
+  tier3:  # Score 0 points (monitor only)
+    - Pain / Joints
+    - Organ Damage
+    - Longevity / Genetic Risk
+    - Warning / Night Habits
+    - Cancer Prevention
+    - Supplement Warning
