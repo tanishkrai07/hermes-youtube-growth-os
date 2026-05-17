@@ -60,8 +60,10 @@ def fetch_transcript_youtube_api(video_id):
     """Try to fetch transcript using youtube-transcript-api."""
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-        transcript = YouTubeTranscriptApi.get_transcript(video_id, languages=["en", "en-US", "en-GB"])
-        text = " ".join([entry["text"] for entry in transcript])
+        ytt_api = YouTubeTranscriptApi()
+        transcript = ytt_api.fetch(video_id, languages=["en", "en-US", "en-GB"])
+        # The fetch method returns a FetchedTranscript object with snippets
+        text = " ".join([snippet.text for snippet in transcript.snippets])
         return text, "youtube-transcript-api"
     except ImportError:
         return None, "youtube-transcript-api-not-installed"
