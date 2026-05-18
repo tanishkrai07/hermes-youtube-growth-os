@@ -1,6 +1,11 @@
 # Winning Patterns
 
-Last updated: 2026-05-17
+Last updated: 2026-05-18
+Update by: memory-curator agent
+Reason: Daily memory update and repo sync
+Files changed: memory/winning_patterns.md
+Source evidence: today's reports (competitor_scan, idea_list, script_package, seo_metadata)
+
 
 ## Title Patterns
 
@@ -74,3 +79,29 @@ Last updated: 2026-05-17
 - NEW: Close-up of food/seed item + dramatic text (e.g., "TRIPLES STEM CELLS") + green/natural palette
 - NEW: Doctor in white coat + large text (e.g., "SIMPLE HABIT") + subtle authority symbol (cancer ribbon, etc.)
 - NEW: Multi-ID strategy — same thumbnail across multiple uploads (platform risk, monitor only)
+
+## Emerging Insights (2026-05-18)
+
+### Title Patterns
+- ALL CAPS words for emphasis (e.g., REAL, DESTROYING, NEVER) observed in competitor titles.
+- Numbers in title for specificity and listicles (e.g., "5 Easy Ways", "30-Second Habit") from idea list.
+
+### Script Patterns
+- Personalized protocol based on biological traits (e.g., blood type specific actions) as seen in I024.
+- Health check list (e.g., "3-Question Health Check") as actionable framework.
+- Transformation story format: "He stopped taking X, N days later his doctor was shocked" (I027).
+
+### Current Best Pillars to Push (Updated)
+Based on today's idea scores (>=17):
+1. Longevity / Genetic Risk (Blood Type O)
+2. Organ Damage / Microplastics
+3. Stem Cell / Anti-Aging
+4. Stroke Prevention / Daily Habit
+5. Leg Circulation / Lymphatic Health
+6. Organ Damage / Food Warning
+7. Supplement Warning / Transformation
+8. Medication / Cardiovascular Risk
+9. Brain / Memory / Anti-Aging
+10. Medication Warning
+
+Note: Blood Type / Genetic Risk and Microplastics / Organ Damage show strong performer potential.

@@ -1,6 +1,11 @@
 # Failed Patterns
 
-Last updated: 2026-05-17
+Last updated: 2026-05-18
+Update by: memory-curator agent
+Reason: Daily memory update and repo sync
+Files changed: memory/failed_patterns.md
+Source evidence: today's reports (competitor_scan, idea_list, script_package, seo_metadata)
+
 
 Use this file to record tested patterns that underperformed.
 

@@ -1,6 +1,10 @@
 # Channel Brain
 
-Last updated: 2026-05-17
+Last updated: 2026-05-18
+Update by: memory-curator agent
+Reason: Daily memory update and repo sync
+Files changed: memory/channel_brain.md, memory/winning_patterns.md, memory/failed_patterns.md
+Source evidence: today's reports (competitor_scan, idea_list, script_package, seo_metadata)
 
 ## Channel Identity
 
