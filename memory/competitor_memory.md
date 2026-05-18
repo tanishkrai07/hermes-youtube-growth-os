@@ -124,3 +124,5 @@ Keep the active competitor list in `memory/competitor_watchlist.csv`.
 - Mr. Greendude appears suppressed/offline — reduce monitoring priority
 - Legitimate AI-generated content with full disclosure should maintain compliance
 - Multi-ID upload strategy (Hargrove) may carry platform risk if detected as spam
+
+## 2026-05-18 Insights
