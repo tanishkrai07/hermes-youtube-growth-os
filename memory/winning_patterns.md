@@ -80,13 +80,48 @@ Source evidence: today's reports (competitor_scan, idea_list, script_package, se
 - NEW: Doctor in white coat + large text (e.g., "SIMPLE HABIT") + subtle authority symbol (cancer ribbon, etc.)
 - NEW: Multi-ID strategy — same thumbnail across multiple uploads (platform risk, monitor only)
 
-## Emerging Insights (2026-05-18)
+## Emerging Insights (2026-05-20)
 
-### Title Patterns
-- ALL CAPS words for emphasis (e.g., REAL, DESTROYING, NEVER) observed in competitor titles.
-- Numbers in title for specificity and listicles (e.g., "5 Easy Ways", "30-Second Habit") from idea list.
+### YouTube Policy Intelligence
+- YouTube's "inauthentic content" enforcement is accelerating — channels as a whole are evaluated
+- Multi-ID upload strategy (Hargrove, Ben) is HIGH RISK — DO NOT COPY
+- "Hot take > plain facts" — channels with opinions survive, pure information channels get flagged
+- Overposting (daily uploads with zero variation) is a primary trigger
+- Our defense: original commentary, unique structure per video, distinct personality
 
-### Script Patterns
+### Title Patterns (New)
+- "He Died In His Sleep From Doing This" — NEW viral format (Hargrove 866K) — adapt with unique angle
+- "No.1 [Specialty] Reveals the SIMPLE Daily Habit" — rising fast (Ben 299K)
+- "SENIORS: [Action] — [Result 1], [Result 2], [Result 3]" — evergreen powerhouse (Becker 1.3M)
+- "This FORGOTTEN [Item] [Dramatic Verb] [Health Claim]" — sustained performer (Leana 340K)
+- "Plastic Found INSIDE Your [Body Part]" — accelerating (Becker 51K, Leana 175K)
+
+### Script Patterns (New)
+- Explaining WHY (mechanism) not just WHAT (facts) — Dr. Kane's unique differentiator
+- Original commentary and opinion in every video — required for 2026 compliance
+- Unique structure per video — no template clones
+- "The Doctor Who Explains WHY" positioning — no competitor owns this
+
+### Current Best Pillars to Push (Updated 2026-05-20)
+1. Microplastics / Organ Damage (brain/liver/kidney) — NO major competitor owns this
+2. Blood Type + Specific Health Protocols — underserved, Adewale doesn't own it cleanly
+3. Stem Cell + Specific Organ — Leana/Becker own general, we go specific
+4. Medication + Nutrient Depletion (Specific) — Kent owns general, we go specific
+5. "SIMPLE Daily Habit" for Specific Organ — emerging format, original angle
+6. Stroke Prevention / Daily Habit — proven demand
+7. Leg Circulation / Lymphatic Health — underserved
+8. Brain / Memory / Anti-Aging — high demand, competitive but room for original angle
+9. Supplement Warning / Transformation — novel angle, underserved
+10. Food Warning + Mechanism Explanation — Dr. Kane's "WHY" positioning
+
+### Saturated Pillars (Avoid or Differentiate Heavily)
+- General medication warnings (Kent owns this)
+- General stem cell content (Leana/Becker own this)
+- "Beware! [Number] [Items]" format (too many channels)
+- "NEVER [Verb] These [Number] [Items]" format (saturated)
+- Body shock / embarrassing topics (Franklin owns this, brand-risky for Dr. Kane)
+
+### Script Patterns (2026-05-18)
 - Personalized protocol based on biological traits (e.g., blood type specific actions) as seen in I024.
 - Health check list (e.g., "3-Question Health Check") as actionable framework.
 - Transformation story format: "He stopped taking X, N days later his doctor was shocked" (I027).
