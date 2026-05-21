@@ -3112,3 +3112,41 @@ Wrote /home/ec2-user/workspaces/hermes-youtube-growth-os/outputs/context_packs/c
 [SUCCESS] 2026-05-21 16:00:01 Created task file for manual follow-up: 20260521160001-create-video-production-checklist.md
 [INFO] 2026-05-21 16:00:01 ✓ Executed: Create video production checklist
 [INFO] 2026-05-21 16:00:01 Executed 4/5 proposals
+[SUCCESS] 2026-05-21 16:00:01 Committed changes: Self-upgrade: 2026-05-21 16:00:01 - Continuous improvement cycle
+[SUCCESS] 2026-05-21 16:00:01 Changes committed successfully
+[INFO] 2026-05-21 16:00:01 === Hermes Self-Upgrade Orchestrator Cycle Complete ===
+[INFO] 2026-05-21 17:00:02 === Hermes Self-Upgrade Orchestrator Started ===
+[INFO] 2026-05-21 17:00:02 Current branch: main
+[INFO] 2026-05-21 17:00:02 Analyzing system health...
+[INFO] 2026-05-21 17:00:02 Found 2 video pipeline scripts
+[INFO] 2026-05-21 17:00:02 Found 306 automation tasks
+[INFO] 2026-05-21 17:00:02 Found 9 memory files
+[INFO] 2026-05-21 17:00:02 Found 1 issues and 1 improvement areas
+[WARNING] 2026-05-21 17:00:02 Issues detected:
+[WARNING] 2026-05-21 17:00:02   - Competitor data is 35.0 hours old
+[INFO] 2026-05-21 17:00:02 Improvement opportunities:
+[INFO] 2026-05-21 17:00:02   - Competitor memory could be updated (36.3 hours since last update)
+[INFO] 2026-05-21 17:00:02 Generated 5 improvement proposals
+[INFO] 2026-05-21 17:00:02 Executing proposal: Refresh competitor data
+[INFO] 2026-05-21 17:00:02 Hermes Competitor Video Fetcher — 2026-05-21
+[INFO] 2026-05-21 17:00:02 Days back: 7
+[INFO] 2026-05-21 17:00:02 Output: /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-05-21_competitors.csv
+[INFO] 2026-05-21 17:00:02 Loaded 14 channels from watchlist
+[ERROR] 2026-05-21 17:00:02 YOUTUBE_API_KEY not set. Set it in ~/.hermes/.env or environment.
+[ERROR] 2026-05-21 17:00:02 Failed to refresh competitor data: 
+[ERROR] 2026-05-21 17:00:02 ✗ Failed: Refresh competitor data
+[INFO] 2026-05-21 17:00:02 Executing proposal: Update competitor memory with latest insights
+Wrote /home/ec2-user/workspaces/hermes-youtube-growth-os/outputs/context_packs/current_context_pack.md
+/bin/sh: line 1: hermes: command not found
+[WARNING] 2026-05-21 17:00:02 Context pack built but memory update had issues: 
+[INFO] 2026-05-21 17:00:02 ✓ Executed: Update competitor memory with latest insights
+[INFO] 2026-05-21 17:00:02 Executing proposal: Enhance trend scoring algorithm
+[SUCCESS] 2026-05-21 17:00:02 Created task file for manual follow-up: 20260521170002-enhance-trend-scoring-algorithm.md
+[INFO] 2026-05-21 17:00:02 ✓ Executed: Enhance trend scoring algorithm
+[INFO] 2026-05-21 17:00:02 Executing proposal: Optimize context pack generation
+[SUCCESS] 2026-05-21 17:00:02 Created task file for manual follow-up: 20260521170002-optimize-context-pack-generation.md
+[INFO] 2026-05-21 17:00:02 ✓ Executed: Optimize context pack generation
+[INFO] 2026-05-21 17:00:02 Executing proposal: Create video production checklist
+[SUCCESS] 2026-05-21 17:00:02 Created task file for manual follow-up: 20260521170002-create-video-production-checklist.md
+[INFO] 2026-05-21 17:00:02 ✓ Executed: Create video production checklist
+[INFO] 2026-05-21 17:00:02 Executed 4/5 proposals
