@@ -1,60 +1,74 @@
 # Next Actions
 
-Last updated: 2026-05-17
+Last updated: 2026-05-24
+Update by: OWL (full rewrite — pipeline sync after system audit)
 
-## Immediate
+## 🎯 Critical Path: June 5 Heygen Launch
 
-1. ~~Build full production package for Video 1~~ — COMPLETED (in launch slate)
-2. ~~Create extracted Short for Video 1~~ — COMPLETED (in launch slate)
-3. ~~Produce two thumbnail briefs for Video 1~~ — COMPLETED (in launch slate)
-4. ~~Build multi-agent structure~~ — COMPLETED (10 core agents defined)
-5. ~~Design workflows~~ — COMPLETED (competitor research, viral topic discovery, script generation, thumbnail ideation, retention optimization, content scheduling)
-6. ~~Recommend tools/APIs/plugins~~ — COMPLETED (YouTube API v3, youtube-transcript-api, yt-dlp, Tavily, Firecrawl, ChromaDB, SQLite)
-7. ~~Create 30-day execution roadmap~~ — COMPLETED (in SYSTEM_BLUEPRINT.md)
-8. **Build production subsystem scripts** — COMPLETED (fetch_competitor_videos.py, extract_transcripts.py, capture_thumbnails.py, trend_scorer.py, generate_daily_report.py, query_dashboard.py)
-9. **Update memory with May 17 findings** — COMPLETED (competitor_memory.md, winning_patterns.md updated)
-10. **Approve top idea from competitor scan** — PENDING USER APPROVAL
-11. **Produce full production package for approved idea** — PENDING APPROVAL
+**12 days remaining.** Need 90 long-form scripts before launch. Currently at ~4.
+**Required pace: 6-7 scripts/day minimum.**
 
-## This Week
+### This Week (May 24-31)
+1. **Produce scripts VID-005 through VID-030** — 26 scripts in 7 days
+2. **Front-load anti-template compliance** — every script structurally unique
+3. **Focus on unclaimed niches first** — nail health, microplastics, blood type + meds, leg mechanism
+4. **Daily cron jobs continue** — all 6 running smoothly on openrouter/owl-alpha
 
-1. Script Videos 1-3 — IN PROGRESS
-2. Create thumbnail briefs for Videos 1-3 — IN PROGRESS
-3. ~~Collect current screenshots/thumbnails from target competitors~~ — COMPLETED (May 16-17 scans)
-4. ~~Update competitor watchlist with actual channel URLs~~ — COMPLETED (May 16)
-5. Test full pipeline end-to-end with real competitor data — PENDING
-6. Set up Telegram bot token for daily report delivery — PENDING USER ACTION
+### Production Priority Order
+1. VID-006: Nail changes after 60 (score 18) — ZERO competition
+2. VID-005: Leg weakness mechanism (score 18) — Cross competing, accelerate
+3. VID-007: Microplastics gut-brain (score 18) — first-mover Part 2
+4. VID-008: Swollen ankles heart warning (score 17) — unclaimed
+5. VID-009: Microplastics liver/kidney (score 17) — first-mover Part 3
+6. VID-010: Balance 3-system failure (score 16) — original framework
 
-## Data Needed From User
+## Immediate System Fixes Completed Today
+- ✅ Script-writer cron job prompt updated with anti-template enforcement
+- ✅ Channel brain updated with current production pipeline status
+- ✅ Git push working (SSH key valid, pushed successfully)
+- ✅ Next actions rewritten to reflect current state
 
-- YouTube channel name and handle — PENDING
-- Exact competitor channel URLs — PARTIALLY PROVIDED (watchlist updated with 13 channels)
-- Telegram bot token — PENDING (current token is INVALID, needs refresh from @BotFather)
-- Preferred daily competitor check time — PENDING
-- YouTube Studio export format once the first videos are live — PENDING
+## 🔴 Blocked / Needs User Action
 
-## New Recommendations (from 2026-05-17 scan)
+| Item | Status | What's Needed |
+|------|--------|---------------|
+| Telegram bot token | BLOCKED | Current token INVALID. Need refresh from @BotFather to enable daily report delivery to Telegram |
+| YouTube channel setup | PENDING | Channel name, handle, branding for launch |
+| Heygen Creator plan | PENDING | Starts June 5 (30 days). Need to activate |
+| Thumbnail production pipeline | PENDING | Need image generation workflow for 3-element thumbnails |
 
-1. **URGENT**: Produce Hantavirus video — trend is peaking NOW (3 competitors covering)
-2. **HIGH**: Produce "Stroke 48 Hours Before" — competitor proved demand today
-3. **HIGH**: Produce "Cold Feet / Missing Mineral" — open lane, strong hook
-4. **HIGH**: Produce "Blood Type + Health Risks" video — first-mover opportunity (Dr. Adewale at 200K+ views, no one owns this space)
-5. **HIGH**: Produce "FORGOTTEN Morning Seed TRIPLES Stem Cells" — proven formula, massive demand
-6. **MEDIUM**: Produce "30-Second Habit Prevents Stroke" — emerging high-CTR hook
-7. **MEDIUM**: Set up daily health news monitoring for outbreak detection
-8. **MEDIUM**: Create news-jacking automation proposal
+## 🟡 Optimization Opportunities
 
-## Approved Ideas Awaiting Production
+1. **Increase script-writer output** — Currently 1 script/cron run/day. Need to run multiple script agents in parallel or increase prompt scope to produce 2-3 scripts per run.
+2. **Batch Short generation** — Generate all 30 Shorts in parallel batch, not sequentially.
+3. **Thumbnail generation automation** — Set up batch thumbnail brief generation with image generation prompts.
+4. **Content calendar** — Build May 24 → August 22 (90 days) upload calendar with specific video assignments.
 
-| Idea | Score | Status |
-|------|-------|--------|
-| Blood Type O After 60? Your Hidden Advantage | 19 | PENDING APPROVAL |
-| This FORGOTTEN Morning Seed TRIPLES Stem Cells | 18 | PENDING APPROVAL |
-| No.1 Cardiologist: The 30-Second Habit | 18 | PENDING APPROVAL |
-| This 'Healthy' Morning Drink DESTROYING Kidneys | 17 | PENDING APPROVAL |
-| He Stopped Taking B12 This Way — 30 Days Later | 17 | PENDING APPROVAL |
-| Microplastics Found INSIDE Your Brain After 60 | 17 | PENDING APPROVAL |
-| 5 Medications That Silently Damage Kidneys | 16 | PENDING APPROVAL |
-| Does Your Blood Pressure Medicine Reveal Your Risk | 16 | PENDING APPROVAL |
-| This FORGOTTEN Spice DOUBLES Your Memory | 16 | PENDING APPROVAL |
-| Legs Feel Heavy After 60? It's Your Lymphatic System | 15 | PENDING APPROVAL |
+## 🟢 Completed / Running
+
+| Item | Status |
+|------|--------|
+| 6 daily cron jobs | ✅ All running on openrouter/owl-alpha |
+| Competitor watchlist (12 channels) | ✅ Active monitoring |
+| Anti-template rules | ✅ Documented in YOUTUBE_POLICY_CONSCIOUSNESS.md |
+| Script generation v1 (4 scripts) | ✅ VID-001 through VID-004 |
+| Idea bank (70 ideas) | ✅ Scored and tracked |
+| Git repo with version control | ✅ Pushing to github.com/tanishkrai07/hermes-youtube-growth-os |
+| Winning/failed patterns tracking | ✅ Active |
+
+## Data / Access Needed From User
+
+- Telegram bot token refresh — **HIGH PRIORITY** (for daily report delivery)
+- YouTube channel credentials — for upload automation
+- Heygen API/account confirmation — confirm June 5 activation
+- Preferred launch video — which script goes first?
+
+## Strategic Notes (May 24)
+
+- **Eye health niche CLOSED** — 3 major players. Do not compete.
+- **KenDBerryMD exited** — Credibility gap opening in elder health. Dr. Kane positioned to capture this audience.
+- **Nail health UNCLAIMED** — Bio Elite posted 1 video at 7 views. First-mover advantage available.
+- **Microplastics STILL 100% unclaimed** for organ-specific content. Dr. Kane's VID-005 launched May 22 is first-mover.
+- **Claire Whitmore escalated** — Running 5+ simultaneous title formulas. Avoid her niches (BP meds, arteries, toxic pills).
+- **YouTube enforcement accelerating** — McGill AI study confirmed. Template channels at risk. Every script must be structurally unique.
+- **Git push is working** — The earlier failure was from cron isolated session. Direct push succeeds.

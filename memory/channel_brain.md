@@ -1,17 +1,16 @@
 # Channel Brain
 
-Last updated: 2026-05-20
-Update by: OWL (manual update)
-Reason: Anti-template overhaul — YouTube policy compliance
-Files changed: memory/channel_brain.md, prompts/script_generation.md, knowledge/YOUTUBE_POLICY_CONSCIOUSNESS.md
+Last updated: 2026-05-24
+Update by: OWL (comprehensive fix — pipeline sync, anti-template compliance, production status)
 
 ## Channel Identity
 
-Channel: elder health YouTube channel for adults aged 60-80.
-Avatar: AI-generated male doctor aged 50s (salt-and-pepper hair, warm olive/Caucasian skin, kind eyes, light stubble, white doctor's coat).
-Doctor name: Dr. Victor Kane only.
+Channel: Dr. Victor Kane — Elder Health YouTube Channel
+Audience: Adults aged 60-80, USA/Canada/UK
+Avatar: AI-generated male doctor, 58 years old. Salt-and-pepper hair. Warm olive/Caucasian skin. Kind eyes. Light stubble. White doctor's coat. Warm baritone voice, American English, measured pace.
+Doctor name: Dr. Victor Kane ONLY.
 Goal: 100K subscribers in 90 days.
-Publishing plan: 30 long-form videos and 30 Shorts.
+Publishing plan: 30 long-form videos + 30 Shorts (90 videos total, 1/day after launch).
 
 ## ⚠️ ANTI-TEMPLATE RULES (READ BEFORE EVERY SCRIPT)
 
@@ -32,20 +31,20 @@ These rules exist because YouTube is actively mass-banning channels that produce
 
 ### Persona A — Cardiovascular / Urgent Topics
 
-Dr. Victor Kane, Cardiothoracic Surgeon, 25 years in the OR.
+Dr. Victor Kane, Senior Health and Vascular Medicine Specialist, 30 years in clinical practice.
 
 Use for:
 - Heart
 - Stroke
 - Blood pressure
 - Dangerous medications
-- Surgery warnings
+- Vascular warnings
 - Urgent night-habit warnings
 
-Authority line:
-"I am Dr. Victor Kane. I am a cardiothoracic surgeon. I have spent 25 years in the operating room. I have held failing hearts in these hands. And what I am about to tell you is something I can no longer stay silent about."
+Authority line (VARIED — do not copy verbatim each time):
+Establish credibility naturally within the first 60 seconds. Reference years of practice with patients over 60. Make it specific to the topic at hand.
 
-### Persona B — Lifestyle / Vascular Medicine
+### Persona B — Lifestyle / General Health
 
 Dr. Victor Kane, Senior Health and Vascular Medicine Specialist, 30 years in clinical practice.
 
@@ -59,46 +58,95 @@ Use for:
 - Legs
 - Muscle health
 - Pain and joints
+- Body signals
 
-Authority line:
-"My name is Dr. Victor Kane. I have spent 30 years working with patients over 60. And what I am about to share is something the system simply does not give doctors time to explain. That changes right now."
+Same persona — Dr. Kane's voice should be consistent across all topics. The distinction is in topic selection, not a different character. He's a vascular medicine specialist who also covers general senior health — NOT a cardiothoracic surgeon.
 
 ## Content Pillars
 
-1. Food and Drink Revelation
-2. Exercise Breakthrough
+1. Food and Drink Warning / Revelation
+2. Exercise / Movement
 3. Sleep and Night Peeing
 4. Leg and Circulation
 5. Muscle and Strength
 6. Pain and Joints
 7. Warning / Never Do X
-8. Brain / Memory / Cancer
+8. Brain / Memory / Protection
+9. Blood Type / Genetic Risk
+10. Microplastics / Organ Damage
+11. Nail / Body Signal Health
 
 ## Current Strategic Priority
 
-Launch with high-demand and open-lane pillars:
-- Food warnings
-- Sleep / night peeing
-- Medication warnings
-- Exercise with time-specific hooks
-- Brain / memory food warnings
-- Pain and joints
-- Leg circulation
-- Muscle loss
+Top unclaimed niches (accelerate production):
+- Nail health / body signals (ZERO competition)
+- Microplastics + organ damage (brain/liver/kidney — first-mover)
+- Blood type + medication interactions (no competitor owns this)
+- Leg circulation / vascular pump mechanism (underserved)
+- Swollen ankles → heart warning (unclaimed)
 
-## First 10 Approved Videos
+AVOID:
+- Eye health (3 major players: Kent 890K, Harrison 917K, Doctor Eye Health 568K)
+- General medication warnings (Kent owns this)
+- General stem cell content (Leana/Becker own this)
+- Body shock / embarrassing topics (Franklin owns this)
 
-See `memory/first_10_launch_slate_summary.md` and `data/video_pipeline/first_10_tracker.csv`.
+## Current Production Pipeline
 
-## Current Rules
+### Completed Scripts
+| Video ID | Title | Status | Date |
+|----------|-------|--------|------|
+| VID-001 | Blood Type O After 60? Dr. Kane's Hidden Advantage | SCRIPT_WRITTEN | May 17 |
+| VID-002 | Blood Type + Health Risks (revised) | SCRIPT_WRITTEN | May 18 |
+| VID-003 | Food/Vascular mechanism script | SCRIPT_WRITTEN | May 21-22 |
+| VID-004 | Blood Type + Medications: Von Willebrand Convergence | SCRIPT_WRITTEN | May 24 |
 
-- Never generate ideas below 15/20.
+### Next in Pipeline (from idea bank, highest scores first)
+| Video ID | Idea | Score | Pillars |
+|----------|------|-------|---------|
+| VID-005 | Leg Weakness Mechanism (NOT your muscles) | 18 | Leg/Circulation |
+| VID-006 | Nail Changes Signal Disease After 60 | 18 | Body Signals |
+| VID-007 | Microplastics Gut-Brain Connection | 18 | Microplastics |
+| VID-008 | Swollen Ankles = Heart Warning After 60 | 17 | Heart/Warning |
+| VID-009 | Microplastics Liver/Kidney Damage After 60 | 17 | Microplastics |
+| VID-010 | Balance — 3 Systems Failing After 60 | 16 | Brain/Body |
+
+### Production Target
+- **12 days remaining** until Heygen Creator plan starts (June 5)
+- Need **90 long-form scripts** before launch
+- Currently at ~4 scripts → **must produce 6-7 scripts/day** to hit target
+- Auto-publish 1 video/day for 90 days after June 5
+
+## Operating Rules
+
 - Every title under 70 characters.
-- Every title includes Dr. Victor Kane and an age marker.
+- Every title includes an age marker ("After 60", "Over 60", "Seniors").
 - Every thumbnail follows the 3-element rule: doctor face, bold text, visual trigger.
-- ~~Every long-form script includes fear, authority, mechanism, story/analogy, solution, and CTA.~~ **DEPRECATED — No fixed structure. See anti-template rules above.**
+- NO fixed story structure. Each script finds its own flow.
 - Every video produces one extracted Short.
 - Never tell viewers to stop prescribed medication. Tell them what to ask their doctor.
-- **NEW: Every script must pass the "Remove the Name" test.**
-- **NEW: Every script must contain at least one original insight not found in competitor content.**
-- **NEW: No two scripts should have the same structure or flow.**
+- Every script must pass the "Remove the Name" test.
+- Every script must contain at least one original insight.
+- Scripts must include embedded visual editing notes (B-roll, text overlays, graphics, zoom cuts, transitions).
+- Heygen Avatar constraints: talking head ONLY. Environment changes in ~3-min blocks (same environment for consistency). NO complex camera angles. Visual editing notes MUST compensate for limited avatar movement.
+- Upload frequency: 1 video/day after launch (not daily templates).
+- YouTube's "inauthentic content" policy evaluates CHANNELS AS A WHOLE — cumulative pattern matters.
+
+## Key Competitors (Active Threats)
+
+| Competitor | Subscribers | Threat Level | Primary Niche |
+|-----------|------------|-------------|---------------|
+| Claire Whitmore | Large | 🔴 HIGHEST | Heart, BP, meds |
+| Dr. Michael Kent | Large | 🔴 H | Medication warnings |
+| Dr. James Hargrove | 866K | 🔴 H | Night habits, sleep |
+| Doctor Leana | 340K | 🟠 M-H | Stem cell, microplastics |
+| Dr. Robert Harrison | 20.9K | 🟠 M | Eye health (template risk) |
+| KenDBerryMD | — | ✅ EXITED | Was elder health, now keno/carnivore |
+
+See `memory/competitor_watchlist.csv` for full list.
+
+## Dr. Victor Kane's Unique Position
+
+**"The Doctor Who Explains WHY (Not Just WHAT)"**
+
+While competitors say "Don't do X" or "Y causes Z," Dr. Kane explains the MECHANISM — the actual vascular/biological science behind WHY things happen in the body after 60. This is our moat. Every script must teach something genuinely new.
