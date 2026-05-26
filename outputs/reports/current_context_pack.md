@@ -1,78 +1,106 @@
-# Current Strategic Context Pack
-**Last Updated:** 2026-05-24 12:00 UTC
-**Updated by:** OWL (daily production batch)
+# Current Context Pack — Dr. Victor Kane Channel
 
-## Today's Production Summary
+**Date:** 2026-05-27
+**Focus:** Script writing day — VID-010 (Microplastics Gut) + VID-009 (Swollen Ankles)
+**Priority:** 🔴 CRITICAL — Two scripts needed to maintain first-mover windows
 
-### Scripts Produced Today (May 24)
-| Video ID | Title | Score | Original Insight |
-|----------|-------|-------|-----------------|
-| VID-005 | Nail Changes Signal Disease After 60 | 18 | ZERO competition (nail health niche) |
-| VID-006 | BP Med Silently Depleting Magnesium | 19 | NCC-TRPM6 coupling mechanism + hidden arrhythmia risk |
-| VID-007 | Microplastics in Liver After 60 | 18 | Dual blood supply = double dose (first-mover) |
-| VID-008 | Cholesterol Myth After 60 | 19 | TG:HDL ratio + cholesterol paradox (HOT TAKE) |
-| VID-009 | 90-Second Bedtime Stroke Routine | 19 | Non-dipping pattern + 4-step protocol |
-| VID-010 | 2-Min Fall Risk Self-Test | 19 | "2 out of 3" rule — interactive assessment |
-| VID-011 | Swollen Legs = Liver Connection | 18 | "Albumin gap" — normal enzymes but low albumin |
+---
 
-### Cumulative Script Count
-- **Previous:** VID-001 through VID-004 (4 scripts)
-- **Today:** VID-005 through VID-011 (7 scripts)
-- **Total: 11 scripts written**
-- **Target: 90 by June 5** (79 remaining, ~7/day needed)
+## Strategic Context
 
-## Competitive Landscape (May 24 Status)
+### Published Videos
+- VID-001: Nocturia (May 21) — PUBLISHED
+- VID-002: Microplastics Brain (May 22) — PUBLISHED
+- VID-SHORT-001: Blood vessel teaser (May 24) — PUBLISHED
+- VID-003: Leg Health (May 26) — SCRIPT COMPLETE, READY FOR UPLOAD (verify upload status)
 
-### 🔴 Active Threats
-| Competitor | Threat | Primary Niche |
-|-----------|--------|---------------|
-| Claire Whitmore | HIGHEST | Heart, BP, meds (5+ simultaneous formulas) |
-| Dr. Michael Kent | HIGH | Medication warnings (882K on 9 meds video) |
-| Dr. James Hargrove | HIGH | Night habits, stroke (866K on "Died In Sleep") |
-| Dr. Adewale | MEDIUM-HIGH | Blood type general (200K), surgery warnings (2.6M) |
-| Dr. Robert Harrison | MEDIUM | Eye health (917K — template risk, avoid) |
-| Doctor Leana | MEDIUM-HIGH | Stem cell (340K), microplastics gut (175K) |
-| Doctor Becker | MEDIUM | Coffee stem cells (1.3M), microplastics cells (51K) |
+### Critical Actions for Today (May 27)
 
-### 🟢 Opportunities / Unclaimed Niches
-1. **Nail health** — ZERO competition. VID-005 first-mover.
-2. **Microplastics + organ-specific** — NO ONE owns liver/kidney. VID-007 first-mover.
-3. **Bedtime stroke routine** — NO ONE connects nocturnal dipping to simple routines. VID-009 first-mover.
-4. **Fall risk self-assessment** — NO competitor has interactive test. VID-010 first-mover.
-5. **Leg swelling + liver** — NO ONE connects albumin to edema in seniors. VID-011 first-mover.
-6. **Blood type + medication interactions** — Adewale has general, no one has med-interaction deep-dive.
-7. **Cholesterol paradox** — NO ONE challenges lower-is-better for seniors. VID-008 HOT TAKE.
+**P0 — VID-010 SCRIPT: "The Doctor Explains: What Microplastics Do to Your Gut After 60"**
+- ⚠️ MISSED May 26 target
+- SEO package: COMPLETE
+- Thumbnail brief: COMPLETE (A: The Gut Invasion, B: The Barrier Break)
+- Upload target: Reschedule to earliest possible date once script written
+- Unique angle: Gut-brain axis → systemic inflammation → cognitive decline
+- Cross-link: End screen teases VID-009 (Swollen Ankles)
+- First-mover window STILL OPEN — no competitor in microplastics + elder health
 
-### 🔴 Saturated / Avoid
-- Eye health (3 major players, niche closed)
-- General medication warnings (Kent owns)
-- General stem cell (Leana/Becker own)
-- Body shock / embarrassing topics (Franklin owns, brand risk)
-- Multi-ID upload strategy (platform risk)
+**P0 — VID-009 SCRIPT: "Swollen Ankles After 60: The Doctor Explains What Your Heart Is Telling You"**
+- Upload target: Tuesday, May 27, 2026 — may need rescheduling
+- Unique angle: Edema as cardiac early warning — right-sided heart failure mechanism
+- Cross-link: End screen teases VID-010 (Microplastics Gut)
+- ⚠️ Dr. James Cross entered this niche (35K views) — speed matters but differentiation is clear (Cross = quick-fix drainage vs. Dr. Kane = cardiac mechanism)
+- Key mechanism: Starling forces, right-sided heart failure → peripheral edema at ankles
 
-## Today's Top Ideas (Remaining Unproduced)
+**P1 — VID-SHORT-003 UPLOAD: "Why Your Blood Type Matters for Your Medications After 60"**
+- Script: COMPLETE (~165 words)
+- Upload target: Today (May 27)
+- Purpose: Teaser for VID-004 blood type + medications long-form
 
-| Score | Idea ID | Title (abbreviated) | Why Now |
-|-------|---------|---------------------|---------|
-| 19 | I050 | Sodium-Potassium Switch Lowers BP in 48 Hours | Unclaimed mechanism |
-| 18 | I051 | Ears Ringing = Brain Blood Flow Signal | Completely open lane |
-| 18 | I056 | Medicine Cabinet Making Vitamin D Deficient | Specific, underserved |
-| 18 | I048 | Forgotten Vitamin Rebuilds Cartilage (K2) | Joint pain = #1 complaint |
-| 17 | I049 | Skin Itching = Kidney Signal | Open lane |
-| 17 | I062 | Stomach Shrinking After 60 → Blood Sugar | Novel angle |
-| 17 | I036 | Waking at 3 AM = Cortisol Shift | Completely open lane |
+### This Week's Production Schedule
+| Date | Video | Time (EST) | Type | Status |
+|------|-------|------------|------|--------|
+| May 27 | VID-SHORT-003 | 10:00 AM | Short | READY |
+| May 27 | VID-010 script | — | — | NEEDS WRITING (P0) |
+| May 27 | VID-009 script | — | — | NEEDS WRITING (P0) |
+| May 28 | VID-004 (Blood Type) | 10:00 AM | Long-form | SCRIPT COMPLETE |
+| May 29 | VID-017 (Balance Loss) | 10:00 AM | Long-form | SCRIPT COMPLETE |
+| May 30 | VID-018 (Hand Tremor) | 10:00 AM | Long-form | SCRIPT COMPLETE |
+| May 30 | VID-SHORT-004 | 2:00 PM | Short | SCRIPT COMPLETE |
 
-## System Health
-- 6 cron jobs: ✅ All running on openrouter/owl-alpha
-- Git push: ✅ Working (SSH key valid)
-- Idea bank: ✅ 70 ideas, 11 SCRIPT_WRITTEN
-- Anti-template compliance: ✅ All new scripts structurally unique
-- Telegram delivery: ⚠️ Bot token INVALID (needs @BotFather refresh)
+### What NOT to Do
+- Don't tell viewers to change medications based on blood type
+- Don't use alarmist "TOXIC" or "DESTROYING" language
+- Don't diagnose Parkinson's or essential tremor — frame as "discuss with a neurologist"
+- Don't make absolute claims ("your blood type means you WILL...")
+- Don't diagnose heart failure from edema alone
+- Frame as "research suggests" not "this is definitely happening to you"
+- Don't copy Whitmore's "Cardiologists Would Never Take Themselves" format — it's her format now
 
-## Next Actions (Priority Order)
-1. Continue producing 6-7 scripts/day to hit 90 by June 5
-2. Generate VID-012 through VID-020 from remaining high-scoring ideas
-3. Build content calendar: June 5 → August 22 (90 days, 1 video/day)
-4. Fix Telegram bot token for daily report delivery
-5. Begin thumbnail batch generation for produced scripts
-6. Plan Heygen Avatar production environment blocks
+### Anti-Template Rules Reminder
+- Vary the number of items in lists (not always "3 things")
+- Vary the opening style (patient story, myth, surprising fact, direct question)
+- No formulaic "If you're over 60, you need to know this" openings
+- Each script's structure must serve its specific content
+- Use "#" superlative hooks when appropriate (trending over "THE ONE")
+
+### YouTube Policy Compliance Reminder
+- One channel, one upload per video, original content only
+- 3-4 uploads per week maximum
+- Transparent about AI assistance in production
+- No multi-ID upload strategy
+- "Hot take > plain facts" — channels with opinions survive enforcement
+- Every video must include Dr. Kane's original commentary and professional opinion
+
+### Key Competitor Threats (Updated May 26)
+- **Claire Whitmore 🔴🔴:** 607K on heart meds video. Amlodipine deep-dive just uploaded. Fastest-expanding competitor. Do NOT copy — differentiate with mechanism explanations.
+- **Doctor Becker 🔴:** Stem cell EMPIRE: 5+ videos, 2.4M+ combined. OWNS stem cell niche. Do NOT compete.
+- **Dr. Michael Kent 🟠:** Expanding into supplement interactions. Consistent performer.
+- **Dr. James Cross 🟡:** Swollen ankles video (35K) — overlap with Dr. Kane's VID-009. Differentiate with vascular mechanism emphasis.
+
+### Content Chain (Updated May 26)
+- VID-002 (Microplastics Brain) → VID-010 (Microplastics Gut) via end screen (series)
+- VID-010 (Microplastics Gut) → VID-009 (Swollen Ankles) via end screen
+- VID-009 (Swollen Ankles) → VID-010 (Microplastics Gut) via end screen
+- VID-017 (Balance Loss) → VID-018 (Hand Tremor) via end screen
+- VID-018 (Hand Tremor) → VID-019 (Taste Changes) via end screen
+- VID-SHORT-004 → VID-017 (teaser → full)
+- VID-SHORT-005 → VID-018 (teaser → full)
+
+### Structural Variety Log
+To ensure no template repetition across scripts:
+
+| Video | Opening Style | Core Structure | Closing Style |
+|-------|--------------|----------------|---------------|
+| VID-001 (Nocturia) | Specific time observation (2:47 AM) | 3-cause mechanism breakdown | Forward tease (microplastics) |
+| VID-002 (Microplastics) | Surprising statistic (credit card weight) | Pathway → mechanism → evidence → action | Forward tease (leg health) |
+| VID-004 (Blood Type) | Clinical pattern observation | Biology → studies → practical implications | Forward tease (nail health) |
+| VID-017 (Balance) | Direct question + myth challenge | 3-system framework → medication compounding → action | Forward tease (hand tremor) |
+| VID-018 (Tremor) | Emotional fear acknowledgment | Taxonomy classification → medication misdiagnosis → framework | Forward tease (taste changes) |
+| VID-010 (Microplastics Gut) | TBD — SERVES CONTENT | TBD — SERVES CONTENT | Forward tease (swollen ankles) |
+| VID-009 (Swollen Ankles) | TBD — SERVES CONTENT | TBD — SERVES CONTENT | Forward tease (microplastics gut) |
+
+---
+
+*Context pack updated: 2026-05-27 for daily memory curator sync*
+*Next update: 2026-05-28*
