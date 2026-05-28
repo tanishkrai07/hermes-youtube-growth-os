@@ -150,3 +150,94 @@ To github.com:tanishkrai07/hermes-youtube-growth-os.git
 [INFO] 2026-05-27 05:00:01 Cleaned 3 stale files
 [INFO] 2026-05-27 05:00:01 Executed 1 improvement actions
 [INFO] 2026-05-27 05:00:01 Executed 1 improvement actions
+[main 3f52191] Self-upgrade: 2026-05-27 05:00 - Daily improvement cycle
+ 4 files changed, 20 insertions(+), 748 deletions(-)
+ delete mode 100644 outputs/reports/2026-05-17_competitor_scan.md
+ delete mode 100644 outputs/reports/2026-05-17_seo_metadata.md
+ delete mode 100644 outputs/reports/2026-05-22_idea_list.md
+To github.com:tanishkrai07/hermes-youtube-growth-os.git
+   eb43e8a..3f52191  main -> main
+[SUCCESS] 2026-05-27 05:00:04 Changes committed and pushed
+[SUCCESS] 2026-05-27 05:00:04 Changes committed and pushed
+[INFO] 2026-05-27 05:00:04 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-05-27 05:00:04 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-05-28 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-05-28 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-05-28 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-05-28 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-05-28 05:00:01 Script production: 2 total scripts on disk
+[INFO] 2026-05-28 05:00:01 Script production: 2 total scripts on disk
+[INFO] 2026-05-28 05:00:01 Found 1 issues, 1 improvement areas
+[INFO] 2026-05-28 05:00:01 Found 1 issues, 1 improvement areas
+[WARNING] 2026-05-28 05:00:01   Issue: Competitor data 48h old (2026-05-26_competitors.csv)
+[WARNING] 2026-05-28 05:00:01   Issue: Competitor data 48h old (2026-05-26_competitors.csv)
+[INFO] 2026-05-28 05:00:01   Improve: Only 2 scripts produced — need 90 by June 5
+[INFO] 2026-05-28 05:00:01   Improve: Only 2 scripts produced — need 90 by June 5
+[INFO] 2026-05-28 05:00:01 Refreshing competitor data...
+[INFO] 2026-05-28 05:00:01 Refreshing competitor data...
+[INFO] 2026-05-28 05:00:01 Hermes Competitor Video Fetcher — 2026-05-28
+[INFO] 2026-05-28 05:00:01 Days back: 7
+[INFO] 2026-05-28 05:00:01 Output: /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-05-28_competitors.csv
+[INFO] 2026-05-28 05:00:01 Loaded 14 channels from watchlist
+[INFO] 2026-05-28 05:00:01 Using 1 API key(s)
+[INFO] 2026-05-28 05:00:01 Fetching videos published after: 2026-05-21T05:00:01Z
+[INFO] 2026-05-28 05:00:01 [1/14] Scanning: Doctor Laura
+[INFO] 2026-05-28 05:00:02   Channel ID: UCBLbqhYNAve3LmpThhB4OXA
+[INFO] 2026-05-28 05:00:03   Found 4 videos
+[INFO] 2026-05-28 05:00:03 [2/14] Scanning: Dr. James Hargrove
+[INFO] 2026-05-28 05:00:04   Channel ID: UCc3pBOuX5Y2WuQKnu12axBA
+[INFO] 2026-05-28 05:00:05   Found 3 videos
+[INFO] 2026-05-28 05:00:06 [3/14] Scanning: Dr. Michael Kent
+[INFO] 2026-05-28 05:00:06   Channel ID: UCysWUz-N1hK_JfLJ1nOF7EA
+[INFO] 2026-05-28 05:00:07   Found 2 videos
+[INFO] 2026-05-28 05:00:08 [4/14] Scanning: Dr. Adewale
+[INFO] 2026-05-28 05:00:09   Channel ID: UC5qNIOYcXj-uIh6n5dWfLLg
+[INFO] 2026-05-28 05:00:09   Found 3 videos
+[INFO] 2026-05-28 05:00:10 [5/14] Scanning: Dr. Sarah Mitchell 60+
+[INFO] 2026-05-28 05:00:10   Channel ID: UC46v3Ievkngs-Ul8dv2EYkQ
+[INFO] 2026-05-28 05:00:11   Found 0 videos
+[INFO] 2026-05-28 05:00:11 [6/14] Scanning: Dr. Favor Adeyemi
+[INFO] 2026-05-28 05:00:12   Channel ID: UCDR6aTCctLO9uTQqJyQkjBg
+[INFO] 2026-05-28 05:00:13   Found 7 videos
+[INFO] 2026-05-28 05:00:13 [7/14] Scanning: Dr. Rachel Foster
+[INFO] 2026-05-28 05:00:14   Channel ID: UCQGXh1VxQxnEPUeSz0Q8AiQ
+[INFO] 2026-05-28 05:00:14   Found 0 videos
+[INFO] 2026-05-28 05:00:15 [8/14] Scanning: Doctor Leana
+[INFO] 2026-05-28 05:00:15   Channel ID: UCvh3EpakF5OtpZ1JPUCJcmA
+[INFO] 2026-05-28 05:00:17   Found 6 videos
+[INFO] 2026-05-28 05:00:17 [9/14] Scanning: Dr. Richard Ben
+[WARN] 2026-05-28 05:00:17 Could not extract channel ID from: https://www.youtube.com/@DrRichardBen_3M
+[WARN] 2026-05-28 05:00:17   Skipping Dr. Richard Ben — could not resolve channel ID
+[INFO] 2026-05-28 05:00:17 [10/14] Scanning: Dr. Franklin | Senior Health
+[INFO] 2026-05-28 05:00:18   Channel ID: UCPjG4ZRBkiO1y_vHlnj8jIg
+[WARN] 2026-05-28 05:00:18 HTTP 429 on attempt 1: Too Many Requests
+[WARN] 2026-05-28 05:00:20 HTTP 429 on attempt 2: Too Many Requests
+[WARN] 2026-05-28 05:00:24 HTTP 429 on attempt 3: Too Many Requests
+[INFO] 2026-05-28 05:00:33   Found 2 videos
+[INFO] 2026-05-28 05:00:34 [11/14] Scanning: Mr. Greendude
+[WARN] 2026-05-28 05:00:34 Could not extract channel ID from: https://www.youtube.com/@Mr.Greendude
+[WARN] 2026-05-28 05:00:34   Skipping Mr. Greendude — could not resolve channel ID
+[INFO] 2026-05-28 05:00:34 [12/14] Scanning: Doctor Becker
+[WARN] 2026-05-28 05:00:34 Could not extract channel ID from: https://www.youtube.com/@doctorbecker
+[WARN] 2026-05-28 05:00:34   Skipping Doctor Becker — could not resolve channel ID
+[INFO] 2026-05-28 05:00:34 [13/14] Scanning: Dr. James Cross
+[WARN] 2026-05-28 05:00:34 Could not extract channel ID from: https://www.youtube.com/@DrJamesCross
+[WARN] 2026-05-28 05:00:34   Skipping Dr. James Cross — could not resolve channel ID
+[INFO] 2026-05-28 05:00:34 [14/14] Scanning: Doctor Christopher Carter
+[INFO] 2026-05-28 05:00:35   Channel ID: UC6na8rsZaD4tuvo5Gthy8KA
+[WARN] 2026-05-28 05:00:35 HTTP 429 on attempt 1: Too Many Requests
+[WARN] 2026-05-28 05:00:37 HTTP 429 on attempt 2: Too Many Requests
+[INFO] 2026-05-28 05:00:41   Found 0 videos
+[INFO] 2026-05-28 05:00:42 Wrote 27 videos to /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-05-28_competitors.csv
+[INFO] 2026-05-28 05:00:42 Estimated quota used: 1200 units
+[INFO] 2026-05-28 05:00:42 Scan complete — 27 videos from 14 channels
+[SUCCESS] 2026-05-28 05:00:42 Competitor data refreshed
+[SUCCESS] 2026-05-28 05:00:42 Competitor data refreshed
+[INFO] 2026-05-28 05:00:42 Cleaned stale file: 2026-05-23_idea_list.md
+[INFO] 2026-05-28 05:00:42 Cleaned stale file: 2026-05-23_idea_list.md
+[INFO] 2026-05-28 05:00:42 Cleaned stale file: 2026-05-18_seo_metadata.md
+[INFO] 2026-05-28 05:00:42 Cleaned stale file: 2026-05-18_seo_metadata.md
+[INFO] 2026-05-28 05:00:42 Cleaned 2 stale files
+[INFO] 2026-05-28 05:00:42 Cleaned 2 stale files
+[INFO] 2026-05-28 05:00:42 Executed 2 improvement actions
+[INFO] 2026-05-28 05:00:42 Executed 2 improvement actions

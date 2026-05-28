@@ -12,3 +12,6 @@ P010,"STOP Eating","STOP Eating These [Number] [Food Items] After 60 ([Consequen
 P011,"Food Consequence Specific","This [Food Item] Makes Your [Body Part] [Physical Adjective] After 60 — Doctor Explains","This Breakfast Makes Your Arteries Stiff After 60 — Doctor Explains",Dr. Victor Kane (I062),18,2026-05-24
 P012,"Multi-System Failure","Why Your [Body Function] Gets Worse After 60 — The [Number] Systems [Verb]","Why Your Balance Gets Worse After 60 — The 3 Systems Failing",Dr. Victor Kane (I070),18,2026-05-24
 P013,"Why Mechanism Reveal","Why Your [Body Part/Function] [Symptom] After 60 — The [Hidden Mechanism] Secret","Why Your Hair Thins After 60 — The Scalp Blood Flow Secret",Dr. Victor Kane (I061),17,2026-05-24
+P014,"X% Decline After Age","Your [Body Function] Dropped [X]% After [Age] — Here's What It Does to [Consequence]","Your Stomach Acid Dropped 40% After 60 — Here's What It Does to Your Meds",Dr. Victor Kane (VID-019),17,2026-05-28
+P015,"Normal But Suffering","Your [Lab Value] Looks Normal After [Age] — But Your [Body Part] Are [Suffering Verb]","Your Iron Levels Look Normal After 60 — But Your Cells Are Starving",Dr. Victor Kane (VID-020),17,2026-05-28
+P016,"The [Lab Test] Mask","The [Lab Test] Mask: Why Your [Test Name] [Fails Verb] After [Age]","The Ferritin Mask: Why Your Iron Test Lies After 60",Dr. Victor Kane (VID-020),16,2026-05-28
