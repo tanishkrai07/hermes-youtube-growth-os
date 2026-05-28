@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-05-26
+> **Last Updated:** 2026-05-28
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -59,34 +59,34 @@
 - **Why it fails:** Latecomers get diminishing returns. By the time production is complete, the news cycle has moved on.
 - **Fix:** Only news-jack within 48-72 hours of a story breaking. Skip if 3+ competitors have already published.
 
-### Entering Saturated Niches Without Differentiation ⚡ NEW (May 22)
+### Entering Saturated Niches Without Differentiation
 - **Problem:** Entering blood pressure niche when Kent (458K), Whitmore, Carter, and KenDBerryMD (3M) are all competing
 - **Why it fails:** 4+ major competitors with massive reach. No room for a new entrant without a truly unique angle.
 - **Fix:** Avoid blood pressure entirely. If entering, must have a unique intersection angle (e.g., blood pressure + blood type interactions — but even this is risky).
 
-### Copying KenDBerryMD's "Safest Medications" Format ⚡ NEW (May 22)
+### Copying KenDBerryMD's "Safest Medications" Format
 - **Problem:** Trying to compete with KenDBerryMD's "Safest [Condition] Medications in [Year]" format
 - **Why it fails:** KenDBerryMD has 3M views and real doctor credentials. Direct competition would lose.
 - **Fix:** Instead of "safest medications," focus on "why your medication might be working against you" — the mechanism angle that KenDBerryMD doesn't cover.
 
-### Entering Newly Crowded Niches Without Reassessment ⚡ NEW (May 24)
+### Entering Newly Crowded Niches Without Reassessment
 - **Problem:** Entering eye health niche after it suddenly became crowded (Kent 890K, Dr.Robert Harrison ~917K, Doctor Eye Health ~568K)
 - **Why it fails:** 3 major players with 500K+ views each entered within the same week. Window closed faster than anticipated.
 - **Fix:** Always verify niche saturation BEFORE producing content, not after. If 3+ major players exist, find a different angle or skip entirely.
 
-### Using "THE ONE" Formula When "#" Has Replaced It ⚡ NEW (May 24)
+### Using "THE ONE" Formula When "#" Has Replaced It
 - **Problem:** Continuing to use "The ONE [Item] That [Solves Problem]" formula when the market has shifted to "#1 Best / #1 Most Hated / #1 CRASHES"
-- **Why it fails:** Competitor data shows "#" superlative formats are now outperforming "THE ONE" formats. Whitmore's "#1 Most Hated Fruit" (~800K) and "#1 Drink CRASHES" (~800K) prove the shift.
+- **Why it fails:** Competitor data shows "#" superlative formats are now outperforming "THE ONE" formats.
 - **Fix:** Adapt title formulas to use "#" superlative hooks when appropriate. "The ONE" still works but "#" is the current trend.
 
-### Entering Leg Health After Whitmore ⚡ NEW (May 25)
-- **Problem:** Producing leg health content (VID-006/VID-008) after Claire Whitmore entered the niche with "Can't Walk Straight Anymore?" (42K in 1 day) and Cross at 50K+
-- **Why it fails:** Leg health is now CROWDED with 3+ players. Window has closed for general leg health content.
-- **Fix:** Pivot leg health content to UNIQUE mechanism angles only. VID-003 (vitamin deficiency angle) is still viable. VID-009 (swollen ankles → heart connection) is UNCLAIMED and should be prioritized OVER generic leg health.
+### Entering Leg Health After Whitmore
+- **Problem:** Producing leg health content after Claire Whitmore entered the niche and Cross at 50K+
+- **Why it fails:** Leg health is now CROWDED with 3+ players.
+- **Fix:** Pivot leg health content to UNIQUE mechanism angles only.
 
-### Ignoring Emerging Viral Formats ⚡ NEW (May 25)
+### Ignoring Emerging Viral Formats
 - **Problem:** Not adapting to new viral formats as they emerge (kitchen habits, supplement interactions, bedtime drinks, "Can't [Action] Anymore")
-- **Why it fails:** Early adopters of new formats capture disproportionate views. Late adopters get diminishing returns.
+- **Why it fails:** Early adopters of new formats capture disproportionate views.
 - **Fix:** Monitor competitor scan reports for emerging formats. Adapt promising formats to Dr. Kane's "explain WHY" positioning within 1-2 weeks of discovery.
 
 ## Retention Failures
@@ -125,30 +125,50 @@
 
 ### Fake Studies and Fabricated Sources
 - **Problem:** Citing studies that don't exist or misrepresenting findings
-- **Why it fails:** McGill investigation and YouTube enforcement are targeting this. Channels like "Senior Secrets Book" are at critical risk.
+- **Why it fails:** McGill investigation and YouTube enforcement are targeting this.
 - **Fix:** Only cite real, verifiable studies. Include proper journal names, years, and accurate findings.
 
-### Ignoring Year-Branding Trend ⚡ NEW (May 22)
+### Ignoring Year-Branding Trend
 - **Problem:** Not including year markers in titles when competitors are using "in 2026" for urgency/freshness
-- **Why it fails:** Year branding signals freshness and urgency. Competitors using it (Becker 646K, KenDBerryMD 3M) are outperforming.
-- **Fix:** Consider year branding for time-sensitive content (e.g., "The 2026 Guide to [Topic] After 60"). Don't force it on evergreen content.
+- **Why it fails:** Year branding signals freshness and urgency.
+- **Fix:** Consider year branding for time-sensitive content. Don't force it on evergreen content.
 
-### Ignoring Color Palette Diversification in Thumbnails ⚡ NEW (May 24)
+### Ignoring Color Palette Diversification in Thumbnails
 - **Problem:** Using the same navy/red/yellow color palette across every thumbnail
-- **Why it fails:** Channel grid looks monotonous. Competitors with varied palettes stand out more in recommendations. Dr. Kane's thumbnails VID-001 through VID-006 all used navy/red/teal/charcoal.
-- **Fix:** Introduce palette variation per video. VID-007 uses amber/orange (warm), VID-008 uses purple/magenta (cool), VID-009 uses teal/coral (warm-cool hybrid), VID-010 uses forest green/lime (nature/organic).
+- **Why it fails:** Channel grid looks monotonous. Competitors with varied palettes stand out more.
+- **Fix:** Introduce palette variation per video. Each new video uses a distinct primary color.
 
-### High-Volume Production Without Quality Gates ⚡ NEW (May 24)
-- **Problem:** Dr.Robert Harrison's 162 videos in 5 months (33/month) suggests template-based production
-- **Why it fails:** High volume + template structure = YouTube enforcement risk. Viewers also disengage from repetitive content.
-- **Fix:** Dr. Kane maintains 3-4/week quality-over-quantity approach. This is a competitive ADVANTAGE as enforcement increases.
+### High-Volume Production Without Quality Gates
+- **Problem:** Template-based production at 33+/month
+- **Why it fails:** High volume + template structure = YouTube enforcement risk.
+- **Fix:** Dr. Kane maintains 3-4/week quality-over-quantity approach.
 
-### Missing Upload Target Windows ⚡ NEW (May 26)
-- **Problem:** VID-010 (Microplastics Gut) missed its May 26 upload target — script still not written while SEO packages and thumbnail briefs are complete
-- **Why it fails:** Every day of delay in the microplastics series increases the risk of a competitor entering the niche. First-mover windows don't stay open indefinitely. YouTube automation reports confirm medical niches are attracting new entrants.
-- **Fix:** VID-010 script writing is now CRITICAL PRIORITY (P0). The microplastics first-mover window is still open but shrinking. Write script immediately and reschedule upload for earliest possible date.
+### Missing Upload Target Windows
+- **Problem:** VID-010 (Microplastics Gut) missed its May 26 upload target — script still not written
+- **Why it fails:** Every day of delay risks competitor entering the niche.
+- **Fix:** VID-010 script writing is CRITICAL PRIORITY (P0).
 
-### Entering Swollen Ankles Niche Without Speed ⚡ NEW (May 26)
-- **Problem:** Dr. James Cross has now entered the swollen ankles niche with a 35K-view video, and Dr. Kane's VID-009 still doesn't have a completed script
-- **Why it fails:** VID-009's unique angle (edema as cardiac early warning — right-sided heart failure mechanism) is differentiated, but delay allows Cross to gain traction and potentially own the space with his "It's Not Your Heart" framing
-- **Fix:** Write VID-009 script immediately (May 27 target). Cross's angle is different (quick-fix drainage) vs. Dr. Kane's (cardiac mechanism), so there's room for both, but speed matters.
+### Entering Swollen Ankles Niche Without Speed
+- **Problem:** Dr. Cross entered swollen ankles niche with 35K video while VID-009 script not written
+- **Why it fails:** Delay allows Cross to gain traction.
+- **Fix:** Write VID-009 script immediately.
+
+### Video ID Reassignment Across Planning Cycles
+- **Problem:** VID-019 and VID-020 IDs reassigned across planning cycles, causing content chain confusion
+- **Why it breaks:** Content chains, cross-links, and production tracking rely on stable IDs.
+- **Fix:** Once a video ID is assigned, NEVER reassign it. If content changes, create a new ID.
+
+### ⚡ NEW (May 28): Delaying VID-010 Allows Competitor Window to Close
+- **Problem:** VID-010 (Microplastics Gut) has been overdue since May 26. Meanwhile, mainstream microplastics awareness is peaking (AARP + Huberman + HHS).
+- **Why it fails:** The entire microplastics first-mover strategy depends on producing all parts before mainstream saturation. VID-002 (Brain) and VID-019 (Blood) are done, but VID-010 (Gut) — the connecting piece — is stalled.
+- **Fix:** VID-010 script writing is P0. No other script should be started until VID-010 is complete. The series chain is: VID-002 (Brain, published) → VID-010 (Gut, OVERDUE) → VID-019 (Blood, script complete). Missing Part 2 breaks the chain.
+
+### ⚡ NEW (May 28): Producing Scripts Out of Sequence
+- **Problem:** VID-019 and VID-020 scripts were completed (May 28) while VID-009, VID-005, and VID-010 scripts remain unwritten — despite VID-010 being the most urgent.
+- **Why it fails:** Production urgency should be driven by content chain dependencies and market windows, not by which topics are easiest to write.
+- **Fix:** Script writing priority order: VID-010 (Gut, P0) → VID-009 (Ankles, P1) → VID-005 (Nails, P2) → VID-021 (Meds, P3) → VID-022 (Taste, P4).
+
+### ⚡ NEW (May 28): Ignoring YouTube AI Slop Crackdown Signals
+- **Problem:** YouTube deleted 16 AI slop channels (4.7B views wiped, 35M subs lost). This is the largest enforcement action in YouTube health content history.
+- **Why it matters:** This ENFORCES all existing rules about: no multi-ID, no daily uploads, no template content, no fake studies, quality over quantity. Dr. Kane's approach is perfectly aligned with YouTube's enforcement direction.
+- **Fix:** Maintain current quality standards. Do NOT increase upload frequency. Do NOT use template production. This is a competitive ADVANTAGE — as channels are deleted, audience flows to remaining quality channels.
