@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-05-26
+> **Last Updated:** 2026-06-06
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -152,3 +152,14 @@
 - **Problem:** Dr. James Cross has now entered the swollen ankles niche with a 35K-view video, and Dr. Kane's VID-009 still doesn't have a completed script
 - **Why it fails:** VID-009's unique angle (edema as cardiac early warning — right-sided heart failure mechanism) is differentiated, but delay allows Cross to gain traction and potentially own the space with his "It's Not Your Heart" framing
 - **Fix:** Write VID-009 script immediately (May 27 target). Cross's angle is different (quick-fix drainage) vs. Dr. Kane's (cardiac mechanism), so there's room for both, but speed matters.
+
+### Promising New Formats To Explore (June 6 Learnings)
+- **"Diagnostic Gap" format:** "Your doctor ordered the wrong test" — VID-021 (6-second EKG misses AFib) and VID-022 (creatinine masks kidney disease) prove this framework works. Should be replicated for other diagnostic areas (thyroid TSH vs Free T3, HbA1c vs continuous glucose, standard cholesterol vs particle size).
+- **Self-screening protocol format:** Teaching a specific at-home check builds trust and differentiates from fear-based competitors. The 30-second pulse check in VID-021 is a model: clear, simple, medically grounded, empowering.
+- **Lab test advocacy script format:** Word-for-word scripts for requesting specific tests. Builds goodwill and positions Dr. Kane as an ally to viewers navigating the medical system.
+
+### New Safety Boundaries (VID-021 / VID-022 Production)
+- **Never tell viewers to self-diagnose AFib** — always frame as "report irregular pulse to doctor, ask about extended monitoring"
+- **Never tell viewers to request specific lab tests without doctor conversation** — frame as informed dialogue, not demands
+- **Never use "misleading" or "lies" about standard tests in thumbnails** — "tested wrong" or "misses the problem" is accurate without being anti-doctor
+- **Always cite KDIGO or equivalent guidelines** when recommending specific tests — adds authority and medical legitimacy

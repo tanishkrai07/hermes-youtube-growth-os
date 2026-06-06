@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-05-26
+> **Last Updated:** 2026-06-06
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -164,6 +164,44 @@
     - Script: COMPLETE (May 26 script package, ~160 words)
     - Upload target: June 1, 2026
     - Purpose: Teaser for VID-018 long-form
+    - Status: READY FOR PRODUCTION
+
+### New Videos Added June 6
+
+13. **VID-021 (Long-form):** "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke"
+    - Script: COMPLETE (June 6 script package, ~2,700 words, 5 studies, 9 retention hooks)
+    - Score: 22/20 (highest in June 6 idea bank)
+    - Unique angle: Paroxysmal AFib detection gap — 6-second EKG misses intermittent AFib; 30-second weekly pulse check as screening tool
+    - Structure: Real-world patient discovery (Robert's Apple Watch) → Detection gap → Self-check method → Action protocol
+    - Original insight: "Silent AFib Cycle" framework + microvascular-AFib connection (60% higher incidence with coronary microvascular dysfunction)
+    - Key studies: 12% undetected AFib (JAMA Cardiol 2023), patient pulse palpation 3x detection (Br J Gen Pract 2024), microvascular-AFib link (JAHA 2024)
+    - Upload target: Tuesday, June 10, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-022 (Kidney Test)
+    - Safety: 12 PASS / 0 FAIL
+    - Status: READY FOR PRODUCTION
+
+14. **VID-SHORT-008 (Short):** "Your heartbeat changed after 60. Here's what to check."
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 12, 2026
+    - Purpose: Teaser for VID-021 long-form
+    - Status: READY FOR PRODUCTION
+
+15. **VID-022 (Long-form):** "Your Doctor Tested Your Kidneys Wrong After 60 — The 2-Minute Test They Skip"
+    - Script: COMPLETE (June 6 script package, ~2,700 words, 5 studies, 9 retention hooks)
+    - Score: 21/20 (second highest in June 6 idea bank)
+    - Unique angle: Sarcopenia-creatinine paradox — muscle loss masks kidney disease; cystatin C as superior marker
+    - Structure: Direct challenge → Paradox explained → Better marker (cystatin C) → Advocacy script
+    - Original insight: "Creatinine Mask" framework + BUN-to-creatinine ratio as free screening tool + KDIGO guideline citation
+    - Key studies: 35% missed CKD (Kidney Int Rep 2024), cystatin C detects 40% more (NEJM 2023), 55% higher CV risk (Circulation 2025)
+    - Upload target: Thursday, June 12, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-021 (Heartbeat/Stroke)
+    - Safety: 14 PASS / 0 FAIL
+    - Status: READY FOR PRODUCTION
+
+16. **VID-SHORT-009 (Short):** "Your kidney test might be WRONG after 60"
+    - Script: COMPLETE (~150 words)
+    - Upload target: June 14, 2026
+    - Purpose: Teaser for VID-022 long-form
     - Status: READY FOR PRODUCTION
 
 ### New Videos Added May 25

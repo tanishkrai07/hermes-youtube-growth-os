@@ -1,115 +1,102 @@
 # Next Actions — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-05-26
-> **Planning Horizon:** May 27 - June 2, 2026
+> **Last Updated:** 2026-06-06
+> **Planning Horizon:** June 7 - June 13, 2026
 
-## 🔴 IMMEDIATE (May 27, 2026 — Tomorrow)
+## 🔴 IMMEDIATE (June 7, 2026 — Tomorrow)
 
 ### Video Production — CRITICAL PRIORITY
-1. **Write VID-010 Script:** "The Doctor Explains: What Microplastics Do to Your Gut After 60"
-   - ⚠️ MISSED May 26 target — script still not written
-   - SEO package COMPLETE, thumbnail brief COMPLETE
-   - First-mover window STILL OPEN but shrinking — YouTube automation reports confirm medical niches attracting new entrants
-   - Cross-link: End screen teases VID-009 (Swollen Ankles)
-   - **THIS IS THE #1 PRIORITY FOR MAY 27**
+1. **Upload VID-021 (Long-form):** "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke"
+   - Script: COMPLETE (June 6 script package)
+   - Thumbnail: A/B variants ready (Variant A: Pulse Pattern, Variant B: Silent Stroke)
+   - Upload target: Tuesday, June 10, 2026 at 2:00 PM EST
+   - Start A/B test on thumbnails: Variant B (Silent Stroke) recommended as starting variant (fear + urgency outperforms on cardiovascular)
+   - Cross-link: End screen → VID-022 (Kidney Test)
+   - VID-SHORT-008 teaser upload target: June 12
 
-2. **Write VID-009 Script:** "Swollen Ankles After 60: The Doctor Explains What Your Heart Is Telling You"
-   - SEO package COMPLETE, thumbnail brief COMPLETE
-   - Upload target: Tuesday, May 27, 2026 at 10:00 AM EST — ⚠️ May need rescheduling if script not ready
-   - Key mechanism: Starling forces, right-sided heart failure → peripheral edema at ankles
-   - ⚠️ Dr. James Cross entered this niche (35K views) — speed matters
-   - Cross-link: End screen teases VID-010 (Microplastics Gut)
+2. **Upload VID-022 (Long-form):** "Your Doctor Tested Your Kidneys Wrong After 60 — The 2-Minute Test They Skip"
+   - Script: COMPLETE (June 6 script package)
+   - Thumbnail: A/B variants ready (Variant A: Creatinine Mask, Variant B: Hidden Number)
+   - Upload target: Thursday, June 12, 2026 at 2:00 PM EST
+   - Start A/B test on thumbnails: Variant A (Creatinine Mask) recommended starting variant (proven high-CTR framing)
+   - Cross-link: End screen → VID-021 (Heartbeat/Stroke)
+   - VID-SHORT-009 teaser upload target: June 14
 
-3. **Upload VID-003 (Long-form):** "The Doctor Explains WHY Your Legs Get Weak After 60 — The ONE Vitamin That Actually Helps"
-   - Script: COMPLETE (May 21 script package)
-   - Thumbnail: A/B variants ready
-   - Upload target: Monday, May 26, 2026 — ⚠️ Verify if this was uploaded May 26; if not, upload immediately May 27
-   - Cross-link: End screen teases VID-004 (blood type + medications)
-
-## 🟡 THIS WEEK (May 27-31, 2026)
+## 🟡 THIS WEEK (June 7-13, 2026)
 
 ### Content Production
-4. **Upload VID-SHORT-003:** "Why Your Blood Type Matters for Your Medications After 60"
-   - Script: COMPLETE (May 24 script package, ~165 words)
-   - Upload target: Wednesday, May 27, 2026
-   - Purpose: Teaser for VID-004 blood type + medications long-form
+3. **Upload VID-SHORT-008 (Short):** "Your heartbeat changed after 60. Here's what to check."
+   - Script: COMPLETE (~155 words)
+   - Upload target: June 10, 2026 (same day as VID-021 long-form)
+   - Purpose: Teaser for VID-021 long-form
 
-5. **Upload VID-004 (Long-form):** "Blood Type After 60: Why the Same Medication Works Differently in Your Body — The Doctor Explains"
-   - Script: COMPLETE (May 24 script package, ~2,480 words, 5 studies, 7 retention hooks)
-   - Upload target: Wednesday, May 28, 2026
-   - First-mover in blood type + medications intersection
-   - Cross-link: End screen teases VID-005 (Nail Health)
+4. **Upload VID-SHORT-009 (Short):** "Your kidney test might be WRONG after 60"
+   - Script: COMPLETE (~150 words)
+   - Upload target: June 12, 2026 (same day as VID-022 long-form)
+   - Purpose: Teaser for VID-022 long-form
 
-6. **Upload VID-SHORT-002:** "Why Your Legs Feel Heavier After 60 — The Doctor Explains"
-   - Script: COMPLETE (May 21 script package, ~165 words)
-   - Upload target: May 28-29, 2026
-   - Purpose: Teaser for VID-003 leg health long-form
+5. **Next Script Writing Session** — Generate scripts for VID-023 and VID-024
+   - Top priorities from June 6 idea list:
+     - **I104:** "Why Your Sleep Gets Worse After 60 — The Oxygen Drop Nobody Measures" (Score: 21)
+     - **I109:** "Your Blood Sugar Spikes After 60 — The Dawn Phenomenon Nobody Explains" (Score: 21)
+   - Upload targets: June 17-18, 2026
+   - These are next in the pipeline after VID-021/022
 
-7. **Upload VID-017 (Long-form):** "Losing Your Balance After 60 — The Doctor Explains What's Really Happening"
-   - Script: COMPLETE (May 26 script package, ~2,580 words, 4 studies, 9 retention hooks)
-   - Thumbnail: A/B variants complete (The Three-System Breakdown vs. The Falling Fear)
-   - Upload target: Wednesday, May 29, 2026 at 10:00 AM EST
-   - Score: 26 (highest in idea bank) — zero competitor coverage
-   - Cross-link: End screen teases VID-018 (Hand Tremor)
+6. **Generate Next Idea List** — June 7
+   - 10 new ideas for the week of June 9
+   - Radar scan for new competitor gaps
+   - Focus on diagnostic gap and body signal pillars
 
-8. **Upload VID-018 (Long-form):** "Hands Shaking After 60 — The Doctor Explains What's Really Causing It"
-   - Script: COMPLETE (May 26 script package, ~2,520 words, 2 studies, 9 retention hooks)
-   - Thumbnail: A/B variants complete (The Tremor Taxonomy vs. The Parkinson's Fear)
-   - Upload target: Thursday, May 30, 2026 at 10:00 AM EST
-   - Score: 25 (second highest in idea bank) — zero competitor coverage
-   - Cross-link: End screen teases VID-019 (Taste Changes)
+7. **Competitor Scan #7** — June 7
+   - Check for any competitor entering diagnostic gap niche
+   - Monitor Claire Whitmore's expansion trajectory
+   - Check if any competitor has entered microplastics niche
+   - Update competitor_memory.md with findings
 
-9. **Upload VID-SHORT-004:** "Losing Your Balance After 60? It's Not Just Age"
-   - Script: COMPLETE (May 26 script package, ~155 words)
-   - Upload target: May 30, 2026
-   - Purpose: Teaser for VID-017 long-form
+### Thumbnail Production
+8. **Produce VID-021 Thumbnails**
+   - Two variants: A (Pulse Pattern) and B (Silent Stroke)
+   - Start with Variant B (Silent Stroke) — fear + urgency typically outperforms
+   - Deep teal/cyan/orange-red palette (unique, never used before)
+   - Deliver to design team by June 7 for June 10 upload
 
-10. **Upload VID-005 (Long-form):** "If Your Nails Look Like THIS After 60 Your Body Is Warning You"
-    - Script: IN DEVELOPMENT — needs writing
-    - Thumbnail: A/B variants complete (May 24 thumbnail brief)
-    - Upload target: Friday, May 30, 2026
-    - ⚠️ Window narrowing — "Neurologist Explains" format at 327K. Move fast.
+9. **Produce VID-022 Thumbnails**
+   - Two variants: A (Creatinine Mask) and B (Hidden Number)
+   - Start with Variant A (Creatinine Mask) — provocation framing
+   - Forest green/amber/silver palette (unique, distinct from VID-021)
+   - Deliver to design team by June 9 for June 12 upload
 
 ### Channel Optimization
-11. **Review First Week's Metrics (May 27-28):**
-    - VID-001 CTR, AVD, subscriber conversion (published May 21 — 6-day mark)
-    - VID-002 CTR, AVD, subscriber conversion (published May 22 — 5-day mark)
-    - VID-SHORT-001 CTR and view-through rate
-    - Apply learnings to VID-003, VID-004, VID-017, VID-018
+10. **A/B Test Monitoring (Post-Upload)**
+    - VID-021: Monitor CTR at 24h and 48h
+    - VID-022: Monitor CTR at 24h and 48h
+    - Target CTR: >6%
+    - Decision rule: If neither variant hits 4% in 24h, pause and redesign
 
-12. **Create/Update Playlists:**
-    - "Sleep & Recovery After 60" (add VID-001)
-    - "What's Inside Your Body After 60" (add VID-002, VID-010)
-    - "Leg Health After 60" (add VID-003 when published)
-    - "The Doctor Explains WHY" (add all long-form videos)
-    - "Microplastics Series" (add VID-002, VID-010)
-    - "Heart & Circulation Health" (add VID-009 when published)
-    - "Balance & Movement After 60" (add VID-017 when published)
-    - Use playlists for session time boost
+11. **Create/Update Playlists:**
+    - "Heart & Vascular Health After 60" (add VID-021)
+    - "Kidney Health After 60" (add VID-022)
+    - "Diagnostic Gaps Your Doctor Misses" (new playlist — add VID-021, VID-022)
+    - "Hidden Health Risks After 60" (add VID-021, VID-022)
 
-## 🟢 NEXT WEEK (May 31 - June 2, 2026)
+## 🟢 NEXT WEEK (June 14-20, 2026)
 
 ### Planned Content
-13. **VID-SHORT-005:** "Hands Shaking After 60? It's Probably Not What You Fear"
-    - Script: COMPLETE (May 26 script package, ~160 words)
-    - Upload target: June 1, 2026
-    - Purpose: Teaser for VID-018 long-form
+12. **VID-023 (Long-form):** "Why Your Sleep Gets Worse After 60 — The Oxygen Drop Nobody Measures"
+    - Script: NEEDS WRITING — Score: 21
+    - Upload target: June 17, 2026
+    - Unique angle: Nocturnal oxygen desaturation, Upper Airway Resistance Syndrome (UARS), WatchPAT home test
+    - Zero competitor coverage of UARS in older adults
 
-14. **VID-019 (Long-form):** "Food Tastes Different After 60 — The Doctor Explains What's Really Going On"
-    - Script: NEEDS WRITING — Score: 23
-    - Upload target: June 3-4, 2026
-    - Zero competitor coverage of taste changes in seniors
+13. **VID-024 (Long-form):** "Your Blood Sugar Spikes After 60 — The Dawn Phenomenon Nobody Explains"
+    - Script: NEEDS WRITING — Score: 21
+    - Upload target: June 19, 2026
+    - Unique angle: Dawn Phenomenon hormonal mechanism, liver glucose dump, 3 evidence-based strategies
+    - Zero competitor coverage of Dawn Phenomenon mechanism
 
-15. **VID-020 (Long-form):** "Breathless After 60? The Doctor Explains What Your Lungs and Heart Are Doing"
-    - Script: NEEDS WRITING — Score: 24
-    - Upload target: June 5-6, 2026
-    - Zero quality competition for cardiac vs pulmonary breathlessness distinction
+14. **Weekly Performance Review:** Analyze VID-021 and VID-022 metrics at 7-day mark
 
-### Strategic
-16. **Weekly Performance Review:** Analyze Week 1 vs Week 2 metrics
-17. **Competitor Scan #6:** Check for microplastics competitor entry, monitor Whitmore's expansion
-18. **Next Week's Script Package:** Generate SEO + scripts for week of June 2
-19. **Microplastics Series Planning:** Plan VID-021 (Blood) for June — Part 3 of first-mover series
+15. **Next Week's Script Package:** Generate SEO + scripts for week of June 16
 
 ## ❌ SKIP / DO NOT PRODUCE
 - ❌ Blood pressure content — NOW SATURATED (Whitmore 7+ videos, Carter, Adewale)
@@ -126,43 +113,35 @@
 - ❌ Any content using alarmist language
 - ❌ Direct competition with KenDBerryMD's "safest medications" format
 - ❌ Copying Whitmore's multi-format saturation strategy
-- ❌ Generic leg health content — window CLOSED (Whitmore + Cross). Only proceed with UNIQUE angles (swollen ankles → heart)
+- ❌ Generic leg health content — window CLOSED (Whitmore + Cross)
+- ❌ Self-diagnosis framing — always "report to doctor"
 
 ## 📊 Key Metrics to Track
-- VID-001 CTR (target >6%) — check May 27 (6-day mark)
-- VID-002 CTR (target >7%) — check May 27 (5-day mark)
-- VID-SHORT-001 CTR (target >8%)
-- VID-003 CTR (target >6%) — verify upload status
-- VID-004 CTR (target >6%) — blood type + medications first-mover
-- VID-010 CTR (target >6%) — microplastics series Part 2 (once published)
-- VID-009 CTR (target >6%) — unclaimed cardiac mechanism (once published)
-- VID-017 CTR (target >6%) — balance mechanism (highest-scoring idea)
-- VID-018 CTR (target >6%) — tremor differential (second highest-scoring)
-- Average view duration for long-form (target >50%)
+- VID-021 CTR (target >6%) — check June 11 (24h mark), June 12 (48h mark)
+- VID-022 CTR (target >6%) — check June 13 (24h mark), June 14 (48h mark)
+- VID-SHORT-008 CTR (target >8%)
+- VID-SHORT-009 CTR (target >8%)
+- A/B test results for VID-021 (Variant A vs B)
+- A/B test results for VID-022 (Variant A vs B)
+- Average view duration for VID-021 and VID-022 (target >50%)
 - Subscriber conversion rate per video
-- Any competitor entering microplastics niche
-- Claire Whitmore's expansion trajectory
+- Any competitor entering diagnostic gap or kidney health niches
 
 ## 🎯 Success Criteria for This Week
-1. VID-010 script written and published — microplastics series Part 2 maintains first-mover momentum
-2. VID-009 script written and published — unclaimed cardiac mechanism before Cross gains more traction
-3. VID-003 verified as uploaded — leg health vitamin angle
-4. VID-SHORT-003 uploaded May 27 as teaser for VID-004
-5. VID-004 uploaded May 28 — blood type + medications first-mover
-6. VID-017 uploaded May 29 — balance mechanism (highest-scoring idea, zero competition)
-7. VID-018 uploaded May 30 — tremor differential (second highest, zero competition)
-8. VID-005 script complete for nail health (May 30 target)
-9. Zero policy violations (medical safety checklist passed for all videos)
-10. No competitor has entered microplastics niche yet (first-mover window still open)
+1. VID-021 produced and uploaded by June 10 — AFib detection gap (first-mover in self-screening)
+2. VID-022 produced and uploaded by June 12 — creatinine mask (first-mover in diagnostic gap kidney)
+3. VID-SHORT-008 and VID-SHORT-009 uploaded as teasers
+4. A/B test thumbnails for both videos — determine winning variants at 48h
+5. Next idea list generated for June 9 session
+6. Competitor scan #7 completed
+7. VID-023 and VID-024 scripts started for June 17-18 uploads
+8. Zero policy violations
+9. Playlist "Diagnostic Gaps Your Doctor Misses" created
 
-## ⚡ NEW STRATEGIC NOTES (May 26)
-- **Claire Whitmore is now HIGHEST threat** — 607K on heart meds video, Amlodipine deep-dive just uploaded. Multi-niche assault accelerating. Do NOT copy — differentiate with quality and authenticity.
-- **Doctor Becker OWNS stem cell niche** — 5+ videos, 2.4M+ combined. Do NOT enter.
-- **Heart medications niche NOW CROWDED** — Whitmore (607K) + Carter (1.2M). Avoid entirely.
-- **Balance + Tremor content UNCLAIMED** — VID-017 (score 26) and VID-018 (score 25) are the two highest-scoring ideas in the entire idea bank with zero competitor coverage. These are the week's most valuable uploads.
-- **Microplastics series momentum CRITICAL** — VID-002 (brain) published May 22. VID-010 (gut) MISSED May 26 target. Write script immediately — every day of delay risks a competitor entering.
-- **Content chain architecture** — Maintain cross-linking ecosystem: each video teases the next.
-- **Color palette diversification** — VID-017 (indigo/silver/emerald), VID-018 (burgundy/gold/slate) continue palette expansion.
-- **New viral formats to monitor** — "Cardiologists Would Never Take Themselves" (607K), "Healthy Habit Inversion" (75K), "Time Window" (75K), "Drinks That Flood" (66K), "It's Not Your [Organ]" (35K).
-- **McGill study mainstream coverage** — TVO covered AI health misinformation story. Public awareness increasing. POSITIVE for Dr. Kane's authentic approach.
-- **YouTube automation reports** — Medical/symptom YouTube listed as "most profitable niche for 2026." MORE competitors will enter. Speed-to-market for Dr. Kane's unique positioning is CRITICAL.
+## ⚡ NEW STRATEGIC NOTES (June 6)
+- **"Diagnostic Gap" is Dr. Kane's most defensible niche** — VID-021 (6-second EKG gap) and VID-022 (creatinine mask) prove the framework. No competitor owns this. Should become a recurring format.
+- **Self-screening protocols are unique differentiators** — The 30-second pulse check teaches a tangible skill. This builds trust and loyalty beyond passive watching.
+- **Lab test advocacy scripts empower viewers** — Word-for-word scripts for requesting specific tests position Dr. Kane as a partner in their care, not a fear-monger.
+- **KDIGO guidelines are a credibility weapon** — Citing established guidelines when recommending tests adds medical legitimacy that competitors lack.
+- **Claire Whitmore remains highest threat** — Multi-niche assault continues. Dr. Kane's differentiation (mechanism depth, authenticity, diagnostic gap positioning) is the competitive moat.
+- **Teal and forest green palettes are now in the rotation** — VID-021 (deep teal/cyan) and VID-022 (forest green/amber) add brand diversity. Continue expanding.

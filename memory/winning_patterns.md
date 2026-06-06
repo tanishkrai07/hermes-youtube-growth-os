@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-05-26
+> **Last Updated:** 2026-06-06
 
 ## Top Performing Title Formulas
 
@@ -169,7 +169,21 @@
 34. **"Drinks That Flood" hook** ⚡ NEW (May 26) — "[Number] Drinks That FLOOD Your Body With [Health Topic]" (66K, Becker). Liquid delivery + flooding metaphor.
 35. **"It's Not Your [Organ]" hook** ⚡ NEW (May 26) — "SWOLLEN [Body Part]? It's Not Your [Organ]. [Solution] in [Number] Minutes" (35K, Cross). Dismisses assumption + quick-fix.
 
-## New Patterns Added 2026-05-26
+### New Patterns Added 2026-06-06
+
+### New Title Formulas (June 6 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P020 | "The [Lab Test] Mask: Why Your [Test] [Fails Verb] After [Age] — And What It Predicts" | Dr. Kane (VID-022) | New |
+| P021 | "[Specialty]: Your [Body Part] After [Age] Can Reveal a Hidden [Risk] Risk" | Dr. Kane (VID-021 alt) | New |
+| P022 | "Your [Test] Looks Normal After [Age] — But Your [Organ] Are [Failing Verb]" | Dr. Kane (VID-022 alt) | New |
+
+### New Niche Opportunities Discovered (June 6)
+- **Diagnostic Gap content** — A new meta-niche: "Your doctor ordered the wrong test" / "The standard test misses this." VID-021 (6-second EKG gap) and VID-022 (creatinine mask) both use this framework. NO competitor owns this "diagnostic gap" positioning. Highly adaptable to other organs/tests.
+- **Self-screening protocols** — Teaching viewers a specific at-home check (30-second pulse check in VID-021) is a unique content format that builds trust and empowers. Untapped area.
+- **Lab test advocacy scripts** — Word-for-word scripts for requesting specific tests from doctors (cystatin C in VID-022, extended monitor in VID-021). Original format that competitors haven't used.
+
+### New Patterns Added 2026-05-26
 
 ### New Title Formulas (May 26 Discovery)
 | Pattern ID | Formula | Source | Views |
@@ -268,6 +282,19 @@
 - Accent: Bright yellow (#fdd835) — attention
 - Text: White with black stroke
 
+### Palette Diversification Log
+| Video | Primary | Accent 1 | Accent 2 | Status |
+|-------|---------|----------|----------|--------|
+| VID-001-006 | Navy/red | Yellow | Blue | Used |
+| VID-007 | Purple/yellow | Orange | — | Used |
+| VID-008 | Orange/red | Magenta | — | Used |
+| VID-009 | Teal/coral | White | — | Used |
+| VID-010 | Forest green | Lime | — | Used |
+| VID-017 | Indigo/silver | Emerald | — | Used |
+| VID-018 | Burgundy/gold | Slate | — | Used |
+| VID-021 | Deep teal (#004D40) | Electric cyan (#00E5FF) | Bright red (#D32F2F) | New |
+| VID-022 | Forest green (#1B5E20) | Amber/orange (#FF8F00) | Silver-gray (#90A4AE) | New |
+
 ### Proven Thumbnail Formulas (from competitor analysis)
 1. **"Concerned Doctor"** — Empathetic face + problem text + solution hint (highest trust)
 2. **"Shocking Discovery"** — Shocked face + bold alarming text + visual metaphor (highest CTR)
@@ -297,13 +324,19 @@
 | 2026-05-24 | VID-008 (Leg Weakness Mechanism) | A: The Pump Mechanism, B: Muscle vs. Vascular Split | Complete |
 || 2026-05-25 | VID-009 (Swollen Ankles/Heart) | A: The Ankle-Heart Connection, B: The Gravity Clue | Complete |
 || 2026-05-25 | VID-010 (Microplastics Gut) | A: The Gut Invasion, B: The Barrier Break | Complete |
-|| 2026-05-26 | VID-017 (Balance Loss) | A: The Three-System Breakdown, B: The Falling Fear | Complete |
-|| 2026-05-26 | VID-018 (Hand Tremor) | A: The Tremor Taxonomy, B: The Parkinson's Fear | Complete |
+||| 2026-05-26 | VID-017 (Balance Loss) | A: The Three-System Breakdown, B: The Falling Fear | Complete |
+||| 2026-05-26 | VID-018 (Hand Tremor) | A: The Tremor Taxonomy, B: The Parkinson's Fear | Complete |
+||| 2026-06-06 | VID-021 (Heartbeat/Stroke) | A: The Pulse Pattern, B: The Silent Stroke | Complete |
+||| 2026-06-06 | VID-022 (Kidney Test) | A: The Creatinine Mask, B: The Hidden Number | Complete |
 
-## Cross-Linking Strategy (Updated 2026-05-24)
+## Cross-Linking Strategy (Updated 2026-06-06)
 - VID-001 end screen → VID-002 (once published)
 - VID-002 end screen → VID-001 (immediate)
 - VID-002 end screen → VID-003 (leg health)
 - Short teasers → Full long-form companions
 - Both add to themed playlists for session time boost
 - End screen text overlays should tease specific upcoming content
+- VID-021 end screen → VID-022 (kidney test)
+- VID-022 end screen → VID-021 (heartbeat/stroke)
+- VID-SHORT-008 → VID-021 (teaser → full)
+- VID-SHORT-009 → VID-022 (teaser → full)

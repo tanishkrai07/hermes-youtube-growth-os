@@ -1,6 +1,6 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-05-26
+> **Last Updated:** 2026-06-06
 > **Total Tracked Competitors:** 22 (21 active + 1 removed)
 
 ## Active Competitors (Elder Health / Senior Wellness)
@@ -56,9 +56,28 @@
 |-------|------------------|-------------|
 | **Microplastics + organ damage** | NONE | 🔴 FIRST-MOVER WINDOW STILL OPEN |
 | **Blood Type + medications** | LOW (Franklin has general, NOT medications) | 🟡 Specific blood type + drug interactions unclaimed |
-| **Kidney health + mechanism** | LOW (Ben has "worst poison" but not mechanism) | 🟡 "Explain WHY your kidneys struggle after 60" open |
-| **Leg health + mechanism** | HIGH (Cross 50K+, Whitmore 42K new) | 🔴 WINDOW CLOSING FAST — Whitmore just entered |
-| **Nail health + body signals** | MEDIUM (multiple channels copying) | 🟡 Window narrowing — "Neurologist Explains" format at 327K |
+| **Kidney health + diagnostic gap** | NONE (VID-022's creatinine mask angle is UNCLAIMED) | 🟢 NEW — D. Kane owns this first |
+| **Heart rhythm + self-screening** | NONE (VID-021's AFib pulse check angle is UNCLAIMED) | 🟢 NEW — D. Kane owns this first |
+| **Diagnostic gap content (general)** | NONE | 🟢 NEW — "Wrong test" framework unclaimed across all organs |
+| **Self-screening protocols** | NONE | 🟢 NEW — At-home medical checks for seniors |
+| **Lab test advocacy** | NONE | 🟢 NEW — Word-for-word doctor conversation scripts |
+
+## Key Events This Period (June 6)
+
+### Dr. Kane Content Released
+- **VID-021 (Heartbeat/Stroke) script completed** — June 6. Paroxysmal AFib detection gap. 30-second weekly pulse check protocol. "Silent AFib Cycle" framework. Microvascular-AFib connection (60% higher incidence). 5 studies cited. 12/0 safety pass.
+- **VID-022 (Kidney Test) script completed** — June 6. Sarcopenia-creatinine paradox. Cystatin C superiority (NEJM 2023). BUN-to-creatinine ratio as free screening tool. KDIGO guideline citation. 5 studies cited. 14/0 safety pass.
+- **VID-SHORT-008 and VID-SHORT-009 scripts completed** — YouTube Shorts teasers for VID-021 and VID-022.
+- **10 new video ideas generated** — June 6 idea list. Top scores: I109 (Blood Sugar/Dawn Phenomenon, 21), I104 (Sleep/Oxygen Drop, 21), I107 (Thyroid/Temperature Test, 20), I110 (Trigger Finger, 20).
+- **3 new title patterns discovered** — P020 (Lab Test Mask + Prediction), P021 (Specialty: Body Part Reveals Hidden Risk), P022 (Test Looks Normal But Organ Failing).
+
+### Competitive Landscape (No New Scans Today — Last Scan May 26)
+- No new competitor data collected today (scheduled scan was not triggered)
+- Last known: Claire Whitmore expanding aggressively, Becker owns stem cell, Cross entered swollen ankles
+- **No competitor has entered diagnostic gap niche** — window still wide open
+- **No competitor teaches self-screening protocols** — Dr. Kane has first-mover advantage
+
+## Key Events This Period (May 24-26)
 
 ## Platform Risk Notes
 - **McGill Study (Dec 2025):** Confirmed AI-generated health content farm problem at scale. Senior Secrets (321K subs) was THE example. Now confirmed taken down.
