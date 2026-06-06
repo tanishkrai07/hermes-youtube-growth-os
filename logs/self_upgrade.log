@@ -241,3 +241,87 @@ To github.com:tanishkrai07/hermes-youtube-growth-os.git
 [INFO] 2026-05-28 05:00:42 Cleaned 2 stale files
 [INFO] 2026-05-28 05:00:42 Executed 2 improvement actions
 [INFO] 2026-05-28 05:00:42 Executed 2 improvement actions
+[main 4bdfb99] Self-upgrade: 2026-05-28 05:00 - Daily improvement cycle
+ 12 files changed, 1187 insertions(+), 398 deletions(-)
+ create mode 100644 data/competitors/daily/2026-05-28_competitors.csv
+ delete mode 100644 outputs/reports/2026-05-18_seo_metadata.md
+ delete mode 100644 outputs/reports/2026-05-23_idea_list.md
+ create mode 100644 outputs/reports/2026-05-28_VID-019_stomach_acid_meds.md
+ create mode 100644 outputs/reports/2026-05-28_VID-020_normal_iron_cells_starving.md
+ create mode 100644 outputs/reports/2026-05-28_idea_list.md
+ create mode 100644 outputs/reports/2026-05-28_seo_metadata.md
+To github.com:tanishkrai07/hermes-youtube-growth-os.git
+   3f52191..4bdfb99  main -> main
+[SUCCESS] 2026-05-28 05:00:44 Changes committed and pushed
+[SUCCESS] 2026-05-28 05:00:44 Changes committed and pushed
+[INFO] 2026-05-28 05:00:44 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-05-28 05:00:44 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-06-06 05:00:02 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-06-06 05:00:02 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-06-06 05:00:02 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-06-06 05:00:02 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-06-06 05:00:02 Script production: 2 total scripts on disk
+[INFO] 2026-06-06 05:00:02 Script production: 2 total scripts on disk
+[INFO] 2026-06-06 05:00:02 Found 1 issues, 1 improvement areas
+[INFO] 2026-06-06 05:00:02 Found 1 issues, 1 improvement areas
+[WARNING] 2026-06-06 05:00:02   Issue: Competitor data 216h old (2026-05-28_competitors.csv)
+[WARNING] 2026-06-06 05:00:02   Issue: Competitor data 216h old (2026-05-28_competitors.csv)
+[INFO] 2026-06-06 05:00:02   Improve: Only 2 scripts produced — need 90 by June 5
+[INFO] 2026-06-06 05:00:02   Improve: Only 2 scripts produced — need 90 by June 5
+[INFO] 2026-06-06 05:00:02 Refreshing competitor data...
+[INFO] 2026-06-06 05:00:02 Refreshing competitor data...
+[INFO] 2026-06-06 05:00:02 Hermes Competitor Video Fetcher — 2026-06-06
+[INFO] 2026-06-06 05:00:02 Days back: 7
+[INFO] 2026-06-06 05:00:02 Output: /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-06-06_competitors.csv
+[INFO] 2026-06-06 05:00:02 Loaded 14 channels from watchlist
+[INFO] 2026-06-06 05:00:02 Using 1 API key(s)
+[INFO] 2026-06-06 05:00:02 Fetching videos published after: 2026-05-30T05:00:02Z
+[INFO] 2026-06-06 05:00:02 [1/14] Scanning: Doctor Laura
+[INFO] 2026-06-06 05:00:02   Channel ID: UCBLbqhYNAve3LmpThhB4OXA
+[INFO] 2026-06-06 05:00:03   Found 4 videos
+[INFO] 2026-06-06 05:00:03 [2/14] Scanning: Dr. James Hargrove
+[INFO] 2026-06-06 05:00:04   Channel ID: UCc3pBOuX5Y2WuQKnu12axBA
+[INFO] 2026-06-06 05:00:04   Found 1 videos
+[INFO] 2026-06-06 05:00:05 [3/14] Scanning: Dr. Michael Kent
+[INFO] 2026-06-06 05:00:05   Channel ID: UCysWUz-N1hK_JfLJ1nOF7EA
+[INFO] 2026-06-06 05:00:06   Found 1 videos
+[INFO] 2026-06-06 05:00:07 [4/14] Scanning: Dr. Adewale
+[INFO] 2026-06-06 05:00:07   Channel ID: UC5qNIOYcXj-uIh6n5dWfLLg
+[INFO] 2026-06-06 05:00:08   Found 1 videos
+[INFO] 2026-06-06 05:00:08 [5/14] Scanning: Dr. Sarah Mitchell 60+
+[INFO] 2026-06-06 05:00:09   Channel ID: UC46v3Ievkngs-Ul8dv2EYkQ
+[INFO] 2026-06-06 05:00:09   Found 0 videos
+[INFO] 2026-06-06 05:00:09 [6/14] Scanning: Dr. Favor Adeyemi
+[INFO] 2026-06-06 05:00:10   Channel ID: UCDR6aTCctLO9uTQqJyQkjBg
+[INFO] 2026-06-06 05:00:11   Found 6 videos
+[INFO] 2026-06-06 05:00:11 [7/14] Scanning: Dr. Rachel Foster
+[INFO] 2026-06-06 05:00:11   Channel ID: UCQGXh1VxQxnEPUeSz0Q8AiQ
+[INFO] 2026-06-06 05:00:12   Found 0 videos
+[INFO] 2026-06-06 05:00:12 [8/14] Scanning: Doctor Leana
+[INFO] 2026-06-06 05:00:12   Channel ID: UCvh3EpakF5OtpZ1JPUCJcmA
+[INFO] 2026-06-06 05:00:13   Found 5 videos
+[INFO] 2026-06-06 05:00:14 [9/14] Scanning: Dr. Richard Ben
+[INFO] 2026-06-06 05:00:14   Channel ID: UCMCXBqHTLla3gRteO0n9Ukw
+[INFO] 2026-06-06 05:00:15   Found 1 videos
+[INFO] 2026-06-06 05:00:15 [10/14] Scanning: Dr. Franklin | Senior Health
+[INFO] 2026-06-06 05:00:16   Channel ID: UCPjG4ZRBkiO1y_vHlnj8jIg
+[INFO] 2026-06-06 05:00:17   Found 2 videos
+[INFO] 2026-06-06 05:00:17 [11/14] Scanning: Mr. Greendude
+[INFO] 2026-06-06 05:00:17   Channel ID: UCLVvBoFiBC6oj7mT62GFAEA
+[INFO] 2026-06-06 05:00:18   Found 3 videos
+[INFO] 2026-06-06 05:00:19 [12/14] Scanning: Doctor Becker
+[INFO] 2026-06-06 05:00:19   Channel ID: UCIC3K8LSV5Kwyfa5ad91L9Q
+[INFO] 2026-06-06 05:00:20   Found 6 videos
+[INFO] 2026-06-06 05:00:20 [13/14] Scanning: Dr. James Cross
+[INFO] 2026-06-06 05:00:21   Channel ID: UCCyZgasCxCxhrEe9T10ivrg
+[INFO] 2026-06-06 05:00:22   Found 6 videos
+[INFO] 2026-06-06 05:00:22 [14/14] Scanning: Doctor Christopher Carter
+[INFO] 2026-06-06 05:00:22   Channel ID: UC6na8rsZaD4tuvo5Gthy8KA
+[INFO] 2026-06-06 05:00:23   Found 0 videos
+[INFO] 2026-06-06 05:00:23 Wrote 36 videos to /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-06-06_competitors.csv
+[INFO] 2026-06-06 05:00:23 Estimated quota used: 1680 units
+[INFO] 2026-06-06 05:00:23 Scan complete — 36 videos from 14 channels
+[SUCCESS] 2026-06-06 05:00:23 Competitor data refreshed
+[SUCCESS] 2026-06-06 05:00:23 Competitor data refreshed
+[INFO] 2026-06-06 05:00:23 Executed 1 improvement actions
+[INFO] 2026-06-06 05:00:23 Executed 1 improvement actions
