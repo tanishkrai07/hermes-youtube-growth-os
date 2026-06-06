@@ -1,15 +1,87 @@
-channel_name,channel_url,priority,channel_id,latest_scan_date,notes
-Doctor Laura,https://www.youtube.com/@DoctorLaura-e1w1o,Medium,UCJfBMXDeDrdciKFPnvdJmSA,2026-05-17,Senior health framing and emotional hooks. Family/relationship angle unique.
-Dr. James Hargrove,https://www.youtube.com/@Dr.JamesHargrove,High,UCc3pBOuX5Y2WuQKnu12axBA,2026-05-17,Strong for doctor-never and survival-style hooks. Uses "[Specialty] WARNS" format. Daily uploads at 21:00 UTC.
-Dr. Michael Kent,https://www.youtube.com/@DrMichaelKent-m2d,High,UCysWUz-N1hK_JfLJ1nOF7EA,2026-05-17,Primary reference for senior health title/thumbnail/script pacing. Question format + longevity hooks.
-Dr. Adewale,https://www.youtube.com/@Dr.Adewale,High,UC7ivaclFinbGScyo7CV916Q,2026-05-17,Primary reference for urgent surgeon warning framing. "X Hours Before" format pioneer.
-Dr. Sarah Mitchell 60+,https://www.youtube.com/@DrSarahMitchell60,Medium,UCELVIE0suhrFa5n0PoiMEdQ,2026-05-17,Senior wellness and aging-focused educational angles. Blood pressure drug warnings.
-Dr. Favor Adeyemi,https://www.youtube.com/@Dr.FavorAdeyemi,Medium,UCDR6aTCctLO9uTQqJyQkjBg,2026-05-17,Strong emotional storytelling and health warning hooks. Nail/body signal angle.
-Dr. Rachel Foster,https://www.youtube.com/@DrRachelFoster,Medium,UCQGXh1VxQxnEPUeSz0Q8AiQ,2026-05-17,Useful for symptom-explanation and trust-building delivery. Vegetable/muscle angle.
-Doctor Leana,https://www.youtube.com/@DoctorLeana,Medium,UCvh3EpakF5OtpZ1JPUCJcmA,2026-05-17,Strong for scientific proof food/metabolism angles. More lifestyle/wellness oriented.
-Dr. Richard Ben,https://www.youtube.com/@DrRichardBen_3M,Medium,UCMCXBqHTLla3gRteO0n9Ukw,2026-05-17,Good for authority-style senior health positioning. Urologist/gut health angle.
-Dr. Franklin | Senior Health,https://www.youtube.com/@Dr.Franklin-SeniorHealth,Medium,UCPjG4ZRBkiO1y_vHlnj8jIg,2026-05-17,Senior-focused daily health education and prevention topics. Hantavirus coverage.
-Mr. Greendude,https://www.youtube.com/@Mr.Greendude,Low,UCLVvBoFiBC6oj7mT62GFAEA,2026-05-17,Alternative wellness and natural remedy trend monitoring. Blood sugar/dementia angle.
-Doctor Becker,https://www.youtube.com/@doctorbecker,Medium,UCIC3K8LSV5Kwyfa5ad91L9Q,2026-05-17,Strong for cancer/food repair style angles. Hantavirus + mitochondria content.
-Dr. James Cross,https://www.youtube.com/@DrJamesCross,Medium,,2026-05-20,Leg health + food pairing. "Your Legs Get Weak First" (60K), "Never Eat Eggs Alone" (142K). Emerging competitor.
-Doctor Christopher Carter,https://www.youtube.com/@DoctorChristopherCarter,High,,2026-05-20,Medication warnings + heart health. "5 Pills Could Trigger Heart Attack" (953K views). MAJOR competitor.
+# Competitor Watchlist — Dr. Victor Kane Channel
+
+> **Last Updated:** 2026-05-28
+> **Total Tracked:** 25 competitors (24 active + 1 removed)
+
+## Active Competitors
+
+| # | Channel | Priority | Latest Hit | Views | Platform Risk | Notes |
+|---|---------|----------|-----------|-------|---------------|-------|
+| 1 | Claire Whitmore Senior's Health Tips | 🔴🔴 HIGHEST ↑↑ | THREE 1.1M+ videos: "Know The TRUTH!" BP + BP study + "3 Cardiologists Would Never Take" (607K) + "These 3 BP Medications Quietly Destroying" (79K) + "Bedtime Drink" (~800K) | 1.1M + 1.1M + 607K + 79K + 800K = **~3.7M+ combined** | Low | THREE 1.1M+ VIDEOS. Multi-niche assault: heart meds, BP, legs, food. 137K subs, 71+ videos. |
+| 2 | Dr. Richard Ben ↑ | 🔴 HIGH ↑ | "Kidney Doctor Warns—Worst Poison in Kitchen Destroying Kidneys" (1.2-1.3M) + "UROLOGIST REVEALS" (830K) + Oncology (352K) | **1.2-1.3M + 830K + 352K = 2.4M+** | HIGH (multi-id) | MULTI-MEGA-HIT across 3 specialties. Kidney video SURGING. Multi-ID risk. |
+| 3 | Dr. Michael Kent ⚡️ VITAMIN EMPIRE | 🔴 HIGH | Vitamin series: "4 Vitamins NEVER Take & 4 MUST Take" (328K) + "NEVER Take Mg Glycinate with D3+K2" (140K) + "DANGER! 2 vitamins together" (140K) + Eye fruit (890K) + Dementia meds (881K) | 328K + 140K + 140K + 890K + 881K + 221K = **2.6M+** | Low | MULTI-NICHE THREAT. Vitamin series 608K combined. |
+| 4 | Doctor Becker STEM CELL EMPIRE | 🔴 HIGH | Stem cell portfolio: 5+ videos totaling 2.4M+ combined | 2.4M+ combined | Low | OWNS stem cell niche. 5+ videos. Do NOT compete. |
+| 5 | Dr. Franklin ⚡ BODY-SHOCK EXPANDING | 🟠 HIGH ↑ | "STOOL STUCK IN THE RECTUM!" (378-394K) + "Hidden Kidney Killer" (241K) + "Blood Type Predicts How You Die" (320K) + Urology (714K) | **394K + 714K + 320K + 241K + 304K + 198K = 2.1M+** | MEDIUM | Body-shock expanding to digestive. Multi-niche threat growing. |
+| 6 | Dr. James Hargrove ⚡ NEW VITAMIN VIDEO | 🟠 HIGH | "Doctor WARNS: 4 Vitamins SILENTLY Causing Stroke After 65" (1.1K) + "He Died In His Sleep" (866K) + "5 Silent Killers" | 866K+ (evergreen) | HIGH (multi-id) | Copying Kent's vitamin format. Multi-ID risk. |
+| 7 | Dr. Waterling (rebranded) | 🟠 HIGH | "What a Stroke Looks Like the Day Before It Hits" | 1.4-1.5M (steady) | HIGH (rebrand) + Reddit AI scrutiny | Rebranded from Mr. Greendude. 211K subs. Reddit questioning AI origin. |
+| 8 | Dr. Adewale | 🟡 MEDIUM | "5 Easy Ways SENIORS Can Lower BP with Food" (867K) + "Stop Aiming for 120/80!" + "2-Minute Kitchen Habit" (7.9K) | 867K (5 Easy Ways) + 7.9K | Low | Cardiac surgeon credentials. BP nutrition format at scale. |
+| 9 | Senior Health Blog | 🟡 MEDIUM-HIGH | "Add THIS one powerful food to your breakfast" | 1.5M | Low | Breakfast video dominant evergreen. |
+| 10 | Dr. James Cross | 🟡 MEDIUM-HIGH | "THIS 1 Simple Movement Drains Swollen Legs & Ankles Fast!" (34-37K) + "Legs Get Weak First" (59K) + "ONE Vitamin Fixes Leg Circulation" (8.1K) | 59K + 37K + 8.1K | Low | Swollen ankles overlap with VID-009. 22.4K subs. |
+| 11 | Healthy Seniors 🆕 | 🟡 MEDIUM | "SENIORS: 7 Mini-Stroke (TIA) Warning Signs (Everyone Ignores #3)" (207K) + "10 Signs Vascular Dementia is Progressing" (20K) | 207K + 20K | Low | NEW. Entering stroke niche. "Everyone Ignores #X" curiosity gap format. |
+| 12 | Dr.Robert Harrison | 🟡 MONITOR | "Forget Carrots — Tiny Seed Repairs Eyes" | ~893K (stable) | 🟡 MONITOR | 20.9K subs, 162 videos. Growth plateaued. |
+| 13 | Her Health 60+ | 🟡 MEDIUM | "Thinning Hair After 50? THIS Oil Blocks DHT" (178K) + diet tricks + body warnings | 178K | Low | 96.2K subs. Female 60+ health/beauty. Not direct competitor. |
+| 14 | OKOYE Senior Health Tips | 🟡 MEDIUM | Referenced at 1.2M across elder health recommendations | 1.2M est. | 🟡 MONITOR | Similar template format. Monitor growth. |
+| 15 | Health Bites Lab 🆕 | 🟢 LOW | "Doctor Reveals: Top 4 Vitamins That Cleanse & Flush Your Kidneys | Dr. William Li" (9-10K) | 9-10K | Low | Early stage. Monitor. |
+| 16 | Doctor Christopher Carter | 🟢 LOW | "5 Pills Could Trigger a Heart Attack and Stroke" | 1.2M (evergreen) | Low | MAJOR competitor. Appears authentic. |
+| 17 | Doctor Eye Health | 🟢 LOW | "I Used 100% CASTOR OIL Eye Drops for 30 days" | ~568K | Low | Eye health sub-niche. |
+| 18 | Dr. Favor Adeyemi | 🟢 LOW | "Never Reheat These 4 Foods" | ~1.9M est. | Low | Food warning niche. |
+| 19 | Dr. Nathaniel Brooks | 🟢 LOW | "If You Wake Up With Dry Mouth" | 229K | Low | Body warning format. |
+| 20 | Doctor Leana | LOW | "THIS Reverses Gray Hair Naturally" | 11K | Low | Stem cell niche. |
+| 21 | Leana Senior Health | LOW | Hantavirus videos | Unknown | Low | News-jacking. Window closed. |
+| 22 | Doctor Laura | LOW | "HANTAVIRUS IS SPREADING NOW" | 51K | Low | Virus fear content. |
+| 23 | Dr. Rachel Foster | LOW | Hantavirus Explained | 219 | Low | General health. |
+| 24 | Dr. Sarah Mitchell 60+ | LOW | Various | — | Low | Senior wellness. |
+| 25 | KenDBerryMD | LOW (EXITED) | Keto/carnivore streams | 3M (evergreen, not elder) | Low | SHIFTED AWAY from elder health. No longer direct competitor. |
+
+## Removed Competitors
+| # | Channel | Status | Reason |
+|---|---------|--------|--------|
+| — | Senior Secrets Book | ⚠️ TAKEN DOWN | McGill-flagged AI-generated channel. Confirmed removed by YouTube. |
+
+## Saturated Niches (Avoid Direct Competition)
+- Blood Pressure (general) — Whitmore THREE 1.1M+ videos — 🔴🔴 SATURATED ⚡⚡
+- Heart Medications (Whitmore 607K + 1.1M + 1.1M, Carter 1.2M) — 🔴 CROWDED
+- Blood Pressure Nutrition (Adewale 867K, Whitmore 1.1M) — 🔴 HEATING UP
+- Vitamin/Supplement Warnings (Kent 608K combined, Hargrove entering) — 🔴 SATURATING ⚡
+- General medication warnings (Kent 881K, Carter 1.2M, Whitmore) — 🔴 SATURATED
+- General stem cell content (Leana 340K, Becker 2.4M+) — 🔴 SATURATED
+- Body shock / embarrassing topics (Franklin DOMINATES: 394K + 714K + 304K) — 🔴 AVOID
+- Kidney Warnings (Ben 1.2M, Franklin 241K, Health Bites Lab emerging) — 🔴 HEATING UP ⚡
+- Hantavirus content (6+ channels — window CLOSED)
+- Medication + dementia (Kent 881K, Franklin 198K) — 🔴 SATURATED
+- Diabetes/nutrition (Senior Health Blog 1.5M breakfast video) — 🔴 HEATING UP
+- Eye Health (Kent 890K, Doctor Eye Health ~568K, Harrison ~893K) — 🔴 CROWDED
+- Food warnings (Adeyemi ~1.9M, Cross 68K) — 🔴 CROWDED
+- Leg health (Cross 50K+, Whitmore 42K) — 🔴 CROWDED
+- Nail health (multiple channels at 327K+) — 🟡 HEATING UP
+- Stroke Prevention (Waterling 1.5M, Hargrove 866K, Carter 1.2M, Healthy Seniors 207K) — 🔴 CROWDED
+
+## Open Niches (First-Mover Opportunities)
+- Microplastics + organ damage — Huberman mainstreaming (255K) + AARP collaboration + HHS urgency but NO elder-specific owner 🔴 URGENT — ACT NOW
+- Blood type + specific health protocols — Franklin has general only 🟡
+- Kidney health + mechanism — Ben 1.2M + Franklin 241K but NO mechanism explanation 🟡 PRODUCE NOW
+- "The Doctor Explains WHY" positioning — NO competitor owns this 🟢
+- ⚠️ Leg health + mechanism — WINDOW CLOSING FAST (Cross 50K+, Whitmore 42K)
+- ⚠️ Nail health + body signals — WINDOW NARROWING (327K+ on copycat videos)
+
+## Platform Risk Notes
+- McGill Study (Dec 2025): AI health content farms confirmed. Senior Secrets taken down. Reddit r/RealOrAI questioning Dr. Waterling. Public awareness INCREASING.
+- Content farm geolocation: Vietnam-based operations using AI tools. Geotag slip-ups detected.
+- 65 scientific references investigated — only 5 real, 60 fake. AI inserts non-existent papers.
+- Multi-ID upload strategy (Hargrove, Ben) HIGH RISK — DO NOT COPY
+- YouTube "inauthentic content" enforcement ACCELERATING — channel death rate 52× higher
+- "Hot take > plain facts" — channels with opinions survive
+- Overposting (daily uploads) is a primary trigger
+- Senior Secrets Book CONFIRMED TAKEN DOWN
+- Mr. Greendude rebranded to "Dr. Waterling" — rebrand WORKING (1.5M). Reddit scrutiny growing.
+- Dr. Franklin expanding body-shock + digestive template (394K stool video)
+- YouTube demonetizing "inauthentic" and "unoriginal" content — active enforcement 2026
+- KenDBerryMD EXIT from elder health — gap now filled by Adewale (867K) + Whitmore (1.1M)
+- Huberman microplastics at 255K — mainstream coverage rising, elder-specific window narrowing
+- AARP + Huberman microplastics collaboration — mainstream awareness PEAKING
+- HHS (RFK Jr.) declaring microplastics "human health threat" — government urgency
+- 🔴 **YouTube AI slop crackdown: 16 channels DELETED, 4.7B views WIPED, 35M subs LOST, ~$10M revenue destroyed** — Platform enforcement accelerating dramatically
+- Her Health 60+ (96.2K subs, female 60+ health/beauty. NOT direct competitor but building overlapping audience.)
+- OKOYE Senior Health Tips (1.2M views. Similar template format. Monitor.)
+- Healthy Seniors (NEW): 207K on TIA video. Entering stroke niche. Monitor.
+- Health Bites Lab (NEW): 9-10K on kidney vitamins. Early stage. Monitor.
