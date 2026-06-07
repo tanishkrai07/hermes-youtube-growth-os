@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-06
+> **Last Updated:** 2026-06-07
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -166,6 +166,44 @@
     - Purpose: Teaser for VID-018 long-form
     - Status: READY FOR PRODUCTION
 
+### New Videos Added June 7
+
+17. **VID-023 (Long-form):** "Why Your Feet Burn After 60 — The Nerve Fiber Dying in Silence"
+    - Script: COMPLETE (June 7 script package, ~2,700 words, 5 studies, 9 retention hooks)
+    - Score: 22/20 (highest in June 7 idea list)
+    - Unique angle: Small-fiber neuropathy invisible to standard nerve conduction studies; skin punch biopsy as gold standard; 3 treatable causes (impaired glucose tolerance, functional B12 deficiency, autoimmune)
+    - Structure: Sensory immersion → Normal-test paradox → Small-fiber mechanism → Biopsy revelation → 3 treatable causes → Action protocol
+    - Original insight: "Invisible Nerve" framework + skin punch biopsy demystification + nerve regeneration rate (1-3mm/day) + 3-treatable-cause diagnostic pathway
+    - Key studies: SFN affects 8-10% of over-60s (Neurology 2024), 3.5-year diagnostic delay (Neurology 2024), impaired glucose tolerance 3x SFN rate (Diabetes Care 2023), 18% functional B12 deficiency (Am J Clin Nutr 2024), 23% autoimmune involvement (JAMA Neurol 2024)
+    - Upload target: Tuesday, June 11, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-024 (Breath Odor)
+    - Safety: 16 PASS / 0 FAIL
+    - Status: READY FOR PRODUCTION
+
+18. **VID-SHORT-010 (Short):** "Your feet burn after 60 but tests are 'normal'? Here's why."
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 13, 2026
+    - Purpose: Teaser for VID-023 long-form
+    - Status: READY FOR PRODUCTION
+
+19. **VID-024 (Long-form):** "Why Your Breath Smells Different After 60 — The Organ Signal on Your Tongue"
+    - Script: COMPLETE (June 7 script package, ~2,700 words, 4 studies, 9 retention hooks)
+    - Score: 20/20 (second highest in June 7 idea list)
+    - Unique angle: Organ-specific breath odor map (fruity=DKA, ammonia=kidney, fecal=bowel obstruction, musty=liver); SGLT2 inhibitor-euglycemic DKA breath warning; wrist-lick self-test
+    - Structure: Social embarrassment story → Clinical pivot → Organ breath map (4 patterns) → Emergency red flags → Reassurance → Self-test → Emotional resolution
+    - Original insight: Organ-Specific Breath Map framework + SGLT2-euglycemic DKA breath warning + wrist-lick self-test + reassurance framework
+    - Key studies: 1,200+ VOCs in breath (Chem Senses 2024), euglycemic DKA with SGLT2 inhibitors (diabetes literature), uremic fetor (nephrology literature), fetor hepaticus (hepatology literature)
+    - Upload target: Thursday, June 13, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-023 (Burning Feet)
+    - Safety: 17 PASS / 0 FAIL
+    - Status: READY FOR PRODUCTION
+
+20. **VID-SHORT-011 (Short):** "Your breath changed after 60? It might be an organ signal."
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 15, 2026
+    - Purpose: Teaser for VID-024 long-form
+    - Status: READY FOR PRODUCTION
+
 ### New Videos Added June 6
 
 13. **VID-021 (Long-form):** "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke"
@@ -240,6 +278,10 @@
 - VID-018 (hand tremor) → VID-019 (taste changes) via end screen
 - VID-SHORT-004 → VID-017 (teaser → full)
 - VID-SHORT-005 → VID-018 (teaser → full)
+- VID-023 (Burning Feet) → VID-024 (Breath Odor) via end screen
+- VID-024 (Breath Odor) → VID-023 (Burning Feet) via end screen
+- VID-SHORT-010 → VID-023 (teaser → full)
+- VID-SHORT-011 → VID-024 (teaser → full)
 - This creates a content ecosystem that keeps viewers in the channel
 
 ### New Insights from May 26 Scans
@@ -254,3 +296,14 @@
 - **New viral formats discovered:** "Cardiologists Would Never Take Themselves" (607K), "Healthy Habit Inversion" (75K), "Time Window" (75K), "Drinks That Flood" (66K), "It's Not Your [Organ]" (35K)
 - **YouTube automation reports identify medical niches as "most profitable for 2026"** — MORE competitors will enter. Speed-to-market critical.
 - **McGill AI health misinformation study continues gaining mainstream traction** — POSITIVE for Dr. Kane's authentic approach.
+
+### New Insights from June 7 Scans
+- **Dr. Franklin COPIED Dr. Kane's nail health concept within 24 hours** — "Neurologist Alerts Seniors These Nail Changes After 60 May Signal 4 Hidden Diseases" (83 views, Jun 6). Franklin is the fastest format copier in the niche. Nail health window CLOSED.
+- **Claire Whitmore launches BP medication trio video** — "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Most Seniors Don't Know" (1,747 views, Jun 6). New wider-capture format covering 3 drug classes simultaneously. Adaptable for Dr. Kane with mechanism-first approach.
+- **Doctor Becker's "Morning Water" video SURGES** — From 66K to 76,408 views in one day. Becker now has microplastics content ("Plastic Found INSIDE Your Body's Cells" — 3,493 views). ENTERING Dr. Kane's microplastics territory.
+- **Microplastics niche HEATING UP** — Multiple small channels entering (all under 3.5K views). Becker is only channel at scale. First-mover window CLOSING but not yet closed.
+- **"It's Not Your Heart — It's Your Lymph" frame SATURATING** — At least 4-5 videos with identical titles. AVOID this frame.
+- **Dr. Michael Kent launches "Would NEVER Get" format** — "Doctor CONFESSES: The 5 Intestinal Tests He Would NEVER Get After 60" (6,286 views). Authority contradiction applied to medical procedures, not medications.
+- **Senior Health Blog "paradox food" expansion** — "5 Best Ice Creams for High Blood Sugar" (8 views, Jun 4). Contradiction-based food content. Following 1.5M breakfast video formula.
+- **Diagnostic gap niche STILL UNCLAIMED** — No competitor has entered. VID-021 (AFib detection gap) and VID-022 (creatinine mask) are first-mover. Window still open.
+- **Body signals niche HEATING UP** — Franklin copied nails, multiple channels entering body signal space. Speed-to-market critical for VID-023 (burning feet) and VID-024 (breath odor).

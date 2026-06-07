@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-06
+> **Last Updated:** 2026-06-07
 
 ## Top Performing Title Formulas
 
@@ -168,6 +168,42 @@
 33. **"Time Window" hook** ⚡ NEW (May 26) — "After [Age], You Have ONLY a [Number]-Year Window To [Action]" (75K, Becker). Biological urgency + specific time frame.
 34. **"Drinks That Flood" hook** ⚡ NEW (May 26) — "[Number] Drinks That FLOOD Your Body With [Health Topic]" (66K, Becker). Liquid delivery + flooding metaphor.
 35. **"It's Not Your [Organ]" hook** ⚡ NEW (May 26) — "SWOLLEN [Body Part]? It's Not Your [Organ]. [Solution] in [Number] Minutes" (35K, Cross). Dismisses assumption + quick-fix.
+   - ⚠️ **SATURATING** — At least 4-5 videos with identical titles. AVOID this frame.
+
+### New Patterns Added 2026-06-07 (from SEO-2026-06-07-A and competitor scan)
+
+### New Title Formulas Generated (June 7)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P030 | "The [Test] That Misses [Condition] After [Age]" | Dr. Kane (VID-023 alt) | New |
+| P031 | "Your [Body Part] Changed After [60]? [Number] Hidden Causes" | Dr. Kane (VID-023/024) | New |
+| P032 | "The [Body Signal] Map — [Number] Patterns That Signal [Organ] Trouble After [Age]" | Dr. Kane (VID-024) | New |
+
+### New Viral Formats (June 7 Competitor Discovery)
+1. **"Medication Trio" format** — Whitmore's newest: "Taking [Med A], [Med B], or [Med C] for [Condition]? Here's What Most [Group] Don't Know" (1,747 views, 1 day). Covers 3 medications simultaneously for wider audience capture.
+2. **"Would NEVER Get" medical procedures format** — Kent's expansion from "Would Never Take" (medications) to "Would Never Get" (tests/procedures). "Doctor CONFESSES: The 5 Intestinal Tests He Would NEVER Get After 60" (6,286 views).
+3. **"Paradox Food" format** — Senior Health Blog: "5 Best Ice Creams for High Blood Sugar" (8 views, Jun 4). Contradiction-based: indulgent food + condition. Working at scale (1.5M breakfast video).
+4. **"90-Day Window" temporal format** — Waterling's "Mini Stroke Warning Signs: Your 90-Day Stroke Window Explained" (8 views, Jun 6). Specific time window creates urgency.
+5. **"Organ Breath Map" format** — Dr. Kane original (VID-024). Organ-specific breath odor diagnostic framework. NO competitor has this. First-mover.
+6. **"Invisible Nerve" diagnostic gap format** — Dr. Kane original (VID-023). Small-fiber neuropathy invisible to standard tests. NO competitor has this. First-mover.
+
+### New Patterns Added 2026-06-07 (from discovery)
+
+### New Title Formulas (June 7 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P052 | "Taking [Med A], [Med B], or [Med C] for [Condition]? Here's What Most [Group] Don't Know" | Claire Whitmore | 1,747 (1 day) |
+| P053 | "[Condition] Warning Signs: Your [Time Window] [Condition] Window Explained" | Dr. Waterling | 8 (1 day) |
+| P054 | "[Specialty] Alerts Seniors These [Body Part] Changes After [Age] May Signal [Number] Hidden Diseases" | Dr. Franklin | 83 (1 day) — COPYCAT of Dr. Kane |
+| P055 | "Doctor CONFESSES: The [Number] [Medical Procedures] He Would NEVER Get After [Age]" | Dr. Michael Kent | 6,286 |
+| P056 | "Doctor Reveals [Number] Best [Indulgent Food] for [Condition] ([Qualifier])" | Senior Health Blog | 8 (3 days) |
+| P057 | "It's Not Your [Organ A] — It's Your [Organ B/Body System] (Do This [Time] Habit)" | Multiple channels | SATURATED — AVOID |
+
+### New Viral Formats (June 7)
+1. **"Medication Trio" format** — Whitmore's newest: covers 3 medications in one video instead of attacking one. Wider audience capture. ADAPTABLE for Dr. Kane.
+2. **"Would NEVER Get" medical procedures format** — Kent's expansion from "Would Never Take" (medications) to "Would Never Get" (tests/procedures). Authority contradiction applied to medical interventions.
+3. **"Paradox Food" format** — Senior Health Blog: "[Indulgent Food] for [Condition]" (ice cream for diabetics). Contradiction-based. Working at scale (1.5M breakfast video).
+4. **"90-Day Window" temporal format** — Waterling's stroke content. Specific time window creates urgency without being alarmist.
 
 ### New Patterns Added 2026-06-06
 
@@ -292,8 +328,12 @@
 | VID-010 | Forest green | Lime | — | Used |
 | VID-017 | Indigo/silver | Emerald | — | Used |
 | VID-018 | Burgundy/gold | Slate | — | Used |
-| VID-021 | Deep teal (#004D40) | Electric cyan (#00E5FF) | Bright red (#D32F2F) | New |
-| VID-022 | Forest green (#1B5E20) | Amber/orange (#FF8F00) | Silver-gray (#90A4AE) | New |
+|| VID-021 | Deep teal (#004D40) | Electric cyan (#00E5FF) | Bright red (#D32F2F) | New |
+|| VID-022 | Forest green (#1B5E20) | Amber/orange (#FF8F00) | Silver-gray (#90A4AE) | New |
+|| VID-025 A | Charcoal (#37474F) | Amber (#FF8F00) | Coral (#FF6F61) | New — Brief |
+|| VID-025 B | Slate blue (#263238) | Salmon (#FF8A80) | Gray (#E0E0E0) | New — Brief |
+|| VID-026 A | Midnight navy (#0D1B2A) | Golden amber (#FFC107) | Electric red (#FF1744) | New — Brief |
+|| VID-026 B | Warm gray/white split | Assertive red (#D50000) | Metabolic green (#00C853) | New — Brief — FIRST split bg |
 
 ### Proven Thumbnail Formulas (from competitor analysis)
 1. **"Concerned Doctor"** — Empathetic face + problem text + solution hint (highest trust)
@@ -326,10 +366,12 @@
 || 2026-05-25 | VID-010 (Microplastics Gut) | A: The Gut Invasion, B: The Barrier Break | Complete |
 ||| 2026-05-26 | VID-017 (Balance Loss) | A: The Three-System Breakdown, B: The Falling Fear | Complete |
 ||| 2026-05-26 | VID-018 (Hand Tremor) | A: The Tremor Taxonomy, B: The Parkinson's Fear | Complete |
-||| 2026-06-06 | VID-021 (Heartbeat/Stroke) | A: The Pulse Pattern, B: The Silent Stroke | Complete |
-||| 2026-06-06 | VID-022 (Kidney Test) | A: The Creatinine Mask, B: The Hidden Number | Complete |
+|||| 2026-06-06 | VID-021 (Heartbeat/Stroke) | A: The Pulse Pattern, B: The Silent Stroke | Complete |
+|||| 2026-06-06 | VID-022 (Kidney Test) | A: The Creatinine Mask, B: The Hidden Number | Complete |
+||||| 2026-06-07 | VID-025 (Muscle Loss) | A: The Muscle Clock, B: The Shrinking Arm | New Brief |
+||||| 2026-06-07 | VID-026 (Dawn Phenomenon) | A: The 3 AM Liver Dump, B: The Blame Game | New Brief |
 
-## Cross-Linking Strategy (Updated 2026-06-06)
+## Cross-Linking Strategy (Updated 2026-06-07)
 - VID-001 end screen → VID-002 (once published)
 - VID-002 end screen → VID-001 (immediate)
 - VID-002 end screen → VID-003 (leg health)
@@ -340,3 +382,7 @@
 - VID-022 end screen → VID-021 (heartbeat/stroke)
 - VID-SHORT-008 → VID-021 (teaser → full)
 - VID-SHORT-009 → VID-022 (teaser → full)
+- VID-023 end screen → VID-024 (breath odor)
+- VID-024 end screen → VID-023 (burning feet)
+- VID-SHORT-010 → VID-023 (teaser → full)
+- VID-SHORT-011 → VID-024 (teaser → full)

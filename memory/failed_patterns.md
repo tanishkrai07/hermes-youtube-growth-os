@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-06
+> **Last Updated:** 2026-06-07
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -163,3 +163,32 @@
 - **Never tell viewers to request specific lab tests without doctor conversation** — frame as informed dialogue, not demands
 - **Never use "misleading" or "lies" about standard tests in thumbnails** — "tested wrong" or "misses the problem" is accurate without being anti-doctor
 - **Always cite KDIGO or equivalent guidelines** when recommending specific tests — adds authority and medical legitimacy
+
+### New Failure Patterns (June 7 Competitor Scans)
+
+#### Nail Health Window Closed by Franklin Copy
+- **What happened:** Dr. Franklin copied Dr. Kane's nail health concept within 24 hours of the June 6 competitor scan identifying it as an open window.
+- **Lesson:** When a competitor scan identifies a first-mover window, production must begin within 48 hours. Speculative identification without immediate production is wasted intelligence.
+- **Fix:** If a window is identified and VID-005 (nail health) isn't published within 48 hours, abandon and move to the next unclaimed niche. Nail health is now CLOSED.
+
+#### Body Signals Niche Accelerating
+- **What happened:** Multiple channels are now entering body signals territory (nails, breath, feet, urine). Franklin copied nails, Cross entered legs, and generic body signal formats are spreading.
+- **Lesson:** Body signals are Dr. Kane's core differentiation pillar, but the window is narrowing as channels discover the format.
+- **Fix:** Prioritize body signal content (VID-023 burning feet, VID-024 breath odor) for immediate production. Speed-to-market is the only remaining advantage.
+
+#### "It's Not Your [Organ]" Frame Now Saturated
+- **What happened:** The "It's Not Your [Organ A] — It's Your [Organ B]" frame has been copied by at least 4-5 channels (Cross, Franklin, others).
+- **Lesson:** Even "new" frames saturate within 1-2 weeks in this niche. The first-mover advantage is now measured in days, not weeks.
+- **Fix:** AVOID this frame entirely. Future content must use genuinely novel framing that can't be replicated by changing one word.
+
+#### Microplastics First-Mover Window Narrowing
+- **What happened:** Doctor Becker entered microplastics with "Plastic Found INSIDE Your Body's Cells" (3,493 views) and multiple tiny channels are joining.
+- **Lesson:** First-mover windows that were open for weeks are now closing within days of being identified.
+- **Fix:** Accelerate any remaining microplastics content. The unique angle (microplastics + endothelial inflammation from vascular medicine perspective) is still viable but window is CLOSING.
+
+### New Safety Boundaries (VID-023 / VID-024 Production)
+- **Never tell viewers to self-diagnose small-fiber neuropathy** — frame as "ask about skin punch biopsy" and "discuss burning feet with your doctor"
+- **Never tell viewers they have specific organ disease from breath odor alone** — frame as "mention to your doctor as one data point among many"
+- **Never recommend stopping SGLT2 inhibitors** — frame as "if you notice fruity breath, call your doctor promptly"
+- **Never show panic-inducing organ failure imagery in thumbnails** — "organ signal" not "organ failure"
+- **Always include differential diagnosis context** — burning feet rarely indicates just one condition; breath changes have benign explanations too

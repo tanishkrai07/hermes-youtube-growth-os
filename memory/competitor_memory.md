@@ -1,7 +1,7 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-06
-> **Total Tracked Competitors:** 22 (21 active + 1 removed)
+> **Last Updated:** 2026-06-07
+> **Total Tracked Competitors:** 25+ (24 active + 1 removed)
 
 ## Active Competitors (Elder Health / Senior Wellness)
 
@@ -10,12 +10,12 @@
 | **Dr. Waterling** ⚡ NEW (rebranded) | "What a Stroke Looks Like the Day Before It Hits — Know This to Protect Yourself" | **1.5M** (steady) | Stroke Prevention / Brain / Dementia | HIGH (rebrand, massive reach) |
 | **KenDBerryMD** | Meatstock keynote / keto streams | **3M** (evergreen) | Keto/Carnivore (shifted AWAY from senior health) | LOW (no longer competing in elder niche) |
 | **Dr. Michael Kent** | "Doctor Reveals the #1 Best Fruit to Eat Before Bed for Healthy Eyesight!" + "Over 60? NEVER Take Magnesium Glycinate with Vitamin D3 & K2" | **890K** (eye fruit) + 882K (dementia) + new Mg video | Eye Health + Medication Dementia Warnings + Supplement Interactions | MEDIUM-HIGH (expanding into eye + supplement niche) |
-| **Doctor Becker** ⚡ STEM CELL EMPIRE | Stem cell portfolio: "3 Drinks That FLOOD Your Body With Stem Cells" (66K) + "This Doubles Your Stem Cells in 30 Days — Eat These Foods Daily" (15K) + "After 65, You Have ONLY a 3-Year Window To REACTIVATE Your Stem Cells" (75K) + "This Common Healthy Habit Is Killing Your Stem Cells Every Day" (75K) + "SENIORS: Add THIS to Your Coffee — Stem Cells Reactivate, Cancer Starves, Fat Burns" (1.3M evergreen) | **2.4M+ combined** across 5+ videos | Stem Cell → Cancer Prevention → Drinks/Foods/Habits | 🔴 HIGH (now OWNS stem cell + senior niche with 5+ videos, 2.4M+ combined views) |
+| **Doctor Becker** ⚡ STEM CELL + MICROPLASTICS | Stem cell portfolio (2.4M+ combined) + NEW: "SENIORS: Plastic Found INSIDE Your Body's Cells — Alarming 2026 Study" (3,493 views, Mar 24) + "SENIORS: Add THIS to Your Morning Water — Cancer Starves, Stem Cells Activate, Kidneys Reset" (76,408 views — SURGED from 66K) | **2.4M+ combined** across 6+ videos | Stem Cell → Cancer Prevention → Microplastics 🆕 CROSSOVER → Morning Routine | 🔴 HIGH (now OWNS stem cell niche + ENTERING microplastics territory. Morning Water video surging. Do NOT compete in stem cell. Microplastics window closing.) |
 | **Doctor Eye Health** | "I Used 100% CASTOR OIL Eye Drops for 30 days" | **~568K** (steady) | Eye Health / Natural Remedies | LOW |
-| **Claire Whitmore** ⚡⚡ AGGRESSIVE | "The 3 Heart Medications Most Cardiologists Would Never Take Themselves #2 is DANGER!" (607K) + "What Amlodipine Does to Your Body After 5 Years" (new) + "Can't Walk Straight Anymore?" (42K) + "5 Easy Food Hacks" (104K) + "SENIORS, #1 Bedtime Drink" (est. 800K) | **607K** (heart meds, NEW — biggest video yet) + multiple | Heart Medications 🆕 + Blood Pressure / Food / Meds / Leg Health | 🔴🔴 HIGHEST — NOW ENTERING HEART MEDICATIONS. 607K on new video. Fastest expanding. 137K subs, 71 videos. |
+|| **Claire Whitmore** ⚡⚡ NEW VIDEO | "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Most Seniors Don't Know" (1,747 views, Jun 6 — NEW) + "SENIORS: Why Your Blood Sugar Spikes Overnight" (70K) + "Poor Leg Circulation? 4 Moves" (46K) + "3 Heart Medications Most Cardiologists Would Never Take Themselves" (607K) | **~780K+ combined** (excl. 607K evergreen) + 607K = **~1.4M+** | Blood Pressure Meds 🆕 + Blood Sugar + Leg Health + Heart Meds | 🔴🔴 HIGHEST — NEW BP medication trio video (Jun 6). Expanding to blood sugar. Multi-niche assault: heart meds → blood sugar → leg circulation → BP nutrition. |
 | **Dr. James Hargrove** | "He Died In His Sleep From Doing This" | 866K+ (evergreen) | Heart/Stroke Warning | HIGH (multi-ID) |
 | **Dr. Richard Ben** | "No.1 Oncologist Reveals SIMPLE Daily Habit Prevents Cancer After 50" | **382K-405K** (growing) + 830K (urologist) | Multi-specialty (Onc/Uro/Nephro) | HIGH (multi-ID) |
-| **Dr. Franklin** | Body shock + medication/dementia videos | **304K** (body shock) + 714K (urologist) + 198K (dementia) | Body Shock → Medications → Urology | MEDIUM-HIGH (expanding to urology) |
+| **Dr. Franklin** ⚡ NAIL COPYCAT | "Neurologist Alerts Seniors These Nail Changes After 60 May Signal 4 Hidden Diseases" (83 views, Jun 6 — COPYCAT of Dr. Kane's nail concept) + "If Your Ears Are RINGING" (21K) + Body shock (304K) + Urology (714K) + Blood Type (320K) | **304K + 714K + 320K + 241K + 21K + 198K = ~1.8M+** | Body Shock → Nail Health 🆕 COPYCAT → Urology → Ears → Meds | HIGH — **Copied Dr. Kane's nail health concept within 24 hours of discovery.** Fastest format copier in the niche. |
 | **Senior Health Blog** (SENIOR FOOD BLOG) | "Add THIS one powerful food to your breakfast" | **1.5M** (breakfast video, up from ~550K) | Diabetes / Senior Nutrition / Muscle Loss | MEDIUM-HIGH (breakfast video exploded to 1.5M) |
 | **Dr. James Cross** | "SWOLLEN ANKLES? It's Not Your Heart. Drain Your Legs in 5 Minutes" (35K) + "Your Legs Get Weak First! Eat These 6 Foods to Strengthen Them FAST" (59K) + "This ONE Vitamin Fixes Leg Circulation (And It's NOT Magnesium!)" (7.8K) | **59K** (legs weak) + 35K (ankles) + 7.8K | Leg Health / Swollen Ankles 🆕 / Food Pairing | 🟡 MEDIUM-HIGH (entering swollen ankles niche — overlap with Dr. Kane's VID-009) |
 | **Dr. Nathaniel Brooks** | "If You Wake Up With Dry Mouth" | **229K** (steady) | General Senior Health / Body Signals | LOW |
@@ -62,16 +62,40 @@
 | **Self-screening protocols** | NONE | 🟢 NEW — At-home medical checks for seniors |
 | **Lab test advocacy** | NONE | 🟢 NEW — Word-for-word doctor conversation scripts |
 
-## Key Events This Period (June 6)
+## Key Events This Period (June 7)
 
-### Dr. Kane Content Released
+- **⚡⚡ Claire Whitmore launches BP medication trio video** (Jun 6): "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Most Seniors Don't Know" — covers THREE major BP drug classes simultaneously. New wider-capture format. 1,747 views in first day.
+- **⚡ Dr. Waterling "Mini Stroke" video** (Jun 6): "Mini Stroke Warning Signs: Your 90-Day Stroke Window Explained" — new temporal framing for TIA content.
+- **⚡⚡⚡ Dr. Franklin COPIES Dr. Kane's nail health concept** (Jun 6): "Neurologist Alerts Seniors These Nail Changes After 60 May Signal 4 Hidden Diseases" — uploaded within 24 hours of window being identified. Nail niche window CLOSED.
+- **⚡ Doctor Becker's "Morning Water" video SURGES** (Jun 7): From 66K to 76,408 views. Stem cell portfolio growing.
+- **⚡ Doctor Becker enters microplastics**: "Plastic Found INSIDE Your Body's Cells" (3,493 views) — crossover into Dr. Kane's territory.
+- **⚡ Dr. Michael Kent launches "Would NEVER Get" format**: "Doctor CONFESSES: The 5 Intestinal Tests He Would NEVER Get After 60" — authority contradiction applied to medical procedures (not medications).
+- **⚡ Senior Health Blog "paradox food" expansion**: "5 Best Ice Creams for High Blood Sugar" — contradiction-based food content for diabetics. Following 1.5M breakfast video formula.
+- **Microplastics niche HEATING UP**: Multiple small channels entering, but all under 3.5K views. Becker is only channel at scale.
+- **"Not Your Heart / It's Your Lymph" frame SATURATING**: At least 4-5 videos with identical titles across multiple channels.
+
+### Competitive Landscape (June 7 — Updated)
+- Whitmore is fastest-expanding competitor: now covering BP meds (trio), blood sugar, leg circulation, heart meds
+- Franklin is fastest copier: nail health concept copied within 24 hours of scan
+- Becker is entering microplastics — Dr. Kane's first-mover window narrowing
+- **No competitor has entered diagnostic gap niche** — window still open
+- **No competitor teaches self-screening protocols** — Dr. Kane still has first-mover advantage
+- **No competitor covers small-fiber neuropathy** — VID-023 is first-mover (NEW June 7)
+- **No competitor covers organ-specific breath odor** — VID-024 is first-mover (NEW June 7)
+- **Nail health window CLOSED** — Franklin already copied
+- **Body signals niche HEATING** — prioritize VID-023 and VID-024 production
+- **New June 7 idea list generated** — 10 ideas, all scoring 15+. Top: I113 (Burning Feet, 22), I111 (Morning Joint Stiffness, 21), I114 (Scale Deception, 21), I119 (Restless Legs, 21)
+- **10 new video ideas generated** — June 6 idea list. Top scores: I109 (Blood Sugar/Dawn Phenomenon, 21), I104 (Sleep/Oxygen Drop, 21), I107 (Thyroid/Temperature Test, 20), I110 (Trigger Finger, 20).
+- **3 new title patterns discovered** — P020 (Lab Test Mask + Prediction), P021 (Specialty: Body Part Reveals Hidden Risk), P022 (Test Looks Normal But Organ Failing).
+- **3 new title patterns generated June 7** — P030 (Test That Misses Condition), P031 (Body Part Changed Hidden Causes), P032 (Body Signal Map Patterns).
+- **VID-023 (Burning Feet) script completed** — June 7. Small-fiber neuropathy diagnostic gap. Skin punch biopsy gold standard. 3 treatable causes. 5 studies cited. 16/0 safety pass.
+- **VID-024 (Breath Odor) script completed** — June 7. Organ-specific breath odor map (fruity=DKA, ammonia=kidney, fecal=obstruction, musty=liver). SGLT2-euglycemic DKA warning. Wrist-lick self-test. 4 studies cited. 17/0 safety pass.
 - **VID-021 (Heartbeat/Stroke) script completed** — June 6. Paroxysmal AFib detection gap. 30-second weekly pulse check protocol. "Silent AFib Cycle" framework. Microvascular-AFib connection (60% higher incidence). 5 studies cited. 12/0 safety pass.
 - **VID-022 (Kidney Test) script completed** — June 6. Sarcopenia-creatinine paradox. Cystatin C superiority (NEJM 2023). BUN-to-creatinine ratio as free screening tool. KDIGO guideline citation. 5 studies cited. 14/0 safety pass.
 - **VID-SHORT-008 and VID-SHORT-009 scripts completed** — YouTube Shorts teasers for VID-021 and VID-022.
-- **10 new video ideas generated** — June 6 idea list. Top scores: I109 (Blood Sugar/Dawn Phenomenon, 21), I104 (Sleep/Oxygen Drop, 21), I107 (Thyroid/Temperature Test, 20), I110 (Trigger Finger, 20).
-- **3 new title patterns discovered** — P020 (Lab Test Mask + Prediction), P021 (Specialty: Body Part Reveals Hidden Risk), P022 (Test Looks Normal But Organ Failing).
+- **VID-SHORT-010 and VID-SHORT-011 scripts completed** — YouTube Shorts teasers for VID-023 and VID-024.
 
-### Competitive Landscape (No New Scans Today — Last Scan May 26)
+### Competitive Landscape (Prior Scans)
 - No new competitor data collected today (scheduled scan was not triggered)
 - Last known: Claire Whitmore expanding aggressively, Becker owns stem cell, Cross entered swollen ankles
 - **No competitor has entered diagnostic gap niche** — window still wide open
