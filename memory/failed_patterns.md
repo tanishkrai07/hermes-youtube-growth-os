@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-07
+> **Last Updated:** 2026-06-8
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -192,3 +192,25 @@
 - **Never recommend stopping SGLT2 inhibitors** — frame as "if you notice fruity breath, call your doctor promptly"
 - **Never show panic-inducing organ failure imagery in thumbnails** — "organ signal" not "organ failure"
 - **Always include differential diagnosis context** — burning feet rarely indicates just one condition; breath changes have benign explanations too
+
+### New Safety Boundaries (VID-027 / VID-028 Production)
+- **Never tell viewers to refuse prescribed antibiotics** — frame as "ask about alternatives" not "don't take Cipro"
+- **Never tell viewers to stop beta-blockers abruptly** — withdrawal is dangerous; frame as "discuss timing with your doctor"
+- **Never tell viewers to self-supplement magnesium without lab work** — excess magnesium is dangerous with kidney disease
+- **Never tell viewers to self-adjust diabetes medications** — always "discuss with your doctor"
+- **Never tell viewers to stop taking fluoroquinolones mid-course** — frame as "for future infections, ask about alternatives"
+- **Never diagnose tendon rupture from symptoms alone** — frame as "report tendon pain immediately to prescriber"
+- **Never diagnose nocturnal hypoglycemia without testing** — frame as "ask about 3 AM glucose monitoring"
+- **Never recommend stopping sulfonylureas without doctor supervision** — frame as "ADA 2024 recommends discussing alternatives"
+
+### New Failure Patterns (June 8 Competitor Scans)
+
+#### Waterling Suppression = Opportunity, Not Invitation to Copy
+- **What happened:** Dr. Waterling's channel was suppressed (1.5M-view channel now at 1-20 views). This opens the stroke niche but does NOT mean Dr. Kane should copy Waterling's content style.
+- **Lesson:** Suppressed competitors leave gaps, but filling those gaps requires Dr. Kane's unique approach (mechanism + diagnostic gap), not their format.
+- **Fix:** Produce stroke prevention content using Dr. Kane's diagnostic gap framework, not Waterling's "day before" format.
+
+#### Firecrawl API Credits Exhausted
+- **What happened:** Search infrastructure went down mid-scan. Competitor data was incomplete (direct YouTube HTML scraping only).
+- **Lesson:** Infrastructure dependencies must be monitored. A scan with incomplete data is worse than no scan at all.
+- **Fix:** Refill Firecrawl credits immediately. Implement credit monitoring alert.

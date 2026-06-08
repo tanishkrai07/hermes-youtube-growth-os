@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-07
+> **Last Updated:** 2026-06-08
 
 ## Top Performing Title Formulas
 
@@ -333,7 +333,11 @@
 || VID-025 A | Charcoal (#37474F) | Amber (#FF8F00) | Coral (#FF6F61) | New — Brief |
 || VID-025 B | Slate blue (#263238) | Salmon (#FF8A80) | Gray (#E0E0E0) | New — Brief |
 || VID-026 A | Midnight navy (#0D1B2A) | Golden amber (#FFC107) | Electric red (#FF1744) | New — Brief |
-|| VID-026 B | Warm gray/white split | Assertive red (#D50000) | Metabolic green (#00C853) | New — Brief — FIRST split bg |
+||| VID-026 B | Warm gray/white split | Assertive red (#D50000) | Metabolic green (#00C853) | New — Brief — FIRST split bg |
+||| VID-027 A | Deep medical blue (#0D47A1) | Warning red (#D32F2F) | Amber (#FDD835) | New — Brief |
+||| VID-027 B | Dark charcoal (#263238) | Electric red (#FF1744) | Clinical white (#FFFFFF) | New — Brief |
+||| VID-028 A | Midnight purple (#1A0033) | Electric cyan (#00E5FF) | Warning red (#D32F2F) | New — Brief |
+||| VID-028 B | Deep teal (#004D40) | Bright orange (#FF6D00) | Clean white (#FFFFFF) | New — Brief |
 
 ### Proven Thumbnail Formulas (from competitor analysis)
 1. **"Concerned Doctor"** — Empathetic face + problem text + solution hint (highest trust)
@@ -369,7 +373,9 @@
 |||| 2026-06-06 | VID-021 (Heartbeat/Stroke) | A: The Pulse Pattern, B: The Silent Stroke | Complete |
 |||| 2026-06-06 | VID-022 (Kidney Test) | A: The Creatinine Mask, B: The Hidden Number | Complete |
 ||||| 2026-06-07 | VID-025 (Muscle Loss) | A: The Muscle Clock, B: The Shrinking Arm | New Brief |
-||||| 2026-06-07 | VID-026 (Dawn Phenomenon) | A: The 3 AM Liver Dump, B: The Blame Game | New Brief |
+|||||| 2026-06-07 | VID-026 (Dawn Phenomenon) | A: The 3 AM Liver Dump, B: The Blame Game | New Brief |
+||||||| 2026-06-08 | VID-027 (Antibiotic Tendon) | A: The Silent Rupture, B: The Arrow of Danger | New Brief |
+||||||| 2026-06-08 | VID-028 (Nocturnal Hypoglycemia) | A: The 3 AM Wake-Up, B: The Three-Drug Trap | New Brief |
 
 ## Cross-Linking Strategy (Updated 2026-06-07)
 - VID-001 end screen → VID-002 (once published)
@@ -386,3 +392,35 @@
 - VID-024 end screen → VID-023 (burning feet)
 - VID-SHORT-010 → VID-023 (teaser → full)
 - VID-SHORT-011 → VID-024 (teaser → full)
+
+---
+
+## New Patterns Added 2026-06-08
+
+### New Title Formulas (June 8)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P058 | "Your [Mental Health] And [Physical Condition] Share One [Hidden Cause] — And It's Not What You Think" | Claire Whitmore | 1,805 (12h) |
+| P059 | "[Quantity] [Food] Before [Meal]. [Metric] X% in [Timeframe]" | Senior Health Blog | 5,973 (7d) |
+| P060 | "She died in her sleep after [Action]! I beg you to stop" | Senior Health Blog | 5,907 (2w) |
+| P061 | "How to Reverse [Condition] — What Actually Works (Doctor Explains)" | Kent / Whitmore | 462K / 393K |
+| P062 | "[X] Popular Medications That Can Trigger Rapid [Condition]" | Dr. Michael Kent | 892K |
+| P063 | "What's the Best [Metric] for Older Adults? (Know the Real Truth)" | Dr. Michael Kent | 1.3M |
+| P064 | "The [Number] Medical [Procedures] I Would NEVER Get After [Age]" | Dr. Michael Kent | 583K |
+
+### New Viral Formats (June 8)
+1. **"Anxiety Crosstalk" format** — Whitmore: connects mental health to physical condition via hidden cause. 1.8K views in 12h. ADAPTABLE for Dr. Kane with diagnostic gap angle.
+2. **"Precision Nutrition" format** — "One Clove Before Dinner. Cuts A1C 11% in 21 Days" (6K, 7d). Highly copyable: Specific quantity + food + metric + timeframe.
+3. **"Death Drinking/Action" format** — "She died in her sleep after DRINKING THIS! I beg you to stop" (5.9K, 2w). Death fear + common action + emotional plea.
+4. **"Real Truth" format** — Kent's 1.3M mega-hit: "What's the Best [Metric] for Older Adults? (Know the Real Truth)." Question + "Real Truth" qualifier = massive scale.
+5. **Authority Contradiction: Medical Procedures** — "The 5 Medical Checkups I Would NEVER Get After 60" (583K). Extended from medications to tests/procedures at scale.
+
+### Updated Hook Rankings (June 8)
+- #1: **"Real Truth" hook** — "What's the Best [Metric] for Older Adults? (Know the Real Truth)" (1.3M, Kent) ⚡ NEW #1
+- #2: "The Day Before" hook — (1.5M, Waterling — now suppressed)
+- #3: **"How to Reverse" hook** — "How to Reverse [Condition] — What Actually Works (Doctor Explains)" (462K Kent / 393K Whitmore)
+- #4: "The ONE" hook
+- #5: **"NEVER Get/Take" authority contradiction** — Now working for both medications (892K) AND medical procedures (583K)
+- #6: "#1 Best" hook
+- #7: Death fear hook
+- #8: **"Precision Nutrition" hook** — NEW: Specific numbers create credibility (6K, early)

@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-07
+> **Last Updated:** 2026-06-08
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -204,6 +204,44 @@
     - Purpose: Teaser for VID-024 long-form
     - Status: READY FOR PRODUCTION
 
+### New Videos Added June 8
+
+21. **VID-027 (Long-form):** "The Antibiotic That Destroyed My Patient's Tendon — The 6-Month Danger Window After 60"
+    - Script: COMPLETE (June 8 script package, ~2,650 words, 3 studies, 9 retention hooks)
+    - Score: 23/20 (highest in June 8 idea list)
+    - Unique angle: Fluoroquinolone (Cipro/Levaquin/Avelox) tendon rupture — magnesium chelation mechanism; 6-month danger window after last dose; FDA black box warning; 3-question doctor conversation script
+    - Structure: Direct confrontation → Drug identification → Mechanism deep-dive (magnesium chelation) → Risk stratification → 6-month timeline revelation → 3 warning signs → Doctor conversation protocol → Clinical guidance → Warm close
+    - Original insight: "Six-Month Danger Window" framework + magnesium chelation at atomic level + corticosteroid-FQ 3-5x risk multiplier + three-question doctor conversation script
+    - Key studies: FDA black box warning (2008-2018), ~3.2 ruptures per 10,000 FQ Rx in over-60s, CDC antibiotic prescribing guidelines
+    - Upload target: Tuesday, June 17, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-028 (Nocturnal Hypoglycemia)
+    - Safety: 19 PASS / 0 FAIL
+    - Status: READY FOR PRODUCTION
+
+22. **VID-SHORT-012 (Short):** "The Antibiotic That Still Dangers Your Tendons 6 Months Later"
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 19, 2026
+    - Purpose: Teaser for VID-027 long-form
+    - Status: READY FOR PRODUCTION
+
+23. **VID-028 (Long-form):** "Why You Wake Up Sweaty and Confused After 60 — The 3 AM Blood Sugar Crash Your Doctor Isn't Testing"
+    - Script: COMPLETE (June 8 script package, ~2,680 words, 3 studies, 9 retention hooks)
+    - Score: 22/20 (second highest in June 8 idea list)
+    - Unique angle: Nocturnal hypoglycemia from three-drug interaction (sulfonylurea + beta-blocker + ACE inhibitor); beta-blocker masks hypoglycemia symptoms; HbA1c blind spot; 3 AM self-detection protocol; ADA 2024 sulfonylurea avoidance recommendation
+    - Structure: Medical mystery story (Miriam's baffling symptoms) → Physiology foundation → Three-drug interaction stack → Why the system misses it → Self-detection protocol → Doctor conversation framework → Emergency guidance → Patient resolution story
+    - Original insight: "The Muted Alarm" framework (beta-blocker selectively masks beta-adrenergic symptoms) + three-drug convergence model + HbA1c blind spot math + 3 AM Protocol (zero-cost self-testing tool)
+    - Key studies: ADA Standards of Care 2024 (sulfonylurea avoidance in older adults), Diabetes Care 2023 (88% of nocturnal episodes missed on standard monitoring), ACE inhibitor insulin sensitivity data
+    - Upload target: Thursday, June 19, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-027 (Antibiotic Tendon Danger)
+    - Safety: 19 PASS / 0 FAIL
+    - Status: READY FOR PRODUCTION
+
+24. **VID-SHORT-013 (Short):** "Your Meds Might Be Dropping Your Blood Sugar at 3 AM"
+    - Script: COMPLETE (~160 words)
+    - Upload target: June 21, 2026
+    - Purpose: Teaser for VID-028 long-form
+    - Status: READY FOR PRODUCTION
+
 ### New Videos Added June 6
 
 13. **VID-021 (Long-form):** "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke"
@@ -282,6 +320,10 @@
 - VID-024 (Breath Odor) → VID-023 (Burning Feet) via end screen
 - VID-SHORT-010 → VID-023 (teaser → full)
 - VID-SHORT-011 → VID-024 (teaser → full)
+- VID-027 (Antibiotic Tendon) → VID-028 (Nocturnal Hypoglycemia) via end screen
+- VID-028 (Nocturnal Hypoglycemia) → VID-027 (Antibiotic Tendon) via end screen
+- VID-SHORT-012 → VID-027 (teaser → full)
+- VID-SHORT-013 → VID-028 (teaser → full)
 - This creates a content ecosystem that keeps viewers in the channel
 
 ### New Insights from May 26 Scans
@@ -297,8 +339,15 @@
 - **YouTube automation reports identify medical niches as "most profitable for 2026"** — MORE competitors will enter. Speed-to-market critical.
 - **McGill AI health misinformation study continues gaining mainstream traction** — POSITIVE for Dr. Kane's authentic approach.
 
-### New Insights from June 7 Scans
-- **Dr. Franklin COPIED Dr. Kane's nail health concept within 24 hours** — "Neurologist Alerts Seniors These Nail Changes After 60 May Signal 4 Hidden Diseases" (83 views, Jun 6). Franklin is the fastest format copier in the niche. Nail health window CLOSED.
+### New Insights from June 8 Scans
+- **Dr. Waterling CHANNEL SUPPRESSED:** All 14 recent uploads showing 1-20 views. Former 1.5M-view stroke video now at 1 view. Channel caught by YouTube enforcement (likely McGill AI study fallout). Stroke niche window is NOW OPEN. First-mover opportunity.
+- **⚡ Dr. Michael Kent's 1.3M MEGA-HIT discovered:** "What's the Best Blood Pressure for Older Adults? (Know the Real Truth)" — biggest single video in elder health niche. Kent now most successful competitor by total view count (also 892K dementia meds + 583K medical checkups).
+- **⚡ Claire Whitmore "Reverse Hypertension" at 393K:** Her breakout video. Plus new "Anxiety-Mineral" format (1.8K, 12h ago) connecting mental health to physical condition via hidden cause.
+- **⚡ Dr. Franklin's multi-ID nail strategy at PEAK RISK:** 8+ identical nail videos across multiple IDs. Main at 114K. YouTube enforcement time bomb.
+- **⚡ Senior Health Blog "Precision Nutrition" format:** "One Clove Before Dinner. Cuts A1C 11% in 21 Days" (6K, 7d). High-precision format with specific numbers. Highly copyable.
+- **⚡ Senior Health Blog "Death Drinking" format:"** "She died in her sleep after DRINKING THIS! I beg you to stop" (5.9K, 2w).
+- **⚠️ Firecrawl API CREDITS EXHAUSTED:** Search infrastructure DOWN. Must refill for future scans.
+- **Stroke prevention niche VACANT:** Waterling's suppression opens a 1.5M-view slot. Recommend combining with diagnostic gap framework.
 - **Claire Whitmore launches BP medication trio video** — "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Most Seniors Don't Know" (1,747 views, Jun 6). New wider-capture format covering 3 drug classes simultaneously. Adaptable for Dr. Kane with mechanism-first approach.
 - **Doctor Becker's "Morning Water" video SURGES** — From 66K to 76,408 views in one day. Becker now has microplastics content ("Plastic Found INSIDE Your Body's Cells" — 3,493 views). ENTERING Dr. Kane's microplastics territory.
 - **Microplastics niche HEATING UP** — Multiple small channels entering (all under 3.5K views). Becker is only channel at scale. First-mover window CLOSING but not yet closed.
