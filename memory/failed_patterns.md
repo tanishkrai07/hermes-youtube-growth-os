@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-8
+> **Last Updated:** 2026-06-09
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -214,3 +214,37 @@
 - **What happened:** Search infrastructure went down mid-scan. Competitor data was incomplete (direct YouTube HTML scraping only).
 - **Lesson:** Infrastructure dependencies must be monitored. A scan with incomplete data is worse than no scan at all.
 - **Fix:** Refill Firecrawl credits immediately. Implement credit monitoring alert.
+
+### New Failure Patterns (June 9 Competitor Scans)
+
+#### Whitmore's Multi-ID Strategy Confirmed
+- **What happened:** Claire Whitmore confirmed running a second ID "Dr. Claire MD" (UCGCXZo_qij6LLpSHGDYwcJg) with identical content at 47K views.
+- **Lesson:** Multi-ID is becoming common among top competitors (Franklin 7+, Carter 3, Whitmore 2). YouTube enforcement will likely target these.
+- **Fix:** Dr. Kane must NEVER use multi-ID strategy. One channel, one upload. This is a competitive ADVANTAGE as enforcement increases.
+
+#### "INSTANTLY" Format Dominance Without Mechanism Depth
+- **What happened:** Whitmore's "3 Breathing Tricks To INSTANTLY Lower BP" at 700K views proves the "INSTANTLY" hook is the #1 performing format — but it's pure promise without mechanism explanation.
+- **Lesson:** Promising immediate results without explaining WHY creates a trust gap. Viewers who feel misled don't return.
+- **Fix:** If using "INSTANTLY" framing, always follow with mechanism explanation. "The [Action] That [Result] INSTANTLY After 60 — Here's WHY It Works."
+
+#### AI Channel-Building Playbook Now Public
+- **What happened:** "AI Maskman" video at 17K views reveals how to build senior health channels with AI. This could accelerate low-quality competitor entry.
+- **Lesson:** More low-quality AI channels will enter the niche. Dr. Kane's authentic, well-sourced approach is the defensive moat.
+- **Fix:** Double down on original commentary, real studies, and mechanism depth. These are the differentiators that AI channels can't replicate.
+
+#### BBC Mainstream Scrutiny of Health Misinformation
+- **What happened:** BBC News video about harmful health misinformation at 1.8M views signals mainstream media scrutiny.
+- **Lesson:** Health content accuracy is now a mainstream media story. Inaccurate channels face reputational and platform risk.
+- **Fix:** Dr. Kane's authentic, well-sourced approach is increasingly advantaged. Maintain strict citation standards.
+
+#### Hargrove Entering Diagnostic Gap Space
+- **What happened:** Dr. Hargrove launched "5 Blood Tests Every Senior Must Demand" at 5,890 views — directly overlapping with Dr. Kane's diagnostic gap positioning.
+- **Lesson:** Even weak competitors entering your niche can fragment the audience. First-mover advantage erodes with each new entrant.
+- **Fix:** Accelerate diagnostic gap content production. VID-021 (AFib detection gap) and VID-022 (creatinine mask) must be uploaded on schedule to maintain first-mover position.
+
+#### New Safety Boundaries (VID-029 / VID-030 Production — Anticipated)
+- **Never tell viewers they have leaky gut without testing** — frame as "discuss intestinal permeability testing with your doctor"
+- **Never tell viewers their scale is "lying" in thumbnails** — "what your scale doesn't tell you" is accurate without being anti-doctor
+- **Never tell viewers to request specific tests without context** — frame as informed dialogue, not demands
+- **Never diagnose autoimmune disease from Raynaud's alone** — frame as "ask about ANA testing if fingertips go white"
+- **Never tell viewers their lymph nodes indicate heart failure** — frame as "mention swollen nodes to your doctor as one data point"

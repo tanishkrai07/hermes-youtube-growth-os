@@ -1,0 +1,46 @@
+{
+  "Claire Whitmore": {
+    "source": "invidious:https://y.com.sb",
+    "videos": [
+      {
+        "title": "",
+        "videoId": "",
+        "viewCount": 0,
+        "published": 0,
+        "url": "https://www.youtube.com/watch?v="
+      },
+      {
+        "title": "",
+        "videoId": "",
+        "viewCount": 0,
+        "published": 0,
+        "url": "https://www.youtube.com/watch?v="
+      },
+      {
+        "title": "",
+        "videoId": "",
+        "viewCount": 0,
+        "published": 0,
+        "url": "https://www.youtube.com/watch?v="
+      },
+      {
+        "title": "",
+        "videoId": "",
+        "viewCount": 0,
+        "published": 0,
+        "url": "https://www.youtube.com/watch?v="
+      },
+      {
+        "title": "",
+        "videoId": "",
+        "viewCount": 0,
+        "published": 0,
+        "url": "https://www.youtube.com/watch?v="
+      }
+    ]
+  },
+  "Dr. Michael Kent": {
+    "source": "failed",
+    "videos": []
+  }
+}

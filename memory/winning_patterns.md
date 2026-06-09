@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-08
+> **Last Updated:** 2026-06-09
 
 ## Top Performing Title Formulas
 
@@ -424,3 +424,56 @@
 - #6: "#1 Best" hook
 - #7: Death fear hook
 - #8: **"Precision Nutrition" hook** — NEW: Specific numbers create credibility (6K, early)
+
+---
+
+## New Patterns Added 2026-06-09
+
+### New Title Formulas (June 9)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P065 | "SENIORS, [Number] [Action] Tricks To INSTANTLY [Health Claim]" | Claire Whitmore | 700K |
+| P066 | "Which [Metric A] or [Metric B] is More DANGEROUS? (Topic Explanation)" | Claire Whitmore | 451K |
+| P067 | "Are You Taking Your [Medication] at the WRONG Time? (Doctor Reveals Secret #X)" | Claire Whitmore | 209K |
+| P068 | "[Mistake] Is Making You Sicker (Do This Instead)" | Claire Whitmore | 134K |
+| P069 | "Seniors: This Is the WORST Type of [Body Output] — It Indicates [Disease]" | Dr. Michael Kent | 70K |
+| P070 | "AFTER [Age]? The SHOCKING $[Price] Food That [Health Claim] Faster Than [Common Belief]" | Dr. Michael Kent | 8.4K |
+| P071 | "[Age]? [Food Category] You MUST Eat — and [Food Category] You Should NEVER Eat" | Dr. Michael Kent | 31K |
+| P072 | "You Could Live [Number] More Years After [Age] — Try Doing This In The Morning" | Dr. Michael Kent | 2K |
+| P073 | "Top [Number] BEST [Food Category] for [Condition] To Eat ([Benefit])" | Senior Health Blog | 560K |
+| P074 | "Zero [Disease] In [Location] For [Time Period]. One Meal Pattern" | Senior Health Blog | 353K |
+| P075 | "Doctor Warns This Top [Number] Essential [Mineral/Vitamin] Raises Your [Metric] Level" | Senior Health Blog | 4.7K |
+| P076 | "NEVER Take [Supplement A] With [Supplement B] After [Age]!" | Dr. James Hargrove | 7.1K |
+| P077 | "The [Number] Blood Tests Every Senior Must Demand From Their Doctor" | Dr. James Hargrove | 5.9K |
+| P078 | "Stop Chasing [Common Target]! Real [Metric] Targets for Seniors REVEALED" | Dr. Paul Bennett (NEW) | 2 |
+
+### New Viral Formats (June 9)
+1. **"INSTANTLY" format** — "3 Breathing Tricks To INSTANTLY Lower Blood Pressure" (700K, Whitmore). Promises immediate results. ADAPTABLE for Dr. Kane with mechanism angle.
+2. **"Which is More DANGEROUS" binary comparison** — "Which BP Number is More DANGEROUS? (Systolic vs. Diastolic)" (451K, Whitmore). Binary comparison creates curiosity + authority. HIGHLY ADAPTABLE.
+3. **"Secret #X" curiosity gap** — "Doctor Reveals Secret #4" (209K, Whitmore). Numbered secrets imply hidden knowledge. ADAPTABLE.
+4. **"WRONG Time" medication format** — "Are You Taking Your BP Pill at the WRONG Time?" (209K, Whitmore). Questions the reader's current behavior. ADAPTABLE.
+5. **"WORST Type of [Body Output]" format** — "Worst Type of Stool — Indicates Cancer" (70K, Kent). Superlative + body output + disease. EMERGING.
+6. **"SHOCKING $X Food" format** — "$1 Food That Builds Muscle Faster Than Protein" (8.4K, Kent). Specific price + superlative + comparison. EARLY.
+7. **"MUST Eat / NEVER Eat" binary food list** — "Nuts You MUST Eat — and Nuts You Should NEVER Eat" (31K, Kent). Binary categorization of foods. ADAPTABLE.
+8. **"Zero Disease In [Location]" geographic paradox** — "Zero Diabetes In Japanese Village For 400 Years" (353K, Senior Blog). Geographic anomaly + meal pattern. ADAPTABLE for other conditions.
+9. **"Live X More Years" longevity promise** — "You Could Live 30 More Years After 65" (2K, Kent). Longevity promise + morning habit. EARLY.
+10. **"NEVER Take [Supplement] With [Supplement/Med]" interaction format** — "NEVER Take B12 With THESE 2 Medications" (7.1K, Hargrove). Supplement interaction warnings. EMERGING.
+11. **"Blood Tests You Must Demand" diagnostic advocacy** — "5 Blood Tests Every Senior Must Demand" (5.9K, Hargrove). Empowerment + specific action. ADAPTABLE — overlaps with Dr. Kane positioning.
+12. **"Stop Chasing [Target]" contrarian health targets** — "Stop Chasing 120/80!" (2 views, Bennett). Contrarian take on common health targets. VERY EARLY.
+
+### Updated Top Hook Rankings (June 9)
+- #1: **"INSTANTLY" hook** — "3 Breathing Tricks To INSTANTLY Lower BP" (700K, Whitmore) ⚡ NEW #1
+- #2: "Real Truth" hook — "What's the Best [Metric] for Older Adults?" (1.3M, Kent)
+- #3: "The Day Before" hook — (1.5M, Waterling — now suppressed)
+- #4: **"Which is More DANGEROUS" hook** — Binary comparison (451K, Whitmore) ⚡ NEW TOP 5
+- #5: "Forget [X] — This [Y]" hook — (956K, Kent)
+- #6: "The ONE" hook — (595K, Whitmore)
+- #7: **"Secret #X" hook** — Numbered secrets (209K, Whitmore) ⚡ NEW TOP 10
+- #8: "How to Reverse" hook — (462K Kent / 393K Whitmore)
+- #9: "#1 Best" hook — (719K, Kent)
+- #10: **"BEST X for [Condition]" hook** — (560K, Senior Health Blog) ⚡ NEW TOP 10
+- #11: "NEVER Get/Take" authority contradiction — (892K Kent / 583K)
+- #12: Death fear hook — (866K, Hargrove)
+- #13: **"Zero Disease In [Location]" hook** — (353K, Senior Blog) ⚡ NEW
+- #14: **"WRONG Time" medication hook** — (209K, Whitmore) ⚡ NEW
+- #15: **"WORST Type" hook** — (70K, Kent) ⚡ NEW

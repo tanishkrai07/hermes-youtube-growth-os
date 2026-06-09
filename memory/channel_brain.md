@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-08
+> **Last Updated:** 2026-06-09
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -356,3 +356,20 @@
 - **Senior Health Blog "paradox food" expansion** — "5 Best Ice Creams for High Blood Sugar" (8 views, Jun 4). Contradiction-based food content. Following 1.5M breakfast video formula.
 - **Diagnostic gap niche STILL UNCLAIMED** — No competitor has entered. VID-021 (AFib detection gap) and VID-022 (creatinine mask) are first-mover. Window still open.
 - **Body signals niche HEATING UP** — Franklin copied nails, multiple channels entering body signal space. Speed-to-market critical for VID-023 (burning feet) and VID-024 (breath odor).
+
+### New Insights from June 9 Scans
+- **⚡⚡⚡ Claire Whitmore 700K MEGA-HIT confirmed:** "3 Breathing Tricks To INSTANTLY Lower Blood Pressure" at 700,412 views — her biggest video ever. "INSTANTLY" format is now the #1 performing title pattern.
+- **⚡⚡ Whitmore multi-ID confirmed:** "Dr. Claire MD" (UCGCXZo_qij6LLpSHGDYwcJg) running identical content at 47K views. YouTube enforcement risk.
+- **⚡⚡ Dr. Michael Kent eye DOMINANCE at scale:** "Forget Carrots — Tiny Seed Repairs Eyes" at 955,791 ("Forget X — Y" = #1 title format) + "Best Fruit Before Bed for Eyes" at 719,244. Kent owns the eye niche with 1.7M+ combined.
+- **⚡ Kent enters stool-cancer + muscle loss + blood sugar niches simultaneously:** Multi-niche expansion accelerating. "$1 Food That Builds Muscle Faster Than Protein" (8.4K), "Worst Type of Stool — Indicates Cancer" (70K).
+- **⚡ Senior Health Blog diabetes DOMINANCE:** "Top 3 BEST FRUITS for DIABETICS" at 559,685 + "Zero Diabetes Japanese Village" at 353K + 2 more at 278K+131K. Diabetes niche effectively OWNED.
+- **⚡ Dr. Waterling suppression Day 3 confirmed:** ALL videos at 2-21 views. No recovery. Stroke niche window WIDE OPEN.
+- **⚡ Dr. Franklin 7+ IDs confirmed:** Main ID at 117K, all others near 0. YouTube enforcement time bomb.
+- **⚡ Dr. Hargrove enters diagnostic gap space:** "5 Blood Tests Every Senior Must Demand" at 5,890 views. Overlaps with Dr. Kane's positioning — monitor closely.
+- **⚡ New competitor Dr. Paul Bennett:** "Stop Chasing 120/80!" — contrarian health target angle (2 views, very early).
+- **⚡ AI Maskman video at 17K:** "How I Built a Senior Health Channel to 200K Using AI" — reveals channel-building playbook.
+- **⚠️ BBC News misinformation coverage at 1.8M views:** Mainstream scrutiny increasing. Authentic content increasingly advantaged.
+- **⚠️ Firecrawl API STILL DOWN:** Credits exhausted since June 8. yt-dlp search used as fallback.
+- **"INSTANTLY" format is #1 performing hook** — Adaptable for Dr. Kane with mechanism angle ("The [Action] That [Result] INSTANTLY After 60 — Here's WHY It Works").
+- **Stroke prevention niche VACANT** — Waterling's suppression opens a 1.5M-view slot. Combine with diagnostic gap framework.
+- **Body signals niche ACCELERATING** — Multiple channels entering (nails, breath, feet, stool, urine). Speed-to-market critical.

@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-08
-**Focus:** VID-027 + VID-028 scripts complete (I130 + I128) | VID-021 through VID-024 ready for upload
-**Priority:** ✅ All memory files updated | Next: VID-021 upload June 10, VID-027 thumbnails for June 17
+**Date:** 2026-06-09
+**Focus:** VID-021 upload June 10 | VID-029 + VID-030 scripts (I126 + I114, both score 21) | Stroke prevention niche WIDE OPEN
+**Priority:** ✅ All memory files updated | Next: VID-021 upload June 10, VID-029/030 scripts, competitor scan #10
 
 ---
 
@@ -24,43 +24,28 @@
 - VID-022 (Kidney Test) — SCRIPT COMPLETE (June 6) — READY FOR UPLOAD June 12
 - VID-023 (Burning Feet) — SCRIPT COMPLETE (June 7) — READY FOR UPLOAD June 11
 - VID-024 (Breath Odor) — SCRIPT COMPLETE (June 7) — READY FOR UPLOAD June 13
-- VID-SHORT-004 through VID-SHORT-011 — SCRIPT COMPLETE
+- VID-027 (Antibiotic Tendon) — SCRIPT COMPLETE (June 8) — Thumbnails needed, upload June 17
+- VID-028 (Nocturnal Hypoglycemia) — SCRIPT COMPLETE (June 8) — Thumbnails needed, upload June 19
+- VID-SHORT-004 through VID-SHORT-013 — SCRIPT COMPLETE
 
-### New Today (June 8) — ALL COMPLETE
+### New Ideas Generated Today (June 9) — TOP 10
 
-**VID-027 (Long-form): "The Antibiotic That Destroyed My Patient's Tendon — The 6-Month Danger Window After 60"**
-- Script: COMPLETE — 2026-06-08_VID-027_antibiotics_tendon_rupture.md
-- Idea ID: I130 | Score: 23/20 (highest in idea bank)
-- Upload target: Tuesday, June 17, 2026 at 2:00 PM EST
-- Unique angle: Fluoroquinolone (Cipro/Levaquin/Avelox) tendon rupture — magnesium chelation mechanism; 6-month danger window after last dose; FDA black box warning; 3-question doctor conversation script
-- Structure: Direct confrontation → Drug identification → Mechanism deep-dive (magnesium chelation) → Risk stratification (age 60+, corticosteroids, kidney function) → 6-month timeline revelation → 3 warning signs → Doctor conversation protocol → Clinical guidance → Warm close
-- Original insight: "Six-Month Danger Window" framework + magnesium chelation at atomic level + corticosteroid-FQ 3-5x risk multiplier + three-question doctor conversation script
-- Key studies: FDA black box warning (2008-2018), ~3.2 ruptures per 10,000 FQ Rx in over-60s, CDC antibiotic prescribing guidelines
-- Cross-link: End screen → VID-028 (Nocturnal Hypoglycemia)
-- Safety: 19 PASS / 0 FAIL
-- Word count: ~2,650
+| Idea ID | Title (short) | Pillar | Score | Status |
+|---------|---------------|--------|-------|--------|
+| I131 | Glasses Prescription Changes | Body Signals/Metabolic | 18 | NEW |
+| I132 | Heavy Legs + 3-Min Vein Test | Vascular/Self-Assessment | 19 | NEW |
+| I092 | Doctor Missed Your Valve | Diagnostic Gap | 18 | PROMOTE↑ |
+| I054 | White Fingertips Autoimmune | Body Signals/Autoimmune | 17 | PROMOTE↑ |
+| I080 | Lymph Node Heart Warning | Cardiovascular/Self-Exam | 18 | PROMOTE↑ |
+| I126 | Leaky Gut Joint Inflammation | Gut-Joint Axis | 21 | PROMOTE↑ URGENT |
+| I133 | Dizzy in Grocery Store | Cardiovascular/Situational | 18 | NEW |
+| I114 | Doctor's Scale Is Lying | Body Composition/Diagnostic | 21 | PROMOTE↑ URGENT |
+| I134 | Mornings Got Shorter | Sleep Architecture | 18 | NEW |
+| I135 | Two Numbers Predict Heart Attack | Diagnostic Gap/Cardio | 19 | NEW |
 
-**VID-SHORT-012 (Short): "The Antibiotic That Still Dangers Your Tendons 6 Months Later"**
-- Script: COMPLETE (~155 words)
-- Upload target: June 19, 2026
-- Purpose: Teaser for VID-027 long-form
-
-**VID-028 (Long-form): "Why You Wake Up Sweaty and Confused After 60 — The 3 AM Blood Sugar Crash Your Doctor Isn't Testing"**
-- Script: COMPLETE — 2026-06-08_VID-028_nocturnal_hypoglycemia.md
-- Idea ID: I128 | Score: 22/20 (second highest in idea bank)
-- Upload target: Thursday, June 19, 2026 at 2:00 PM EST
-- Unique angle: Nocturnal hypoglycemia from three-drug interaction (sulfonylurea + beta-blocker + ACE inhibitor); beta-blocker masks hypoglycemia symptoms; HbA1c blind spot; 3 AM self-detection protocol; ADA 2024 sulfonylurea avoidance recommendation
-- Structure: Medical mystery story (Miriam's baffling symptoms) → Physiology foundation → Three-drug interaction stack → Why the system misses it (timing, HbA1c blind spot, symptom misattribution) → Self-detection protocol (3 AM check, CGM, symptom tracking) → Doctor conversation framework → Emergency guidance → Patient resolution story
-- Original insight: "The Muted Alarm" framework (beta-blocker selectively masks beta-adrenergic symptoms while leaving cholinergic/neuroglycopenic symptoms) + three-drug convergence model + HbA1c blind spot math + 3 AM Protocol (zero-cost self-testing tool)
-- Key studies: ADA Standards of Care 2024 (sulfonylurea avoidance in older adults), Diabetes Care 2023 (88% of nocturnal episodes missed on standard monitoring), ACE inhibitor insulin sensitivity data
-- Cross-link: End screen → VID-027 (Antibiotic Tendon Danger)
-- Safety: 19 PASS / 0 FAIL
-- Word count: ~2,680
-
-**VID-SHORT-013 (Short): "Your Meds Might Be Dropping Your Blood Sugar at 3 AM"**
-- Script: COMPLETE (~160 words)
-- Upload target: June 21, 2026
-- Purpose: Teaser for VID-028 long-form
+### 🔴 URGENT Production Pipeline (Score 20+)
+1. **I126** (Score 21) — Leaky Gut → Joint Inflammation. Script target: VID-029
+2. **I114** (Score 21) — Doctor's Scale Is Lying. Script target: VID-030
 
 ### What NOT to Do
 - Don't tell viewers to change medications based on blood type
@@ -78,10 +63,14 @@
 - Don't tell viewers to self-diagnose small-fiber neuropathy — frame as "ask about skin punch biopsy"
 - Don't tell viewers to self-diagnose from breath odor alone — frame as "mention to doctor as one data point"
 - Don't recommend stopping SGLT2 inhibitors — frame as "call doctor if fruity breath noticed"
-- **NEW:** Don't tell viewers to refuse prescribed antibiotics — frame as "ask about alternatives"
-- **NEW:** Don't tell viewers to stop beta-blockers abruptly — withdrawal is dangerous
-- **NEW:** Don't tell viewers to self-supplement magnesium without lab work
-- **NEW:** Don't tell viewers to self-adjust diabetes medications — always "discuss with your doctor"
+- Don't tell viewers to refuse prescribed antibiotics — frame as "ask about alternatives"
+- Don't tell viewers to stop beta-blockers abruptly — withdrawal is dangerous
+- Don't tell viewers to self-supplement magnesium without lab work
+- Don't tell viewers to self-adjust diabetes medications — always "discuss with your doctor"
+- **NEW:** Don't tell viewers they have leaky gut without testing — frame as "discuss intestinal permeability testing"
+- **NEW:** Don't tell viewers their scale is "lying" in thumbnails — "what your scale doesn't tell you"
+- **NEW:** Don't diagnose autoimmune disease from Raynaud's alone — frame as "ask about ANA testing"
+- **NEW:** Don't tell viewers their lymph nodes indicate heart failure — frame as "mention to doctor as one data point"
 
 ### Anti-Template Rules Reminder
 - Vary the number of items in lists (not always "3 things")
@@ -89,6 +78,7 @@
 - No formulaic "If you're over 60, you need to know this" openings
 - Each script's structure must serve its specific content
 - Use "#" superlative hooks when appropriate (trending over "THE ONE")
+- "INSTANTLY" format is #1 performing hook — adapt with mechanism depth
 
 ### YouTube Policy Compliance Reminder
 - One channel, one upload per video, original content only
@@ -97,14 +87,17 @@
 - No multi-ID upload strategy
 - "Hot take > plain facts" — channels with opinions survive enforcement
 - Every video must include Dr. Kane's original commentary and professional opinion
+- Multi-ID competitors (Franklin 7+, Carter 3, Whitmore 2) are at HIGH enforcement risk
 
-### Key Competitor Threats (Updated June 8)
-- **Claire Whitmore 🔴🔴:** 607K on heart meds video. Amlodipine deep-dive. Fastest-expanding competitor. Do NOT copy — differentiate with mechanism explanations.
-- **Doctor Becker 🔴:** Stem cell EMPIRE: 5+ videos, 2.4M+ combined. OWNS stem cell niche. Do NOT compete.
-- **Dr. Michael Kent 🟠:** Expanding into supplement interactions and "Would NEVER Get" medical procedures format. Consistent performer.
-- **Dr. James Cross 🟡:** Swollen ankles video (35K) — overlap with Dr. Kane's VID-009. Differentiate with vascular mechanism emphasis.
+### Key Competitor Threats (Updated June 9)
+- **Claire Whitmore 🔴🔴:** 700K on breathing video (BIGGEST ever). 451K on BP comparison. 209K on WRONG time. Multi-ID confirmed (Dr. Claire MD 2nd ID at 47K). Fastest-growing competitor.
+- **Dr. Michael Kent 🔴🔴:** Eye niche DOMINANCE (956K+719K=1.7M+). Expanding into stool-cancer (70K), muscle loss (8.4K), blood sugar (4.4K). Most successful by total views.
+- **Senior Health Blog 🔴:** Diabetes niche DOMINANCE (560K+353K+278K+131K=1.3M+). "BEST X for DIABETICS" format at scale.
+- **Dr. Franklin 🔴:** 7+ IDs running identical nail content. YouTube enforcement time bomb. Nail niche CLOSED.
+- **Dr. James Hargrove 🟠:** Entering diagnostic gap space (5.8K). B12+meds interaction (7.1K). Overlaps with Dr. Kane's positioning.
+- **Dr. Waterling 🟢:** PERMANENTLY SUPPRESSED (Day 3). Stroke niche window WIDE OPEN.
 
-### Content Chain (Updated June 8)
+### Content Chain (Updated June 9)
 - VID-002 (Microplastics Brain) → VID-010 (Microplastics Gut) via end screen (series)
 - VID-010 (Microplastics Gut) → VID-009 (Swollen Ankles) via end screen
 - VID-009 (Swollen Ankles) → VID-010 (Microplastics Gut) via end screen
@@ -135,22 +128,22 @@
 | VID-022 (Kidney) | Direct challenge to assumptions | Challenge → Paradox explained → Better marker → Advocacy script | Empowerment + bonus insight (BUN:Cr ratio) + forward tease |
 | VID-023 (Burning Feet) | Sensory immersion ("imagine your feet burning at 11 PM") | Sensory mystery → Normal-test paradox → Small-fiber mechanism → Biopsy revelation → 3 treatable causes → Action protocol | Hope (nerve regeneration) + specific test requests + forward tease |
 | VID-024 (Breath Odor) | Social embarrassment story (Margaret's experience) | Social story → Clinical pivot → Organ breath map (4 patterns) → Emergency red flags → Reassurance → Self-test → Emotional resolution | Patient resolution (Margaret's hugs) + reassurance framework + forward tease |
-| **VID-027 (Antibiotics)** | **Direct confrontation** ("This medication can rupture your tendon") | **Drug ID → Mechanism (Mg chelation) → Risk stratification → 6-month timeline revelation → Warning signs → Doctor conversation protocol → Clinical guidance** | **Patient outcome honesty (David's lasting weakness) + empowerment + warm sign-off** |
-| **VID-028 (Hypoglycemia)** | **Medical mystery story** ("Let me tell you about a patient") | **Mystery presentation → Physiology → 3-drug interaction stack → Why system misses it → Self-detection protocol → Doctor conversation → Emergency guidance → Patient resolution** | **Patient resolution with specific outcome data + warm sign-off** |
+| VID-027 (Antibiotics) | Direct confrontation ("This medication can rupture your tendon") | Drug ID → Mechanism (Mg chelation) → Risk stratification → 6-month timeline revelation → Warning signs → Doctor conversation protocol → Clinical guidance | Patient outcome honesty (David's lasting weakness) + empowerment + warm sign-off |
+| VID-028 (Hypoglycemia) | Medical mystery story ("Let me tell you about a patient") | Mystery presentation → Physiology → 3-drug interaction stack → Why system misses it → Self-detection protocol → Doctor conversation → Emergency guidance → Patient resolution | Patient resolution with specific outcome data + warm sign-off |
 
 ---
 
-## Tomorrow's Priorities (June 9)
+## Tomorrow's Priorities (June 10)
 
 ### 🔴 Critical
-1. **Produce VID-027 Thumbnails** — Two variants: "Concerned Doctor + Achilles" (deep medical blue) + "Cipro → Rupture arrow" (dark charcoal). Upload June 17.
-2. **Produce VID-028 Thumbnails** — Two variants: "3 AM Crash (woman in bed)" (midnight purple) + "Meds → Danger split" (deep teal). Upload June 19.
-3. **Competitor Scan #9** — Check for fluoroquinolone and nocturnal hypoglycemia niche entrants. Verify Waterling suppression status.
+1. **Upload VID-021** — "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke" at 2:00 PM EST
+2. **Produce VID-027 Thumbnails** — Two variants for June 17 upload
+3. **Produce VID-028 Thumbnails** — Two variants for June 19 upload
 
 ### 🟡 Important
-4. **Generate next idea list** — 10 ideas for June 10 session from remaining PENDING_APPROVAL ideas (I121: Spine Curving, I122: Fatty Liver, I123: Dental-Brain, I124: Morning Headache BP, I125: Thick Blood, I126: Leaky Gut Joints, I127: Vibration Sense, I129: Voice Thyroid)
-5. **Begin VID-029 script** — I122: Fatty Liver/Normal Tests, Score 22
-6. **Begin VID-030 script** — I121: Spine Curving/Organ Compression, Score 21
+4. **Begin VID-029 script** — I126: Leaky Gut → Joint Inflammation (Score 21)
+5. **Begin VID-030 script** — I114: Doctor's Scale Is Lying (Score 21)
+6. **Competitor Scan #10** — Check Whitmore "INSTANTLY" trajectory, Kent multi-niche expansion, Waterling Day 4
 
 ### 🟢 When Time Permits
 7. **Create "Medication Dangers Your Doctor Misses" playlist** — VID-027 + VID-028 + VID-021 + VID-022
@@ -162,7 +155,7 @@
 
 | Date | Video | Type | Status |
 |------|-------|------|--------|
-| Tue June 10 | VID-021 (Heartbeat/Stroke) | Long | Thumbnails ready |
+| Tue June 10 | VID-021 (Heartbeat/Stroke) | Long | Thumbnails ready — GO |
 | Tue June 11 | VID-023 (Burning Feet) | Long | Thumbnails need production |
 | Tue June 11 | VID-SHORT-010 (teaser) | Short | Script complete |
 | Thu June 12 | VID-022 (Kidney Test) | Long | Thumbnails ready |
@@ -175,9 +168,15 @@
 
 ## 🔥 URGENT: Stroke Prevention Niche Open
 
-Dr. Waterling's channel suppression (1.5M-view channel now at 1-20 views per video) opens a massive opportunity. **Recommended:** Combine stroke prevention with diagnostic gap framework. No competitor owns this intersection.
+Dr. Waterling's channel suppression (1.5M-view channel now at 2-21 views per video) opens a massive opportunity. **Recommended:** Combine stroke prevention with diagnostic gap framework. I135 (Two Numbers Predict Heart Attack — ApoB + Lp(a)) is the best fit. No competitor owns this intersection.
 
 ---
 
-*Context pack updated: 2026-06-08 after memory curator session*
-*Next update: 2026-06-09 (or next script writing day)*
+## ⚠️ Infrastructure Alert
+
+**Firecrawl API credits STILL EXHAUSTED** (since June 8). All competitor data collected via yt-dlp search fallback. Full scan capability requires credit refill.
+
+---
+
+*Context pack updated: 2026-06-09 after memory curator session*
+*Next update: 2026-06-10 (or next script writing day)*
