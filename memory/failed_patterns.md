@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-09
+> **Last Updated:** 2026-06-10
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -248,3 +248,38 @@
 - **Never tell viewers to request specific tests without context** — frame as informed dialogue, not demands
 - **Never diagnose autoimmune disease from Raynaud's alone** — frame as "ask about ANA testing if fingertips go white"
 - **Never tell viewers their lymph nodes indicate heart failure** — frame as "mention swollen nodes to your doctor as one data point"
+
+### New Failure Patterns (June 10 Competitor Scans)
+
+#### Leg Health Niche Now Saturated
+- **What happened:** Kent (176K+29K), Japan's Oldest Doctor (537K+236K+182K), Whitmore (650K), and Cross (40K) all now competing in leg health. The niche went from "open" to "saturated" in ~72 hours.
+- **Lesson:** Niche saturation can occur within days of a competitor breakout. When a major player (Kent) enters a niche with a 176K-view video, the window closes immediately.
+- **Fix:** Dr. Kane must differentiate with VASCULAR MECHANISM content (endothelial function, valve mechanics, hemodynamics) rather than exercise or general leg health content. Do NOT produce generic leg health videos.
+
+#### GLP-1/Ozempic Niche Emerging Fast
+- **What happened:** Whitmore just entered with "Hidden Truth About Ozempic & Mounjaro" (31 views, 1 day old). This is a RAPIDLY growing content area as GLP-1 drugs become mainstream.
+- **Lesson:** Pharmaceutical trend-chasing is a core competitor strategy. Whitmore enters every emerging drug trend within days.
+- **Fix:** Dr. Kane can own the "Ozempic effects on blood flow/circulation" angle with vascular medicine authority — but must act within days, not weeks.
+
+#### "Emergency Alone" Format Proven at Scale
+- **What happened:** Hargrove's "How to Survive CHOKING When Alone After 60" hit 224,884 views — proving the "How to Survive [Emergency] When Alone After [Age]" format works at scale.
+- **Lesson:** Emergency + alone + specific age + actionable technique = viral format. This is distinct from Dr. Kane's diagnostic gap positioning but could be adapted.
+- **Fix:** Consider adapting to stroke-alone, heart attack-alone, or fall-alone scenarios with Dr. Kane's mechanism-first approach. Do NOT copy Hargrove's fear-based framing.
+
+#### "Japan's Oldest Doctor" Piggyback Strategy
+- **What happened:** A new channel ("Japan's Oldest Doctor") is cross-posting with Kent's content, piggybacking on his 176K-view audience. Top video at 536,824 views.
+- **Lesson:** Cross-posting/piggybacking on established audiences is a growth strategy. May be licensed content or an alternate ID.
+- **Fix:** Monitor closely. If this is a Kent alternate ID, it's a multi-ID enforcement risk. If licensed, it's a new competitor to track.
+
+#### Hargrove Vitamin-Stroke Content Overlap
+- **What happened:** Hargrove launched "4 Vitamins SILENTLY Causing Stroke After 65" at ~8.2K views — directly overlapping with Dr. Kane's vascular/stroke positioning.
+- **Lesson:** Even small competitors entering your niche can fragment the audience. First-mover advantage erodes with each new entrant.
+- **Fix:** Accelerate stroke prevention content production. Dr. Kane's mechanism-first approach is the differentiator.
+
+### New Safety Boundaries (VID-029 / VID-030 Production)
+- **Never tell viewers they have NAFLD without imaging** — frame as "ask about FIB-4 score and FibroScan"
+- **Never tell viewers their morning headache is definitely from high BP** — frame as "discuss morning headaches with your doctor and ask about 24-hour BP monitoring"
+- **Never tell viewers to change medication timing on their own** — frame as "ask your doctor whether bedtime dosing might be appropriate"
+- **Never tell viewers to self-diagnose nocturnal hypertension** — frame as "bring your 3-position BP log to your doctor"
+- **Never recommend stopping blood pressure medication** — frame as "discuss medication timing with your doctor"
+- **Never tell viewers coffee "cures" fatty liver** — frame as "associated with lower fibrosis risk"

@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-09
+> **Last Updated:** 2026-06-10
 
 ## Top Performing Title Formulas
 
@@ -375,7 +375,17 @@
 ||||| 2026-06-07 | VID-025 (Muscle Loss) | A: The Muscle Clock, B: The Shrinking Arm | New Brief |
 |||||| 2026-06-07 | VID-026 (Dawn Phenomenon) | A: The 3 AM Liver Dump, B: The Blame Game | New Brief |
 ||||||| 2026-06-08 | VID-027 (Antibiotic Tendon) | A: The Silent Rupture, B: The Arrow of Danger | New Brief |
-||||||| 2026-06-08 | VID-028 (Nocturnal Hypoglycemia) | A: The 3 AM Wake-Up, B: The Three-Drug Trap | New Brief |
+|||||||| 2026-06-08 | VID-028 (Nocturnal Hypoglycemia) | A: The 3 AM Wake-Up, B: The Three-Drug Trap | New Brief |
+||||||||| 2026-06-10 | VID-029 (Fatty Liver + Normal Tests) | A: The Deceptive Report, B: The Hidden Organ | New Brief |
+||||||||| 2026-06-10 | VID-030 (Morning Headache + BP Crisis) | A: The Silent Surge, B: The 3-Position Test | New Brief |
+
+### New Palettes Added (June 10)
+| Video | Primary | Accent 1 | Accent 2 | Status |
+|-------|---------|----------|----------|--------|
+| VID-029 A | Warm olive green (#556B2F) | Warning amber (#FF8F00) | Danger red (#D32F2F) | New — Brief |
+| VID-029 B | Deep maroon (#800020) | Sickly yellow-green (#CDDC39) | Clinical white (#FFFFFF) | New — Brief |
+| VID-030 A | Deep midnight blue (#0D1B2A) | Electric red (#FF1744) | Pale cyan (#00E5FF) | New — Brief |
+| VID-030 B | Warm dawn gradient (#FF6F00) | Bright yellow (#FDD835) | Warning red (#D32F2F) | New — Brief |
 
 ## Cross-Linking Strategy (Updated 2026-06-07)
 - VID-001 end screen → VID-002 (once published)
@@ -461,19 +471,38 @@
 11. **"Blood Tests You Must Demand" diagnostic advocacy** — "5 Blood Tests Every Senior Must Demand" (5.9K, Hargrove). Empowerment + specific action. ADAPTABLE — overlaps with Dr. Kane positioning.
 12. **"Stop Chasing [Target]" contrarian health targets** — "Stop Chasing 120/80!" (2 views, Bennett). Contrarian take on common health targets. VERY EARLY.
 
-### Updated Top Hook Rankings (June 9)
-- #1: **"INSTANTLY" hook** — "3 Breathing Tricks To INSTANTLY Lower BP" (700K, Whitmore) ⚡ NEW #1
-- #2: "Real Truth" hook — "What's the Best [Metric] for Older Adults?" (1.3M, Kent)
-- #3: "The Day Before" hook — (1.5M, Waterling — now suppressed)
-- #4: **"Which is More DANGEROUS" hook** — Binary comparison (451K, Whitmore) ⚡ NEW TOP 5
+### Updated Top Hook Rankings (June 10)
+- #1: **"Real Truth" hook** — "What's the Best [Metric] for Older Adults? (Know the Real Truth)" (1.31M, Kent)
+- #2: **"INSTANTLY" hook** — "3 Breathing Tricks To INSTANTLY Lower BP" (701K, Whitmore) ⚡ NEW #2
+- #3: **"Which is More DANGEROUS" hook** — Binary comparison (452K, Whitmore) ⚡ NEW TOP 3
+- #4: "The Day Before" hook — (1.39M, Waterling evergreen — now suppressed)
 - #5: "Forget [X] — This [Y]" hook — (956K, Kent)
-- #6: "The ONE" hook — (595K, Whitmore)
-- #7: **"Secret #X" hook** — Numbered secrets (209K, Whitmore) ⚡ NEW TOP 10
-- #8: "How to Reverse" hook — (462K Kent / 393K Whitmore)
-- #9: "#1 Best" hook — (719K, Kent)
-- #10: **"BEST X for [Condition]" hook** — (560K, Senior Health Blog) ⚡ NEW TOP 10
-- #11: "NEVER Get/Take" authority contradiction — (892K Kent / 583K)
-- #12: Death fear hook — (866K, Hargrove)
-- #13: **"Zero Disease In [Location]" hook** — (353K, Senior Blog) ⚡ NEW
-- #14: **"WRONG Time" medication hook** — (209K, Whitmore) ⚡ NEW
-- #15: **"WORST Type" hook** — (70K, Kent) ⚡ NEW
+- #6: "The ONE" hook — (650K, Whitmore leg circulation)
+- #7: **"How to Survive [Emergency] Alone After [Age]" hook** — (225K, Hargrove choking) ⚡ NEW TOP 7
+- #8: **"Real Truth" cross-niche expansion** — "What's the Best Blood Sugar? Real Truth" (1.31M, Kent) — same format as BP, working across niches
+- #9: **"NEVER Take [Supplement] With [Supplement]"** — (156K+97K, Kent) — 3 videos totaling ~597K
+- #10: **"30-Second Test" self-screening** — (29K, Kent) — growing fast, repeatable format
+- #11: "Secret #X" hook — (209K, Whitmore)
+- #12: "How to Reverse" hook — (462K Kent / 393K Whitmore)
+- #13: "#1 Best" hook — (722K, Kent)
+- #14: "BEST X for [Condition]" hook — (560K, Senior Health Blog)
+- #15: **"Emergency Alone" format** — (225K, Hargrove) ⚡ NEW — "How to Survive [Emergency] When Alone After 60" — adaptable to stroke, heart attack, fall
+- #16: **"Cheap vs. Expensive" format** — "Forget [Expensive]! [Number] Cheap [Items] After [Age]" (131 views, Whitmore, very early) ⚡ EMERGING
+
+## New Patterns Added 2026-06-10
+
+### New Title Formulas (June 10)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P079 | "How to Survive [Emergency] When You're Alone After [Age] — Do THIS in [Time]" | Dr. James Hargrove | 224,884 |
+| P080 | "[Famous Foreign Doctor]: How to [Action] [Health Claim] After [Age]" | Dr. Michael Kent ("Japan's Oldest Doctor") | 175,857 |
+| P081 | "[Problem]? [Time] Test + [Number] FAST Fixes" | Dr. Michael Kent | 28,704 |
+| P082 | "[Doctor] Reveals the Hidden Truth About [Trendy Drug/Treatment]" | Claire Whitmore (Ozempic) | 31 (very early) |
+| P083 | "Forget [Expensive Thing]! [Number] [Cheap Alternative] to [Health Claim] After [Age]" | Claire Whitmore | 131 (very early) |
+
+### New Viral Formats (June 10)
+1. **"Emergency Alone" format** — Hargrove's 224K choking video: "How to Survive [Emergency] When Alone After 60 — Do THIS in [Time]." Combines extreme fear + alone vulnerability + specific timeframe + actionable technique. ADAPTABLE to stroke alone, heart attack alone, fall alone.
+2. **"Japan's Oldest Doctor" piggyback format** — Kent's 176K video: "[Famous foreign doctor]: [Health Claim] After [Age]." Uses Kent's established audience to launch new authority figure. Could be licensed content or alternate ID.
+3. **"30-Second Test" self-screening format** — Kent's 28K video + "5 Blood Tests Your Doctor Won't Order" (182K). Combines: specific time + self-assessment + numbered fixes. HIGHLY ADAPTABLE — Dr. Kane can create superior medical versions.
+4. **"Ozempic Hidden Truth" format** — Whitmore's 31-view video chasing GLP-1 trend. "[Doctor] Reveals the Hidden Truth About [Trendy Drug]" — early but GLP-1 content is a RAPIDLY growing battleground. Dr. Kane can own the vascular angle.
+5. **"Forget [Expensive] — Cheap [Alternative]" muscle format** — Whitmore's 131-view video: "Forget Protein Powder! 8 Cheap Breakfasts to Build Muscle After 60." Dismisses expensive solution + multiple cheap alternatives. Working in other niches (coffee + 3 claims at 1.3M).

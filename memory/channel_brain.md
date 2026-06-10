@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-09
+> **Last Updated:** 2026-06-10
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -242,6 +242,44 @@
     - Purpose: Teaser for VID-028 long-form
     - Status: READY FOR PRODUCTION
 
+### New Videos Added June 10
+
+25. **VID-029 (Long-form):** "Your Liver Is Fatty After 60 — But Your Blood Tests Say You're Fine"
+    - Script: COMPLETE (June 10 script package, ~2,600 words, 5 studies, 6 retention hooks)
+    - Score: 22/20
+    - Unique angle: NAFLD diagnostic gap — ALT/AST measure cell death not fat; FIB-4 score as superior screening; FibroScan superiority over standard ultrasound; liver-cardiovascular risk connection
+    - Structure: Assumption challenge → Test flaw (70-80% of NAFLD missed) → Better screening (FIB-4 + FibroScan) → Compounding risk after 60 → Evidence-based interventions (7-10% weight loss, exercise, coffee, fructose avoidance) → Doctor conversation script
+    - Key studies: 25-35% of over-60s have NAFLD (Hepatology 2024), 70-80% of NAFLD patients have normal ALT/AST (AASLD), FIB-4 validated (Hepatology 2024), 7-10% weight loss reduces liver fat 40%+ (Gastroenterology 2024), coffee protective (2024 analysis), NAFLD increases CV risk (J Hepatol 2024 meta-analysis)
+    - Upload target: Tuesday, June 17, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-030 (Morning Headache + BP Crisis)
+    - Companion Short: VID-SHORT-014
+    - Safety: 16 PASS / 0 FAIL
+    - Status: READY FOR THUMBNAIL PRODUCTION
+
+26. **VID-SHORT-014 (Short):** "Your Liver Is Fatty But Your Blood Test Says Fine — Here's Why"
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 19, 2026
+    - Purpose: Teaser for VID-029 long-form
+    - Status: READY FOR PRODUCTION
+
+27. **VID-030 (Long-form):** "Why Your Morning Headache Is Predicting a Blood Pressure Crisis After 60"
+    - Script: COMPLETE (June 10 script package, ~2,650 words, 5 studies, 6 retention hooks)
+    - Score: 21/20
+    - Unique angle: Nocturnal hypertension — morning headache as BP surge symptom; non-dipping phenomenon (40% of over-60s); 3-position home BP test protocol; sleep apnea as #1 cause; bedtime medication timing (45% fewer CV events); cortisol awakening response; 2.8x stroke risk for non-dippers
+    - Structure: Symptom recognition (morning headache pattern) → Mechanism (nocturnal BP surge → vessel pain) → Diagnostic gap (office BP misses nighttime) → 3-position home test protocol → Causes (sleep apnea, med timing, cortisol) → Stroke risk urgency (2.8x morning stroke) → Action steps
+    - Key studies: 40% of over-60s are non-dippers (Hypertension, AHA 2024), 38% of seniors with morning headaches have nocturnal HTN (J Headache Pain 2024), bedtime dosing reduces CV events 45% (European Heart Journal 2024), nocturnal HTN → 2.8x morning stroke risk (Stroke, ASA 2024)
+    - Upload target: Thursday, June 19, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-029 (Fatty Liver + Normal Tests)
+    - Companion Short: VID-SHORT-015
+    - Safety: 16 PASS / 0 FAIL
+    - Status: READY FOR THUMBNAIL PRODUCTION
+
+28. **VID-SHORT-015 (Short):** "Your Morning Headache Might Be a Blood Pressure Crisis at 4 AM"
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 21, 2026
+    - Purpose: Teaser for VID-030 long-form
+    - Status: READY FOR PRODUCTION
+
 ### New Videos Added June 6
 
 13. **VID-021 (Long-form):** "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke"
@@ -324,6 +362,10 @@
 - VID-028 (Nocturnal Hypoglycemia) → VID-027 (Antibiotic Tendon) via end screen
 - VID-SHORT-012 → VID-027 (teaser → full)
 - VID-SHORT-013 → VID-028 (teaser → full)
+- VID-029 (Fatty Liver) → VID-030 (Morning Headache + BP Crisis) via end screen
+- VID-030 (Morning Headache) → VID-029 (Fatty Liver) via end screen
+- VID-SHORT-014 → VID-029 (teaser → full)
+- VID-SHORT-015 → VID-030 (teaser → full)
 - This creates a content ecosystem that keeps viewers in the channel
 
 ### New Insights from May 26 Scans
@@ -373,3 +415,18 @@
 - **"INSTANTLY" format is #1 performing hook** — Adaptable for Dr. Kane with mechanism angle ("The [Action] That [Result] INSTANTLY After 60 — Here's WHY It Works").
 - **Stroke prevention niche VACANT** — Waterling's suppression opens a 1.5M-view slot. Combine with diagnostic gap framework.
 - **Body signals niche ACCELERATING** — Multiple channels entering (nails, breath, feet, stool, urine). Speed-to-market critical.
+- **Firecrawl API credits STILL exhausted** — Search infrastructure DOWN since June 8. Must refill for future scans.
+
+### New Insights from June 10 Scans
+- **⚡⚡ Kent LEG CIRCULATION BREAKOUT:** "Japan's Oldest Doctor: How to INSTANTLY Improve Leg Circulation" at 175,857 views + "Poor Leg Circulation? 30-Second Test + 3 Fixes" at 28,704 views. Kent now competes directly with Dr. Kane's leg health positioning. The "30-Second Test" format is HIGHLY copyable.
+- **⚡ "Japan's Oldest Doctor" NEW COMPETITOR:** Top video at 536,824 views ("How to Stop Tripping"). Cross-posts with Kent. May be licensed content or alternate ID. Niche: leg circulation + balance exercises.
+- **⚡⚡ Hargrove CHOKING FIRST AID MEGA-HIT:** "How to Survive CHOKING When You're Alone After 60" at 224,884 views — his BIGGEST video ever. Proves "How to Survive [Emergency] Alone After [Age]" format at scale.
+- **⚡ Whitmore chasing Ozempic trend:** "Hidden Truth About Ozempic & Mounjaro" at 31 views (just uploaded). GLP-1 content is the NEW emerging battleground. Dr. Kane can own the vascular angle.
+- **⚡ Whitmore muscle loss entry:** "Forget Protein Powder! 8 Cheap Breakfasts to Build Muscle After 60" at 131 views (1 day). "Cheap vs. expensive" format entering muscle niche.
+- **⚡ Hargrove entering vitamin-stroke niche:** "4 Vitamins SILENTLY Causing Stroke After 65" at ~8.2K views. Overlaps with vascular/stroke positioning.
+- **⚠️ Leg health niche NOW SATURATED:** Kent (176K+), Japan's Oldest Doctor (537K+), Whitmore (650K), Cross (40K) all competing. Dr. Kane must differentiate with VASCULAR MECHANISM content.
+- **⚠️ GLP-1/Ozempic niche EMERGING:** Whitmore just entered (31 views). First-mover window OPEN for "Ozempic effects on blood flow/circulation" with vascular medicine authority.
+- **🟡 Stroke prevention niche MECHANISM STILL OPEN:** Hargrove owns emergency format (225K choking) but NOT mechanism. Waterling's 1.39M evergreen still #1 — fill with mechanism content.
+- **🟡 Diagnostic Gap niche GETTING CROWDED:** Hargrove's "5 Blood Tests" (5.9K) is weak but present. Move fast to maintain first-mover advantage.
+- **New viral formats discovered:** "Emergency Alone" (225K), "Japan's Oldest Doctor" piggyback (176K), "30-Second Test" self-screening (29K), "Cheap vs. Expensive" muscle building (131), "Ozempic Hidden Truth" (31)
+- **Dr. Victoria Wells entering stroke niche:** "First Signs of a Stroke After 60" at 44 views. Very small but entering the Waterling gap.
