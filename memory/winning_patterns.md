@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-10
+> **Last Updated:** 2026-06-11
 
 ## Top Performing Title Formulas
 
@@ -337,7 +337,15 @@
 ||| VID-027 A | Deep medical blue (#0D47A1) | Warning red (#D32F2F) | Amber (#FDD835) | New — Brief |
 ||| VID-027 B | Dark charcoal (#263238) | Electric red (#FF1744) | Clinical white (#FFFFFF) | New — Brief |
 ||| VID-028 A | Midnight purple (#1A0033) | Electric cyan (#00E5FF) | Warning red (#D32F2F) | New — Brief |
-||| VID-028 B | Deep teal (#004D40) | Bright orange (#FF6D00) | Clean white (#FFFFFF) | New — Brief |
+|||| VID-028 B | Deep teal (#004D40) | Bright orange (#FF6D00) | Clean white (#FFFFFF) | New — Brief |
+||| VID-029 A | Warm olive green (#556B2F) | Warning amber (#FF8F00) | Danger red (#D32F2F) | New — Brief |
+||| VID-029 B | Deep maroon (#800020) | Sickly yellow-green (#CDDC39) | Clinical white (#FFFFFF) | New — Brief |
+||| VID-030 A | Deep midnight blue (#0D1B2A) | Electric red (#FF1744) | Pale cyan (#00E5FF) | New — Brief |
+||| VID-030 B | Warm dawn gradient (#FF6F00/#E65100) | Bright yellow (#FDD835) | Warning red (#D32F2F) | New — Brief |
+||| VID-031 A | Deep plum (#4A148C) | Electric coral (#FF6E40) | Soft silver (#CFD8DC) | New — Brief |
+||| VID-031 B | Deep navy (#0D1B2A) / Teal (#004D40) split | Warning red (#D32F2F) | Bright amber (#FDD835) | New — Brief |
+||| VID-032 A | Warm charcoal (#37474F) | Deep orange (#E65100) | Clinical teal (#00695C) | New — Brief |
+||| VID-032 B | Deep forest green (#1B5E20) | Crimson (#B71C1C) | Gold (#F9A825) | New — Brief |
 
 ### Proven Thumbnail Formulas (from competitor analysis)
 1. **"Concerned Doctor"** — Empathetic face + problem text + solution hint (highest trust)
@@ -377,17 +385,23 @@
 ||||||| 2026-06-08 | VID-027 (Antibiotic Tendon) | A: The Silent Rupture, B: The Arrow of Danger | New Brief |
 |||||||| 2026-06-08 | VID-028 (Nocturnal Hypoglycemia) | A: The 3 AM Wake-Up, B: The Three-Drug Trap | New Brief |
 ||||||||| 2026-06-10 | VID-029 (Fatty Liver + Normal Tests) | A: The Deceptive Report, B: The Hidden Organ | New Brief |
-||||||||| 2026-06-10 | VID-030 (Morning Headache + BP Crisis) | A: The Silent Surge, B: The 3-Position Test | New Brief |
+|||||||||| 2026-06-10 | VID-030 (Morning Headache + BP Crisis) | A: The Silent Surge, B: The 3-Position Test | New Brief |
+|||||||||||| 2026-06-11 | VID-031 (Sleep/Oxygen Drop — UARS) | A: The Oxygen Dip, B: The Hidden Diagnosis | New Brief |
+||||||||||||| 2026-06-11 | VID-032 (Spine Curving/Organ Compression) | A: The Wall Test, B: The Domino Chain | New Brief |
 
-### New Palettes Added (June 10)
+### New Palettes Added (June 11)
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
 | VID-029 A | Warm olive green (#556B2F) | Warning amber (#FF8F00) | Danger red (#D32F2F) | New — Brief |
 | VID-029 B | Deep maroon (#800020) | Sickly yellow-green (#CDDC39) | Clinical white (#FFFFFF) | New — Brief |
 | VID-030 A | Deep midnight blue (#0D1B2A) | Electric red (#FF1744) | Pale cyan (#00E5FF) | New — Brief |
-| VID-030 B | Warm dawn gradient (#FF6F00) | Bright yellow (#FDD835) | Warning red (#D32F2F) | New — Brief |
+|| VID-030 B | Warm dawn gradient (#FF6F00) | Bright yellow (#FDD835) | Warning red (#D32F2F) | New — Brief |
+|| VID-031 A | Deep plum (#4A148C) | Electric coral (#FF6E40) | Soft silver (#CFD8DC) | New — Brief |
+|| VID-031 B | Deep navy (#0D1B2A) / Teal (#004D40) split | Warning red (#D32F2F) | Bright amber (#FDD835) | New — Brief |
+|| VID-032 A | Warm charcoal (#37474F) | Deep orange (#E65100) | Clinical teal (#00695C) | New — Brief |
+|| VID-032 B | Deep forest green (#1B5E20) | Crimson (#B71C1C) | Gold (#F9A825) | New — Brief |
 
-## Cross-Linking Strategy (Updated 2026-06-07)
+### New Palettes Added (June 10)
 - VID-001 end screen → VID-002 (once published)
 - VID-002 end screen → VID-001 (immediate)
 - VID-002 end screen → VID-003 (leg health)
@@ -506,3 +520,78 @@
 3. **"30-Second Test" self-screening format** — Kent's 28K video + "5 Blood Tests Your Doctor Won't Order" (182K). Combines: specific time + self-assessment + numbered fixes. HIGHLY ADAPTABLE — Dr. Kane can create superior medical versions.
 4. **"Ozempic Hidden Truth" format** — Whitmore's 31-view video chasing GLP-1 trend. "[Doctor] Reveals the Hidden Truth About [Trendy Drug]" — early but GLP-1 content is a RAPIDLY growing battleground. Dr. Kane can own the vascular angle.
 5. **"Forget [Expensive] — Cheap [Alternative]" muscle format** — Whitmore's 131-view video: "Forget Protein Powder! 8 Cheap Breakfasts to Build Muscle After 60." Dismisses expensive solution + multiple cheap alternatives. Working in other niches (coffee + 3 claims at 1.3M).
+
+---
+
+## New Patterns Added 2026-06-11
+
+### New Title Formulas (June 11)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P083 | "Forget [Expensive Thing]! [Number] [Cheap Alternative] to [Health Claim] After [Age]" | Claire Whitmore | 131 (very early) |
+| P097 | "The Mind-Blowing Benefits of [Supplement]" | Claire Whitmore | 1,573,907 |
+| P098 | "An [Condition] Cure? A [Specialty] reveals how to REVERSE and prevent [Condition]" | Claire Whitmore | 452,321 |
+| P099 | "Don't Drink Plain Water After [Age] — THIS [Number] Trick Boosts [Health Claim] Fast" | Dr. James Hargrove | 50,046 |
+| P100 | "Your Medication Is Destroying Your Nerves ([Number] Drugs Seniors Must Know)" | Dr. James Hargrove | 6,900 |
+| P101 | "Top [Number] [Seeds/Foods] Every Senior Should Eat Before Bed To [Health Claim]" | Senior Health Blog | 149,483 |
+| P102 | "A Pinch of This [Color] Powder. [Metric] X% in [Timeframe]. [Second Claim]. Why Is It Hidden?" | Senior Health Blog | 6,173 |
+| P103 | "Surgeon REVEALS: Do THIS [Number] Exercise for [Problem] After [Age]" | Senior Book | 825,812 |
+| P104 | "Over [Age]? JUST Do THESE [Number] Exercises To [Dramatic Claim]" | Senior Book | 446,719 |
+| P105 | "Over [Age]? Your Legs Are Getting WEAKER Every Week — FIX It With [Number] Easy Exercise" | Senior Book | 84,721 |
+| P106 | "The ONLY [Number] Exercises YOU Need to [Solve Problem] in [Body Part] & [Body Part]" | Japan's Oldest Doctor | 1,003,482 |
+| P107 | "AGE SPOTS WILL DISAPPEAR! [Number] Hidden Causes Your Doctor Never Talks About" | Dr. Ibrahim Khan | 42,436 |
+| P108 | "Alone During a [Emergency] After [Age]? [Number] Things You Must Do Immediately" | Dr. Christopher Carter | 1,278 |
+| P109 | "SENIORS: [Metric] Blood Pressure? Do This in [Number] Minutes (Could Save Your Life)" | Dr. William Arden | 184 |
+| P110 | "Walking [Number] Steps After [Age] Is NOT Healthy — It Is Actually [Negative Claim]" | Dr. Edmund | 45 |
+| P111 | "Your [Organ/Metric] is Normal — But This Hidden Number Is FEEDING [Disease] Right Now" | Dr. Kevin Wade | 31 |
+| P112 | "Ozempic Works… But Here's What It's Really Doing to Your Body (60+)" | Dr. William Arden | 13,578 |
+| P113 | "How to Eat [Food] Correctly If You Have [Condition] (To Keep [Metric] Under Control)" | Dr. Arthur Clark | 22,248 |
+| P114 | "5 Medical Checkups I'd NEVER Get After [Age] — Doctor Explains" | Multiple channels | 827-590 |
+
+### New Viral Formats (June 11)
+1. **"Mind-Blowing Benefits" supplement format** — Whitmore's 1.57M berberine video. Superlative + supplement deep-dive. HIGHLY ADAPTABLE. Dr. Kane can apply to other supplements with mechanism-based approach.
+2. **"Surgeon REVEALS" exercise format** — Senior Book's 826K video. Authority (surgeon) + single exercise + problem + age. Working at scale. Format replicates the "authority reveals" pattern with a different authority type.
+3. **"Your Legs Are Getting WEAKER Every Week" temporal fear** — Senior Book's 85K video. Progressive decline framing + fix promise. Time-based fear is distinct from the "emergency" fear — it's about gradual loss.
+4. **"Don't Drink Plain Water" inversion** — Hargrove's 50K video. Inverts common health advice ("drink more water") + blood flow claim. Inversion of "everyone says X, but actually Y" format.
+5. **"Before Bed + Blood Sugar" precision format** — Senior Blog's 149K seeds video. Bedtime ritual + specific food + health claim. The "before bed" sub-niche is emerging as a format.
+6. **"AGE SPOTS WILL DISAPPEAR" cosmetic-internal link** — Khan's 42K video. Cosmetic concern (age spots) + hidden internal causes. NEW uncontested sub-niche. Connects visible cosmetic issue to internal health.
+7. **"The ONLY [Number] Exercises YOU Need" neuropathy format** — Japan's Oldest Doctor 1M video. "ONLY" superlative + "YOU Need" personalization + body part pairing. Exercises positioned as complete solution.
+8. **"Ozempic Works… But Here's What It's Really Doing" balanced critique** — Arden's 13.6K video. Acknowledges drug works BUT reveals hidden effects. More nuanced than pure fear — builds trust through balance.
+9. **"A Pinch of This [Color] Powder" precision nutrition** — Senior Blog's 6.2K video. Specific quantity + color + percentage + timeframe + second claim + conspiracy ("Why Is It Highly?"). Multi-claim format with specific numbers.
+10. **"Alone During [Emergency]" format expansion** — Carter's 1.3K heart attack video extends Hargrove's choking format to cardiac events. Not yet working at scale for heart attacks.
+
+### Updated Top Hook Rankings (June 11)
+- #1: **"Mind-Blowing Benefits" hook** — "The Mind-Blowing Benefits of [Supplement]" (1.57M, Whitmore) ⚡ NEW #1
+- #2: **"The ONLY [Number] Exercises" hook** — "The ONLY 4 Exercises YOU Need to Relieve Neuropathy" (1M, Japan's Oldest Doctor) ⚡ NEW TOP 2
+- #3: **"30-Second Test + Fixes" hook** — "30-Second Test + 3 Fast Fix Exercises" (1.46M, TopHealthTips)
+- #4: "Real Truth" hook — (1.31M, Kent)
+- #5: **"Surgeon REVEALS" hook** — (826K, Senior Book) ⚡ NEW TOP 5
+- #6: "INSTANTLY" hook — (701K, Whitmore)
+- #7: "Forget [X] — This [Y]" hook — (956K, Kent)
+- #8: "The ONE" hook — (650K, Whitmore)
+- #9: **"An [Condition] Cure? REVERSE and prevent" hook** — (452K, Whitmore) ⚡ NEW TOP 9
+- #10: **"Don't Drink Plain Water" inversion hook** — (50K, Hargrove) ⚡ NEW TOP 10
+- #11: **"Before Bed + Blood Sugar" hook** — (149K, Senior Health Blog) ⚡ NEW
+- #12: **"AGE SPOTS WILL DISAPPEAR" hook** — (42K, Khan) ⚡ NEW
+- #13: **"Your Legs Are Getting WEAKER Every Week" hook** — (85K, Senior Book) ⚡ NEW
+- #14: "How to Survive [Emergency] Alone After [Age]" hook — (225K, Hargrove)
+- #15: "How to Reverse" hook — (462K Kent / 393K Whitmore)
+- #16: "MUST Eat / NEVER Eat" binary food hook — (31K Kent / 27.5K Clark)
+
+### Critical Format Insight: The Leg Health Exercise Saturation
+The leg health niche has reached HYPER-SATURATION with 6.3M+ views across 7+ channels, ALL using exercise-based content:
+- TopHealthTips: "30-Second Test + 3 Fast Fix Exercises" (1.46M)
+- Senior Book: "Surgeon REVEALS: 1 Exercise" (826K)
+- Japan's Oldest Doctor: "ONLY 4 Exercises for Neuropathy" (1M)
+- Dr. Sumit Kapadia: "4 Exercises While Sitting" (988K)
+- Kent: Various leg circulation (273K combined)
+- Whitmore: Leg circulation moves (46K)
+
+**ZERO channels are providing mechanism-based content** explaining WHY legs fail. This is Dr. Kane's uncontested angle. The "Doctor Explains WHY" positioning is perfectly suited to differentiate in this saturated market.
+
+### Microplastics Content: AUDIENCE NOT INTERESTED
+Becker's microplastics videos at 5 and 12 views confirm that elder health audiences are NOT engaging with microplastics content in its current format. The topic may work better as a sub-point within other content (e.g., "Microplastics are why your legs swell — here's the mechanism") rather than standalone videos.
+
+---
+
+*Last updated: 2026-06-11 by Competitor Watcher Agent*

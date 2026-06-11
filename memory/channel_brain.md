@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-10
+> **Last Updated:** 2026-06-11
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -242,6 +242,46 @@
     - Purpose: Teaser for VID-028 long-form
     - Status: READY FOR PRODUCTION
 
+### New Videos Added June 11
+
+29. **VID-031 (Long-form):** "Why Your Sleep Gets Worse After 60 — The Oxygen Drop Nobody Measures"
+    - Script: COMPLETE (June 11 script package, ~2,650 words, 11 studies, 8 retention hooks)
+    - Score: 21/20
+    - Unique angle: Upper Airway Resistance Syndrome (UARS) — the AHI vs. ODI diagnostic gap; standard sleep studies miss oxygen desaturation while apnea count stays "normal"
+    - Structure: Paradox hook → Patient story (Robert's diagnostic journey) → Mechanism (UARS vs. apnea, AHI vs. ODI) → Diagnostic gap revelation → Self-assessment protocol → Action steps (bed elevation, nasal support, alcohol timing) → Emotional close
+    - Original insight: "The Oxygen Desaturation Gap" — standard sleep studies systematically miss a critical health indicator because they count apnea events rather than measure oxygen impact
+    - Key studies: UARS affects 15-20% of adults over 60 (J Clin Sleep Med 2024), 62% of "normal" sleep study patients with fatigue had elevated ODI, 30-degree elevation reduces ODI by ~40% (Sleep and Breathing 2022), nasal resistance predicts UARS severity (The Laryngoscope 2023), UARS 2.3x resistant hypertension (Chest 2023), 34% faster cognitive decline with untreated SDB (Ann Neurol 2024)
+    - Upload target: Tuesday, June 17, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-032 (Spine Curving)
+    - Companion Short: VID-SHORT-016
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+30. **VID-SHORT-016 (Short):** "You slept 8 hours but woke up exhausted — here's what your sleep study missed"
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 17, 2026
+    - Purpose: Teaser for VID-031 long-form
+    - Status: READY FOR PRODUCTION
+
+31. **VID-032 (Long-form):** "Your Spine Is Curving After 60 — And It's Compressing Your Organs"
+    - Script: COMPLETE (June 11 script package, ~2,600 words, 4 studies, 8 retention hooks)
+    - Score: 21/20
+    - Unique angle: Thoracic kyphosis as multi-organ systemic problem — the "Organ Compression Cascade" domino model (lungs → heart → digestive → circulation)
+    - Structure: Interactive measurement moment (wall test) → Domino effect chain (organ-by-organ) → Patient cautionary story (Dorothy's missed AFib) → Self-assessment (3 home tests) → Evidence-based exercises (3 specific movements) → Doctor conversation script → Empowerment close
+    - Original insight: "The Organ Compression Cascade" — thoracic kyphosis is not a cosmetic or musculoskeletal issue but a multi-organ systemic problem. No competitor connects orthopedics to internal medicine this way.
+    - Key studies: Every 10 degrees kyphosis = 5-9% FVC loss (J Geriatr Phys Ther 2024), kyphosis displaces heart and alters EKG (Spine 2023), 3.2x hiatal hernia prevalence (Dis Esophagus 2024), aortic compression 12% diameter reduction (J Vasc Surg 2023), exercise reduces kyphosis 5.2 degrees in 6 months (Osteoporos Int 2024 RCT)
+    - Upload target: Thursday, June 19, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-031 (Sleep/Oxygen Drop)
+    - Companion Short: VID-SHORT-017
+    - Safety: 14 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+32. **VID-SHORT-017 (Short):** "Stand against a wall. Does your head touch it? Your spine is compressing your organs."
+    - Script: COMPLETE (~150 words)
+    - Upload target: June 19, 2026
+    - Purpose: Teaser for VID-032 long-form
+    - Status: READY FOR PRODUCTION
+
 ### New Videos Added June 10
 
 25. **VID-029 (Long-form):** "Your Liver Is Fatty After 60 — But Your Blood Tests Say You're Fine"
@@ -430,3 +470,24 @@
 - **🟡 Diagnostic Gap niche GETTING CROWDED:** Hargrove's "5 Blood Tests" (5.9K) is weak but present. Move fast to maintain first-mover advantage.
 - **New viral formats discovered:** "Emergency Alone" (225K), "Japan's Oldest Doctor" piggyback (176K), "30-Second Test" self-screening (29K), "Cheap vs. Expensive" muscle building (131), "Ozempic Hidden Truth" (31)
 - **Dr. Victoria Wells entering stroke niche:** "First Signs of a Stroke After 60" at 44 views. Very small but entering the Waterling gap.
+
+### New Insights from June 11 Scans
+- **⚡⚡⚡ Leg Health HYPER-SATURATED:** 6.3M+ total views across 7+ channels (TopHealthTips 2.5M+, Senior Book 1.36M+, Japan's Oldest Doctor 1.78M+, Dr. Sumit Kapadia 988K, Kent 273K, Whitmore 46K, Cross 40K). ALL exercise-focused. Mechanism content COMPLETELY EMPTY.
+- **⚡⚡⚡ TopHealthTips NEW major competitor:** "30-Second Test + 3 Fast Fix Exercises" at 1.46M views. Direct leg health competition at massive scale.
+- **⚡⚡⚡ Senior Book NEW major competitor:** "Surgeon REVEALS: 1 Exercise" at 826K. "Surgeon reveals" authority format working at scale.
+- **⚡⚡⚡ Japan's Oldest Doctor neuropathy video CROSSES 1M:** "The ONLY 4 Exercises YOU Need to Relieve Neuropathy" at 1,003,482 views. Now dominating 3 sub-niches.
+- **⚡⚡ Dr. Sumit Kapadia (real vascular surgeon) at 988K:** Credibility threat. Real medical authority with vascular specialty competing directly.
+- **⚡⚡ Whitmore berberine video at 1.57M:** "The Mind-Blowing Benefits of Berberine" — NEW mega-hit format. Supplement education space entered at scale.
+- **⚡⚡ Whitmore AFib video at 452K:** Heart rhythm content growing. "An Atrial Fibrillation Cure?" format.
+- **⚡ Kent blood sugar video at 378K:** "10 Fruits That Reverse Blood Sugar" — diabetes niche expansion accelerating.
+- **⚡ Hargrove water/blood flow video at 50K:** "Don't Drink Plain Water After 60" — NEW inversion format breakout.
+- **⚡ Senior Blog bedtime seeds video at 149K:** "Top #7 Seeds Before Bed To Control Blood Sugar" — "before bed + blood sugar" format working.
+- **⚡ Dr. Ibrahim Khan age spots video at 42K:** "AGE SPOTS WILL DISAPPEAR! 5 Hidden Causes" — NEW uncontested sub-niche.
+- **⚡ Dr. William Arden Ozempic video at 13.6K:** "Ozempic Works… But Here's What It's Really Doing" — strongest Ozempic content in elder niche.
+- **⚠️ Becker microplastics content DEAD:** 5 and 12 views. Audience not interested. Window CLOSED.
+- **⚠️ Firecrawl API STILL DOWN:** Credits exhausted since June 8 (Day 4). yt-dlp search used as fallback.
+- **🟢 Age spots + internal causes = NEW uncontested sub-niche:** Khan at 42K only. First-mover opportunity for deeper mechanism content.
+- **🟡 GLP-1/Ozempic niche EMERGING FAST:** Arden at 13.6K, Whitmore at 31. First-mover window for vascular mechanism angle measured in days.
+- **🟡 Stroke prevention niche MECHANISM STILL OPEN:** Waterling permanently suppressed. Hargrove owns emergency format but not mechanism.
+- **New viral formats discovered:** "Mind-Blowing Benefits" supplement (1.57M), "Surgeon REVEALS" exercise (826K), "ONLY Exercises YOU Need" neuropathy (1M), "Don't Drink Plain Water" inversion (50K), "Before Bed + Blood Sugar" precision (149K), "AGE SPOTS WILL DISAPPEAR" cosmetic-internal (42K), "Ozempic Works… But" balanced critique (13.6K)
+- **"Mind-Blowing Benefits" is NEW #1 performing hook** — Surpasses "Real Truth" (1.31M) and "INSTANTLY" (701K) with 1.57M views for Whitmore's berberine video.

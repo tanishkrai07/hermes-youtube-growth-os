@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-10
+> **Last Updated:** 2026-06-11
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -283,3 +283,33 @@
 - **Never tell viewers to self-diagnose nocturnal hypertension** — frame as "bring your 3-position BP log to your doctor"
 - **Never recommend stopping blood pressure medication** — frame as "discuss medication timing with your doctor"
 - **Never tell viewers coffee "cures" fatty liver** — frame as "associated with lower fibrosis risk"
+
+### New Failure Patterns (June 11 Competitor Scans)
+
+#### Leg Health Niche Hyper-Saturation Confirmed
+- **What happened:** 4 NEW major competitors entered leg health simultaneously (TopHealthTips 1.46M, Senior Book 826K, Japan's Oldest Doctor 1M+, Dr. Sumit Kapadia 988K). The niche went from "saturated" to "hyper-saturated" overnight.
+- **Lesson:** When multiple new major players enter a niche within the same week, the window is permanently closed. No amount of differentiation can overcome 6.3M+ views of exercise content.
+- **Fix:** Dr. Kane must NEVER produce exercise-based leg health content. The ONLY viable angle is vascular mechanism (endothelial function, valve mechanics, hemodynamics) — and even that is a long-term play, not a direct competition.
+
+#### "Mind-Blowing Benefits" Supplement Format Owned by Whitmore
+- **What happened:** Whitmore's "The Mind-Blowing Benefits of Berberine" at 1.57M views now owns this format completely.
+- **Lesson:** When a major competitor hits 1.5M+ views in a format, that format is OWNED. Entering it would be perceived as copying.
+- **Fix:** AVOID the "Mind-Blowing Benefits" format entirely. If covering supplements, use Dr. Kane's mechanism-first approach with original framing.
+
+#### Real Vascular Surgeon Entering the Space
+- **What happened:** Dr. Sumit Kapadia (real vascular surgeon) achieved 988K views with "Poor Leg Circulation? Do These 4 Exercises While Sitting." This is a REAL vascular surgeon competing directly with Dr. Kane's positioning.
+- **Lesson:** Dr. Kane's credibility advantage ("vascular medicine specialist") is diminished when actual vascular surgeons enter the space. The differentiator must shift from credentials to content quality and unique insights.
+- **Fix:** Double down on original research insights, mechanism depth, and diagnostic gap content that a surgeon doing exercise videos can't replicate. Dr. Kane's "explain WHY" positioning is the moat.
+
+#### Microplastics Window CLOSED
+- **What happened:** Becker's microplastics videos at 5 and 12 views confirm zero audience interest. Multiple tiny channels also failing.
+- **Lesson:** Just because a topic is scientifically important doesn't mean the YouTube audience cares. Microplastics as a standalone topic doesn't resonate with elder health viewers.
+- **Fix:** AVOID standalone microplastics content. If microplastics are mentioned, it should be as a sub-point within other content (e.g., "microplastics contribute to endothelial inflammation" within a vascular health video).
+
+#### New Safety Boundaries (VID-031 / VID-032 Production)
+- **Never tell viewers they have UARS without a sleep study** — frame as "ask about ODI" and "discuss WatchPAT testing"
+- **Never tell viewers their oxygen dropped to a specific number** — frame as "your oxygen may be dropping more than the apnea count suggests"
+- **Never tell viewers to buy a specific brand of sleep test** — frame as "ask your doctor about home sleep tests that measure ODI"
+- **Never tell viewers they have kyphosis from the wall test alone** — frame as "if you have a gap, discuss spinal curvature with your doctor"
+- **Never tell viewers their organs are "being crushed"** — frame as "reduced space for organs to function optimally"
+- **Never recommend specific exercises for kyphosis without doctor approval** — frame as "these exercises have been shown in research to help — discuss with your doctor"

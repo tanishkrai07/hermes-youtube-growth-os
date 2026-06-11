@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-10
-**Focus:** VID-029 + VID-030 scripts complete | VID-021 upload June 10 | VID-023 upload June 11 | Thumbnails needed for VID-027/028/029/030
-**Priority:** ✅ VID-029/030 scripts written | Next: Thumbnail production for 4 videos, VID-031/032/033 scripts
+**Date:** 2026-06-11
+**Focus:** VID-031 + VID-032 scripts complete | VID-021/023 upload status verify | Thumbnails needed for VID-027/028/029/030/031/032
+**Priority:** ✅ VID-031/032 scripts written | Next: Thumbnail production for 6 videos, VID-033/034/035 scripts (I148 Ozempic Blood Flow Score 20)
 
 ---
 
@@ -28,29 +28,29 @@
 - VID-028 (Nocturnal Hypoglycemia) — SCRIPT COMPLETE (June 8) — Thumbnails needed, upload June 19
 - VID-029 (Fatty Liver + Normal Tests) — SCRIPT COMPLETE (June 10) — Thumbnails needed, upload June 17
 - VID-030 (Morning Headache + BP Crisis) — SCRIPT COMPLETE (June 10) — Thumbnails needed, upload June 19
-- VID-SHORT-004 through VID-SHORT-015 — SCRIPT COMPLETE
+- VID-031 (Sleep/Oxygen Drop — UARS) — SCRIPT COMPLETE (June 11) — Thumbnails needed, upload June 17
+- VID-032 (Spine Curving/Organ Compression) — SCRIPT COMPLETE (June 11) — Thumbnails needed, upload June 19
+- VID-SHORT-004 through VID-SHORT-017 — SCRIPT COMPLETE
 
-### New Ideas Generated Today (June 10) — TOP 10
+### New Ideas Generated Today (June 11) — TOP 10
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
-| I136 | Bladder-Brain Connection | Urological/Neurological | 18 | NEW |
-| I137 | Facial Temperature Map | Body Signals/Cardio | 17 | NEW |
-| I138 | Silent Aspiration | Neurological/Respiratory | 19 | NEW ⭐ HIGHEST |
-| I139 | Medication Burden Math | Medication Safety | 18 | NEW |
-| I140 | Inner Ear Balance Mineral | Neurological/Balance | 17 | NEW |
-| I141 | Skin Turgor Dehydration | Body Signals/Hydration | 16 | NEW |
-| I142 | Gut Transit Time | Digestive/Metabolic | 17 | NEW |
-| I143 | Pupil Response + Falls | Neurological/Vision | 18 | NEW |
-| I144 | Liver Clock + Meds | Med Safety/Chronobiology | 18 | NEW |
-| I145 | Earwax + Heart | Body Signals/Cardio | 16 | NEW |
+| I148 | Ozempic Blood Flow | GLP-1/Vascular | 20 | 🔴 HIGHEST PRIORITY |
+| I146 | Stool Shape Signal | Body Signals/Digestive | 19 | 🔴 HIGH |
+| I150 | 2 Heart Numbers → Stroke | Cardio/Stroke | 19 | 🔴 HIGH |
+| I149 | Taste Bud Death → Malnutrition | Nutritional/Sensory | 18 | 🟡 HIGH |
+| I151 | Calf = Second Heart | Cardio/Vascular | 18 | 🟡 HIGH |
+| I153 | Sleep Position → Brain Damage | Sleep/Neuro | 18 | 🟡 HIGH |
+| I154 | Vitamin D Arterial Stiffness | Supplement Safety | 18 | 🟡 HIGH |
+| I147 | Eyelid Twitch Brain Circuit | Neurological | 17 | 🟢 MEDIUM |
+| I152 | Lost Pulse = Calcification | Cardio/Body Signals | 17 | 🟢 MEDIUM |
+| I155 | Knee Click Surgery Predictor | Orthopedic | 17 | 🟢 MEDIUM |
 
 ### 🔴 URGENT Production Pipeline (Score 19+)
-1. **I138** (Score 19) — Silent Aspiration. Script target: VID-031
-2. **I136** (Score 18) — Bladder-Brain Connection. Script target: VID-032
-3. **I139** (Score 18) — Medication Burden Math. Script target: VID-033
-4. **I143** (Score 18) — Pupil Response + Falls. Script target: VID-034
-5. **I144** (Score 18) — Liver Clock + Meds. Script target: VID-035
+1. **I148** (Score 20) — Ozempic Blood Flow. Script target: VID-033. First-mover window measured in DAYS.
+2. **I146** (Score 19) — Stool Shape Signal. Script target: VID-034. Completely unowned.
+3. **I150** (Score 19) — 2 Heart Numbers → Stroke. Script target: VID-035. Completely unowned.
 
 ### What NOT to Do
 - Don't tell viewers to change medications based on blood type
@@ -72,12 +72,17 @@
 - Don't tell viewers to stop beta-blockers abruptly — withdrawal is dangerous
 - Don't tell viewers to self-supplement magnesium without lab work
 - Don't tell viewers to self-adjust diabetes medications — always "discuss with your doctor"
-- **NEW:** Don't tell viewers they have NAFLD without imaging — frame as "ask about FIB-4 score and FibroScan"
-- **NEW:** Don't tell viewers their morning headache is definitely from high BP — frame as "discuss with your doctor"
-- **NEW:** Don't tell viewers to change medication timing on their own — frame as "ask your doctor"
-- **NEW:** Don't tell viewers coffee "cures" fatty liver — frame as "associated with lower fibrosis risk"
-- **NEW:** Don't produce generic leg health content — niche NOW SATURATED
-- **NEW:** Don't enter GLP-1/Ozempic niche without vascular mechanism angle
+- Don't tell viewers they have NAFLD without imaging — frame as "ask about FIB-4 score and FibroScan"
+- Don't tell viewers their morning headache is definitely from high BP — frame as "discuss with your doctor"
+- Don't tell viewers to change medication timing on their own — frame as "ask your doctor"
+- Don't tell viewers coffee "cures" fatty liver — frame as "associated with lower fibrosis risk"
+- Don't produce generic leg health/exercise content — HYPER-SATURATED (6.3M+ views)
+- Don't enter GLP-1/Ozempic niche without vascular mechanism angle (I148 only)
+- Don't tell viewers they have UARS without a sleep study — frame as "ask about ODI"
+- Don't tell viewers their organs are "being crushed" — frame as "reduced space for organs to function"
+- Don't recommend specific exercises for kyphosis without doctor approval
+- Don't produce standalone microplastics content — audience not interested
+- Don't use "Mind-Blowing Benefits" supplement format — Whitmore owns at 1.57M
 
 ### Anti-Template Rules Reminder
 - Vary the number of items in lists (not always "3 things")
@@ -96,24 +101,24 @@
 - Every video must include Dr. Kane's original commentary and professional opinion
 - Multi-ID competitors (Franklin 7+, Carter 3, Whitmore 2) are at HIGH enforcement risk
 
-### Key Competitor Threats (Updated June 10)
-- **Claire Whitmore 🔴🔴:** 700K on breathing video (BIGGEST ever). 452K on BP comparison. 209K on WRONG time. Multi-ID confirmed (Dr. Claire MD 2nd ID at 47K). Now chasing Ozempic trend (31 views) and muscle loss (131 views). Fastest-growing competitor.
-- **Dr. Michael Kent 🔴🔴:** Eye niche DOMINANCE (956K+722K=1.7M+). LEG CIRCULATION BREAKOUT at 176K+29K. Multi-niche expansion ACCELERATING (stool-cancer 70K, muscle loss 452, blood sugar 1.31M). Most successful by total views.
-- **Dr. James Hargrove 🟠:** CHOKING EMERGENCY FORMAT BREAKOUT (225K). Entering vitamin-stroke space (8.2K) and diagnostic advocacy (5.9K). Risk upgraded to MEDIUM-HIGH.
-- **Senior Health Blog 🔴:** Diabetes niche DOMINANCE (560K+353K+278K+131K=1.3M+). "BEST X for DIABETICS" format at scale.
-- **Dr. Franklin 🔴:** 7+ IDs running identical nail content. YouTube enforcement time bomb. Nail niche CLOSED.
-- **Japan's Oldest Doctor 🟡:** NEW competitor. Top video at 537K. Cross-posts with Kent. Leg circulation + balance niche. Monitor closely.
-- **Dr. Victoria Wells 🟡:** Entering stroke niche (44 views). Very small but entering the Waterling gap.
+### Key Competitor Threats (Updated June 11)
+- **Claire Whitmore 🔴🔴:** 1.57M berberine (NEW mega-format) + 700K breathing + 452K AFib + multi-ID. Now chasing Ozempic trend (31 views). Fastest-growing competitor.
+- **Dr. Michael Kent 🔴🔴:** Eye niche DOMINANCE (956K+722K=1.7M+). Blood sugar expansion (378K). Multi-niche expansion ACCELERATING.
+- **TopHealthTips 🔴🔴:** NEW major competitor. 1.46M leg circulation video. Direct competition at massive scale.
+- **Senior Book 🔴🔴:** NEW major competitor. 826K leg exercise video. "Surgeon reveals" authority format.
+- **Japan's Oldest Doctor 🔴🔴:** Neuropathy video CROSSED 1M. Now dominating 3 sub-niches.
+- **Dr. Sumit Kapadia 🔴:** Real vascular surgeon at 988K. Direct credibility threat.
+- **Dr. James Hargrove 🟠:** Water/blood flow breakout (50K). Entering diagnostic gap space.
+- **Senior Health Blog 🔴:** Diabetes niche DOMINANCE (1.3M+). Bedtime seeds format (149K).
+- **Dr. Franklin 🔴:** 7+ IDs running identical nail content. YouTube enforcement time bomb.
+- **Dr. Ibrahim Khan 🟡:** Age spots niche (42K). NEW uncontested sub-niche.
+- **Dr. William Arden 🟡:** Ozempic content at 13.6K. Strongest in elder niche.
 - **Dr. Waterling 🟢:** PERMANENTLY SUPPRESSED. Stroke niche window WIDE OPEN.
 
-### Content Chain (Updated June 10)
+### Content Chain (Updated June 11)
 - VID-002 (Microplastics Brain) → VID-010 (Microplastics Gut) via end screen (series)
-- VID-010 (Microplastics Gut) → VID-009 (Swollen Ankles) via end screen
-- VID-009 (Swollen Ankles) → VID-010 (Microplastics Gut) via end screen
 - VID-017 (Balance Loss) → VID-018 (Hand Tremor) via end screen
 - VID-018 (Hand Tremor) → VID-019 (Taste Changes) via end screen
-- VID-019 (Stomach Acid + Meds) → VID-021 (Fingertip Tingling) via end screen
-- VID-020 (Iron Deficiency) → VID-021 (Fingertip Tingling) via end screen
 - VID-021 (Heartbeat/Stroke) → VID-022 (Kidney Test) via end screen
 - VID-022 (Kidney Test) → VID-021 (Heartbeat/Stroke) via end screen
 - VID-023 (Burning Feet) → VID-024 (Breath Odor) via end screen
@@ -122,10 +127,10 @@
 - VID-028 (Nocturnal Hypoglycemia) → VID-027 (Antibiotic Tendon) via end screen
 - VID-029 (Fatty Liver) → VID-030 (Morning Headache + BP Crisis) via end screen
 - VID-030 (Morning Headache) → VID-029 (Fatty Liver) via end screen
-- VID-SHORT-012 → VID-027 (teaser → full)
-- VID-SHORT-013 → VID-028 (teaser → full)
-- VID-SHORT-014 → VID-029 (teaser → full)
-- VID-SHORT-015 → VID-030 (teaser → full)
+- VID-031 (Sleep/Oxygen) → VID-032 (Spine Curving) via end screen
+- VID-032 (Spine Curving) → VID-031 (Sleep/Oxygen) via end screen
+- VID-SHORT-016 → VID-031 (teaser → full)
+- VID-SHORT-017 → VID-032 (teaser → full)
 
 ### Structural Variety Log
 | Video | Opening Style | Core Structure | Closing Style |
@@ -145,25 +150,28 @@
 | VID-028 (Hypoglycemia) | Medical mystery story ("Let me tell you about a patient") | Mystery presentation → Physiology → 3-drug interaction stack → Why system misses it → Self-detection protocol → Doctor conversation → Emergency guidance → Patient resolution | Patient resolution with specific outcome data + warm sign-off |
 | VID-029 (Fatty Liver) | Assumption challenge ("The word 'normal' may be the most dangerous miscommunication") | Assumption setup → Test flaw explanation (ALT/AST measure damage not fat) → Better screening (FIB-4 + FibroScan) → Compounding risk after 60 → Evidence-based interventions → Practical doctor conversation script | Empowerment through understanding + specific test request + warm sign-off |
 | VID-030 (Morning Headache) | Symptom recognition ("You wake up with a headache — and you've stopped noticing") | Symptom pattern → Mechanism (nocturnal BP surge → vessel pain) → Diagnostic gap (office BP misses nighttime) → 3-position home test protocol → Causes (sleep apnea, med timing, cortisol) → Stroke risk urgency → Action steps | Direct agency message ("before the ibuprofen, reach for the BP cuff") + warm sign-off |
+| VID-031 (Sleep/Oxygen) | Paradox hook ("You slept 8 hours but woke up tired") | Paradox → Patient story (Robert's diagnostic journey) → Mechanism (UARS vs. apnea, AHI vs. ODI) → Diagnostic gap (standard sleep studies miss ODI) → Self-assessment + doctor script → Action steps (bed elevation, nasal support, alcohol timing) → Emotional close (Robert's resolution) | Empowerment through understanding + forward tease |
+| VID-032 (Spine Curving) | Interactive measurement moment ("Stand against a wall right now") | Wall test → Domino effect chain (lungs → heart → digestive → circulation) → Patient cautionary story (Dorothy's missed AFib) → Self-assessment (3 home tests) → Evidence-based exercises (3 specific movements) → Doctor conversation script → Empowerment close | Practical action plan + forward tease |
 
 ---
 
-## Tomorrow's Priorities (June 11)
+## Tomorrow's Priorities (June 12)
 
 ### 🔴 Critical
-1. **Upload VID-023** — "Why Your Feet Burn After 60 — The Nerve Fiber Dying in Silence" at 2:00 PM EST (if thumbnails ready)
-2. **Produce VID-029 Thumbnails** — Two variants for June 17 upload (6 days lead time)
-3. **Produce VID-030 Thumbnails** — Two variants for June 19 upload (8 days lead time)
+1. **Verify VID-021 and VID-023 upload status** — Confirm both are live
+2. **Upload VID-022** — "Your Doctor Tested Your Kidneys Wrong After 60" at 2:00 PM EST
+3. **Produce VID-031 Thumbnails** — Two variants for June 17 upload (5 days lead time). HIGHEST priority new video.
+4. **Produce VID-032 Thumbnails** — Two variants for June 19 upload (7 days lead time)
 
 ### 🟡 Important
-4. **Produce VID-027 Thumbnails** — Two variants for June 17 upload
-5. **Produce VID-028 Thumbnails** — Two variants for June 19 upload
-6. **Begin VID-031 script** — I138: Silent Aspiration (Score 19, highest June 10 idea)
+5. **Produce VID-027 Thumbnails** — Two variants for June 17 upload
+6. **Produce VID-029 Thumbnails** — Two variants for June 17 upload
+7. **Upload VID-024** — June 13 at 2:00 PM EST (thumbnails needed)
 
 ### 🟢 When Time Permits
-7. **Begin VID-032 script** — I136: Bladder-Brain Connection (Score 18)
-8. **Create "Medication Dangers Your Doctor Misses" playlist**
-9. **Research GLP-1/vascular content angle** — "Ozempic effects on blood flow/circulation"
+8. **Begin VID-033 script** — I148: Ozempic Blood Flow (Score 20, first-mover window closing)
+9. **Begin VID-034 script** — I146: Stool Shape Signal (Score 19)
+10. **Create "Body Signals Your Doctor Misses" playlist**
 
 ---
 
@@ -171,30 +179,34 @@
 
 | Date | Video | Type | Status |
 |------|-------|------|--------|
-| Tue June 10 | VID-021 (Heartbeat/Stroke) | Long | Thumbnails ready — GO |
-| Tue June 11 | VID-023 (Burning Feet) | Long | Thumbnails need production |
+| Tue June 10 | VID-021 (Heartbeat/Stroke) | Long | Verify upload |
+| Tue June 11 | VID-023 (Burning Feet) | Long | Verify upload |
 | Tue June 11 | VID-SHORT-010 (teaser) | Short | Script complete |
 | Thu June 12 | VID-022 (Kidney Test) | Long | Thumbnails ready |
 | Thu June 13 | VID-024 (Breath Odor) | Long | Thumbnails need production |
 | Thu June 13 | VID-SHORT-011 (teaser) | Short | Script complete |
 | Tue June 17 | VID-027 (Antibiotic Tendon) | Long | Thumbnails need production |
 | Tue June 17 | VID-029 (Fatty Liver + Normal Tests) | Long | Thumbnails need production |
+| Tue June 17 | VID-031 (Sleep/Oxygen Drop — UARS) | Long | Thumbnails need production |
+| Tue June 17 | VID-SHORT-016 (teaser) | Short | Script complete |
 | Thu June 19 | VID-028 (Nocturnal Hypoglycemia) | Long | Thumbnails need production |
 | Thu June 19 | VID-030 (Morning Headache + BP Crisis) | Long | Thumbnails need production |
+| Thu June 19 | VID-032 (Spine Curving/Organ Compression) | Long | Thumbnails need production |
+| Thu June 19 | VID-SHORT-017 (teaser) | Short | Script complete |
 
 ---
 
 ## 🔥 URGENT: GLP-1/Vascular Niche Emerging
 
-Whitmore just entered Ozempic space (31 views, 1 day old). **Dr. Kane can own "Ozempic effects on blood flow/circulation" with vascular medicine authority.** First-mover window is measured in days, not weeks. Combine with vascular medicine framing: endothelial effects, peripheral circulation changes, blood viscosity.
+Arden at 13.6K, Whitmore at 31 views. **Dr. Kane can own "Ozempic effects on blood flow/circulation" with vascular medicine authority.** I148 (Score 20) is the highest-scoring idea from June 11. First-mover window is measured in DAYS, not weeks. Combine with vascular medicine framing: endothelial effects, peripheral circulation changes, blood viscosity.
 
 ---
 
 ## ⚠️ Infrastructure Alert
 
-**Firecrawl API credits STILL EXHAUSTED** (since June 8, Day 3). All competitor data collected via yt-dlp search fallback. Full scan capability requires credit refill.
+**Firecrawl API credits STILL EXHAUSTED** (since June 8, Day 4). All competitor data collected via yt-dlp search fallback. Full scan capability requires credit refill.
 
 ---
 
-*Context pack updated: 2026-06-10 after memory update session*
-*Next update: 2026-06-11 (or next script writing day)*
+*Context pack updated: 2026-06-11 after VID-031/VID-032 script writing session + June 11 competitor scan*
+*Next update: 2026-06-12 (or next script writing day)*

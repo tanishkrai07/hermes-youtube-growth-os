@@ -1,63 +1,62 @@
 # Next Actions — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-10
-> **Planning Horizon:** June 11 - June 17, 2026
+> **Last Updated:** 2026-06-11
+> **Planning Horizon:** June 12 - June 19, 2026
 
-## 🔴 IMMEDIATE (June 11, 2026 — Tomorrow)
+## 🔴 IMMEDIATE (June 12, 2026 — Tomorrow)
 
 ### Video Production — CRITICAL PRIORITY
 1. **Upload VID-023 (Long-form):** "Why Your Feet Burn After 60 — The Nerve Fiber Dying in Silence"
-   - Upload: Tuesday, June 11, 2026 at 2:00 PM EST
-   - Thumbnail: NEEDS PRODUCTION — Variant A: "The Invisible Nerve" / Variant B: "The Burning Signal"
-   - Status: GO (thumbnails needed)
+   - Upload: Tuesday, June 11, 2026 at 2:00 PM EST (may have already uploaded)
+   - Status: Verify upload status
 
-2. **Produce VID-029 Thumbnails** — Two variants for June 17 upload (Deceptive Report / Hidden Organ)
-   - Palette: Warm olive green / Deep maroon — both new to channel
+2. **Upload VID-021 (Long-form):** "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke"
+   - Upload: Tuesday, June 10 at 2:00 PM EST (verify status)
+   - Status: Verify upload status
 
-3. **Produce VID-030 Thumbnails** — Two variants for June 19 upload (Silent Surge / 3-Position Test)
-   - Palette: Deep midnight blue / Warm dawn gradient — both new to channel
+3. **Produce VID-031 Thumbnails** — Two variants for June 17 upload (The Oxygen Dip / The Hidden Diagnosis)
+   - Palette: Deep plum / Deep navy-teal split — both new to channel
+   - Lead time: 5 days
 
-4. **Produce VID-027 Thumbnails** — Two variants for June 17 upload (Concerned Doctor + Achilles / Cipro → Rupture arrow)
+4. **Produce VID-032 Thumbnails** — Two variants for June 19 upload (The Wall Test / The Domino Chain)
+   - Palette: Warm charcoal / Deep forest green — both new to channel
+   - Lead time: 7 days
 
-5. **Produce VID-028 Thumbnails** — Two variants for June 19 upload (3 AM Crash / Three-Drug Trap)
+5. **Produce VID-027 Thumbnails** — Two variants for June 17 upload
+6. **Produce VID-029 Thumbnails** — Two variants for June 17 upload
 
 ### Script Writing
-6. **Begin VID-031 script** — I138: Silent Aspiration (Score 19, HIGHEST June 10 idea list)
-7. **Begin VID-032 script** — I136: Bladder-Brain Connection (Score 18)
-8. **Begin VID-033 script** — I139: Medication Burden Math (Score 18)
+7. **Begin VID-033 script** — I148: Ozempic Blood Flow (Score 20, HIGHEST June 11 idea list). First-mover window closing.
+8. **Begin VID-034 script** — I146: Stool Shape Signal (Score 19). Completely unowned.
+9. **Begin VID-035 script** — I150: 2 Heart Numbers → Stroke (Score 19). Complements I135.
 
-## 🟡 THIS WEEK (June 11-17, 2026)
+## 🟡 THIS WEEK (June 12-18, 2026)
 
 ### Content Production
-9. **Upload VID-021 (Long-form):** "Your Heartbeat Changed After 60 — The Pulse Pattern That Predicts Stroke"
-   - Upload: Tuesday, June 10 at 2:00 PM EST (if not already done)
-   - Status: Thumbnails ready — GO
-
-10. **Upload VID-022 (Long-form):** "Your Doctor Tested Your Kidneys Wrong After 60 — The 2-Minute Test They Skip"
+10. **Upload VID-022 (Long-form):** "Your Doctor Tested Your Kidneys Wrong After 60"
     - Upload target: Thursday, June 12, 2026 at 2:00 PM EST
     - Thumbnail: A/B variants ready (Creatinine Mask / Hidden Number)
 
 11. **Upload VID-024 (Long-form):** "Why Your Breath Smells Different After 60 — The Organ Signal on Your Tongue"
     - Upload target: Thursday, June 13, 2026 at 2:00 PM EST
-    - Thumbnail: NEEDS PRODUCTION — Variant A: "The Organ Map" / Variant B: "The Breath Signal"
+    - Thumbnail: NEEDS PRODUCTION
 
 12. **Upload VID-SHORT-010 (Short):** Teaser for VID-023 — Upload target: June 11
 13. **Upload VID-SHORT-011 (Short):** Teaser for VID-024 — Upload target: June 13
 
 ### Thumbnail Production Priority Order
-1. VID-029 (June 17 upload — 6 days lead time)
-2. VID-030 (June 19 upload — 8 days lead time)
-3. VID-027 (June 17 upload — 6 days lead time)
-4. VID-028 (June 19 upload — 8 days lead time)
-5. VID-021 (June 10 upload — immediate)
-6. VID-023 (June 11 upload — immediate)
-7. VID-024 (June 13 upload — 2 days)
+1. VID-031 (June 17 upload — 5 days lead time) — NEW, highest priority
+2. VID-027 (June 17 upload — 5 days lead time)
+3. VID-029 (June 17 upload — 5 days lead time)
+4. VID-032 (June 19 upload — 7 days lead time) — NEW
+5. VID-028 (June 19 upload — 7 days lead time)
+6. VID-030 (June 19 upload — 7 days lead time)
 
 ### Channel Optimization
 14. **A/B Test Monitoring (Post-Upload)**
     - VID-021: Monitor CTR at 24h and 48h
     - VID-022: Monitor CTR at 24h and 48h (upload June 12)
-    - VID-023: Monitor CTR at 24h and 48h (upload June 11)
+    - VID-023: Monitor CTR at 24h and 48h
     - VID-024: Monitor CTR at 24h and 48h (upload June 13)
     - Target CTR: >6%
 
@@ -71,31 +70,37 @@
 ### Planned Content
 16. **VID-027 (Long-form):** "The Antibiotic That Destroyed My Patient's Tendon" — Upload June 17
 17. **VID-029 (Long-form):** "Your Liver Is Fatty After 60 — But Your Blood Tests Say You're Fine" — Upload June 17
-18. **VID-028 (Long-form):** "Why You Wake Up Sweaty and Confused After 60" — Upload June 19
-19. **VID-030 (Long-form):** "Why Your Morning Headache Is Predicting a Blood Pressure Crisis After 60" — Upload June 19
-20. **VID-SHORT-012 (Short):** Teaser for VID-027 — Upload June 19
-21. **VID-SHORT-013 (Short):** Teaser for VID-028 — Upload June 21
-22. **VID-SHORT-014 (Short):** Teaser for VID-029 — Upload June 19
-23. **VID-SHORT-015 (Short):** Teaser for VID-030 — Upload June 21
-24. **Weekly Performance Review:** Analyze VID-021-024 metrics at 7-day mark
+18. **VID-031 (Long-form):** "Why Your Sleep Gets Worse After 60 — The Oxygen Drop Nobody Measures" — Upload June 17
+19. **VID-028 (Long-form):** "Why You Wake Up Sweaty and Confused After 60" — Upload June 19
+20. **VID-030 (Long-form):** "Why Your Morning Headache Is Predicting a Blood Pressure Crisis After 60" — Upload June 19
+21. **VID-032 (Long-form):** "Your Spine Is Curving After 60 — And It's Compressing Your Organs" — Upload June 19
+22. **VID-SHORT-012 (Short):** Teaser for VID-027 — Upload June 19
+23. **VID-SHORT-013 (Short):** Teaser for VID-028 — Upload June 21
+24. **VID-SHORT-014 (Short):** Teaser for VID-029 — Upload June 19
+25. **VID-SHORT-015 (Short):** Teaser for VID-030 — Upload June 21
+26. **VID-SHORT-016 (Short):** Teaser for VID-031 — Upload June 17
+27. **VID-SHORT-017 (Short):** Teaser for VID-032 — Upload June 19
+28. **Weekly Performance Review:** Analyze VID-021-024 metrics at 7-day mark
 
 ## 🟡 STRATEGIC OPPORTUNITIES (Act This Week)
 
-25. **🔴 GLP-1/Vascular Angle** — Whitmore just entered Ozempic space (31 views). Dr. Kane can own "Ozempic effects on blood flow/circulation" with vascular medicine authority. I146 or similar concept. First-mover window OPEN.
-26. **🔴 Emergency Format Content** — Hargrove's 225K choking video proves the "How to Survive [Emergency] Alone After 60" format. Adapt to stroke-alone or heart attack-alone with mechanism angle.
-27. **🟡 Silent Aspiration (I138)** — Score 19. Highest June 10 idea. Fills neurology-respiratory gap. Completely unowned. Script target: VID-031.
-28. **🟡 Bladder-Brain Connection (I136)** — Score 18. Fills urology-neurology gap. Completely unowned. Script target: VID-032.
-29. **🟡 Medication Burden Math (I139)** — Score 18. Systems pharmacology angle. Completely unowned. Script target: VID-033.
+29. **🔴 GLP-1/Vascular Angle** — Arden at 13.6K, Whitmore at 31 views. Dr. Kane can own "Ozempic effects on blood flow/circulation" with vascular medicine authority. I148 (Score 20). First-mover window measured in DAYS.
+30. **🔴 Stool Shape Diagnostic (I146)** — Score 19. Completely unowned. Kent covers "worst stool" at 70K but only as cancer scare — NO ONE covers stool shape changes as mechanical colon narrowing signal.
+31. **🔴 Stroke Prediction Numbers (I150)** — Score 19. Left atrial diameter + NT-proBNP predict cardioembolic stroke. Completely unowned stroke-prediction lane.
+32. **🟡 Taste Bud Malnutrition Cascade (I149)** — Score 18. Taste bud atrophy → malnutrition → sarcopenia. Completely unowned.
+33. **🟡 Calf = Second Heart (I151)** — Score 18. Soleus as cardiovascular organ. Mechanism angle in saturated leg health market.
+34. **🟡 Sleep Position → Brain Damage (I153)** — Score 18. Glymphatic clearance impairment from sleep position. Completely unowned.
+35. **🟡 Vitamin D Arterial Stiffness (I154)** — Score 18. Vitamin D >4000 IU → vascular calcification. "Healthy habit inversion" format.
 
 ## ❌ SKIP / DO NOT PRODUCE
-- ❌ Blood pressure content — NOW SATURATED (Whitmore 700K+451K+209K+85K, Kent 463K, Carter 1.25M)
+- ❌ Blood pressure content — NOW SATURATED
 - ❌ General blood type longevity — Franklin owns this at 320K
 - ❌ Cancer prevention — Becker's 1.3M coffee video dominating
 - ❌ General food warnings — Adeyemi (~1.9M) + Cross (68K) own this
 - ❌ General medication warnings — saturated
 - ❌ Stem cell content — Becker OWNS this (5+ videos, 2.4M+)
 - ❌ Body shock / embarrassing topics — Franklin owns this, brand risk
-- ❌ Eye health content — NEWLY CROWDED (Kent 956K+719K, Dr.Robert Harrison ~893K, Doctor Eye Health ~568K)
+- ❌ Eye health content — NEWLY CROWDED (Kent 956K+722K, Dr.Robert Harrison ~893K, Doctor Eye Health ~568K)
 - ❌ Heart medication warnings — NOW CROWDED (Whitmore 607K + Carter 1.2M)
 - ❌ Nail health content — Franklin already copied with 7+ IDs. Window CLOSED.
 - ❌ Diabetes/nutrition general — Senior Health Blog (1.3M+) dominates
@@ -103,11 +108,14 @@
 - ❌ Any content using alarmist language
 - ❌ Direct competition with KenDBerryMD's "safest medications" format
 - ❌ Copying Whitmore's multi-format saturation strategy
-- ❌ Generic leg health content — NOW SATURATED (Kent 176K+, Japan's Oldest Doctor 537K+, Whitmore 650K, Cross 40K)
-- ❌ GLP-1/Ozempic general content — Only enter with vascular mechanism angle
+- ❌ Generic leg health/exercise content — HYPER-SATURATED (6.3M+ views, 7+ channels)
+- ❌ GLP-1/Ozempic general content — Only enter with vascular mechanism angle (I148)
 - ❌ Self-diagnosis framing — always "report to doctor"
 - ❌ "It's Not Your [Organ]" frame — SATURATED
 - ❌ Multi-ID upload strategy — YouTube enforcement targeting this
+- ❌ Berberine content — Whitmore owns at 1.57M
+- ❌ Microplastics standalone content — Audience not interested (Becker 5-12 views)
+- ❌ "Mind-Blowing Benefits" supplement format — Whitmore owns at 1.57M
 
 ## 📊 Key Metrics to Track
 - VID-021 CTR (target >6%) — check June 11 (24h mark), June 12 (48h mark)
@@ -116,36 +124,33 @@
 - VID-024 CTR (target >6%) — check June 14 (24h mark), June 15 (48h mark)
 - VID-029 CTR (target >6%) — check June 18 (24h mark), June 19 (48h mark)
 - VID-030 CTR (target >6%) — check June 20 (24h mark), June 21 (48h mark)
-- VID-SHORT-010 CTR (target >8%)
-- VID-SHORT-011 CTR (target >8%)
+- VID-031 CTR (target >6%) — check June 18 (24h mark), June 19 (48h mark)
+- VID-032 CTR (target >6%) — check June 20 (24h mark), June 21 (48h mark)
 - A/B test results for all videos
 - Average view duration for all long-form videos (target >50%)
 - Subscriber conversion rate per video
-- Any competitor entering small-fiber neuropathy, breath odor, fluoroquinolone, nocturnal hypoglycemia, diagnostic gap, stroke prevention, GLP-1/Ozempic, or leg health niches
+- Any competitor entering: UARS/sleep oxygen, spine curvature/organ compression, stool shape diagnostics, stroke prediction, GLP-1/vascular, or age spots niches
 
 ## 🎯 Success Criteria for This Week
-1. VID-023 uploaded by June 11 — small-fiber neuropathy (first-mover in invisible nerve damage)
-2. VID-021 uploaded by June 10 — AFib detection gap (first-mover in self-screening)
-3. VID-022 uploaded by June 12 — creatinine mask (first-mover in diagnostic gap kidney)
-4. VID-024 uploaded by June 13 — organ breath map (first-mover in breath odor diagnostics)
-5. VID-SHORT-010 and VID-SHORT-011 uploaded as teasers
-6. VID-027, VID-028, VID-029, VID-030 thumbnails produced for June 17-19 uploads
-7. VID-031, VID-032, VID-033 scripts started (Silent Aspiration + Bladder-Brain + Med Burden Math)
+1. VID-021 and VID-023 uploaded and verified by June 12
+2. VID-022 uploaded by June 12 — creatinine mask (first-mover in diagnostic gap kidney)
+3. VID-024 uploaded by June 13 — organ breath map (first-mover in breath odor diagnostics)
+4. VID-031 and VID-032 thumbnails produced for June 17/19 uploads
+5. VID-027, VID-028, VID-029, VID-030 thumbnails produced for June 17/19 uploads
+6. VID-033 script started (I148: Ozempic Blood Flow — Score 20, first-mover window closing)
+7. VID-034 script started (I146: Stool Shape Signal — Score 19)
 8. A/B test thumbnails for VID-021-024 — determine winning variants at 48h
-9. GLP-1/vascular content concept identified and prioritized
-10. Zero policy violations
-11. Playlist "Medication Dangers Your Doctor Misses" created
+9. Zero policy violations
+10. Playlist "Medication Dangers Your Doctor Misses" created
 
-## ⚡ NEW STRATEGIC NOTES (June 10)
-- **🔥 URGENT: GLP-1/Vascular Niche Emerging:** Whitmore just entered Ozempic space (31 views). Dr. Kane can own "Ozempic effects on blood flow/circulation" with vascular medicine authority. First-mover window is measured in days.
-- **🔥 Emergency Format Proven:** Hargrove's 225K choking video proves "How to Survive [Emergency] Alone After 60" format. Adapt to stroke/heart attack alone with mechanism angle.
-- **🔥 Leg Health Niche Saturated:** Kent (176K+), Japan's Oldest Doctor (537K+), Whitmore (650K) all competing. Dr. Kane must differentiate with VASCULAR MECHANISM content only.
-- **"Diagnostic Gap" is Dr. Kane's most defensible niche** — VID-021 (6-second EKG gap), VID-022 (creatinine mask), VID-029 (ALT/AST miss NAFLD), VID-030 (office BP misses nocturnal) prove the framework. Hargrove weakly entering (5.8K). Dr. Kane must own this.
-- **Self-screening protocols are unique differentiators** — The 30-second pulse check (VID-021) and 3-position BP test (VID-030) teach tangible skills. This builds trust and loyalty beyond passive watching.
-- **Claire Whitmore remains highest threat** — 700K mega-hit on breathing + 451K on BP comparison. Multi-ID confirmed. Now chasing Ozempic and muscle loss trends.
-- **Dr. Michael Kent now most successful competitor by total views** — 956K + 719K + 1.31M + 176K + 156K across multiple mega-hits. Just broke into leg circulation. Do NOT compete directly in his niches.
-- **Speed-to-market is now measured in days, not windows** — Windows close within 48-72 hours of competitor entry. Every identified opportunity must trigger immediate production.
-- **Body signals are the next battleground** — VID-023 (burning feet) and VID-024 (breath odor) are first-mover but windows are narrowing.
-- **Firecrawl API credits STILL exhausted** — Search infrastructure DOWN since June 8. Must refill for future scans.
-- **"INSTANTLY" format is #1 performing hook** — Adapt for Dr. Kane with mechanism depth.
-- **Japan's Oldest Doctor cross-posting with Kent** — May be licensed content or alternate ID. Monitor closely.
+## ⚡ NEW STRATEGIC NOTES (June 11)
+- **🔥 URGENT: GLP-1/Vascular Niche Emerging:** Arden at 13.6K, Whitmore at 31 views. I148 (Score 20) is the highest-scoring idea. First-mover window is measured in DAYS.
+- **🔥 Leg Health HYPER-SATURATED:** 6.3M+ views across 7+ channels. ALL exercise-focused. Dr. Kane must NEVER produce exercise-based leg health content. Only vascular mechanism angle is viable.
+- **🔥 Real Vascular Surgeon Competing:** Dr. Sumit Kapadia (988K views) is a REAL vascular surgeon. Dr. Kane's differentiator must shift from credentials to content quality and unique insights.
+- **🔥 "Mind-Blowing Benefits" Format Owned:** Whitmore's 1.57M berberine video owns this format. AVOID.
+- **🔥 Microplastics Window CLOSED:** Becker's 5-12 views confirm zero audience interest. AVOID standalone microplastics content.
+- **"Diagnostic Gap" is Dr. Kane's most defensible niche** — VID-021 (6-second EKG gap), VID-022 (creatinine mask), VID-029 (ALT/AST miss NAFLD), VID-030 (office BP misses nocturnal), VID-031 (AHI misses ODI) prove the framework.
+- **Self-screening protocols are unique differentiators** — The 30-second pulse check (VID-021), 3-position BP test (VID-030), wall test (VID-032) teach tangible skills.
+- **Claire Whitmore remains highest threat** — 1.57M berberine + 700K breathing + 452K AFib + multi-ID. Now chasing Ozempic trend.
+- **Speed-to-market is now measured in days** — Windows close within 48-72 hours of competitor entry.
+- **Firecrawl API credits STILL EXHAUSTED** — Search infrastructure DOWN since June 8 (Day 4).
