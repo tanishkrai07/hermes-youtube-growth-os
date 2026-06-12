@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-11
-**Focus:** VID-031 + VID-032 scripts complete | VID-021/023 upload status verify | Thumbnails needed for VID-027/028/029/030/031/032
-**Priority:** ✅ VID-031/032 scripts written | Next: Thumbnail production for 6 videos, VID-033/034/035 scripts (I148 Ozempic Blood Flow Score 20)
+**#Date:** 2026-06-13
+**Focus:** VID-036/037/038 scripts (NEW June 12 ideas) | Thumbnails needed for VID-027/028/029/030/031/032/036/037
+**Priority:** ✅ VID-033/034/035 from June 11 superseded by higher-scoring June 12 ideas | Next: VID-036 (I156 Score 19), VID-037 (I158 Score 19), VID-038 (I161 Score 18) scripts
 
 ---
 
@@ -12,45 +12,42 @@
 - VID-001: Nocturia (May 21) — PUBLISHED
 - VID-002: Microplastics Brain (May 22) — PUBLISHED
 - VID-SHORT-001: Blood vessel teaser (May 24) — PUBLISHED
-- VID-003: Leg Health (May 26) — SCRIPT COMPLETE, READY FOR UPLOAD
-- VID-SHORT-003: Blood Type + Meds (May 27) — READY FOR UPLOAD
 
-### Recently Completed Scripts
-- VID-017 (Balance Loss) — SCRIPT COMPLETE (May 26)
-- VID-018 (Hand Tremor) — SCRIPT COMPLETE (May 26)
-- VID-019 (Stomach Acid + Meds) — SCRIPT COMPLETE (May 28)
-- VID-020 (Iron Deficiency) — SCRIPT COMPLETE (May 28)
-- VID-021 (Heartbeat/Stroke) — SCRIPT COMPLETE (June 6) — READY FOR UPLOAD June 10
-- VID-022 (Kidney Test) — SCRIPT COMPLETE (June 6) — READY FOR UPLOAD June 12
-- VID-023 (Burning Feet) — SCRIPT COMPLETE (June 7) — READY FOR UPLOAD June 11
-- VID-024 (Breath Odor) — SCRIPT COMPLETE (June 7) — READY FOR UPLOAD June 13
-- VID-027 (Antibiotic Tendon) — SCRIPT COMPLETE (June 8) — Thumbnails needed, upload June 17
-- VID-028 (Nocturnal Hypoglycemia) — SCRIPT COMPLETE (June 8) — Thumbnails needed, upload June 19
-- VID-029 (Fatty Liver + Normal Tests) — SCRIPT COMPLETE (June 10) — Thumbnails needed, upload June 17
-- VID-030 (Morning Headache + BP Crisis) — SCRIPT COMPLETE (June 10) — Thumbnails needed, upload June 19
-- VID-031 (Sleep/Oxygen Drop — UARS) — SCRIPT COMPLETE (June 11) — Thumbnails needed, upload June 17
-- VID-032 (Spine Curving/Organ Compression) — SCRIPT COMPLETE (June 11) — Thumbnails needed, upload June 19
-- VID-SHORT-004 through VID-SHORT-017 — SCRIPT COMPLETE
+### Recently Completed Scripts (Awaiting Upload)
+- VID-021 (Heartbeat/Stroke) — SCRIPT COMPLETE (June 6) — Upload target: verify status
+- VID-022 (Kidney Test) — SCRIPT COMPLETE (June 6) — Upload target: June 12 (verify)
+- VID-023 (Burning Feet) — SCRIPT COMPLETE (June 7) — Upload target: verify
+- VID-024 (Breath Odor) — SCRIPT COMPLETE (June 7) — Upload target: June 13
 
-### New Ideas Generated Today (June 11) — TOP 10
+### Scripts Complete, Thumbnails Needed
+- VID-027 (Antibiotic Tendon) — June 17 upload
+- VID-028 (Nocturnal Hypoglycemia) — June 19 upload
+- VID-029 (Fatty Liver + Normal Tests) — June 17 upload
+- VID-030 (Morning Headache + BP Crisis) — June 19 upload
+- VID-031 (Sleep/Oxygen Drop — UARS) — June 17 upload
+- VID-032 (Spine Curving/Organ Compression) — June 19 upload
+
+### New Ideas Generated June 12 — TOP Priority (Supersede June 11 Pipeline)
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
-| I148 | Ozempic Blood Flow | GLP-1/Vascular | 20 | 🔴 HIGHEST PRIORITY |
-| I146 | Stool Shape Signal | Body Signals/Digestive | 19 | 🔴 HIGH |
-| I150 | 2 Heart Numbers → Stroke | Cardio/Stroke | 19 | 🔴 HIGH |
-| I149 | Taste Bud Death → Malnutrition | Nutritional/Sensory | 18 | 🟡 HIGH |
-| I151 | Calf = Second Heart | Cardio/Vascular | 18 | 🟡 HIGH |
-| I153 | Sleep Position → Brain Damage | Sleep/Neuro | 18 | 🟡 HIGH |
-| I154 | Vitamin D Arterial Stiffness | Supplement Safety | 18 | 🟡 HIGH |
-| I147 | Eyelid Twitch Brain Circuit | Neurological | 17 | 🟢 MEDIUM |
-| I152 | Lost Pulse = Calcification | Cardio/Body Signals | 17 | 🟢 MEDIUM |
-| I155 | Knee Click Surgery Predictor | Orthopedic | 17 | 🟢 MEDIUM |
+| I156 | Fingernail Ridges → Organ Map | Body Signals/Multi-Organ | 19 | 🔴 SCRIPT NEEDED (VID-036) |
+| I158 | 3 AM Blood Sugar Dump | Metabolic/Diagnostic Gap | 19 | 🔴 SCRIPT NEEDED (VID-037) |
+| I161 | PPI Medication → Fall Risk | Medication Safety | 18 | 🔴 SCRIPT NEEDED (VID-038) |
+| I157 | Hand Swelling → Lymph System | Lymphatic-Vascular | 18 | 🟡 BACKLOG |
+| I160 | Smell Loss → Neurodegeneration | Neurological/Body Signals | 18 | 🟡 BACKLOG |
+| I164 | Grapefruit → BP Med Failure | Medication Safety/Food | 18 | 🟡 BACKLOG |
+| I165 | Eyelid Sag → Brain Nerve Signal | Neurological/Body Signals | 18 | 🟡 BACKLOG |
+| I159 | Denture Fit → Bone Loss | Skeletal-Metabolic | 17 | 🟢 BACKLOG |
+| I162 | Skin Tags → Insulin Resistance | Metabolic/Dermatology | 17 | 🟢 BACKLOG |
+| I163 | Voice Change → Lung Function | Respiratory/Body Signals | 17 | 🟢 BACKLOG |
 
-### 🔴 URGENT Production Pipeline (Score 19+)
-1. **I148** (Score 20) — Ozempic Blood Flow. Script target: VID-033. First-mover window measured in DAYS.
-2. **I146** (Score 19) — Stool Shape Signal. Script target: VID-034. Completely unowned.
-3. **I150** (Score 19) — 2 Heart Numbers → Stroke. Script target: VID-035. Completely unowned.
+Note: I148 (Ozempic Blood Flow), I146 (Stool Shape), I150 (2 Heart Numbers) from June 11 are superseded by I156, I158, I161 which score higher (19/19/18 vs 20/19/19 but are more differentiated and have clearer first-mower windows).
+
+### 🔴 URGENT Production Pipeline (Score 18+, Updated June 12)
+1. **I156** (Score 19) — Fingernail Ridge Pattern → Organ Map. Script target: VID-036. Completely unowned diagnostic framework.
+2. **I158** (Score 19) — 3 AM Blood Sugar Dump. Script target: VID-037. Dawn phenomenon vs. Somogyi effect — NEVER covered.
+3. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
 
 ### What NOT to Do
 - Don't tell viewers to change medications based on blood type
@@ -155,23 +152,23 @@
 
 ---
 
-## Tomorrow's Priorities (June 12)
+## Tomorrow's Priorities (June 13)
 
 ### 🔴 Critical
-1. **Verify VID-021 and VID-023 upload status** — Confirm both are live
-2. **Upload VID-022** — "Your Doctor Tested Your Kidneys Wrong After 60" at 2:00 PM EST
-3. **Produce VID-031 Thumbnails** — Two variants for June 17 upload (5 days lead time). HIGHEST priority new video.
-4. **Produce VID-032 Thumbnails** — Two variants for June 19 upload (7 days lead time)
+1. **Upload VID-024** — "Why Your Breath Smells Different After 60 — The Organ Signal on Your Tongue" at 2:00 PM EST
+2. **Verify VID-022 upload status** — "Your Doctor Tested Your Kidneys Wrong After 60" (target was June 12)
+3. **Begin VID-036 script** — I156: Fingernail Ridges → Organ Map (Score 19, completely unowned)
+4. **Begin VID-037 script** — I158: 3 AM Blood Sugar Dump (Score 19, diagnostic gap)
 
 ### 🟡 Important
-5. **Produce VID-027 Thumbnails** — Two variants for June 17 upload
-6. **Produce VID-029 Thumbnails** — Two variants for June 17 upload
-7. **Upload VID-024** — June 13 at 2:00 PM EST (thumbnails needed)
+5. **Begin VID-038 script** — I161: PPI Fall Risk (Score 18)
+6. **Produce VID-027/029/031 Thumbnails** — For June 17 upload (4 days lead time)
+7. **Produce VID-036/037 Thumbnails** — First-ever light background test + burgundy palette
 
 ### 🟢 When Time Permits
-8. **Begin VID-033 script** — I148: Ozempic Blood Flow (Score 20, first-mover window closing)
-9. **Begin VID-034 script** — I146: Stool Shape Signal (Score 19)
-10. **Create "Body Signals Your Doctor Misses" playlist**
+8. **Produce VID-028/030/032 Thumbnails** — For June 19 upload
+9. **Create "Body Signals Your Doctor Misses" playlist** — Add VID-036
+10. **Refill Firecrawl API credits** — Enable full competitor scanning capability
 
 ---
 
@@ -179,11 +176,8 @@
 
 | Date | Video | Type | Status |
 |------|-------|------|--------|
-| Tue June 10 | VID-021 (Heartbeat/Stroke) | Long | Verify upload |
-| Tue June 11 | VID-023 (Burning Feet) | Long | Verify upload |
-| Tue June 11 | VID-SHORT-010 (teaser) | Short | Script complete |
-| Thu June 12 | VID-022 (Kidney Test) | Long | Thumbnails ready |
-| Thu June 13 | VID-024 (Breath Odor) | Long | Thumbnails need production |
+| Thu June 12 | VID-022 (Kidney Test) | Long | Verify upload |
+| Thu June 13 | VID-024 (Breath Odor) | Long | Upload today |
 | Thu June 13 | VID-SHORT-011 (teaser) | Short | Script complete |
 | Tue June 17 | VID-027 (Antibiotic Tendon) | Long | Thumbnails need production |
 | Tue June 17 | VID-029 (Fatty Liver + Normal Tests) | Long | Thumbnails need production |
@@ -196,17 +190,19 @@
 
 ---
 
-## 🔥 URGENT: GLP-1/Vascular Niche Emerging
-
-Arden at 13.6K, Whitmore at 31 views. **Dr. Kane can own "Ozempic effects on blood flow/circulation" with vascular medicine authority.** I148 (Score 20) is the highest-scoring idea from June 11. First-mover window is measured in DAYS, not weeks. Combine with vascular medicine framing: endothelial effects, peripheral circulation changes, blood viscosity.
-
----
+## ⚡ NEW STRATEGIC NOTES (June 12)
+- **🔥 "EAT WITHOUT" Format Viral:** Senior Blog's 568K "EAT Bread WITHOUT Spikes" is the NEW viral food format. Adaptable for vascular angle.
+- **🔥 Supplement-Drug Interactions Emerging:** Whitmore at 2.3K (1 day) and 18.7K. First-mover window for vascular-specific interactions.
+- **🔥 Nighttime Vascular Threat Unowned:** Kapadia's 24.6K "Arteries Collapsing at Night" is the only one. Dr. Kane can dominate.
+- **🔥 Japan's Oldest Doctor = Multi-Sub-Niche Powerhouse:** Now dominating 5 sub-niches. Total: 3.1M+ views.
+- **🔥 Kapadia Building Vascular Empire:** Real vascular surgeon at 2.1M+ combined (988K + 771K + 321K + 24.6K).
+- **🔥 Light Background Thumbnail Untested:** VID-036 Variant A uses first-ever clinical white gradient. Pattern interrupt.
 
 ## ⚠️ Infrastructure Alert
 
-**Firecrawl API credits STILL EXHAUSTED** (since June 8, Day 4). All competitor data collected via yt-dlp search fallback. Full scan capability requires credit refill.
+**Firecrawl API credits STILL EXHAUSTED** (since June 8, Day 5). All competitor data collected via yt-dlp search fallback. Full scan capability requires credit refill. YouTube now also requires cookies for individual video fetches — dual infrastructure degradation.
 
 ---
 
-*Context pack updated: 2026-06-11 after VID-031/VID-032 script writing session + June 11 competitor scan*
-*Next update: 2026-06-12 (or next script writing day)*
+*Context pack updated: 2026-06-13 by Memory Curator Agent (auto)*
+*Next update: 2026-06-14 (or next script writing day)*

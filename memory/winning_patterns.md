@@ -388,6 +388,16 @@
 |||||||||| 2026-06-10 | VID-030 (Morning Headache + BP Crisis) | A: The Silent Surge, B: The 3-Position Test | New Brief |
 |||||||||||| 2026-06-11 | VID-031 (Sleep/Oxygen Drop — UARS) | A: The Oxygen Dip, B: The Hidden Diagnosis | New Brief |
 ||||||||||||| 2026-06-11 | VID-032 (Spine Curving/Organ Compression) | A: The Wall Test, B: The Domino Chain | New Brief |
+|||||||||||||| 2026-06-12 | VID-036 (Fingernail Ridges/Organ Map) | A: The Diagnostic Map, B: The Close-Up Contrast | New Brief |
+||||||||||||||| 2026-06-12 | VID-037 (3 AM Blood Sugar/Somogyi) | A: The Medication Paradox, B: The Invisible Curve | New Brief |
+
+### New Palettes Added (June 12)
+| Video | Primary | Accent 1 | Accent 2 | Status |
+|-------|---------|----------|----------|--------|
+| VID-036 A | Clinical white (#FAFAFA) → Light gray (#ECEFF1) | Deep teal (#00695C) | Warm bronze (#8D6E63) + organ micro-colors | New — Brief — FIRST light bg |
+| VID-036 B | Sage green (#C8E6C9) → Cream (#FFF8E1) | Deep red (#B71C1C) | Forest green (#2E7D32) / Warm gold (#F9A825) | New — Brief |
+| VID-037 A | Deep burgundy (#4A0040) → Dark plum (#311B92) | Electric yellow (#FFEB3B) | Warning red (#FF1744) / Bright green (#00E676) | New — Brief |
+| VID-037 B | Deep ocean blue (#004D40) → Midnight teal (#00251A) | Teal (#00BFA5) | Electric red (#FF1744) / Soft white (#E0F2F1) | New — Brief |
 
 ### New Palettes Added (June 11)
 | Video | Primary | Accent 1 | Accent 2 | Status |
@@ -594,4 +604,112 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 
 ---
 
-*Last updated: 2026-06-11 by Competitor Watcher Agent*
+## New Patterns Added 2026-06-12
+
+### New Title Formulas (June 12)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P115 | "EAT [Forbidden Carb] WITHOUT [Health Consequence]!" | Senior Health Blog | 568,877 |
+| P116 | "STOP Taking [Common Supplement] If You Take [Medication] — Here's Why" | Claire Whitmore | 2,372 (1-2 days) |
+| P117 | "The [Supplement] Mistake Almost Every Senior Makes — And It's Preparing You For [Condition]" | Claire Whitmore | 18,752 |
+| P118 | "WORST Type of [Body Output] — It Indicates [Disease]" | Dr. Michael Kent | 70,000 |
+| P119 | "[Number] [Food Category] You Should NEVER Touch — And [Number] You MUST Eat (Doctor Explains)" | Dr. James Hargrove | 49,218 |
+| P120 | "Your [Body Part] Are [Dramatic Verb] at [Time of Day]—Here's What to Do" | Dr. Sumit Kapadia | 24,649 |
+| P121 | "As a [Role], I Would Never Let My [Family] Get These [Number] [Medical Interventions] After [Age]" | Dr. Michael Kent | NEW |
+| P122 | "The ONLY [Number] Exercises You Need To NEVER Lose [Function] Again (60+)" | Japan's Oldest Doctor | 182,447 |
+| P123 | "DO THIS ONE Exercise To NEVER Have [Pain/Condition] Again (60+)" | Japan's Oldest Doctor | 379,665 |
+| P124 | "[Number] [Time] Stretches That Helped Over [Big Number] Seniors [Sleep Better/Condition]" | Japan's Oldest Doctor | 538,020 |
+| P125 | "[Number] Simple LEG EXERCISES To [Dramatic Verb] [Condition] FAST At Home" | Dr. Sumit Kapadia | 771,337 |
+| P126 | "[Number] Simple LEG EXERCISES To SHRINK [Condition] FAST At Home" | Dr. Sumit Kapadia | 771,337 |
+| P127 | "[Supplement A] + [Medication B] = [Disaster] (Stop This Combination)" | Multiple emerging | NEW |
+| P128 | "Plastic INSIDE Your Body's Cells — [Year] Study (Do This Immediately)" | Doctor Becker | 3,494 |
+
+### New Viral Formats (June 12)
+1. **"EAT [Forbidden Carb] WITHOUT Blood Sugar Spikes" format** — Senior Health Blog's 568K video. Combines food permission (negativity bias reversal) + health condition management. HIGHLY ADAPTABLE for vascular angle. Dr. Kane adaptation: "EAT [Common Food] WITHOUT [Vascular Consequence]."
+2. **"STOP Taking [Supplement] If You Take [Medication]" interaction format** — Whitmore's 2.3K video (1-2 days old). Supplement-drug interaction warnings are NEW for elder health YouTube. Vascular-specific interactions = Dr. Kane angle.
+3. **"[Mistake] Is Preparing You For [Disaster]" format** — Whitmore's 18.7K magnesium/stroke video. Common behavior + invisible preparation for disaster. ADAPTABLE to vascular supplements.
+4. **"Your Arteries Are Collapsing at Night" nighttime threat** — Kapadia's 24K video. Invisible nighttime vascular threat + actionable solution. Dr. Kane can own this with deeper mechanism.
+5. **"DO THIS ONE Exercise To NEVER Have [Pain] Again" format** — Japan's Oldest Doctor at 379K (shoulder) and 182K (balance). "ONE Exercise" + "NEVER" + specific condition. Moving beyond legs into balance, shoulder, sleep.
+6. **"As a Son/Parent, I Would Never Let My [Family] Get These [Vaccines]" format** — Kent's new entry. Familial protection + prohibition. ⚠️ Platform risk.
+7. **"Chew This Before Bed – Watch Your [Health Metric] [Verb] While You Sleep" format** — Becker's stem cell series (18K). Bedtime action + passive overnight result.
+
+### Updated Top Hook Rankings (June 12)
+- #1: **"Mind-Blowing Benefits" hook** — (1.57M, Whitmore)
+- #2: **"EAT [Forbidden] WITHOUT [Consequence]" hook** — (568K, Senior Blog) ⚡ NEW TOP 2
+- #3: **"The ONLY [Number] Exercises" hook** — (1M, Japan's Oldest Doctor)
+- #4: **"30-Second Test + Fixes" hook** — (1.46M, TopHealthTips)
+- #5: "Real Truth" hook — (1.31M, Kent)
+- #6: **"Surgeon REVEALS" hook** — (826K, Senior Book)
+- #7: **"Shrink [Condition] FAST" vascular hook** — (771K, Kapadia) ⚡ NEW TOP 7
+- #8: **"Help Over [Big Number] Seniors [Sleep/Condition]" hook** — (538K, Japan's Oldest Doctor) ⚡ NEW TOP 8
+- #9: "INSTANTLY" hook — (701K, Whitmore)
+- #10: "Forget [X] — This [Y]" hook — (956K, Kent)
+- #11: **"NEVER Have [Pain] Again" hook** — (379K, Japan's Oldest Doctor) ⚡ NEW
+- #12: **"NEVER Lose [Function] Again" hook** — (182K, Japan's Oldest Doctor) ⚡ NEW
+- #13: "The ONE" hook — (650K, Whitmore)
+- #14: **"Supplement + Drug Interaction" hook** — (18.7K-2.3K, Whitmore) ⚡ EMERGING
+- #15: **"Your Arteries Collapsing at Night" hook** — (24.6K, Kapadia) ⚡ EMERGING
+
+### Critical Insights (June 12)
+1. **"Format Blending" is accelerating** — Senior Health Blog's 568K "EAT Bread WITHOUT Spikes" combines food permission + condition management. The most successful videos now blend 2-3 formats.
+2. **"Authority Stacking" trend** — Multiple channels combining authority types. Whitmore's "Magnesium Mistake" + "Stroke Preparation" stacks supplement authority + emergency fear. Kapadia's "Vascular Surgeon" + "Nighttime Threat" stacks medical authority + temporal fear.
+3. **Japan's Oldest Doctor EXPANDING beyond legs** — Now dominating balance (182K), shoulder (379K), AND sleep (538K) in addition to neuropathy (1M) and circulation (176K). This is a POWERHOUSE multi-sub-niche channel.
+4. **Varicose veins is the NEW leg health sub-niche** — Kapadia at 771K with "Shrink Varicose Veins FAST." This was previously uncontested. Dr. Kapadia is building a vascular empire.
+5. **Sleep content is EMERGING as a major sub-niche** — Japan's Oldest Doctor at 538K for bedtime stretches. No major player has claimed "sleep optimization for seniors" yet.
+
+---
+
+### New Title Formulas Generated Today (June 12 — Dr. Kane Original)
+| Pattern ID | Pattern Formula | Example | Score | Date |
+|------------|-----------------|---------|-------|------|
+| P095 | Your [Body Part] After 60 Are Mapping Your [Organ System] — Here's What They Reveal | Your Fingernails After 60 Are Mapping Your Organs — Here's What They Reveal | 19 | 2026-06-12 |
+| P096 | [Body Part] [Change] After 60? [Number] Patterns That Signal [Organ] Trouble | Fingernail Ridges After 60? 3 Patterns That Signal Organ Trouble | 19 | 2026-06-12 |
+| P097 | The [Body Part]-[Organ] Connection After 60 — What Your [Body Part] Reveal About Your [Organ] | The Fingernail-Organ Connection After 60 — What Your Nails Reveal About Your Liver | 18 | 2026-06-12 |
+| P098 | Why You Wake Up at [Time] [Physical Symptom] After 60 — The [Hidden Cause] Doctors Miss | Why You Wake Up at 3 AM Shaking After 60 — The Blood Sugar Crash Doctors Miss | 19 | 2026-06-12 |
+| P099 | The [Time] [Condition] After 60 — Why Your [Measurement] Lie | The 3 AM Blood Sugar Dump After 60 — Why Your Morning Numbers Lie | 18 | 2026-06-12 |
+| P100 | [Time] [Condition A] vs [Condition B] After 60 — Which One Is Dangerous? | 3 AM Hypoglycemia vs Dawn Phenomenon After 60 — Which One Is Dangerous? | 18 | 2026-06-12 |
+
+### New Competitive Patterns (June 12 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P129 | "EAT [Forbidden Food] WITHOUT [Health Consequence]!" | Senior Health Blog | 568,877 |
+| P130 | "STOP Taking [Supplement] If You Take [Medication] — Here's Why" | Claire Whitmore | 2,372 |
+| P131 | "The [Supplement] Mistake Almost Every Senior Makes — And It's Preparing You For [Disaster]" | Claire Whitmore | 18,752 |
+| P132 | "Your [Body Part] Are [Dramatic Verb] at [Time] — Here's What to Do" | Dr. Sumit Kapadia | 24,649 |
+| P133 | "[Number] Simple [Body Part] EXERCISES To [Dramatic Verb] [Condition] FAST At Home" | Dr. Sumit Kapadia | 771,337 |
+| P134 | "[Number] Bedtime [Activities] That Helped Over [Big Number] Seniors [Improve Condition]" | Japan's Oldest Doctor | 538,020 |
+| P135 | "DO THIS ONE Exercise To NEVER Have [Condition] Again ([Age]+)" | Japan's Oldest Doctor | 379,665 |
+| P136 | "As a [Role], I Would Never Let My [Family] Get These [Number] [Interventions] After [Age]" | Dr. Michael Kent | NEW |
+| P137 | "[Number] [Food Category] You Should NEVER Touch — And [Number] You MUST Eat" | Dr. James Hargrove | 49,218 |
+| P138 | "How to Survive [Emergency] Alone After [Age] — Do THIS" | Dr. James Hargrove | 224,884 (choking) |
+| P139 | "The ONLY [Number] Exercises You Need To NEVER Lose [Function] Again ([Age]+)" | Japan's Oldest Doctor | 182,447 |
+| P140 | "[Number] [Body Part] [Exercises/Actions] While [Sitting/Position] to [Health Claim]" | Japan's Oldest Doctor/Kent | 28,704-175,857 |
+
+### New Dr. Kane Adaptations (June 12 Strategic Recommendations)
+1. **"EAT [Common Food] WITHOUT [Vascular Consequence]"** — Adapt Senior Blog's 568K format for vascular angle. First-mover advantage available.
+2. **"STOP Taking [Supplement] If You're Over 60 — [Vascular Consequence] Doctors Don't Explain"** — Whitmore's interaction format + mechanism.
+3. **"Your Arteries Are [Dramatic Verb] While You Sleep After 60"** — Kapadia's nighttime threat + diagnostic gap.
+4. **"Ozempic Is [Dramatic Verb] Your Blood Vessels After 60"** — First-mover for vascular Ozempic content.
+5. **"The Varicose Vein Mechanism Doctors Don't Explain"** — Differentiate from Kapadia's exercise-only approach.
+
+### Updated Top Hook Rankings (June 12)
+- #1: **"Mind-Blowing Benefits" hook** — (1.57M, Whitmore) — now #1 for 3 consecutive days
+- #2: **"Shrink [Condition] FAST" vascular hook** — (771K, Kapadia) ⚡ NEW #2 — vascular surgeon credibility
+- #3: **"30-Second Test + Fixes" hook** — (1.46M total, TopHealthTips + Kent versions)
+- #4: **"EAT [Forbidden] WITHOUT [Consequence]" hook** — (568K, Senior Blog) — stable at #4
+- #5: **"Help Over [Big Number] Seniors" hook** — (538K, Japan's Oldest Doctor) — bedtime stretches breakout
+- #6: "Real Truth" hook — (1.31M, Kent)
+- #7: "INSTANTLY" hook — (701K, Whitmore)
+- #8: **"NEVER Have [Pain] Again" hook** — (379K, Japan's Oldest Doctor) — shoulder expansion
+- #9: **"NEVER Lose [Function] Again" hook** — (182K, Japan's Oldest Doctor) — balance expansion
+- #10: "Forget [X] — This [Y]" hook — (956K, Kent)
+
+### New Strategic Insights (June 12)
+1. **"EAT WITHOUT" is the NEW viral food format** — Senior Blog's 568K + 560K + 353K diabetes portfolio. Combines food permission + condition management. Highest-converting Dr. Kane adaptation: "EAT [vascular-threatening food] WITHOUT [consequence] — the mechanism."
+2. **Supplement-drug interactions are EMERGING** — Whitmore at 2.3K (1 day) and 18.7K. First-mover window for vascular-specific supplement-drug interaction content.
+3. **Nighttime vascular threat is UNOWNED** — Kapadia's 24K "Arteries Collapsing at Night" is the only one. Dr. Kane can dominate this with deeper mechanism + diagnostic gap.
+4. **Japan's Oldest Doctor is a MULTI-SUB-NICHE POWERHOUSE** — Now dominating 5 sub-niches: neuropathy (1M), shoulder (379K), balance (182K), sleep (538K), circulation (176K). Expanding rapidly.
+5. **Screenshot/thumbnail A/B testing is now standard** — Today's thumbnail briefs include A/B test protocols with 48-hour test windows, CTR targets >6%, and 24h/48h decision rules.
+6. **Light background thumbnails are UNTESTED for Dr. Kane** — VID-036 Variant A uses first-ever clinical white gradient. Pattern interrupt in dark-thumbnail health niche. High risk/high reward.
+
+*Last updated: 2026-06-12 by Memory Curator Agent (auto)*

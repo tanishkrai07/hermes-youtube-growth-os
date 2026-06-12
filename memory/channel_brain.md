@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-11
+> **Last Updated:** 2026-06-12
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -491,3 +491,20 @@
 - **🟡 Stroke prevention niche MECHANISM STILL OPEN:** Waterling permanently suppressed. Hargrove owns emergency format but not mechanism.
 - **New viral formats discovered:** "Mind-Blowing Benefits" supplement (1.57M), "Surgeon REVEALS" exercise (826K), "ONLY Exercises YOU Need" neuropathy (1M), "Don't Drink Plain Water" inversion (50K), "Before Bed + Blood Sugar" precision (149K), "AGE SPOTS WILL DISAPPEAR" cosmetic-internal (42K), "Ozempic Works… But" balanced critique (13.6K)
 - **"Mind-Blowing Benefits" is NEW #1 performing hook** — Surpasses "Real Truth" (1.31M) and "INSTANTLY" (701K) with 1.57M views for Whitmore's berberine video.
+
+### New Insights from June 12 Scans
+- **⚡⚡ Senior Health Blog "EAT Bread/Rice WITHOUT Blood Sugar Spikes" at 568K:** NEW viral diabetes format. "EAT [Forbidden Carb] WITHOUT [Consequence]" is the breakout pattern. Combines food permission + condition management.
+- **⚡ Whitmore entering supplement-drug interactions:** "STOP Taking Vitamin D If You Take Blood Pressure Pills" (2.3K, 1-2 days) + "Magnesium Mistake Prepares You For Stroke" (18.7K). NEW expansion angle. First-mover window for vascular-specific supplement-drug interaction content.
+- **⚡ Kent entering vaccine hesitancy:** "5 Vaccines Never Get After 60" — NEW format. Platform risk. AVOID.
+- **⚡ Hargrove "3 Veggies NEVER Touch / 3 MUST Eat" at 49K:** +300% growth. Food warning binary format expanding.
+- **⚡ Japan's Oldest Doctor shoulder pain breakout:** "NEVER Have Shoulder Pain Again" at 379K. New sub-niche. Now dominating 4 sub-niches (neuropathy 1M, balance 182K, shoulder 379K, sleep 538K).
+- **⚡ Japan's Oldest Doctor bedtime stretches at 538K:** "3 Bedtime Stretches Helped 1M+ Seniors Sleep" — sleep content breakout.
+- **⚡ Kapadia varicose veins at 771K:** "7 Exercises Shrink Varicose Veins FAST" — vascular surgeon credibility. Building a vascular empire.
+- **⚡ Kapadia "Arteries Collapsing at Night" at 24K:** NEW nighttime vascular threat format. Dr. Kane can own with deeper mechanism.
+- **🆕 Senior Health Secrets (Dr. Thomas) at 125K:** New channel replicating "Surgeon reveals" authority format. Monitor.
+- **🆕 Beyond the Scale GLP-1 channel at 2.7K:** Dedicated GLP-1 content entering senior space.
+- **🆕 Vital After 60 at 107 views:** Ozempic + muscle loss content. Very early.
+- **⚠️ Microplastics STILL DEAD for seniors:** 50-113 views across all channels despite RFK Jr. attention.
+- **⚠️ YouTube cookie requirement:** Individual video fetches now blocked. Search-based metadata only.
+- **⚠️ Firecrawl API STILL DOWN:** Credits exhausted since June 8 (Day 5). yt-dlp search used as fallback.
+- **New title formulas for Dr. Kane (June 12):** "EAT [Food] WITHOUT [Vascular Consequence]", "STOP Taking [Supplement] If You're Over 60 — [Vascular Consequence]", "Your [Body Part] Are [Dramatic Verb] While You Sleep After 60", "Ozempic Is [Dramatic Verb] Your Blood Vessels After 60"

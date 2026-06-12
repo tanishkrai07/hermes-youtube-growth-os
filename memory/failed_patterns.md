@@ -306,10 +306,37 @@
 - **Lesson:** Just because a topic is scientifically important doesn't mean the YouTube audience cares. Microplastics as a standalone topic doesn't resonate with elder health viewers.
 - **Fix:** AVOID standalone microplastics content. If microplastics are mentioned, it should be as a sub-point within other content (e.g., "microplastics contribute to endothelial inflammation" within a vascular health video).
 
-#### New Safety Boundaries (VID-031 / VID-032 Production)
-- **Never tell viewers they have UARS without a sleep study** — frame as "ask about ODI" and "discuss WatchPAT testing"
-- **Never tell viewers their oxygen dropped to a specific number** — frame as "your oxygen may be dropping more than the apnea count suggests"
-- **Never tell viewers to buy a specific brand of sleep test** — frame as "ask your doctor about home sleep tests that measure ODI"
-- **Never tell viewers they have kyphosis from the wall test alone** — frame as "if you have a gap, discuss spinal curvature with your doctor"
-- **Never tell viewers their organs are "being crushed"** — frame as "reduced space for organs to function optimally"
-- **Never recommend specific exercises for kyphosis without doctor approval** — frame as "these exercises have been shown in research to help — discuss with your doctor"
+#### New Safety Boundaries (VID-036 / VID-037 Production — Anticipated)
+- **Never tell viewers they have organ disease from nail appearance alone** — frame as "discuss nail changes with your doctor" and "ask about specific tests"
+- **Never tell viewers their morning glucose is "lying"** — frame as "your morning glucose may not tell the full story" and "ask about 3 AM testing"
+- **Never diagnose Beau's lines or specific nail conditions** — frame as "these patterns have been associated with [condition] in research"
+- **Never tell viewers to stop supplements based on interaction claims** — frame as "discuss supplement timing with your doctor"
+- **Never tell viewers to self-diagnose Somogyi effect** — frame as "ask your doctor about overnight glucose monitoring"
+- **Never recommend stopping PPIs without doctor supervision** — frame as "discuss alternatives with your doctor"
+
+### New Failure Patterns (June 12 Competitor Scans)
+
+#### "EAT [Forbidden Food] WITHOUT [Consequence]" Format — First-Mover Window Still Open
+- **What happened:** Senior Health Blog's "EAT Bread/Rice WITHOUT Blood Sugar Spikes" at 568K views. This is a NEW viral format combining food permission + condition management.
+- **Lesson:** The "EAT WITHOUT" format is the highest-converting food content pattern for 2026. Dr. Kane can adapt for vascular angle: "EAT [vascular-threatening food] WITHOUT [consequence]."
+- **Fix:** Prioritize VID-036/037 scripts that can incorporate this format. The "EAT WITHOUT" framework should be added to the title patterns database.
+
+#### Supplement-Drug Interactions — Emerging Format
+- **What happened:** Whitmore entered with "STOP Taking Vitamin D If You Take Blood Pressure Pills" (2.3K, 1-2 days) and "Magnesium Mistake Prepares You For Stroke" (18.7K).
+- **Lesson:** Supplement-drug interaction content is NEW and growing. First-mover window for vascular-specific interactions is open.
+- **Fix:** Create vascular-specific supplement-drug interaction content. Grapefruit + BP meds (I164) is the most clinically significant and completely unowned.
+
+#### YouTube Cookie Requirement Blocks Individual Video Fetches
+- **What happened:** yt-dlp now requires YouTube cookies for individual video fetches. Search-based metadata is still accessible but less precise.
+- **Lesson:** Data collection infrastructure is degrading. Firecrawl API still down (Day 5). Two overlapping infrastructure issues.
+- **Fix:** Refill Firecrawl credits. Configure yt-dlp cookies. Implement fallback data collection pipeline.
+
+#### New Competitor: Senior Health Secrets (Dr. Thomas)
+- **What happened:** New channel at 125K views replicating "Surgeon reveals" authority format.
+- **Lesson:** The "authority reveals" format is being copied across multiple channels. Dr. Kane's authentic mechanism-first approach is the differentiator.
+- **Fix:** Monitor. Do not copy their format. Continue with Dr. Kane's unique "explain WHY" positioning.
+
+#### GLP-1 Niche: Dedicated Channel Emerging
+- **What happened:** "Beyond the Scale: My GLP-1 Journey" — a dedicated GLP-1 channel entering the senior space at 2.7K views.
+- **Lesson:** GLP-1 content is becoming its own sub-niche. Multiple channels entering = fragmentation risk.
+- **Fix:** Dr. Kane must own the vascular mechanism angle before the niche fragments further. I148 (Score 20) is the highest priority.

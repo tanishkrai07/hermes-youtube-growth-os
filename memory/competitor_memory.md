@@ -1,8 +1,8 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-11
-> **Total Tracked Competitors:** 35+ (34 active + 1 removed)
-> **Note:** Firecrawl search API still offline (credits exhausted since Jun 8, Day 4). Data sourced via yt-dlp YouTube search.
+> **Last Updated:** 2026-06-12 (Memory Curator sync)
+> **Total Tracked Competitors:** 41+ (40 active + 1 removed)
+> **Note:** Firecrawl search API still offline (credits exhausted since Jun 8, Day 5). YouTube now requires cookies for individual video fetches. Data sourced via yt-dlp YouTube search metadata.
 
 ## Active Competitors (Elder Health / Senior Wellness)
 
@@ -12,8 +12,8 @@
 | **Dr. Michael Kent** ⚡⚡⚡ EYE + LEG + BLOOD SUGAR | "Forget Carrots — Tiny Seed Repairs Eyes" (956K) + "Best Fruit Before Bed for Eyes" (722K) + "Best Blood Sugar Real Truth" (1.31M) + "10 Fruits That Reverse Blood Sugar" (378K) + "NEVER Take Mag Glycinate with D3 & K2" (156K) + "Japan's Oldest Doctor: Leg Circulation" (176K) + "30-Second Test + 3 Fixes" (29K) + "STOP Taking Mag Glycinate" (97K) | **~3.2M+** | Eye Health (DOMINANT) + BP + Cancer/Digestive + Muscle Loss + Blood Sugar (GROWING) + Leg Circulation + Supplement Interactions | 🔴🔴 HIGHEST — Blood sugar niche EXPANDING (378K new hit). Multi-niche expansion ACCELERATING. |
 | **TopHealthTips** ⚡⚡⚡ NEW MAJOR PLAYER | "Poor Leg Circulation? 30-Second Test + 3 Fast Fix Exercises" (1.46M) + "Poor Leg Circulation? Do These 4 Exercises While Sitting" (988K) + "Swollen Feet? Poor Leg Circulation? 3 Fast Exercises" (78K) | **~2.5M+** | Leg Circulation / Exercises | 🔴🔴 HIGHEST — NEW channel with 2.5M+ leg health views. Direct competition. Using Kent's "30-Second Test" format at massive scale. |
 | **Senior Book** ⚡⚡⚡ NEW MAJOR PLAYER | "Surgeon REVEALS: Do THIS 1 Exercise for Poor Leg Circulation" (826K) + "Over 70? JUST Do THESE 5 Exercises To Double Leg Strength" (447K) + "Over 75? Your Legs Are Getting WEAKER Every Week" (85K) | **~1.36M+** | Leg Strength / Exercises | 🔴🔴 HIGHEST — NEW channel with 1.36M+ leg health views. "Surgeon reveals" authority format + Japanese exercise angle. |
-| **Japan's Oldest Doctor** ⚡⚡⚡ NEUROPATHY BREAKOUT | "The ONLY 4 Exercises YOU Need to Relieve Neuropathy in Feet & Legs" (1M) + "How to Stop Tripping" (537K) + "INSTANTLY Improve Leg Circulation" (176K) + "30-Second Test + 3 Exercises To REVERSE Poor Leg Circulation" (68K) | **~1.78M+** | Leg Circulation / Balance / Neuropathy | 🔴🔴 HIGHEST — Neuropathy video CROSSED 1M. Now dominating 3 sub-niches. Cross-posts with Kent. |
-| **Dr. Sumit Kapadia Vascular Surgeon** ⚡⚡ NEW | "Poor Leg Circulation? Do These 4 Exercises While Sitting" (988K) | **988K** | Leg Circulation (REAL vascular surgeon) | 🔴 HIGH — Real medical authority with vascular specialty. Direct credibility threat to Dr. Kane's positioning. |
+|| **Japan's Oldest Doctor** ⚡⚡⚡ NEUROPATHY BREAKOUT | "The ONLY 4 Exercises YOU Need to Relieve Neuropathy in Feet & Legs" (1M) + "How to Stop Tripping" (537K) + "INSTANTLY Improve Leg Circulation" (176K) + "30-Second Test + 3 Exercises To REVERSE Poor Leg Circulation" (68K) + "NEVER Have Shoulder Pain Again" (380K) + "5 Exercises To NEVER Lose Balance Again" (182K) + "3 Bedtime Stretches Helped 1M+ Seniors Sleep" (538K) | **~3.1M+** (was 1.78M) | Leg Circulation / Balance / Neuropathy / Shoulder Pain / Sleep | 🔴🔴🔴 HIGHEST — Now dominating 5 sub-niches. Multi-sub-niche POWERHOUSE. |
+|| **Dr. Sumit Kapadia Vascular Surgeon** ⚡⚡ NEW | "Poor Leg Circulation? Do These 4 Exercises While Sitting" (988K) + "7 Simple LEG EXERCISES To SHRINK Varicose Veins FAST" (771K) + "3 Exercises a Vascular Surgeon Wants You to Do Daily" (321K) + "Your Arteries Are Collapsing at Night" (24.6K) | **~2.1M+** (was 988K) | Leg Circulation + Varicose Veins (REAL vascular surgeon) | 🔴🔴 HIGHEST — Real vascular surgeon with 2.1M+ combined. Expanding into varicose veins + nighttime vascular. Building vascular empire. |
 | **Senior Health Blog** ⚡⚡ DIABETES EMPIRE | "Top 3 BEST FRUITS for DIABETICS" (568K) + "Zero Diabetes Japanese Village" (353K) + "Endocrinologist Reveals Habit Prevents High Blood Sugar" (283K) + "Top #7 Seeds Every Senior Should Eat Before Bed To Control Blood Sugar" (149K) + "A Pinch of This Yellow Powder. Cuts Blood Sugar Spikes 36%" (6.2K) | **~1.5M+** | Diabetes/Nutrition (DOMINANT) | 🟡 MEDIUM-HIGH — Diabetes niche effectively OWNED. "Before bed + blood sugar" format working at 149K. Precision nutrition emerging. |
 | **Dr. Franklin** ⚡⚡ MULTI-ID NAIL STRATEGY | "If Your NAILS Look Like THIS After 60" across 7+ IDs (main: 117K, others: 0-418 views each) + Body shock (304K) + Urology (714K) + Blood Type (320K) | **~1.8M+** across all IDs | Body Shock → Nail Health (multi-ID farm) → Urology → Ears → Meds | 🔴 HIGH — Multi-id strategy at PEAK RISK. Nail niche CLOSED. |
 | **Doctor Christopher Carter** ⚡ MULTI-ID HEART MEDS | "5 Pills Could Trigger Heart Attack" (1.25M evergreen) + "Alone During a Heart Attack After 60? 7 Things You Must Do Immediately" (1.3K) | **1.25M+** | Heart Medications | 🟡 MEDIUM — Evergreen dominant. Emergency format not gaining traction. |
@@ -51,18 +51,42 @@
 | **Dr. Kevin Wade** | "Hidden Number FEEDING Cancer" + "Regrow Stem Cells" | 31 + 23 = 54 | Cancer + Stem Cells | LOW |
 | **Vibrant Senior Health Secrets** | "Ozempic Muscle Loss" | 8 | GLP-1 + Muscle | LOW |
 
+## New Competitors (Discovered June 12)
+| Channel | Videos | Views | Niche | Risk |
+|---------|--------|-------|-------|------|
+| **Senior Health Secrets** 🆕 | "Fast Fix Exercise Leg Circulation" + "Surgeon Reveals 1 Exercise" | 100K + 25K = ~125K | Leg Circulation (Surgeon authority format) | 🟡 MONITOR — Replicating "Surgeon reveals" at scale |
+| **Beyond the Scale: My GLP-1 Journey** 🆕 | "Dangerous Side of GLP-1 for Older Adults" | 2.7K | GLP-1 / Ozempic for seniors | 🟡 MONITOR — Dedicated GLP-1 channel entering elder space |
+| **Vital After 60** 🆕 | "Ozempic Hidden Muscle Risk Medicare" | 107 | Ozempic + Muscle Loss | LOW — Very early |
+
+## Key Events This Period (June 12)
+
+- **⚡⚡ Senior Health Blog "EAT Bread/Rice WITHOUT Blood Sugar Spikes" at 568K:** NEW viral diabetes format. "EAT [Forbidden Carb] WITHOUT [Consequence]" is the breakout pattern.
+- **⚡ Whitmore entering supplement-drug interactions:** "STOP Taking Vitamin D If You Take Blood Pressure Pills" (2.3K, 1-2 days) + "Magnesium Mistake Prepares You For Stroke" (18.7K). NEW expansion angle.
+- **⚡ Kent entering vaccine hesitancy:** "5 Vaccines Never Get After 60" — NEW format. Platform risk.
+- **⚡ Hargrove "3 Veggies NEVER Touch / 3 MUST Eat" at 49K:** +300% growth. Food warning binary format expanding.
+- **⚡ Japan's Oldest Doctor shoulder pain breakout:** "NEVER Have Shoulder Pain Again" at 379K. New sub-niche.
+- **⚡ Japan's Oldest Doctor bedtime stretches at 538K:** "3 Bedtime Stretches Helped 1M+ Seniors Sleep" — sleep content breakout.
+- **⚡ Kapadia varicose veins at 771K:** "7 Exercises Shrink Varicose Veins FAST" — vascular surgeon credibility. Building a vascular empire.
+- **⚡ Kapadia "Arteries Collapsing at Night" at 24K:** NEW nighttime vascular threat format.
+- **🆕 Senior Health Secrets (Dr. Thomas) at 125K:** New channel replicating "Surgeon reveals" authority format.
+- **🆕 Beyond the Scale GLP-1 channel at 2.7K:** Dedicated GLP-1 content entering senior space.
+- **🆕 Vital After 60 at 107 views:** Ozempic + muscle loss content. Very early.
+- **⚠️ Microplastics STILL DEAD for seniors:** 50-113 views across all channels.
+- **⚠️ YouTube cookie requirement:** Individual video fetches now blocked.
+- **⚠️ Firecrawl API STILL DOWN:** Credits exhausted since June 8 (Day 5).
+
 ## Removed Competitors
 | Channel | Status | Reason |
 |---------|--------|--------|
 | **Senior Secrets Book** | ⚠️ TAKEN DOWN | McGill-flagged AI-generated channel. Confirmed removed by YouTube. |
 
 ## Saturated Niches (Avoid Direct Competition)
-- **Leg Health / Circulation:** TopHealthTips (2.5M+), Senior Book (1.36M+), Japan's Oldest Doctor (1.78M+), Dr. Sumit Kapadia (988K), Kent (273K), Whitmore (46K), Cross (40K) — 🔴🔴 HYPER-SATURATED (6.3M+ total views)
+- **Leg Health / Circulation:** TopHealthTips (2.5M+), Japan's Oldest Doctor (3.1M+), Senior Book (1.36M+), Dr. Sumit Kapadia (2.1M+), Kent (273K), Whitmore (46K), Cross (40K) — 🔴🔴 HYPER-SATURATED (9M+ total views)
 - **Blood Pressure (general):** Whitmore (701K+452K+209K+650K+1.15M), Kent (1.31M+378K), Carter (1.25M) — 🔴🔴 SATURATED
 - **Eye Health:** Kent (956K+722K), Doctor Eye Health (~568K), Harrison (~893K) — 🔴🔴 SATURATED
 - **Heart Medications:** Carter (1.25M), Whitmore (650K+209K) — 🔴 CROWDED
 - **Diabetes/Nutrition:** Senior Health Blog (568K+353K+283K+149K+17K) — 🔴 SATURATED
-- **Stroke Prevention:** Waterling SUPPRESSED. Hargrove choking format (225K). Healthy Seniors (4.9K). Multiple tiny channels. — 🟡 MECHANISM STILL OPEN
+- **Stroke Prevention:** Waterling SUPPRESSED. Hargrove choking format (225K). Healthy Seniors (207K). Multiple tiny channels. — 🟡 MECHANISM STILL OPEN
 - **Dementia/Medications:** Kent (892K) — 🔴 SATURATED
 - **Cancer Prevention:** Becker (1.3M+), Adeyemi (1.79M) — 🔴 CROWDED
 - **Blood Type + Longevity:** Franklin (320K), Hargrove (4.6K) — 🔴 CLAIMED
@@ -70,26 +94,30 @@
 - **Medication Warnings:** Kent (892K), Carter (1.25M), Whitmore — 🔴 SATURATED
 - **Stem Cell:** Becker (2.4M+) — 🔴 SATURATED
 - **Body Shock:** Franklin DOMINATES — 🔴 AVOID
-- **Nail Health:** Franklin 7+ IDs — 🔴 CLOSED ⚡⚡
-- **Microplastics + seniors:** Becker (5-12 views, DEAD), general channels — 🔴 AUDIENCE NOT INTERESTED
+- **Nail Health:** Franklin 7+ IDs — 🔴 CLOSED
+- **Microplastics + seniors:** Becker (5-12 views, DEAD) — 🔴 AUDIENCE NOT INTERESTED
 - **Berberine:** Whitmore (1.57M) — 🔴 OWNED
+- **Varicose Veins:** Kapadia (771K) — 🔴 NOW CLAIMED by vascular surgeon
 
 ## Open Niches (Opportunity)
 
 | Niche | Competition Level | Opportunity |
 |-------|------------------|-------------|
 | **Stroke Prevention (mechanism)** | 🟡 MECHANISM STILL OPEN | 🔴 "WHY strokes happen" + diagnostic gap. Hargrove owns emergency format but not mechanism. Waterling's niche VACANT. |
-| **GLP-1/Ozempic + vascular health** | Arden at 13.6K, Whitmore at 31 | 🔴 FIRST-MOVER WINDOW — "Ozempic effects on blood flow/circulation" with vascular medicine authority. |
-| **Leg Health (MECHANISM)** | 6.3M+ views but ALL exercise | 🔴 COMPLETELY EMPTY — "WHY legs fail" mechanism content. All competitors are exercise-only. |
+| **GLP-1/Ozempic + vascular health** | Arden at 13.6K, Whitmore at 31, dedicated channel at 2.7K | 🔴 FIRST-MOVER WINDOW — "Ozempic effects on blood flow/circulation" with vascular medicine authority. |
+| **Leg Health (MECHANISM)** | 9M+ views but ALL exercise | 🔴 COMPLETELY EMPTY — "WHY legs fail" mechanism content. All competitors are exercise-only. |
 | **Age Spots + Internal Causes** | Khan at 42K only | 🟢 NEW — First-mover for deeper mechanism content. |
 | **Diagnostic Gap content (general)** | Hargrove entering (5.9K) but weak | 🟡 STILL OPEN — "Wrong test" framework. Move fast before Hargrove scales. |
-| **Self-screening protocols** | Kent entering (30-sec test, 29K) | 🟡 WINDOW NARROWING — Kent's "30-Second Test" format (29K) is growing. Dr. Kane needs superior medical version. |
+| **Self-screening protocols** | Kent entering (30-sec test, 29K) | 🟡 WINDOW NARROWING — Kent's "30-Second Test" format (29K) is growing. |
 | **Lab test advocacy** | Hargrove (5.9K) — minimal | 🟢 STILL OPEN — Word-for-word doctor conversation scripts |
-| **Muscle Loss/Sarcopenia (mechanism)** | Whitmore entered (131 views), Khan at 26K | 🟡 EMERGING — First-mover for mechanism-based sarcopenia content. |
-| **Supplement Interactions** | Kent (156K+97K+345K), Hargrove (7.1K) | 🟡 GETTING CROWDED — Kent dominating. Enter with unique combinations. |
-| **Anxiety-Physical crosstalk** | Whitmore just entered (1.8K) | 🟡 WINDOW OPEN — Differentiate with mechanism-based approach |
+| **Muscle Loss/Sarcopenia (mechanism)** | Whitmore entered (131 views), Khan at 26K | 🟡 EMERGING |
+| **Supplement Interactions** | Kent (156K+97K+345K), Hargrove (7.1K), Whitmore (18.7K+2.3K) | 🟡 GETTING CROWDED — Whitmore entering. Vascular-specific interactions still open. |
+| **Anxiety-Physical crosstalk** | Whitmore just entered (1.8K) | 🟡 WINDOW OPEN |
 | **Blood Type + medications** | Franklin has general only | 🟡 INTERSECTION UNCLAIMED |
-| **Emergency alone format** | Hargrove (225K choking), Carter (1.3K heart) | 🟡 FORMAT PROVEN but heart attack alone not working yet — Adapt to stroke alone |
+| **Emergency alone format** | Hargrove (225K choking) | 🟡 FORMAT PROVEN |
+| **Nighttime vascular threats** | Kapadia at 24.6K only | 🟢 VIRTUALLY EMPTY — "What happens to your arteries while you sleep" |
+| **Sleep Optimization for seniors** | Japan's Oldest Doctor at 538K (stretches only) | 🟡 MECHANISM STILL OPEN — no one covers sleep apnea/vascular sleep connection |
+| **Vascular Surgeon (real authority)** | Kapadia at 2.1M+ | 🔴 CLAIMED — Must differentiate with mechanism depth not exercise |
 
 ## Key Events This Period (June 11)
 
