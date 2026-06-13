@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-11
+> **Last Updated:** 2026-06-13
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -340,3 +340,28 @@
 - **What happened:** "Beyond the Scale: My GLP-1 Journey" — a dedicated GLP-1 channel entering the senior space at 2.7K views.
 - **Lesson:** GLP-1 content is becoming its own sub-niche. Multiple channels entering = fragmentation risk.
 - **Fix:** Dr. Kane must own the vascular mechanism angle before the niche fragments further. I148 (Score 20) is the highest priority.
+
+### New Failure Patterns (June 13 Competitor Scans)
+
+#### "Medication Trio" Format Saturating
+- **What happened:** Dr. Alex Carter's "Taking Amlodipine, Losartan, or Lisinopril? 9 Things Every Senior Needs to Know" at 601K views. Whitmore's format is being widely replicated across channels.
+- **Lesson:** When a format hits 600K+ views, it's no longer a pattern to copy — it's a saturated space. Entering it would be perceived as following, not leading.
+- **Fix:** AVOID the "Taking [Med A], [Med B], or [Med C]" format entirely. If covering medication classes, use Dr. Kane's mechanism-first approach with original framing (e.g., "What [Medication Class] Does to Your Blood Vessels After 60").
+
+#### BP Medication Timing Space Getting Crowded
+- **What happened:** Multiple new entrants (Dr. Marcus Thorne, Dr. Jonathan Brooks) entering BP medication timing niche. Whitmore already at 209K with similar content.
+- **Lesson:** When 3+ channels enter a niche within days of each other, the window closes immediately.
+- **Fix:** AVOID BP medication timing content. The space is crowded and Dr. Kane has no unique angle here.
+
+#### Stair Climbing Exercise Content — Mechanism Window Still Open
+- **What happened:** 7.4M+ views for stair-climbing exercise content across multiple channels. ZERO mechanism content exists. This is the biggest white space discovered this week.
+- **Lesson:** Exercise content is saturated, but the underlying mechanism (why the exercise is needed) is completely unowned. This is the difference between competing and owning.
+- **Fix:** VID-036 (soleus pump mechanism) captures this perfectly. Must be produced and uploaded to establish first-mover in the mechanism space before competitors discover the gap.
+
+#### New Safety Boundaries (VID-036 / VID-037 Production)
+- **Never tell viewers their soleus is "failing" in a diagnostic sense** — frame as "the pump fibers may be declining" and "discuss exercise options with your doctor"
+- **Never tell viewers to self-diagnose TIA from symptoms alone** — frame as "if you experience these symptoms, seek immediate medical evaluation"
+- **Never tell viewers their stroke was "predictable" in a way that implies blame** — frame as "warning signs that should prompt urgent evaluation"
+- **Never tell viewers to drive themselves to the ER during active neurological symptoms** — explicitly say "call 911" and "don't drive yourself"
+- **Never use "mini-stroke" without explaining it's a real stroke that resolved** — the term minimizes the seriousness
+- **Never tell viewers specific exercises will "cure" or "fix" vascular problems** — frame as "may improve" and "research suggests"

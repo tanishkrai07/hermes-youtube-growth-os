@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-12
+> **Last Updated:** 2026-06-13
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -508,3 +508,63 @@
 - **⚠️ YouTube cookie requirement:** Individual video fetches now blocked. Search-based metadata only.
 - **⚠️ Firecrawl API STILL DOWN:** Credits exhausted since June 8 (Day 5). yt-dlp search used as fallback.
 - **New title formulas for Dr. Kane (June 12):** "EAT [Food] WITHOUT [Vascular Consequence]", "STOP Taking [Supplement] If You're Over 60 — [Vascular Consequence]", "Your [Body Part] Are [Dramatic Verb] While You Sleep After 60", "Ozempic Is [Dramatic Verb] Your Blood Vessels After 60"
+
+### New Videos Added June 13
+
+33. **VID-036 (Long-form):** "Why You Can't Climb Stairs Anymore After 60 — The Vascular Pump That's Failing"
+    - Script: COMPLETE (June 13 script package, ~2,650 words, 3 studies, 8 retention hooks)
+    - Score: 20/20
+    - Unique angle: Soleus muscle as "second heart" — the peripheral venous return pump that fails first after 60. Reframes a skeletal muscle as a vascular organ. 7.4M+ views for stair-climbing exercise content, ZERO mechanism content.
+    - Structure: Functional observation → Mechanism revelation (muscle-as-organ reframing) → Diagnostic self-test (3-position stair test) → Targeted exercise protocol (3 seated soleus exercises) → Warm close
+    - Original insight: "Soleus Second Heart Framework" — the soleus has the highest density of slow-twitch oxidative fibers of any muscle in the body, responsible for 60-80% of venous return when standing. After 60, pump fibers atrophy first, before walking fibers. Stair climbing increases venous return demand 200-300%, which the failing pump can't match.
+    - Key studies: Soleus slow-twitch oxidative fiber density (Nature Metabolism 2023), venous return reduction data, soleus sustain exercise protocol (J Appl Physiol 2024 — 23% improvement in soleus thickness, 18% improvement in stair-climbing time)
+    - Upload target: Tuesday, June 17, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-037 (Stroke Warning)
+    - Companion Short: VID-SHORT-018
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "Why You Can't Climb Stairs Like You Used to After 60 — It's Your Vascular Pump" | Title B: "Your Calf Muscles Are a Second Heart After 60 — Why Most People Don't Know This"
+
+34. **VID-SHORT-018 (Short):** "Why Stairs Got Harder After 60 — It's Not Your Heart, It's Your Calf"
+    - Script: COMPLETE (~145 words)
+    - Upload target: June 17, 2026
+    - Purpose: Teaser for VID-036 long-form
+    - Status: READY FOR PRODUCTION
+
+35. **VID-037 (Long-form):** "What a Stroke Looks Like Weeks Before It Happens After 60 — The Warning Pattern"
+    - Script: COMPLETE (June 13 script package, ~2,680 words, 4 studies, 8 retention hooks)
+    - Score: 20/20
+    - Unique angle: The "Two-Week Warning Window" framework — most strokes are preceded by transient neurological symptoms (TIAs) that resolve within 24 hours and are dismissed. Provides word-for-word clinical phrase ("transient neurological episode") as self-advocacy tool. First script to use sustained patient narrative (Robert's story) as structural backbone.
+    - Structure: Patient story (narrative anchor) → Mechanism revelation (micro-emboli from carotid plaque) → Warning sign taxonomy (4 patterns: visual loss, language hesitation, facial droop, unilateral clumsiness) → Self-advocacy protocol → Urgency close
+    - Original insight: "The most dangerous thing about a TIA is that it resolves" — the resolution is what causes people to dismiss it. The 48-hour window after TIA carries highest stroke risk. Urgent evaluation reduces stroke risk by ~80%.
+    - Key studies: TIA-to-stroke conversion rates (NEJM 2023), ABCD2 score validation, carotid plaque vulnerability imaging (JACC 2024), 48-hour window data
+    - Upload target: Thursday, June 19, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-036 (Stair Climbing Vascular Pump)
+    - Companion Short: VID-SHORT-019
+    - Safety: 19 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "Your Body Sends Stroke Warnings Weeks Before — Here Are 4 Patterns Doctors Miss" | Title B: "4 Signs Your Brain Warns You About Stroke — Weeks Before It Happens After 60"
+
+36. **VID-SHORT-019 (Short):** "Your Body Warns You 2 Weeks Before a Stroke — Here Are the 4 Signs"
+    - Script: COMPLETE (~150 words)
+    - Upload target: June 19, 2026
+    - Purpose: Teaser for VID-037 long-form
+    - Status: READY FOR PRODUCTION
+
+### New Content Chain Links (June 13)
+- VID-036 (Stair Climbing) → VID-037 (Stroke Warning) via end screen
+- VID-037 (Stroke Warning) → VID-036 (Stair Climbing) via end screen
+- VID-SHORT-018 → VID-036 (teaser → full)
+- VID-SHORT-019 → VID-037 (teaser → full)
+
+### New Insights from June 13 Scans
+- **⚡⚡ 7.4M views for stair-climbing exercises, ZERO mechanism content:** The "WHY can't seniors climb stairs" mechanism angle is the biggest white space discovered this week. VID-036 captures it perfectly with the soleus pump framework.
+- **⚡⚡ Stroke niche WIDE OPEN:** Waterling permanently suppressed. VID-037 captures the most valuable vacant niche with the "weeks-before" warning framework.
+- **⚡ Whitmore "Vitamin D Mistake" at 134K:** Supplement warning space getting crowded. Dr. Kane should avoid general supplement content but vascular-specific interactions remain open.
+- **⚡ JOD nerve repair at 99K:** "Do This Before Bed To Repair Your Nerves While You Sleep" — NEW sub-niche. I168 (bedtime nerve destruction) is the mechanism-different follow-up.
+- **⚡ Kapadia mechanism content validated:** "Creams Making It WORSE" at 78K + "DEADLY Blood Clot Signs" at 68K. Mechanism content WORKS for vascular surgeon — validates Dr. Kane's positioning.
+- **⚡ "Taking [Med A], [Med B], or [Med C]" format at 601K:** Dr. Alex Carter's BP meds video proves the Medication Trio format is being widely replicated. AVOID — space getting crowded.
+- **⚡ GMA entered Ozempic at 5.8M views:** Mainstream media in GLP-1 space. Validates niche but increases claim scrutiny. I169 (Ozempic vascular effects) first-mover window measured in days.
+- **⚠️ Firecrawl API STILL DOWN:** Credits exhausted since June 8 (Day 6). yt-dlp search used as fallback.
+- **⚠️ Microplastics STILL DEAD:** Becker's new attempt at 3.5K views. Confirmed again — audience not interested.
+- **New title formulas for Dr. Kane (June 13):** "Why You Can't [Function] Like Before After 60 — It's [Hidden Mechanism]", "Your [Body Part] Is a [Metaphor] After 60 — Why Most Don't Know This", "Your Body Sends [Disaster] Warnings [Time] Before — Here Are [Number] Patterns Doctors Miss"

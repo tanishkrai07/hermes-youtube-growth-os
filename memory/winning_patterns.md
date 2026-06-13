@@ -390,11 +390,18 @@
 ||||||||||||| 2026-06-11 | VID-032 (Spine Curving/Organ Compression) | A: The Wall Test, B: The Domino Chain | New Brief |
 |||||||||||||| 2026-06-12 | VID-036 (Fingernail Ridges/Organ Map) | A: The Diagnostic Map, B: The Close-Up Contrast | New Brief |
 ||||||||||||||| 2026-06-12 | VID-037 (3 AM Blood Sugar/Somogyi) | A: The Medication Paradox, B: The Invisible Curve | New Brief |
+|||||||||| 2026-06-13 | VID-039 (Bedtime Nerve Destruction) | A: The Bedtime Nerve Killer, B: The Hidden Cause | New Brief |
+||||||||||| 2026-06-13 | VID-040 (Ozempic/Vascular) | A: The Vascular Warning, B: The Hidden Effect | New Brief |
 
-### New Palettes Added (June 12)
+### New Palettes Added (June 13)
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
-| VID-036 A | Clinical white (#FAFAFA) → Light gray (#ECEFF1) | Deep teal (#00695C) | Warm bronze (#8D6E63) + organ micro-colors | New — Brief — FIRST light bg |
+| VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
+| VID-039 B | Deep plum (#4A148C) / Dark teal (#004D40) split | Electric coral (#FF6E40) | Cyan (#00E5FF) | New — Brief |
+| VID-040 A | Deep charcoal (#263238) | Warning red (#FF1744) | Artery pink (#FF8A80) / Cyan (#00E5FF) | New — Brief |
+| VID-040 B | Dark teal (#004D40) → Charcoal (#263238) gradient | Warning red (#FF1744) | Green (#00E5FF) | New — Brief |
+
+### New Palettes Added (June 12)
 | VID-036 B | Sage green (#C8E6C9) → Cream (#FFF8E1) | Deep red (#B71C1C) | Forest green (#2E7D32) / Warm gold (#F9A825) | New — Brief |
 | VID-037 A | Deep burgundy (#4A0040) → Dark plum (#311B92) | Electric yellow (#FFEB3B) | Warning red (#FF1744) / Bright green (#00E676) | New — Brief |
 | VID-037 B | Deep ocean blue (#004D40) → Midnight teal (#00251A) | Teal (#00BFA5) | Electric red (#FF1744) / Soft white (#E0F2F1) | New — Brief |
@@ -713,3 +720,72 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 6. **Light background thumbnails are UNTESTED for Dr. Kane** — VID-036 Variant A uses first-ever clinical white gradient. Pattern interrupt in dark-thumbnail health niche. High risk/high reward.
 
 *Last updated: 2026-06-12 by Memory Curator Agent (auto)*
+
+---
+
+## New Patterns Added 2026-06-13
+
+### New Title Formulas (June 13)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P141 | "Research Shows This [Supplement] Mistake Is Making You Sicker (Do This Instead)" | Claire Whitmore | 134,763 |
+| P142 | "Do This Before Bed To Repair Your [Body Part] While You Sleep" | Japan's Oldest Doctor | 99,859 |
+| P143 | "[Treatment Type] Making It WORSE ([Specialty]'s Warning)" | Dr. Sumit Kapadia | 78,317 |
+| P144 | "[Symptom A] or DEADLY [Symptom B] [Number] Signs to Watch" | Dr. Sumit Kapadia | 68,117 |
+| P145 | "Taking [Med A], [Med B], or [Med C]? [Number] Things Every Senior Needs to Know" | Multiple channels | 601,549 |
+| P146 | "The Only [Number] Exercises You Need to [Action] (Ages 60+)" | Multiple | 7,421,682 |
+| P147 | "Do THIS Every Day in [Year] for [Health Goal] (Ages 60+)" | Multiple | 1,183,550 |
+| P148 | "CARDIOLOGIST WARNS: [Number] Medicines That Skyrocket [Risk] After [Age]!" | Multiple | 4,190 |
+| P149 | "Seniors Over [Age] Are Losing Their [Body Part] — The One [Solution] That Stops It" | Dr. James Hargrove | 8,659 |
+| P150 | "BEFORE Taking [Medication] — Watch This ([Specialty] Warning [Year])" | Dr. Jonathan Brooks | 35 |
+| P151 | "BEFORE [Activity/Time] — The [Consequence] Doctors Don't Explain" | Multiple emerging | NEW |
+
+### New Viral Formats (June 13)
+1. **"Making You Siller" supplement warning** — Whitmore's 134K video: "Research Shows This [Supplement] Mistake Is Making You Sicker." Uses research-backed claim + prohibition + alternative. Escalates supplement warning space.
+2. **"Repair While You Sleep" format** — Japan's Oldest Doctor 99K: Bedtime action + passive overnight repair. ADAPTABLE for nerve compression, B12 deficiency, diabetes connection.
+3. **"Making It WORSE" anti-myth** — Kapadia's 78K: "[Common Treatment] Making It WORSE." Dismisses commonly-recommended treatments. ADAPTABLE for vascular angle (compression stocking misuse, exercise误区).
+4. **"DEADLY [X]" symptom differentiation** — Kapadia's 68K: "[Symptom A] or DEADLY [Symptom B]." Creates urgent differentiation between benign and dangerous conditions. ADAPTABLE to vascular angle.
+5. **"Medication Trio" format at scale** — Dr. Alex Carter's 601K: "Taking [Med A], [Med B], or [Med C]?" Whitmore's format now widely replicated. Space saturating.
+6. **"Stair Climbing Exercise" mega-format** — Multiple channels at 7.4M total: "The Only [Number] Exercises to Climb Stairs Easily (60+)." WHITE SPACE: zero mechanism content exists.
+7. **"Do THIS Every Day in [Year]" temporal branding** — Multiple channels at 1.18M: Year-branded daily action. ADAPTABLE.
+
+### Updated Top Hook Rankings (June 13)
+- #1: **"Mind-Blowing Benefits" hook** — (1.57M, Whitmore)
+- #2: **"The Only [Number] Exercises to [Action]" hook** — (7.4M stair climbing, multiple channels) ⚡ UPgraded
+- #3: **"30-Second Test + Fixes" hook** — (1.46M, TopHealthTips)
+- #4: **"Taking [Med A], [Med B], or [Med C]" hook** — (601K, Dr. Alex Carter) ⚡ NEW TOP 4
+- #5: **"EAT [Forbidden] WITHOUT [Consequence]" hook** — (568K, Senior Blog)
+- #6: **"Help Over [Big Number] Seniors" hook** — (538K, Japan's Oldest Doctor)
+- #7: **"[Treatment] Making It WORSE" anti-myth hook** — (78K, Kapadia) ⚡ NEW
+- #8: **"DEADLY [X]" symptom differentiation hook** — (68K, Kapadia) ⚡ NEW
+- #9: **"Supplement Mistake Making You Sicker" hook** — (134K, Whitmore) ⚡ NEW
+- #10: **"Repair While You Sleep" hook** — (99K, Japan's Oldest Doctor) ⚡ NEW
+
+### Critical Insights (June 13)
+1. **"Stair climbing difficulty" is the BIGGEST white space** — 7.4M+ views for exercise versions. ZERO mechanism content. Dr. Kane's vascular/blood flow angle is PERFECT for "WHY can't seniors climb stairs anymore."
+2. **Kapadia proves mechanism content works** — Anti-myth varicose veins at 78K + blood clot detection at 68K. Real vascular surgeon with mechanism depth = credibility + performance. Validates Dr. Kane's positioning.
+3. **Supplement interaction space is CROWDING** — Whitmore at 134K+18K, Hargrove at 7.1K. First-mover window for vascular-specific supplement-drug interactions STILL OPEN but narrowing.
+4. **Japan's Oldest Doctor expanding RAPIDLY** — Now in 6 leg + shoulder + balance + sleep + digestive sub-niches. Bedtime nerve repair at 99K is newest expansion. Monitor closely.
+5. **"Medication Trio" format SATURATING** — 601K for Dr. Alex Carter's BP meds video. Whitmore's format being widely replicated. Space crowded.
+6. **Microplastics STILL DEAD** — Becker's new attempt at 3.5K. Confirmed across 7+ channels. AVOID.
+7. **GMA entered Ozempic at 5.8M** — Mainstream media in GLP-1 space. Validates niche but increases claim scrutiny. Dr. Kane's vascular Ozempic angle needs medical accuracy + unique positioning.
+
+### New Title Patterns (P101-P106, June 13 SEO Metadata)
+
+| Pattern ID | Pattern Name | Pattern Formula | Example | Source | Score | Date Discovered |
+|---|---|---|---|---|---|---|
+| P101 | "Why You Can't [Function] Like Before" | "Why You Can't [Function] Like You Used to After 60 — It's [Hidden Mechanism]" | "Why You Can't Climb Stairs Like You Used to After 60 — It's Your Vascular Pump" | Dr. Kane (VID-036 T1) | 20 | 2026-06-13 |
+| P102 | "Your Body Part Is a Metaphor" | "Your [Body Part] Is a [Metaphor] After 60 — Why Most People Don't Know This" | "Your Calf Muscles Are a Second Heart After 60 — Why Most People Don't Know This" | Dr. Kane (VID-036 T2) | 20 | 2026-06-13 |
+| P103 | "The Body Part That [Vital Function]" | "The [Body Part] in Your [Area] That [Vital Function] — After 60 It's [Declining Verb]" | "The Muscle in Your Leg That Pumps Blood Back to Your Heart — After 60 It's Failing" | Dr. Kane (VID-036 T3) | 20 | 2026-06-13 |
+| P104 | "Body Sends Disaster Warnings Time Before" | "Your Body Sends [Disaster] Warnings [Time Period] Before — Here Are [Number] Patterns Doctors Miss" | "Your Body Sends Stroke Warnings Weeks Before — Here Are 4 Patterns Doctors Miss" | Dr. Kane (VID-037 T1) | 20 | 2026-06-13 |
+| P105 | "Signs Your Organ Warns You" | "[Number] Signs Your [Organ] Warns You About [Disaster] — [Time] Before After 60" | "4 Signs Your Brain Warns You About Stroke — Weeks Before It Happens After 60" | Dr. Kane (VID-037 T2) | 20 | 2026-06-13 |
+| P106 | "Why Some People Get Disaster Warnings" | "Why Some People Get [Disaster] Warnings [Time] Before — The [Number] Signs You Must Recognize" | "Why Some People Get Stroke Warnings Weeks Before — The 4 Signs You Must Recognize" | Dr. Kane (VID-037 T3) | 20 | 2026-06-13 |
+
+### New Dr. Kane Adaptations (June 13 Strategic Recommendations)
+1. **"Why Can't You Climb Stairs Anymore After 60? The Blood Flow Mechanism"** — 7.4M exercise views, ZERO mechanism. Vascular angle.
+2. **"Your Creams Are Making Your Varicose Veins WORSE — What Vascular Surgeons Know"** — Kapadia's anti-myth at 78K. Dr. Kane goes deeper with mechanism.
+3. **"Muscle Cramp or DEADLY Blood Clot? 5 Signs After 60"** — Kapadia's 68K. Dr. Kane vascular version with diagnostic gap.
+4. **"Your Nerves Are Dying While You Sleep After 60 — The B12 Connection"** — JOD at 99K with stretches. Dr. Kane mechanism: nerve compression, B12 deficiency, diabetes.
+5. **"STOP Taking [Vascular Supplement] If You Take [Heart Medication]"** — Whitmore's interaction format at 134K. Dr. Kane vascular-specific version.
+
+*Last updated: 2026-06-13 by Competitor Watcher Agent*
