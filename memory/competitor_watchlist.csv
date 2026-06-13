@@ -1,7 +1,7 @@
 # Competitor Watchlist — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-11
-> **Total Tracked:** 39+ competitors (38 active + 1 removed)
+> **Last Updated:** 2026-06-12
+> **Total Tracked:** 41+ competitors (40 active + 1 removed)
 
 ## Active Competitors
 
@@ -41,7 +41,10 @@
 | 32 | Dr. Nicole Harper | 🟢 LOW | "If Your NAILS Look Like THIS After 60" | 162 views | Low | Copying Franklin. |
 | 33 | Wellness Unfolds | 🟢 LOW | "9 Medications Linked to Rapid Dementia" | 8 views | Low | Copying Kent. |
 | 34 | Dr. Victoria Wells | 🟢 LOW | "First Signs of a Stroke After 60" | 44 views | Low | Entering stroke niche. |
-| 35 | KenDBerryMD | LOW (EXITED) | Keto/carnivore streams | 3M (evergreen, not elder) | Low | SHIFTED AWAY. |
+|| 35 | KenDBerryMD | LOW (EXITED) | Keto/carnivore streams | 3M (evergreen, not elder) | Low | SHIFTED AWAY. |
+36|| 36 | Senior Health Secrets | 🟡 MONITOR 🆕 | "Fast Fix Exercise Leg Circulation" (100K) + "Surgeon Reveals 1 Exercise" (25K) | ~125K | Low | NEW. "Surgeon reveals" authority format. Replicating at scale. |
+37|| 37 | Beyond the Scale: My GLP-1 Journey | 🟢 LOW 🆕 | "Dangerous Side of GLP-1 for Older Adults" (2.7K) | ~2.7K | Low | NEW. Dedicated GLP-1 channel entering senior space. |
+38|| 38 | Vital After 60 | 🟢 LOW 🆕 | "Ozempic Hidden Muscle Risk Medicare" (107) | ~107 | Low | NEW. Ozempic + muscle loss. Very early. |
 
 ## Removed Competitors
 | # | Channel | Status | Reason |
@@ -65,15 +68,12 @@
 ## Open Niches (First-Mover Opportunities)
 - Stroke Prevention (mechanism) — 🟡 MECHANISM STILL OPEN 🔴 ACT NOW
 - Leg Health (MECHANISM) — 🔴 COMPLETELY EMPTY — all competitors exercise-only
-- GLP-1/Ozempic + vascular health — Arden at 13.6K, Whitmore at 31 🔴 FIRST-MOVER WINDOW
-- Age Spots + Internal Causes — Khan at 42K only 🟢 NEW
-- Diagnostic Gap content — Hargrove entering (5.9K) but weak 🟡 MOVE FAST
-- Self-screening protocols — Kent entering (29K) 🟡 WINDOW NARROWING
-- Lab test advocacy — Hargrove (5.9K) minimal 🟢 STILL OPEN
-- Muscle Loss/Sarcopenia (mechanism) — Khan at 26K, Whitmore at 131 🟡 EMERGING
-- Supplement Interactions — Kent dominating 🟡 GETTING CROWDED
-- Blood Type + medications — Franklin has general only 🟡 INTERSECTION UNCLAIMED
-- Emergency alone format — Hargrove (225K choking), Carter (1.3K heart) 🟡 ADAPT to stroke alone
+- GLP-1/Ozempic + vascular health — Arden at 15.4K, Beyond the Scale at 2.7K, Vital After 60 at 107 🔴 FIRST-MOVER WINDOW NARROWING
+- Supplement Interactions — Whitmore entering (Vit D + BP pills at 2.3K, Magnesium at 18.7K) 🟡 WINDOW OPEN — vascular angle unclaimed
+- Varicose Veins (mechanism) — Kapadia at 771K exercises 🟡 MECHANISM STILL OPEN
+- Sarcopenia (mechanism) — Berg DC at 208K, Mandell cross-posts tiny 🟡 DR. KANE ANGLE OPEN
+- Stool Diagnosis — Kent at 70K, multiple copycats 🔴 SATURATING — AVOID
+- Vaccine Hesitancy — Kent entering 🔴 PLATFORM RISK — DO NOT ENTER
 
 ## Platform Risk Notes
 - McGill Study (Dec 2025): AI health content farms confirmed. Senior Secrets taken down.
@@ -81,4 +81,7 @@
 - YouTube "inauthentic content" enforcement ACCELERATING
 - Dr. Waterling PERMANENTLY SUPPRESSED (Day 4+ confirmation)
 - BBC News health misinformation coverage at 1.8M views — mainstream scrutiny increasing
-- 🔴 Firecrawl API credits STILL EXHAUSTED (since Jun 8, Day 4) — yt-dlp search used as fallback
+- 🔴 Firecrawl API credits STILL EXHAUSTED (since Jun 8, Day 5) — yt-dlp search used as fallback
+- 🔴 YouTube now requires cookies for individual video fetches via yt-dlp — search-based metadata only
+- ⚠️ Vaccine hesitancy content carries elevated platform risk (Kent entering)
+- ⚠️ Anti-supplement content growing (Whitmore attacking Vit D, Magnesium)

@@ -636,3 +636,38 @@ To github.com:tanishkrai07/hermes-youtube-growth-os.git
 [INFO] 2026-06-12 05:00:02 Cleaned 4 stale files
 [INFO] 2026-06-12 05:00:02 Executed 2 improvement actions
 [INFO] 2026-06-12 05:00:02 Executed 2 improvement actions
+[main 950b99c] Self-upgrade: 2026-06-12 05:00 - Daily improvement cycle
+ 7 files changed, 40 insertions(+), 881 deletions(-)
+ create mode 100644 data/competitors/daily/2026-06-12_competitors.csv
+ delete mode 100644 outputs/reports/2026-06-07_thumbnail_brief.md
+ delete mode 100644 outputs/reports/2026-06-08_competitor_scan.md
+ delete mode 100644 outputs/reports/2026-06-08_idea_list.md
+ delete mode 100644 outputs/reports/2026-06-08_seo_metadata.md
+To github.com:tanishkrai07/hermes-youtube-growth-os.git
+   214fd8e..950b99c  main -> main
+[SUCCESS] 2026-06-12 05:00:05 Changes committed and pushed
+[SUCCESS] 2026-06-12 05:00:05 Changes committed and pushed
+[INFO] 2026-06-12 05:00:05 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-06-12 05:00:05 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-06-13 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-06-13 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-06-13 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-06-13 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-06-13 05:00:01 Script production: 5 total scripts on disk
+[INFO] 2026-06-13 05:00:01 Script production: 5 total scripts on disk
+[INFO] 2026-06-13 05:00:01 Found 0 issues, 1 improvement areas
+[INFO] 2026-06-13 05:00:01 Found 0 issues, 1 improvement areas
+[INFO] 2026-06-13 05:00:01   Improve: Only 5 scripts produced — need 90 by June 5
+[INFO] 2026-06-13 05:00:01   Improve: Only 5 scripts produced — need 90 by June 5
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-09_idea_list.md
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-09_idea_list.md
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-09_seo_metadata.md
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-09_seo_metadata.md
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-08_thumbnail_brief.md
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-08_thumbnail_brief.md
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-09_competitor_scan.md
+[INFO] 2026-06-13 05:00:01 Cleaned stale file: 2026-06-09_competitor_scan.md
+[INFO] 2026-06-13 05:00:01 Cleaned 4 stale files
+[INFO] 2026-06-13 05:00:01 Cleaned 4 stale files
+[INFO] 2026-06-13 05:00:01 Executed 1 improvement actions
+[INFO] 2026-06-13 05:00:01 Executed 1 improvement actions
