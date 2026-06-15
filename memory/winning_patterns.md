@@ -390,16 +390,22 @@
 ||||||||||||| 2026-06-11 | VID-032 (Spine Curving/Organ Compression) | A: The Wall Test, B: The Domino Chain | New Brief |
 |||||||||||||| 2026-06-12 | VID-036 (Fingernail Ridges/Organ Map) | A: The Diagnostic Map, B: The Close-Up Contrast | New Brief |
 ||||||||||||||| 2026-06-12 | VID-037 (3 AM Blood Sugar/Somogyi) | A: The Medication Paradox, B: The Invisible Curve | New Brief |
-|||||||||| 2026-06-13 | VID-039 (Bedtime Nerve Destruction) | A: The Bedtime Nerve Killer, B: The Hidden Cause | New Brief |
-||||||||||| 2026-06-13 | VID-040 (Ozempic/Vascular) | A: The Vascular Warning, B: The Hidden Effect | New Brief |
+||||||||||||| 2026-06-13 | VID-039 (Bedtime Nerve Destruction) | A: The Bedtime Nerve Killer, B: The Hidden Cause | New Brief |
+|||||||||||| 2026-06-13 | VID-040 (Ozempic/Vascular) | A: The Vascular Warning, B: The Hidden Effect | New Brief |
+||||||||||||| 2026-06-14 | VID-041 (Fingernail Ridges/Organ Map) | A: The Diagnostic Map, B: The Split Nail Contrast | New Brief |
+|||||||||||| 2026-06-14 | VID-042 (Carotid/Dementia Prediction) | A: The Neck-Brain Window, B: The Predictive Split | New Brief |
 
 ### New Palettes Added (June 13)
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
-| VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
-| VID-039 B | Deep plum (#4A148C) / Dark teal (#004D40) split | Electric coral (#FF6E40) | Cyan (#00E5FF) | New — Brief |
-| VID-040 A | Deep charcoal (#263238) | Warning red (#FF1744) | Artery pink (#FF8A80) / Cyan (#00E5FF) | New — Brief |
-| VID-040 B | Dark teal (#004D40) → Charcoal (#263238) gradient | Warning red (#FF1744) | Green (#00E5FF) | New — Brief |
+|| VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
+||| VID-039 B | Deep plum (#4A148C) / Dark teal (#004D40) split | Electric coral (#FF6E40) | Cyan (#00E5FF) | New — Brief |
+|||| VID-040 A | Deep charcoal (#263238) | Warning red (#FF1744) | Artery pink (#FF8A80) / Cyan (#00E5FF) | New — Brief |
+||||| VID-040 B | Dark teal (#004D40) → Charcoal (#263238) gradient | Warning red (#FF1744) | Green (#00E5FF) | New — Brief |
+|||||| VID-041 A | Deep espresso brown (#3E2723) | Burnished gold (#DAA520) | Clinical teal (#00897B) / Pale bone (#EFEBE9) | New — Brief |
+||||||| VID-041 B | Desert sand (#D7CCC8) → Espresso (#3E2723) split | Sage green (#689F38) | Rust orange (#BF360C) / Gold (#DAA520) | New — Brief |
+|||||||| VID-042 A | Deep oceanic teal (#003B46) | Luminous cyan (#00E5FF→#00838F) | Warm amber-gold (#FFB300) / Arterial red (#B71C1C) | New — Brief |
+||||||||| VID-042 B | Bifurcated: oceanic teal (#003B46) / dark volcanic (#1A1A1A→#3E0000) | Arterial amber (#FFB300) | Warning crimson (#D50000) / Vascular pink (#FF80AB) | New — Brief |
 
 ### New Palettes Added (June 12)
 | VID-036 B | Sage green (#C8E6C9) → Cream (#FFF8E1) | Deep red (#B71C1C) | Forest green (#2E7D32) / Warm gold (#F9A825) | New — Brief |
@@ -788,4 +794,68 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 4. **"Your Nerves Are Dying While You Sleep After 60 — The B12 Connection"** — JOD at 99K with stretches. Dr. Kane mechanism: nerve compression, B12 deficiency, diabetes.
 5. **"STOP Taking [Vascular Supplement] If You Take [Heart Medication]"** — Whitmore's interaction format at 134K. Dr. Kane vascular-specific version.
 
-*Last updated: 2026-06-13 by Competitor Watcher Agent*
+---
+
+## New Patterns Added 2026-06-14
+
+### New Title Formulas (June 14 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P107 | "This [Seed/Item] [TRIPLES/DOUBLES] [Health Metric] & Starves [Cancer Type]" | Becker | 22K |
+| P108 | "600mg of This [Verb] Cortisol & [Health Claim] While You Sleep" | Becker | 50K |
+| P109 | "The [Sleep Position/Routine] That's Slowly Killing Your [Health Topic] Every Night ([Specialty] Warns)" | Kapadia | 89K |
+| P110 | "Your [Body Part] Can Predict Your [Death/Dire Outcome]" | Kapadia | 84K |
+| P111 | "Your [Medical Results] Are WRONG Because of These [Number] Mistakes" | Kapadia | 52.6K |
+| P112 | "Doctor Warning: This Common [Food] Is Quietly Destroying Your [Organ] (And [Number] That Can [Save It])" | Kent | 349K |
+| P113 | "Which [Supplement A] Is Actually Best For [Condition] — Nobody Told You This" | Whitmore | 1.7K |
+| P114 | "The Only [Supplement] That Actually [Health Claim] — The Rest Are [Negative]" | Whitmore | 3.2K |
+| P115 | "[Number] Best [Indulgent Food] for [Condition] To Eat — [Number] Worst to Avoid" | Kent | 142 |
+| P116 | "Cardiologist Alerts This [Sleep Position] Increases [Condition] Risk Overnight!" | Williams | 22 |
+| P117 | "Chew This Before Bed – Watch Your [Health Metric] [Rebuild/Verb] While You Sleep" | Becker | 18.2K |
+| P118 | "Seniors Beware: The 'Healthy' [Item] That Damages Your [Body Part]" | Whitmore | 489 |
+| P119 | "Your [Body Part] Changed After [60]? [Number] Hidden Causes Your Doctor Misses" | Kapadia | 52.6K |
+| P120 | "After [Age], You Have ONLY a [Number]-Year Window To [Action] — Here's Exactly What To Do" | Becker | 75.8K |
+
+### New Viral Formats (June 14)
+1. **"Seed TRIPLES Stem Cells & Starves Prostate Cancer" format** — Becker at 22K. Specific seed + triple action + cancer type. NEW cross-niche intersection.
+
+2. **"Killing Your [X] Every Night" sleep format** — Kapadia at 89K. Nightly habit/position + slow death + vascular surgeon authority. Emerging as replacement for Waterling's stroke content.
+
+3. **"Blood Test Results Are WRONG" diagnostic rebellion** — Kapadia at 52.6K. Directly challenges medical establishment. Competes with Dr. Kane's "diagnostic gap" positioning.
+
+4. **"Destroying Your Memory (And X That Can Save It)" dual fear/rescue** — Kent at 349K. Fear + rescue in single title. NEW for memory niche.
+
+5. **"[X] Best [Indulgent Food] for [Condition]" paradox food** — Kent at 142. Not working for Kent (Senior Health Blog's version at 1.5M). Quality/authority gap.
+
+6. **"Chew This Before Bed" bedtime cellular repair** — Becker at 18.2K. Mastication + nighttime + cellular health. New bedtime format variant.
+
+7. **"Seniors Beware: The 'Healthy' Oil That Damages Your Arteries" inversion** — Whitmore at 489. "Healthy" in quotes + artery damage. Healthy habit inversion format EXPANDING.
+
+8. **"Your Legs Can Predict Your Death" body prediction** — Kapadia at 84K. Body part + death prediction. Extreme fear format. NEW.
+
+### Updated Hook Rankings (June 14)
+- #1: **"Real Truth" hook** — "What's the Best [Metric] for Older Adults? (Know the Real Truth)" (1.31M, Kent)
+- #2: **"Destroying Your [Organ] (And X That Can Save It)" dual fear/rescue** — Kent at 349K ⚡ NEW #2
+- #3: **"INSTANTLY" hook** — "3 Breathing Tricks To INSTANTLY Lower BP" (701K, Whitmore)
+- #4: **"Which is More DANGEROUS" hook** — Binary comparison (452K, Whitmore)
+- #5: **"Slowly Killing Your [X] Every Night" sleep destruction** — Kapadia at 89K ⚡ NEW TOP 5
+- #6: **"Your [Body Part] Can Predict Your [Death]" body prediction** — Kapadia at 84K ⚡ NEW TOP 6
+- #7: "The Day Before" hook — (1.39M, Waterling evergreen — now suppressed)
+- #8: **"Blood Test Results Are WRONG" diagnostic rebellion** — Kapadia at 52.6K ⚡ NEW
+- #9: "The ONE" hook
+- #10: **"Chew This Before Bed" bedtime repair** — Becker at 18.2K ⚡ NEW
+
+### New Dr. Kane Adaptations (June 14 Strategic Recommendations)
+1. **"Why Your Memory Is Failing After 60 (It's NOT What You Think)"** — Kent entered at 349K with fear format. Dr. Kane goes deeper: vascular connection to cognitive decline. MECHANISM angle uncontested.
+
+2. **"What Your Blood Test Results Are REALLY Telling You — The 5 Numbers Doctors Miss"** — Kapadia at 52.6K with rebellious format. Dr. Kane owns this with proper mechanism + vascular authority.
+
+3. **"The Sleep Position That's Quietly Destroying Your Blood Flow After 60"** — Kapadia at 89K, 3 competitors entering. Dr. Kane differentiates with vascular mechanism + morning BP spike connection.
+
+4. **"The Magnesium Mistake 1 in 3 Seniors Makes (And Why It Matters After 60)"** — Whitmore building magnesium empire at 18.8K-47K. Dr. Kane differentiates with vascular-specific mechanism.
+
+5. **"Your Legs Are Trying to Tell You Something — 5 Warning Signs After 60"** — Kapadia's "Legs Predict Death" at 84K. Dr. Kane's vascular angle: leg symptoms as vascular diagnostic window.
+
+---
+
+*Last updated: 2026-06-14 by Competitor Watcher Agent*

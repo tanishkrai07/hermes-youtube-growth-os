@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-13 (Updated for June 14)
-**Focus:** VID-036 + VID-037 scripts complete | Thumbnails needed for June 17/19 uploads | VID-038/039/040 scripts next
-**Priority:** ✅ VID-036 + VID-037 scripts WRITTEN | 🔴 Thumbnail production for June 17/19 uploads | Next: VID-038 (I161 Score 18) script
+**Date:** 2026-06-14 (Updated for June 14)
+**Focus:** VID-041 + VID-042 scripts written | Thumbnails needed for June 17/19/24/26 uploads | VID-038/039/040 scripts next
+**Priority:** ✅ VID-041 + VID-042 scripts WRITTEN | 🔴 Thumbnail production for all pending uploads | Next: VID-038 (I161 Score 18) script
 
 ---
 
@@ -29,12 +29,14 @@
 - VID-036 (Stair Climbing Vascular Pump) — June 17 upload — SCRIPT COMPLETE — THUMBNAILS NEEDED
 - VID-037 (Stroke Warning Weeks Before) — June 19 upload — SCRIPT COMPLETE — THUMBNAILS NEEDED
 
-### Idea Bank Status (Updated June 13)
+### Idea Bank Status (Updated June 14)
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
 | I166 | Stair Climbing Vascular Pump | Cardiovascular/Vascular | 20 | ✅ SCRIPT COMPLETE (VID-036) |
 | I167 | Stroke Warning Weeks Before | Stroke Prevention | 20 | ✅ SCRIPT COMPLETE (VID-037) |
+| I176 | Fingernail Ridges / Organ Map | Body Signals/Multi-Organ | 19 | ✅ SCRIPT WRITTEN (VID-041) |
+| I177 | Carotid Vessel / Dementia Prediction | Cardiovascular/Neurological | 19 | ✅ SCRIPT WRITTEN (VID-042) |
 | I161 | PPI Medication → Fall Risk | Medication Safety | 18 | 🔴 SCRIPT NEEDED (VID-038) |
 | I168 | Bedtime Habit Destroying Nerves | Neurological/Sleep | 19 | 🟡 SCRIPT NEEDED (VID-039) |
 | I169 | Ozempic Shrinking Arteries | GLP-1/Vascular | 19 | 🟡 SCRIPT NEEDED (VID-040) |
@@ -45,10 +47,14 @@
 | I174 | Nocturnal Watch Heart Data | Cardiovascular/Tech | 17 | 🟡 BACKLOG |
 | I175 | Doctor Wrong Pulse Location | Cardiovascular/Advocacy | 16 | 🟡 BACKLOG |
 
-### 🔴 URGENT Production Pipeline (Score 18+, Updated June 13)
-1. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
-2. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
-3. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
+### 🔴 URGENT Production Pipeline (Score 18+, Updated June 14)
+1. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
+2. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
+3. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
+
+### ✅ New Scripts Written (June 14)
+- **I176** (Score 19) — Fingernail Ridges / Organ Map. VID-041. Structure: Visual self-discovery → Pattern taxonomy → Organ mapping with timeline → Self-assessment → Action triggers. Safety: 17 PASS / 0 FAIL. Word count: ~2,720.
+- **I177** (Score 19) — Carotid Vessel / Dementia Prediction. VID-042. Structure: Anatomical revelation → Embryological mechanism → Barrier explanation → Advocacy script → Empowerment. Safety: 18 PASS / 0 FAIL. Word count: ~2,780.
 
 ### What NOT to Do
 - Don't tell viewers to change medications based on blood type
@@ -162,7 +168,9 @@
 | VID-030 (Morning Headache) | Symptom recognition ("You wake up with a headache — and you've stopped noticing") | Symptom pattern → Mechanism (nocturnal BP surge → vessel pain) → Diagnostic gap (office BP misses nighttime) → 3-position home test protocol → Causes (sleep apnea, med timing, cortisol) → Stroke risk urgency → Action steps | Direct agency message ("before the ibuprofen, reach for the BP cuff") + warm sign-off |
 | VID-031 (Sleep/Oxygen) | Paradox hook ("You slept 8 hours but woke up tired") | Paradox → Patient story (Robert's diagnostic journey) → Mechanism (UARS vs. apnea, AHI vs. ODI) → Diagnostic gap (standard sleep studies miss ODI) → Self-assessment + doctor script → Action steps (bed elevation, nasal support, alcohol timing) → Emotional close (Robert's resolution) | Empowerment through understanding + forward tease |
 | VID-036 (Stair Climbing) | Functional observation ("the last time you climbed stairs") | Muscle-as-organ reframing → Mechanism (soleus-as-pump) → Fiber-type distinction → Self-test (3-position stair test) → Exercise protocol (3 seated soleus exercises) | Three-exercise pump protocol + forward tease |
-| VID-037 (Stroke Warning) | Patient story (Robert's 4 warnings over 2 weeks) | Narrative anchor → Mechanism (micro-emboli from carotid plaque) → 4-pattern taxonomy (visual, language, facial, motor) → Self-advocacy script ("transient neurological episode") → Patient's own words ("Don't be me") | Patient resolution + forward tease |
+|| VID-037 (Stroke Warning) | Patient story (Robert's 4 warnings over 2 weeks) | Narrative anchor → Mechanism (micro-emboli from carotid plaque) → 4-pattern taxonomy (visual, language, facial, motor) → Self-advocacy script ("transient neurological episode") → Patient's own words ("Don't be me") | Patient resolution + forward tease |
+| VID-041 (Nail Ridges) | Visual self-discovery prompt ("Hold your hands out. Look at your nails.") | Pattern taxonomy (4 ridge types) → Organ mapping with timeline tracking → Interactive self-test (Schamroth's window) → 60-second self-assessment protocol → Specific action triggers ("Call your doctor if...") | Practical self-assessment tool + forward tease |
+| VID-042 (Carotid/Dementia) | Hidden anatomical revelation ("There's a blood vessel in your neck that knows your brain's future") | Anatomical connection (embryology) → Test explanation (CIMT ultrasound) → Barrier explanation (3 reasons doctors don't order it) → Advocacy script (exact words) → Results interpretation → Empowerment close ("Know your CIMT. Protect your brain.") | Empowerment through knowledge + forward tease |
 
 ---
 
@@ -173,6 +181,7 @@
 2. **Verify VID-022 upload status** — "Your Doctor Tested Your Kidneys Wrong After 60" (June 12 target)
 3. **Produce VID-036/037 Thumbnails** — Scripts complete. Upload targets: VID-036 (June 17), VID-037 (June 19)
 4. **Produce VID-027/029/031 Thumbnails** — For June 17 upload (3 days lead time)
+5. **Produce VID-041/042 Thumbnails** — New scripts. Upload targets: VID-041 (June 24), VID-042 (June 26)
 5. **Begin VID-038 script** — I161: PPI Fall Risk (Score 18)
 
 ### 🟡 Important
