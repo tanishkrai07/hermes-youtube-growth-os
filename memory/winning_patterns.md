@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-11
+> **Last Updated:** 2026-06-15
 
 ## Top Performing Title Formulas
 
@@ -392,10 +392,20 @@
 ||||||||||||||| 2026-06-12 | VID-037 (3 AM Blood Sugar/Somogyi) | A: The Medication Paradox, B: The Invisible Curve | New Brief |
 ||||||||||||| 2026-06-13 | VID-039 (Bedtime Nerve Destruction) | A: The Bedtime Nerve Killer, B: The Hidden Cause | New Brief |
 |||||||||||| 2026-06-13 | VID-040 (Ozempic/Vascular) | A: The Vascular Warning, B: The Hidden Effect | New Brief |
-||||||||||||| 2026-06-14 | VID-041 (Fingernail Ridges/Organ Map) | A: The Diagnostic Map, B: The Split Nail Contrast | New Brief |
-|||||||||||| 2026-06-14 | VID-042 (Carotid/Dementia Prediction) | A: The Neck-Brain Window, B: The Predictive Split | New Brief |
-
-### New Palettes Added (June 13)
+395|||||||||||||| 2026-06-14 | VID-041 (Fingernail Ridges/Organ Map) | A: The Diagnostic Map, B: The Split Nail Contrast | New Brief |
+396||||||||||||| 2026-06-14 | VID-042 (Carotid/Dementia Prediction) | A: The Neck-Brain Window, B: The Predictive Split | New Brief |
+397||||||||||||||| 2026-06-15 | VID-043 (Magnesium Form/Arteries) | A: The Invisible Supplement, B: The Pharmacy Maze | New Brief |
+398|||||||||||||||| 2026-06-15 | VID-044 (BP Medicine Timing) | A: The Nighttime BP Spike, B: The Pill Bottle Clock | New Brief |
+399|
+400|### New Palettes Added (June 15)
+401|| Video | Primary | Accent 1 | Accent 2 | Status |
+402||-------|---------|----------|----------|--------|
+403||| VID-043 A | Arterial red (#B71C1C) → Charcoal (#263238) | Glowing teal (#00E5FF) | Warning yellow (#FDD835) / Ghosted gray (#90A4AE) | New — Brief |
+404|||| VID-043 B | Pharmacy blue (#0D47A1) → Slate (#37474F) | Electric red (#FF1744) | Glowing green (#00E676) / Warning yellow (#FDD835) | New — Brief |
+405||||| VID-044 A | Dawn gold (#FFB300) → Midnight red (#B71C1C) split | Clinical green (#00E676) | Danger red (#FF1744) / White | New — Brief |
+406|||||| VID-044 B | Midnight blue (#0D1B2A) → Dark teal (#004D40) | Glowing amber (#FFB300) | Danger red (#FF1744) / Moonlight silver (#CFD8DC) | New — Brief |
+407|
+408|### New Palettes Added (June 13)
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
 || VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
@@ -855,6 +865,78 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 4. **"The Magnesium Mistake 1 in 3 Seniors Makes (And Why It Matters After 60)"** — Whitmore building magnesium empire at 18.8K-47K. Dr. Kane differentiates with vascular-specific mechanism.
 
 5. **"Your Legs Are Trying to Tell You Something — 5 Warning Signs After 60"** — Kapadia's "Legs Predict Death" at 84K. Dr. Kane's vascular angle: leg symptoms as vascular diagnostic window.
+
+---
+
+## New Patterns Added 2026-06-15
+
+### New Title Formulas (June 15 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P121 | "SENIORS, Are You Taking Your [Medication] at the WRONG Time? (Doctor Reveals The Secret #X)" | Claire Whitmore | 209,590 |
+| P122 | "Doctor Explains: The Best [Food] to Eat Before Bed for Healthy [Body Part]" | Dr. Michael Kent | 727,304 |
+| P123 | "Eat These [Number] [Food] Before Bed to [Health Claim] & [Health Claim] ([Qualifier])" | Dr. William Li | 66-572 |
+| P124 | "Regenerate Your [Health Topic] ([Number] [Method] That [Dramatic Claim])" | Dr. William Li | 582,289 |
+| P125 | "Stop [Action]! [Number] [Exercise Type] That Can [Health Claim] (Even If You Can't [Action])" | Dr. Sumit Kapadia | 200,336 |
+| P126 | "A SIMPLE Exercise Every [Age]+ Should Do Daily (Stop [Problem] for Good)" | Senior Health Podcast | 377,200 |
+| P127 | "Poor Leg Circulation? [Number] Seated Exercises If You Can't Walk" | Vascular Surgeon | 244,708 |
+| P128 | "If You Wake Up With [Symptom], Your Body Is Warning You ([Qualifier])" | Dr. Nathaniel Brooks | 545,724 |
+| P129 | "Seniors, Your [Test] Is Lying to You (If You Are Over [Age])" | Unknown | 11,687 |
+| P130 | "Avoid THESE [Number] [Supplement] Mistakes — Hidden Dangers Seniors Must Know" | Dr. William Li | 5,289 |
+| P131 | "Ozempic Works… But Here's What It's Really Doing to Your Body (60+)" | Dr. William Arden | 19,191 |
+| P132 | "The Dangerous Side of [Drug Type] for Older Adults (And How to Stay Safe)" | Beyond the Scale | 2,842 |
+| P133 | "THE [Adjective] [Supplement] Mistake" | Unknown | 1,974,459 |
+| P134 | "This [Seed/Item] [TRIPLES/DOUBLES] [Health Metric] & Starves [Cancer Type]" | Becker | 22,150 |
+| P135 | "The ONLY [Number] Exercises you NEED for [Condition] (Ages [Age]+)" | Unknown | 3,326,637 |
+
+### New Viral Formats (June 15)
+1. **"WRONG Time" medication format** — Whitmore's 209.6K video: "SENIORS, Are You Taking Your BP Pill at the WRONG Time? (Doctor Reveals The Secret #4)." Questions reader's current behavior + numbered secret. ADAPTABLE for Dr. Kane with vascular authority.
+
+2. **"Best [Food] Before Bed for Healthy [Body Parts]"** — Kent's 727K video: "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes." Superlative + bedtime + body part target. NEW eye health pillar.
+
+3. **"Eat [Number] [Food] Before Bed to [Repair] & [Boost]"** — Dr. William Li's 66-572 view videos. Multiple fruits + dual health claims. Being replicated across multiple IDs.
+
+4. **"Regenerate Your Stem Cells"** — Dr. William Li's 582K video. Direct stem cell regeneration claim. MAJOR competitor to Becker's stem cell dominance.
+
+5. **"Stop Sitting Still! [Number] Chair Exercises"** — Kapadia's 200K video. Prohibition + seated exercises + elasticity clause ("Even If You Can't Walk"). ADAPTABLE for vascular angle.
+
+6. **"A SIMPLE Exercise Every [Age]+ Should Do Daily (Stop [Problem] for Good)"** — Senior Health Podcast's 377K video. "SIMPLE" + age specificity + daily habit + problem elimination. Fall prevention niche EMERGING.
+
+7. **"[Number] Seated Exercises If You Can't Walk"** — Vascular Surgeon's 245K video. Accessibility angle + vascular authority. NEW seated exercise format.
+
+8. **"Your [Test] Is Lying to You (If You Are Over [Age])"** — 11.7K views for "Kidney Blood Test Is Lying to You." Diagnostic rebellion format. ADAPTABLE for Dr. Kane's creatinine mask positioning.
+
+9. **"THE [Adjective] [Supplement] Mistake"** — "THE BIG Magnesium Mistake" at 1.97M views. Definitive article + superlative + mistake. Magnesium is NEW battleground.
+
+10. **"Ozempic Works… But Here's What It's Really Doing"** — Arden's 19.2K video. Balanced critique format. Acknowledges drug works BUT reveals hidden effects. Building trust through nuance.
+
+### Updated Hook Rankings (June 15)
+- #1: **"Mind-Blowing Benefits" hook** — (1.57M, Whitmore)
+- #2: **"The ONLY [Number] Exercises" hook** — (3.33M sciatica + 2.64M leg circulation, multiple channels) ⚺ TOP 2
+- #3: **"30-Second Test + Fixes" hook** — (1.46M, TopHealthTips)
+- #4: **"Taking [Med A], [Med B], or [Med C]" hook** — (601K, Dr. Alex Carter) — SATURATING
+- #5: **"Best [Food] Before Bed for Healthy [Body Part]"** — (727K, Kent) ⚡ NEW TOP 5
+- #6: **"Regenerate Your [Health Topic]"** — (582K, Dr. William Li) ⚡ NEW TOP 6
+- #7: **"If You Wake Up With [Symptom]"** — (546K, Brooks) ⚡ NEW TOP 7
+- #8: **"EAT [Forbidden] WITHOUT [Consequence]" hook** — (568K, Senior Blog)
+- #9: **"WRONG Time" medication hook** — (209.6K, Whitmore) ⚡ NEW
+- #10: **"A SIMPLE Exercise Every [Age]+ Should Do Daily"** — (377K, Senior Health Podcast) ⚡ NEW
+- #11: **"Help Over [Big Number] Seniors" hook** — (538K, Japan's Oldest Doctor)
+- #12: "Real Truth" hook — (1.31M, Kent)
+- #13: "INSTANTLY" hook — (701K, Whitmore)
+- #14: "Forget [X] — This [Y]" hook — (956K, Kent)
+- #15: **"THE [Adjective] [Supplement] Mistake"** — (1.97M, unknown) ⚡ NEW
+
+### Critical Insights (June 15)
+1. **Dr. William Li is a MAJOR new competitor** — 582K for "Regenerate Your Stem Cells" + multi-niche expansion into memory (66-572), magnesium (5.3K), age spots (58). Multi-version content strategy is McGill flag risk but shows aggressive growth.
+2. **Magnesium is the NEW Berberine** — "THE BIG Magnesium Mistake" at 1.97M views. Whitmore's magnesium empire (18.8K-47K across 5+ videos). Dr. Kane's vascular-specific magnesium angle is WHITE SPACE.
+3. **Fall prevention is EMERGING** — 377K views for "A SIMPLE Exercise Every 70+ Should Do Daily (Stop Falls for Good)." All content is exercise-only — vascular/balance mechanism content is EMPTY.
+4. **Sleep position + circulation is GROWING** — 51-176 views per video but multiple entrants. "What happens to your arteries while you sleep" is UNOWNED.
+5. **Kidney test advocacy is GROWING** — 11.7K for "Your Kidney Blood Test Is Lying to You." Directly adjacent to Dr. Kane's creatinine mask positioning.
+6. **GLP-1 is now MAINSTREAM** — 2.9M views for "What Ozempic & Weight Loss Drugs Really Do to the Body." Dr. Kane's vascular angle is still unique but window is NARROWING.
+7. **Brooks' body warning content MORE THAN DOUBLED** — 546K (up from 229K). "Dry mouth" format is working. Monitor for expansion.
+8. **Arden's Ozempic content GROWING** — 19.2K (up from 17K). "Dr. Now Diet Plan" at 58K is NEW mainstream crossover angle.
+9. **"Medication Trio" format SATURATING** — Dr. Alex Carter at 601K + multiple replicators. Space crowded.
 
 ---
 

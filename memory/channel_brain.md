@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-13
+> **Last Updated:** 2026-06-15
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -568,3 +568,67 @@
 - **⚠️ Firecrawl API STILL DOWN:** Credits exhausted since June 8 (Day 6). yt-dlp search used as fallback.
 - **⚠️ Microplastics STILL DEAD:** Becker's new attempt at 3.5K views. Confirmed again — audience not interested.
 - **New title formulas for Dr. Kane (June 13):** "Why You Can't [Function] Like Before After 60 — It's [Hidden Mechanism]", "Your [Body Part] Is a [Metaphor] After 60 — Why Most Don't Know This", "Your Body Sends [Disaster] Warnings [Time] Before — Here Are [Number] Patterns Doctors Miss"
+
+### New Videos Added June 15
+
+37. **VID-043 (Long-form):** "The Magnesium Mistake Silently Damaging Your Arteries After 60"
+    - Script: COMPLETE (June 15 script package, ~2,700 words, 4 studies, 6 retention hooks)
+    - Score: 22/20 (highest-scoring idea in the idea bank)
+    - Unique angle: "Magnesium Form Matrix" — 10+ forms of magnesium supplements with wildly different vascular absorption. Magnesium oxide (4% absorption, cheapest, most common) does NOT raise intracellular magnesium in vascular smooth muscle. Magnesium taurate crosses into vascular wall via taurine transporter (TauT). The form determines whether magnesium reaches the cells that matter.
+    - Structure: Scientific myth-opening → Pharmacy maze (form comparison) → Vascular smooth muscle mechanism (Ca/Mg tug-of-war) → Test gap (RBC vs serum Mg) → Form selection guide → Doctor conversation script
+    - Original insight: The "Magnesium Form Matrix" — supplement form determines tissue-level efficacy. No competitor covers the supplement-form-treatment-efficacy connection for vascular health.
+    - Key studies: Mg absorption rates by form (J Nutr 2023), intracellular Mg in vascular smooth muscle (Hypertension 2024), Mg taurate and arterial compliance (Nutrients 2023), RBC vs serum Mg (Clin Chem 2023)
+    - Upload target: Tuesday, June 24, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-044 (BP Medicine Timing)
+    - Companion Short: VID-SHORT-022
+    - Safety: 16 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "The Magnesium Mistake Silently Damaging Your Arteries After 60 — Most Seniors Take the Wrong Form" | Title B: "You're Taking Magnesium — But Your Arteries Can't Feel It After 60"
+
+38. **VID-SHORT-022 (Short):** "Your Magnesium Isn't Reaching Your Arteries — Here's Why"
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 24, 2026
+    - Purpose: Teaser for VID-043 long-form
+    - Status: READY FOR PRODUCTION
+
+39. **VID-044 (Long-form):** "Your BP Medicine Works in the Morning But Fails at Night After 60 — Here's Why"
+    - Script: COMPLETE (June 15 script package, ~2,680 words, 5 studies, 6 retention hooks)
+    - Score: 21/20
+    - Unique angle: "Circadian Pharmacology Gap" — most BP meds dosed in morning for convenience, but 40% of seniors are "non-dippers" (BP doesn't drop at night). CYP450 liver enzymes follow circadian rhythm (BMAL1/CLOCK) — same dose produces different blood levels by time of day. Hygia Trial: 45% fewer CV events with bedtime dosing.
+    - Structure: Paradox observation (morning BP good, nighttime unknown) → Non-dipper pattern revelation (40%) → Circadian pharmacology mechanism (CYP450/BMAL1/CLOCK) → Hygia Trial evidence → Patient story (Robert's stroke) → 4-point measurement protocol → Doctor conversation script
+    - Original insight: Chronopharmacology is a real medical discipline never explained in elder-health YouTube. Whitmore tells you WHEN to take it; Dr. Kane explains WHY.
+    - Key studies: Non-dipping BP 40% in over-60s (Hypertension, AHA 2024), bedtime dosing reduces CV events 45% (Hygia Trial, European Heart Journal 2024), CYP450 circadian rhythm (Chronobiology International 2023), morning stroke surge 6AM-12PM (Stroke, ASA 2024)
+    - Upload target: Thursday, June 26, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-043 (Magnesium Mistake/Arteries)
+    - Companion Short: VID-SHORT-023
+    - Safety: 17 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "Your BP Medicine Works in the Morning But Fails at Night After 60 — The Timing Problem" | Title B: "You're Taking Your Blood Pressure Pill at the Wrong Time After 60 — Here's Why"
+
+40. **VID-SHORT-023 (Short):** "Your BP Medicine Works at 8 AM. What About 3 AM?"
+    - Script: COMPLETE (~155 words)
+    - Upload target: June 26, 2026
+    - Purpose: Teaser for VID-044 long-form
+    - Status: READY FOR PRODUCTION
+
+### New Content Chain Links (June 15)
+- VID-043 (Magnesium/Arteries) → VID-044 (BP Medicine Timing) via end screen
+- VID-044 (BP Medicine Timing) → VID-043 (Magnesium/Arteries) via end screen
+- VID-SHORT-022 → VID-043 (teaser → full)
+- VID-SHORT-023 → VID-044 (teaser → full)
+
+### New Insights from June 15 Scans
+- **⚡⚡⚡ Whitmore's MAGNESIUM EMPIRE EXPANDING:** "The Magnesium Mistake Almost Every Senior Makes — Preparing You For Stroke" (18.8K) + "NEVER Take Magnesium Glycinate with D3 & K2" (157.8K). Combined with berberine (1.57M) and Vitamin D (134K), Whitmore now dominates 4 supplement pillars.
+- **⚡⚡ Whitmore BP TIMING at 209.6K:** "SENIORS, Are You Taking Your Blood Pressure Pill at the WRONG Time?" — NEW high performer. Directly threatening Dr. Kane's vascular positioning.
+- **⚡⚡ Kent's EYE HEALTH RESURGENT:** "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes" (727.3K) — NEW pillar. Kent now DUAL-THREAT (eye + blood sugar).
+- **⚡⚡ Dr. William Li NEW major competitor:** "Regenerate Your Stem Cells" (582.3K) + entering magnesium (5.3K), memory (66-572), age spots (58). Multi-niche threat. Monitor closely.
+- **⚡⚡ Brooks' body warning content DOUBLED:** "If You Wake Up With Dry Mouth" at 545.7K (up from 229K).
+- **⚡⚡ Kapadia "5 Chair Exercises" NEW breakout at 200.3K:** Mechanism content continues to perform.
+- **⚡ "THE BIG Magnesium Mistake" at 1.97M views:** Magnesium is the NEW supplement battleground. No vascular-specific content exists — VID-043 captures this perfectly.
+- **⚡ GLP-1 content MAINSTREAM:** "What Ozempic & Weight Loss Drugs Really Do to the Body" at 2.9M views.
+- **⚡ New FALL PREVENTION niche emerging:** Senior Health Podcast at 377.2K views. Mechanism content EMPTY.
+- **⚡ New VASCULAR SURGEON channel at 244.7K:** Direct threat to Dr. Kane's vascular positioning.
+- **⚡ New kidney test advocacy:** "Seniors, Your Kidney Blood Test Is Lying to You" at 11.7K views.
+- **⚠️ Firecrawl API STILL DOWN (Day 8+):** yt-dlp search used as fallback.
+- **⚠️ Dr. William Li multi-version content:** McGill flag risk.
+- **New title formulas for Dr. Kane (June 15):** "The [Supplement] Mistake Silently Damaging Your [Body Part] After 60", "Your [Medication] Works at [Time A] But Fails at [Time B] After 60 — Here's Why", "The [Number]-Second [Body Part] Test That Reveals Your [System] Health After 60"

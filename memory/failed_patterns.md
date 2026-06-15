@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-13
+> **Last Updated:** 2026-06-15
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -365,3 +365,34 @@
 - **Never tell viewers to drive themselves to the ER during active neurological symptoms** — explicitly say "call 911" and "don't drive yourself"
 - **Never use "mini-stroke" without explaining it's a real stroke that resolved** — the term minimizes the seriousness
 - **Never tell viewers specific exercises will "cure" or "fix" vascular problems** — frame as "may improve" and "research suggests"
+
+### New Failure Patterns (June 15 Competitor Scans)
+
+#### Magnesium Niche Heating Up — But Vascular Angle Still Open
+- **What happened:** "THE BIG Magnesium Mistake" at 1.97M views + Whitmore's magnesium empire (5+ videos, 18.8K-157.8K views). Multiple competitors entering magnesium space.
+- **Lesson:** General magnesium content is getting crowded, but NO vascular-specific magnesium content exists. Dr. Kane's VID-043 (magnesium form matrix + vascular smooth muscle mechanism) is the RIGHT angle.
+- **Fix:** Produce VID-043 immediately. The vascular-specific angle is the differentiator that prevents this from being perceived as following Whitmore.
+
+#### Dr. William Li Multi-Version Content Strategy
+- **What happened:** Dr. William Li running multiple versions of same content across different video IDs (66-572 views for "3 Fruits Before Bed" format). This is a McGill flag risk.
+- **Lesson:** Multi-version content is becoming a growth strategy for aggressive competitors. YouTube enforcement will likely target these.
+- **Fix:** Dr. Kane must NEVER use multi-version strategy. One video, one upload. This is a competitive ADVANTAGE as enforcement increases.
+
+#### Fall Prevention Niche Emerging — Mechanism Content Empty
+- **What happened:** Senior Health Podcast's "A SIMPLE Exercise Every 70+ Should Do Daily (Stop Falls for Good)" at 377K views. All content is exercise-only.
+- **Lesson:** Fall prevention demand is validated (377K views), but NO mechanism content exists. This is a white space for Dr. Kane's vascular/balance expertise.
+- **Fix:** Consider creating fall prevention content with vascular/balance mechanism angle. Do NOT produce exercise-only content.
+
+#### Vascular Surgeon Channel Direct Competition
+- **What happened:** New "Vascular Surgeon" channel at 244.7K views with "Poor Leg Circulation? 3 Seated Exercises If You Can't Walk." Real vascular surgeon authority competing directly.
+- **Lesson:** Dr. Kane's credibility advantage is diminished when actual vascular surgeons enter the space with exercise content.
+- **Fix:** Double down on mechanism depth and diagnostic gap content that exercise-focused surgeons can't replicate. Dr. Kane's "explain WHY" positioning is the moat.
+
+#### New Safety Boundaries (VID-043 / VID-044 Production)
+- **Never tell viewers to self-supplement magnesium without lab work** — excess magnesium is dangerous with kidney disease. Always frame as "discuss with your doctor" and "get kidney function checked first."
+- **Never tell viewers to change medication timing on their own** — frame as "ask your doctor about chronopharmacology" and "bring your 4-point BP log to your doctor."
+- **Never tell viewers their magnesium oxide is "useless"** — frame as "may not be the optimal form for vascular health" rather than absolute dismissal.
+- **Never tell viewers they are "non-dippers"** — frame as "ask your doctor about 24-hour BP monitoring to check your nighttime pattern."
+- **Never tell viewers bedtime dosing is "better"** — frame as "the Hygia Trial found 45% fewer events with bedtime dosing — discuss with your doctor."
+- **Never diagnose arterial stiffness from magnesium deficiency alone** — frame as "magnesium is one factor in vascular health."
+- **Never tell viewers to stop taking magnesium oxide** — frame as "discuss form and dose with your doctor."
