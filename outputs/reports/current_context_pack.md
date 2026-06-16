@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-15 (Updated for June 16)
-**Focus:** VID-043 + VID-044 scripts written | Thumbnails CRITICAL for June 17/19/24/26 uploads | VID-038/039/040 scripts next
-**Priority:** 🔴 Thumbnail production for ALL pending uploads | Next: VID-038 (I161 Score 18) script
+**Date:** 2026-06-16 (Updated for June 17 priorities)
+**Focus:** Thumbnail production for June 17 uploads (4 videos) | VID-038/039/040 scripts next | VID-045/046 thumbnails for June 24/26
+**Priority:** 🔴 Thumbnail production for ALL pending uploads | VID-038 (I161 Score 18) script
 
 ---
 
@@ -19,56 +19,67 @@
 - VID-023 (Burning Feet) — SCRIPT COMPLETE (June 7) — Upload target: verify
 - VID-024 (Breath Odor) — SCRIPT COMPLETE (June 7) — Upload target: verify (June 13 target)
 
-### Scripts Complete, Thumbnails Needed (UPLOAD IMMINENT)
+### Scripts Complete, Thumbnails Needed (UPLOAD TOMORROW — June 17)
 - VID-027 (Antibiotic Tendon) — June 17 upload — 🔴 THUMBNAILS NEEDED
 - VID-029 (Fatty Liver + Normal Tests) — June 17 upload — 🔴 THUMBNAILS NEEDED
 - VID-031 (Sleep/Oxygen Drop — UARS) — June 17 upload — 🔴 THUMBNAILS NEEDED
 - VID-036 (Stair Climbing Vascular Pump) — June 17 upload — 🔴 THUMBNAILS NEEDED
+- VID-SHORT-018 (Stairs teaser) — June 17 upload — Script complete
+
+### Scripts Complete, Thumbnails Needed (June 19 uploads)
 - VID-028 (Nocturnal Hypoglycemia) — June 19 upload — 🔴 THUMBNAILS NEEDED
 - VID-030 (Morning Headache + BP Crisis) — June 19 upload — 🔴 THUMBNAILS NEEDED
 - VID-032 (Spine Curving/Organ Compression) — June 19 upload — 🔴 THUMBNAILS NEEDED
 - VID-037 (Stroke Warning Weeks Before) — June 19 upload — 🔴 THUMBNAILS NEEDED
-- VID-041 (Fingernail Ridges/Organ Map) — June 24 upload — THUMBNAILS NEEDED
-- VID-042 (Carotid/Dementia Prediction) — June 26 upload — THUMBNAILS NEEDED
-- VID-043 (Magnesium Mistake / Arteries) — June 24 upload — THUMBNAILS NEEDED
-- VID-044 (BP Medicine Timing) — June 26 upload — THUMBNAILS NEEDED
+- VID-SHORT-019 (Stroke teaser) — June 19 upload — Script complete
 
-### Idea Bank Status (Updated June 15)
+### Scripts Complete, Thumbnails Needed (June 24/26 uploads)
+- VID-041 (Fingernail Ridges/Organ Map) — June 24 upload — THUMBNAILS NEEDED
+- VID-043 (Magnesium Mistake/Arteries) — June 24 upload — THUMBNAILS NEEDED
+- VID-045 (Morning Symptom/Heart Attack) — June 24 upload — THUMBNAILS NEEDED
+- VID-SHORT-022 (Magnesium teaser) — June 24 upload — Script complete
+- VID-SHORT-024 (Morning symptom teaser) — June 24 upload — Script complete
+- VID-042 (Carotid/Dementia Prediction) — June 26 upload — THUMBNAILS NEEDED
+- VID-044 (BP Medicine Timing) — June 26 upload — THUMBNAILS NEEDED
+- VID-046 (Ears Ring Louder at Night) — June 26 upload — THUMBNAILS NEEDED
+- VID-SHORT-023 (BP timing teaser) — June 26 upload — Script complete
+- VID-SHORT-025 (Tinnitus teaser) — June 26 upload — Script complete
+- VID-038 (PPI Fall Risk) — TBD — 🔴 SCRIPT NEEDED
+- VID-039 (Bedtime Nerve Destruction) — TBD — SCRIPT NEEDED
+- VID-040 (Ozempic Vascular Effects) — TBD — SCRIPT NEEDED
+
+### Idea Bank Status (Updated June 16)
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
-| I166 | Stair Climbing Vascular Pump | Cardiovascular/Vascular | 20 | ✅ SCRIPT COMPLETE (VID-036) |
-| I167 | Stroke Warning Weeks Before | Stroke Prevention | 20 | ✅ SCRIPT COMPLETE (VID-037) |
-| I176 | Fingernail Ridges / Organ Map | Body Signals/Multi-Organ | 19 | ✅ SCRIPT WRITTEN (VID-041) |
-| I177 | Carotid Vessel / Dementia Prediction | Cardiovascular/Neurological | 19 | ✅ SCRIPT WRITTEN (VID-042) |
-| I178 | Magnesium Mistake / Arteries | Cardiovascular/Nutrient-Vascular | 22 | ✅ SCRIPT WRITTEN (VID-043) |
-| I179 | BP Medicine Morning/Night Timing | Cardiovascular/Chronopharmacology | 21 | ✅ SCRIPT WRITTEN (VID-044) |
-| I180 | Bedtime Position → Nerves | Neurological/Sleep | 20 | 🟡 SCRIPT NEEDED (VID-039 variant) |
-| I181 | Legs Swell PM Not AM | Cardiovascular/Fluid | 19 | 🟡 BACKLOG |
-| I182 | 2-Second Toenail Artery Test | Cardiovascular/Self-Assess | 19 | 🟡 BACKLOG |
-| I183 | Doctor Checks One Neck Side | Cardiovascular/Diagnostic | 20 | 🟡 BACKLOG |
-| I184 | Morning Symptom → Heart Attack | Cardiovascular/Predictive | 21 | 🟡 BACKLOG |
-| I185 | Skin Tags → Insulin Not Age | Metabolic/Body Signals | 18 | 🟡 BACKLOG |
-| I186 | ONE Exercise Heart Needs | Cardiovascular/Exercise | 19 | 🟡 BACKLOG |
-| I187 | Can't Find Pulse → Brain | Cardiovascular/Neurological | 20 | 🟡 BACKLOG |
+| I188 | Why Your Ears Ring Louder at Night | Neurological/Vascular | 20 | ✅ SCRIPT WRITTEN (VID-046) |
+| I189 | 3-Second Skin Pinch Test | Vascular/Dermological | 19 | 🟡 BACKLOG |
+| I190 | Dentist Knows Heart Risk | Oral-Systemic/Cardiovascular | 19 | 🟡 BACKLOG |
+| I191 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | 🟡 BACKLOG |
+| I192 | Pillow Height Brain Blood Flow | Sleep/Cervical/Vascular | 18 | 🟡 BACKLOG |
+| I193 | Toe Temperature Test | Vascular/Self-Assess | 19 | 🟡 BACKLOG |
+| I194 | Stomach Growling Artery Warning | Digestive/Vascular | 18 | 🟡 BACKLOG |
+| I195 | 10-Second Balance Test Death Risk | Fall Prevention/Vascular | 20 | 🟡 BACKLOG |
+| I196 | Eyelid Twitch Brain Signal | Neurological/Body Signal | 17 | 🟡 BACKLOG |
+| I197 | Bedtime Water Rule Arteries | Hydration/Cardiovascular | 18 | 🟡 BACKLOG |
 | I161 | PPI Medication → Fall Risk | Medication Safety | 18 | 🔴 SCRIPT NEEDED (VID-038) |
 | I168 | Bedtime Habit Destroying Nerves | Neurological/Sleep | 19 | 🟡 SCRIPT NEEDED (VID-039) |
 | I169 | Ozempic Shrinking Arteries | GLP-1/Vascular | 19 | 🟡 SCRIPT NEEDED (VID-040) |
-| I170 | Scale Lying Body Composition | Metabolic/Diagnostic Gap | 18 | 🟡 BACKLOG |
-| I171 | Wound Healing Blood Flow | Vascular/Dermological | 18 | 🟡 BACKLOG |
-| I172 | Pulse Pressure Fall Predictor | Cardiovascular/Falls | 18 | 🟡 BACKLOG |
-| I173 | Hand Shake Brain Circuit | Neurological/Movement | 17 | 🟡 BACKLOG |
-| I174 | Nocturnal Watch Heart Data | Cardiovascular/Tech | 17 | 🟡 BACKLOG |
-| I175 | Doctor Wrong Pulse Location | Cardiovascular/Advocacy | 16 | 🟡 BACKLOG |
 
-### 🔴 URGENT Production Pipeline (Score 18+, Updated June 15)
+### 🔴 URGENT Production Pipeline (Score 18+, Updated June 16)
 1. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
 2. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
 3. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
+4. **I195** (Score 20) — 10-Second Balance Test. Strongest new idea. VID-047 candidate.
+5. **I191** (Score 20) — Hidden BP Muscle. Most novel anatomy angle. VID-048 candidate.
+
+### ✅ New Scripts Written (June 16)
+- **I184** (Score 21) — Morning Symptom → Heart Attack 6 Months Before. VID-045. Safety: 18 PASS / 0 FAIL. Word count: ~2,650. Upload target: June 24, 2026.
+- **I188** (Score 20) — Ears Ring Louder at Night / Vascular Truth. VID-046. Safety: 17 PASS / 0 FAIL. Word count: ~2,700. Upload target: June 26, 2026.
 
 ### ✅ New Scripts Written (June 15)
-- **I178** (Score 22) — Magnesium Mistake / Arteries. VID-043. Structure: Scientific myth-opening → Form comparison maze → Vascular smooth muscle mechanism → Test gap (RBC vs serum) → Form selection guide → Doctor conversation script. Safety: 16 PASS / 0 FAIL. Word count: ~2,700.
-- **I179** (Score 21) — BP Medicine Timing. VID-044. Structure: Paradox observation → Non-dipper pattern revelation → Circadian pharmacology mechanism (CYP450/BMAL1) → Hygia Trial evidence → Patient story (Robert's stroke) → 4-point measurement protocol → Doctor conversation script. Safety: 17 PASS / 0 FAIL. Word count: ~2,680.
+- **I178** (Score 22) — Magnesium Mistake / Arteries. VID-043. Safety: 16 PASS / 0 FAIL. Word count: ~2,700.
+- **I179** (Score 21) — BP Medicine Timing. VID-044. Safety: 17 PASS / 0 FAIL. Word count: ~2,680.
 
 ### ✅ New Scripts Written (June 14)
 - **I176** (Score 19) — Fingernail Ridges / Organ Map. VID-041. Safety: 17 PASS / 0 FAIL. Word count: ~2,720.
@@ -116,6 +127,9 @@
 - Don't tell viewers their magnesium oxide is "useless" — frame as "may not be optimal form"
 - Don't tell viewers they are "non-dippers" — frame as "ask about 24-hour BP monitoring"
 - Don't tell viewers bedtime dosing is "better" — frame as "discuss with your doctor"
+- Don't tell viewers they are having a heart attack from morning breathlessness alone
+- Don't tell viewers their tinnitus is "definitely" from high blood pressure
+- Don't diagnose carotid artery stiffness from tinnitus alone
 
 ### Anti-Template Rules Reminder
 - Vary the number of items in lists (not always "3 things")
@@ -134,24 +148,27 @@
 - Every video must include Dr. Kane's original commentary and professional opinion
 - Multi-ID competitors (Franklin 7+, Carter 3, Whitmore 2) are at HIGH enforcement risk
 
-### Key Competitor Threats (Updated June 15)
-- **Claire Whitmore 🔴🔴:** 1.57M berberine + 134K Vit D + 174K Blood Sugar + 209.6K BP Timing (NEW!) + 18.8K Magnesium + Multi-ID. Now in supplement interaction space. Fastest-growing competitor.
-- **Dr. Michael Kent 🔴🔴:** Eye niche DOMINANCE (956K+722K=1.7M+). Blood sugar expansion (378K). Memory at 349K. Dual-threat.
+### Key Competitor Threats (Updated June 16)
+- **Claire Whitmore 🔴🔴:** 1.57M berberine + 662K arterial clogging (NEW!) + 209.6K BP Timing + 134K Vit D + 70K overnight blood sugar + 18.8K magnesium + Multi-ID. Now in 5+ pillars. Fastest-growing competitor.
+- **Dr. Michael Kent 🔴🔴:** Eye niche DOMINANCE (956K+727K=1.7M+). Blood sugar expansion (378K). Memory at 349K. New uploads stalling (1-39 views).
+- **Dr. Sumit Kapadia 🔴🔴:** "Your Legs Can Predict Your Death" (85K) + "Arteries Collapsing at Night" (24.8K) + "Calcium Clogging Arteries" (15K). MOST DANGEROUS vascular authority competitor.
+- **Dr. William Li 🔴🔴:** "Try It For 1 Day" (763K) + "Regenerate Your Stem Cells" (582K). NEW major competitor. Multi-version content (McGill flag risk).
 - **TopHealthTips 🔴🔴:** 1.46M leg circulation video. Direct competition at massive scale.
 - **Senior Book 🔴🔴:** 826K leg exercise video. "Surgeon reveals" authority format.
 - **Japan's Oldest Doctor 🔴🔴:** Neuropathy video CROSSED 1M. Nerve repair at 99K. Now dominating 7+ sub-niches.
-- **Dr. Sumit Kapadia 🔴:** Real vascular surgeon at 2.5M+ combined. Mechanism content validated at 200K+.
-- **Dr. William Li 🆕🔴:** NEW major competitor. "Regenerate Your Stem Cells" (582K). Entering magnesium, memory, age spots. Multi-niche threat.
+- **Dr. Arthur Clark 🟠:** Diabetic milk at 91.4K + water + sarcopenia at 11.2K. Growing fast.
 - **Dr. James Hargrove 🟠:** Water/blood flow breakout (50K). Entering diagnostic gap space.
-- **Senior Health Blog 🔴:** Diabetes niche DOMINANCE (1.3M+). Bedtime seeds format (149K).
+- **Senior Health Blog 🔴:** Diabetes niche DOMINANCE (1.3M+). Bedtime seeds format (150K).
 - **Dr. Franklin 🔴:** 7+ IDs running identical nail content. YouTube enforcement time bomb.
-- **Dr. Ibrahim Khan 🟡:** Age spots niche (52K). Growing.
+- **Dr. Ibrahim Khan 🟡:** Age spots niche (53.6K). Growing.
 - **Dr. William Arden 🟡:** Ozempic content at 19.2K (growing). "Dr. Now Diet Plan" at 58K.
 - **Dr. Alex Carter 🟡:** "Medication Trio" format at 601K. Format saturating.
 - **Dr. Nathaniel Brooks 🟡:** Body warning content DOUBLED to 545.7K.
+- **More Life Health 🟡:** 2.57M leg strengthening video. Now a MAJOR player.
+- **Vascular Surgeon 🟡:** Mechanism content at 40.6K. Direct threat.
 - **Dr. Waterling 🟢:** PERMANENTLY SUPPRESSED. Stroke niche window WIDE OPEN.
 
-### Content Chain (Updated June 15)
+### Content Chain (Updated June 16)
 - VID-002 (Microplastics Brain) → VID-010 (Microplastics Gut) via end screen (series)
 - VID-017 (Balance Loss) → VID-018 (Hand Tremor) via end screen
 - VID-018 (Hand Tremor) → VID-019 (Taste Changes) via end screen
@@ -167,14 +184,20 @@
 - VID-032 (Spine Curving) → VID-031 (Sleep/Oxygen) via end screen
 - VID-036 (Stair Climbing) → VID-037 (Stroke Warning) via end screen
 - VID-037 (Stroke Warning) → VID-036 (Stair Climbing) via end screen
+- VID-041 (Nail Ridges) → VID-042 (Carotid/Dementia) via end screen
+- VID-042 (Carotid/Dementia) → VID-041 (Nail Ridges) via end screen
 - VID-043 (Magnesium/Arteries) → VID-044 (BP Medicine Timing) via end screen
 - VID-044 (BP Medicine Timing) → VID-043 (Magnesium/Arteries) via end screen
+- VID-045 (Morning Symptom/Heart Attack) → VID-046 (Ears Ring Louder at Night) via end screen
+- VID-046 (Ears Ring Louder at Night) → VID-045 (Morning Symptom/Heart Attack) via end screen
 - VID-SHORT-016 → VID-031 (teaser → full)
 - VID-SHORT-017 → VID-032 (teaser → full)
 - VID-SHORT-018 → VID-036 (teaser → full)
 - VID-SHORT-019 → VID-037 (teaser → full)
 - VID-SHORT-022 → VID-043 (teaser → full)
 - VID-SHORT-023 → VID-044 (teaser → full)
+- VID-SHORT-024 → VID-045 (teaser → full)
+- VID-SHORT-025 → VID-046 (teaser → full)
 
 ### Structural Variety Log
 | Video | Opening Style | Core Structure | Closing Style |
@@ -201,26 +224,27 @@
 | VID-042 (Carotid/Dementia) | Hidden anatomical revelation ("There's a blood vessel in your neck that knows your brain's future") | Anatomical connection (embryology) → Test explanation (CIMT ultrasound) → Barrier explanation (3 reasons doctors don't order it) → Advocacy script (exact words) → Results interpretation → Empowerment close ("Know your CIMT. Protect your brain.") | Empowerment through knowledge + forward tease |
 | VID-043 (Magnesium/Arteries) | Scientific myth-opening ("You're taking magnesium. Your arteries can't feel it.") | Pharmacy maze (form comparison) → Vascular smooth muscle mechanism (Ca/Mg tug-of-war) → Test gap (RBC vs serum Mg) → Form selection guide (taurate > oxide) → Doctor conversation script | Practical form selection + forward tease |
 | VID-044 (BP Timing) | Paradox observation (morning BP good, nighttime BP unknown) | Nighttime pattern revelation (non-dipper 40%) → Circadian pharmacology mechanism (CYP450/BMAL1/CLOCK) → Hygia Trial evidence (45% fewer events) → Patient story (Robert's stroke) → 4-point measurement protocol → Doctor conversation script | Empowerment through data + forward tease |
+| VID-045 (Morning Symptom) | Intimate patient story (Margaret's morning breathlessness) | Patient narrative → The symptom nobody names → Mechanism (coronary stenosis → compensatory breathing) → Why it's dismissed → The 6-month timeline → Self-monitoring protocol → Emotional resolution | Patient resolution + forward tease |
+| VID-046 (Nighttime Tinnitus) | Direct sensory experience ("Imagine lying in bed — and your ears are louder than ever") | Sensory hook → Masking phenomenon explanation → Pulsatile vs non-pulsatile distinction → Nocturnal BP amplification mechanism → Self-assessment (fingertip test) → When it's vascular vs not → Actionable steps → Warm close | Empowerment through understanding + forward tease |
 
 ---
 
-## Tomorrow's Priorities (June 16)
+## Tomorrow's Priorities (June 17)
 
-### 🔴 Critical
-1. **Produce VID-027/029/031/036 Thumbnails** — For June 17 upload (1 day lead time — CRITICAL)
-2. **Produce VID-028/030/032/037 Thumbnails** — For June 19 upload (3 days lead time)
+### 🔴 Critical (TODAY)
+1. **Upload VID-027/029/031/036** — 4 long-form videos + VID-SHORT-018 — All need thumbnails produced IMMEDIATELY
+2. **Produce VID-028/030/032/037 thumbnails** — For June 19 upload (2 days lead time)
 3. **Verify VID-022/023/024 upload status** — Confirm all published
-4. **Begin VID-038 script** — I161: PPI Fall Risk (Score 18)
 
-### 🟡 Important
-5. **Produce VID-043/044 Thumbnails** — For June 24/26 uploads
-6. **Produce VID-041/042 Thumbnails** — For June 24/26 uploads
-7. **Begin VID-039 script** — I168: Bedtime Nerve Destruction (Score 19)
-8. **Begin VID-040 script** — I169: Ozempic Vascular Effects (Score 19)
+### 🟡 Important (This Week)
+4. **Produce VID-041/042/043/044/045/046 thumbnails** — For June 24/26 uploads
+5. **Begin VID-038 script** — I161: PPI Fall Risk (Score 18)
+6. **Begin VID-039 script** — I168: Bedtime Nerve Destruction (Score 19)
+7. **Begin VID-040 script** — I169: Ozempic Vascular Effects (Score 19)
 
 ### 🟢 When Time Permits
-9. **Create "Vascular Health" playlist** — Add VID-036, VID-037, VID-021, VID-043, VID-044
-10. **Refill Firecrawl API credits** — Enable full competitor scanning capability (Day 8+ without)
+8. **Create "Vascular Health" playlist** — Add VID-036, VID-037, VID-021, VID-043, VID-044
+9. **Refill Firecrawl API credits** — Enable full competitor scanning capability (Day 10+ without)
 
 ---
 
@@ -240,25 +264,31 @@
 | Thu June 19 | VID-SHORT-019 (teaser) | Short | Script complete |
 | Tue June 24 | VID-041 (Fingernail Ridges/Organ Map) | Long | Thumbnails needed |
 | Tue June 24 | VID-043 (Magnesium Mistake/Arteries) | Long | Thumbnails needed |
+| Tue June 24 | VID-045 (Morning Symptom/Heart Attack) | Long | Thumbnails needed |
 | Tue June 24 | VID-SHORT-022 (teaser) | Short | Script complete |
+| Tue June 24 | VID-SHORT-024 (teaser) | Short | Script complete |
 | Thu June 26 | VID-042 (Carotid/Dementia Prediction) | Long | Thumbnails needed |
 | Thu June 26 | VID-044 (BP Medicine Timing) | Long | Thumbnails needed |
+| Thu June 26 | VID-046 (Ears Ring Louder at Night) | Long | Thumbnails needed |
 | Thu June 26 | VID-SHORT-023 (teaser) | Short | Script complete |
+| Thu June 26 | VID-SHORT-025 (teaser) | Short | Script complete |
 
 ---
 
-## ⚡ NEW STRATEGIC NOTES (June 15)
+## ⚡ NEW STRATEGIC NOTES (June 16)
 - **🔥🔥 VID-043 (Magnesium/Arteries) is HIGHEST priority script** — Score 22/20. 1.97M views for "THE BIG Magnesium Mistake." ZERO vascular-specific magnesium content exists.
 - **🔥🔥 VID-044 (BP Timing) directly counters Whitmore's 209.6K hit** — Whitmore tells WHEN, Dr. Kane explains WHY (chronopharmacology + CYP450 + Hygia Trial).
 - **🔥 GLP-1 Vascular Window Narrowing** — GMA at 2.9M. VID-040 must be produced within days.
 - **🔥 Bedtime Nerve Mechanism Open** — JOD at 99K with surface content. VID-039 goes 3 layers deeper.
-- **🔥 Fall Prevention Mechanism Empty** — 377K views for exercise content. Vascular/balance mechanism UNOWNED.
-- **⚠️ Dr. William Li is NEW major competitor** — 582K "Regenerate Your Stem Cells." Multi-niche threat.
-- **⚠️ Firecrawl API STILL DOWN (Day 8+)** — yt-dlp search used as fallback.
+- **🔥 Fall Prevention Mechanism Empty** — 438K views for exercise content. Vascular/balance mechanism UNOWNED.
+- **⚠️ Dr. William Li is NEW major competitor** — 763K "Try It For 1 Day" + 582K "Regenerate Your Stem Cells." Multi-niche threat.
+- **⚠️ Firecrawl API STILL DOWN (Day 10)** — yt-dlp search used as fallback.
 - **✅ Stair Climbing Mechanism EMPTY** — VID-036 uploading June 17. Biggest white space captured.
 - **✅ Stroke Prevention Niche WIDE OPEN** — VID-037 uploading June 19. Waterling's niche vacant.
+- **✅ VID-045 + VID-046 scripts complete** — Morning symptom/heart attack + nighttime tinnitus. Both first-mover niches.
+- **✅ New idea list generated (I188-I197)** — 10 new ideas scored, top: I195 (Balance Test, Score 20), I191 (Hidden BP Muscle, Score 20), I188 (Nighttime Tinnitus, Score 20 — now VID-046).
 
 ---
 
-*Context pack updated: 2026-06-15 by Memory Curator Agent*
-*Next update: 2026-06-16*
+*Context pack updated: 2026-06-16 by Memory Curator Agent*
+*Next update: 2026-06-17*

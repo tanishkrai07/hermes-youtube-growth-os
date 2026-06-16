@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-15
+> **Last Updated:** 2026-06-16
 
 ## Top Performing Title Formulas
 
@@ -395,17 +395,27 @@
 395|||||||||||||| 2026-06-14 | VID-041 (Fingernail Ridges/Organ Map) | A: The Diagnostic Map, B: The Split Nail Contrast | New Brief |
 396||||||||||||| 2026-06-14 | VID-042 (Carotid/Dementia Prediction) | A: The Neck-Brain Window, B: The Predictive Split | New Brief |
 397||||||||||||||| 2026-06-15 | VID-043 (Magnesium Form/Arteries) | A: The Invisible Supplement, B: The Pharmacy Maze | New Brief |
-398|||||||||||||||| 2026-06-15 | VID-044 (BP Medicine Timing) | A: The Nighttime BP Spike, B: The Pill Bottle Clock | New Brief |
-399|
+398|398|||||||||||||||| 2026-06-15 | VID-044 (BP Medicine Timing) | A: The Nighttime BP Spike, B: The Pill Bottle Clock | New Brief |
+399|399|||||||||||||||||| 2026-06-16 | VID-045 (Morning Symptom/Heart Attack) | A: The Early Warning, B: The Bedside Test | New Brief |
+400|400|||||||||||||||||||| 2026-06-16 | VID-046 (Ears Ring Louder at Night) | A: The Nighttime Clue, B: The Hidden Pulse | New Brief |
+401|401|
 400|### New Palettes Added (June 15)
 401|| Video | Primary | Accent 1 | Accent 2 | Status |
 402||-------|---------|----------|----------|--------|
 403||| VID-043 A | Arterial red (#B71C1C) → Charcoal (#263238) | Glowing teal (#00E5FF) | Warning yellow (#FDD835) / Ghosted gray (#90A4AE) | New — Brief |
 404|||| VID-043 B | Pharmacy blue (#0D47A1) → Slate (#37474F) | Electric red (#FF1744) | Glowing green (#00E676) / Warning yellow (#FDD835) | New — Brief |
 405||||| VID-044 A | Dawn gold (#FFB300) → Midnight red (#B71C1C) split | Clinical green (#00E676) | Danger red (#FF1744) / White | New — Brief |
-406|||||| VID-044 B | Midnight blue (#0D1B2A) → Dark teal (#004D40) | Glowing amber (#FFB300) | Danger red (#FF1744) / Moonlight silver (#CFD8DC) | New — Brief |
-407|
-408|### New Palettes Added (June 13)
+406|406|||||| VID-044 B | Midnight blue (#0D1B2A) → Dark teal (#004D40) | Glowing amber (#FFB300) | Danger red (#FF1744) / Moonlight silver (#CFD8DC) | New — Brief |
+407|407|
+408|408|### New Palettes Added (June 16)
+409|409|| Video | Primary | Accent 1 | Accent 2 | Status |
+410|410||-------|---------|----------|----------|--------|
+411|411||| VID-045 A | Deep indigo (#1A1A3E) → Lavender (#B39DDB) | Warning amber (#FDD835) | Soft white (#E8EAF6) / Danger red (#FF1744) | New — Brief |
+412|412|||| VID-045 B | Split: Bedroom gold (#FFB300) → Clinical navy (#0D47A1) | Coral (#FF6E40) | Cool white (#ECEFF1) | New — Brief |
+413|413||||| VID-046 A | Deep twilight blue (#0D1B2A) → Warm amber (#FFB300) | Electric cyan (#00E5FF) → Warning red (#FF1744) | Moonlight silver (#CFD8DC) | New — Brief |
+414|414|||||| VID-046 B | Radiating vascular teal (#004D40) → Charcoal (#263238) | Arterial red (#B71C1C) | Pulse teal (#00BFA5) | New — Brief |
+415|415|
+416|416|### New Palettes Added (June 13)
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
 || VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
@@ -940,4 +950,95 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 
 ---
 
-*Last updated: 2026-06-14 by Competitor Watcher Agent*
+## New Patterns Added 2026-06-16
+
+### New Title Formulas (June 16 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P136 | "\"Try It For 1 Day\" - Most Effective Way To [Health Claim] & [Health Claim]" | Dr. William Li / Becker | 763.6K / 287.5K |
+| P137 | "Your [Body Part] Can Predict Your [Negative Outcome] | [Authority Title]" | Dr. Sumit Kapadia | 85.3K |
+| P138 | "SENIORS: Why Your [Metric] Spikes Overnight (And How to Stop It)" | Claire Whitmore | 70.96K |
+| P139 | "\"This Doubles Your [Health Topic] in [Number] Days\" — [Action]" | Doctor Becker | 67.5K |
+| P140 | "Do These [Number] Tests TODAY — They Reveal [Condition] Years Before [Symptom]" | Japan's Oldest Doctor | 235 |
+| P141 | "The [Food/Drink] Every [Condition] Should [Consume] to [Health Claim]" | Dr. Arthur Clark | 91.4K |
+| P142 | "Your [Body System] Are Collapsing at Night—Here's What to Do" | Dr. Sumit Kapadia | 24.8K |
+| P143 | "#1 Best Meal to [Dramatic Action] Your [Body Part] (Backed by Science)" | Claire Whitmore | 662.1K |
+| P144 | "Stop Taking [Supplement] Alone! It's [Negative Action] Your [Body Part] (You Need THIS)" | Dr. Sumit Kapadia | 15K |
+| P145 | "Neurologist Warns: If Your [Body Part] Look Like THIS After [Age], Your Body May be Hiding [Number] Diseases" | Dr. Arthur Clark | 5.96K |
+| P146 | "Doctor Reveals: How to [Action] to [Health Claim] and Stop [Condition]" | Dr. Arthur Clark | 11.2K |
+| P147 | "Poor Leg Circulation? This Is What's Happening Inside Your [Body Part]" | Vascular Surgeon | 40.6K |
+
+### New Viral Formats (June 16)
+1. **"Try It For 1 Day" format** ⚡⚡⚡ — Dr. William Li (763.6K) and Becker (287.5K) both using identical format. Low commitment + superlative + dual health claims. CROSS-CHANNEL VIRAL. Dr. Kane adaptation: "Try This For 1 Night — What Happens to Your [Body Part] After 60 Will Surprise You."
+2. **"Your [Body Part] Can Predict Your Death" mortality fear format** ⚡⚡ — Kapadia's 85.3K video. Body part + mortality fear + authority title. Dr. Kane adaptation: "Your [Body Part] After 60 Can Predict [Outcome] — The Vascular Truth."
+3. **"Why Your [Metric] Spikes Overnight" format** ⚡ — Whitmore's 70.96K video. Overnight fear + metric + solution promise. Dr. Kane adaptation: "Why Your [Metric] Spikes at 3 AM — The Vascular Mechanism."
+4. **"Doubles Your [Health Topic] in [Number] Days" temporal multiplier format** ⚡ — Becker's 67.5K video. Specific multiplier + time frame + health claim. HIGHLY ADAPTABLE.
+5. **"Do These [Number] Tests TODAY" diagnostic gap format** ⚡ — JOD's 235 view video. Urgency + diagnostic gap + temporal prediction. ADAPTABLE for Dr. Kane's diagnostic advocacy positioning.
+6. **"The [Food] Every [Condition] Should [Consume]" superlative food format** ⚡ — Clark's 91.4K video. Specific food + condition + superlative + health claim. ADAPTABLE across conditions.
+7. **"Your [Body System] Are Collapsing at Night" nighttime fear format** ⚡ — Kapadia's 24.8K video. Nighttime fear + body system + urgency. ADAPTABLE for vascular angle.
+8. **"#1 Best Meal to [Dramatic Action] Your [Body Part]" arterial health format** ⚡⚡ — Whitmore's 662.1K video. Superlative + meal + dramatic action + body part. MAJOR new pillar for Whitmore.
+9. **"Stop Taking [Supplement] Alone!" supplement interaction format** ⚡ — Kapadia's 15K video. Prohibition + supplement + negative action + alternative. ADAPTABLE.
+10. **"What's Happening Inside Your [Body Part]" mechanism format** ⚡ — Vascular Surgeon's 40.6K video. Mechanism curiosity + body part. DIRECT competition for Dr. Kane's vascular mechanism positioning.
+
+### Updated Hook Rankings (June 16)
+- #1: **"Try It For 1 Day" hook** — (763.6K, Dr. William Li) ⚡⚡ NEW #1 — CROSS-CHANNEL VIRAL
+- #2: **"Mind-Blowing Benefits" hook** — (1.57M, Whitmore)
+- #3: **"The ONLY [Number] Exercises" hook** — (3.33M sciatica + 2.64M leg circulation)
+- #4: **"30-Second Test + Fixes" hook** — (1.46M, TopHealthTips)
+- #5: **"#1 Best Meal to [Dramatic Action]" hook** — (662.1K, Whitmore) ⚡ NEW TOP 5
+- #6: **"Your [Body Part] Can Predict Your Death" hook** — (85.3K, Kapadia) ⚡ NEW
+- #7: **"Why Your [Metric] Spikes Overnight" hook** — (70.96K, Whitmore) ⚡ NEW
+- #8: **"Best [Food] Before Bed for Healthy [Body Part]"** — (727K, Kent)
+- #9: **"Regenerate Your [Health Topic]"** — (582K, Dr. William Li)
+- #10: **"If You Wake Up With [Symptom]"** — (546K, Brooks)
+- #11: **"Taking [Med A], [Med B], or [Med C]" hook** — (601K, Dr. Alex Carter)
+- #12: **"The [Food] Every [Condition] Should [Consume]"** — (91.4K, Clark) ⚡ NEW
+- #13: **"Doubles Your [Health Topic] in [Number] Days"** — (67.5K, Becker) ⚡ NEW
+- #14: **"A SIMPLE Exercise Every [Age]+ Should Do Daily"** — (438K, Senior Health Podcast) ↑
+- #15: **"THE [Adjective] [Supplement] Mistake"** — (1.97M, unknown)
+
+### Critical Insights (June 16)
+1. **"Try It For 1 Day" is the NEW viral format of the week** — Cross-channel viral (Li 763K + Becker 287K). Dr. Kane should adapt with vascular-specific angle: "Try This For 1 Night — What Happens to Your Arteries After 60."
+2. **Whitmore is now a MULTI-PILLAR EMPIRE** — Arterial health (662K) + overnight blood sugar (70K) + Vitamin D mistake (134K) + BP timing (209K) + berberine (1.57M) + magnesium empire. Most dangerous competitor.
+3. **Kapadia is the MOST DANGEROUS vascular authority competitor** — "Legs Predict Death" (85K) + "Arteries Collapsing at Night" (24.8K) + "Calcium Clogging Arteries" (15K) + "Statin Truth" (28K). Direct threat to Dr. Kane's vascular positioning.
+4. **Clark is SURGING** — Diabetic milk (91.4K) + nail diagnosis (5.96K) + water + sarcopenia (11.2K). Multi-niche expansion accelerating.
+5. **Fall prevention niche ACCELERATING** — 438K (from 377K in ~1 day). All exercise-only content. Vascular/balance mechanism content still EMPTY.
+6. **More Life Health is now a MAJOR leg health player** — 2.57M views for leg strengthening. Leg exercise niche MORE saturated.
+7. **Vascular Surgeon entering mechanism content** — "What's Happening Inside Your Veins" at 40.6K. DIRECT competition for Dr. Kane's vascular mechanism positioning.
+8. **Stair climbing mechanism STILL EMPTY** — Senior Health MD at 98 views for exercise version. ZERO mechanism content. BIGGEST WHITE SPACE remains unchanged.
+9. **Firecrawl API STILL DOWN (Day 9+)** — yt-dlp search remains fallback. Individual video fetches failing (rate limiting).
+
+### New Title Formulas (June 16 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P160 | "This [Specific Time] [Symptom] Warns of [Disaster] [Time Window] — After [Age]" | Dr. Kane (VID-045) | New |
+| P161 | "Why Your [Body Part] [Symptom] Worse at [Time] After [Age] — The [Hidden System] Truth" | Dr. Kane (VID-046) | New |
+| P162 | "[Symptom] Worse at [Time] After [Age]? It's NOT [Body Part] — It's [Hidden Cause]" | Dr. Kane (VID-046 T2) | New |
+| P163 | "\"Try It For 1 Day\" - Most Effective Way To [Health Claim] & [Health Claim]" | Dr. William Li / Becker | 763K / 287K |
+| P164 | "Your [Body Part] Can Predict Your [Negative Outcome] | [Authority Title]" | Dr. Sumit Kapadia | 85K |
+| P165 | "SENIORS: Why Your [Metric] Spikes Overnight (And How to Stop It)" | Claire Whitmore | 70K |
+| P166 | "\"This Doubles Your [Health Topic] in [Number] Days\" — [Action]" | Doctor Becker | 67K |
+| P167 | "Do These [Number] Tests TODAY — They Reveal [Condition] Years Before [Symptom]" | Japan's Oldest Doctor | 235 |
+| P168 | "The [Food/Drink] Every [Condition] Should [Consume] to [Health Claim]" | Dr. Arthur Clark | 91K |
+| P169 | "Your [Body System] Are Collapsing at Night—Here's What to Do" | Dr. Sumit Kapadia | 24K |
+| P170 | "\"#1 Best [Intervention] to [Health Claim] (Backed by Science)\"" | Claire Whitmore | 662K |
+
+### New Viral Formats (June 16)
+1. **"Try It For 1 Day" format** — Dr. William Li (763K) and Becker (287K). Low commitment + superlative + dual health claims. CROSS-CHANNEL VIRAL. Dr. Kane adaptation: vascular-specific version.
+2. **"Your [Body Part] Can Predict Your Death" mortality fear format** — Kapadia at 85K. Body part + mortality fear + authority. May attract YouTube policy scrutiny.
+3. **"Why Your [Metric] Spikes Overnight" format** — Whitmore at 70K. Overnight fear + metric + solution promise. ADAPTABLE for vascular metrics.
+4. **"Doubles Your [Health Topic] in [Number] Days" temporal format** — Becker at 67K. Specific multiplier + time frame + health claim.
+5. **"Do These [Number] Tests TODAY" diagnostic gap format** — JOD at 235 views (very early). Urgency + diagnostic gap + temporal prediction.
+6. **"The [Food/Drink] Every [Condition] Should DRINK" format** — Clark at 91K. Specific food + condition + superlative + health claim.
+7. **"Your [Body System] Are Collapsing at Night" nighttime threat** — Kapadia at 24K. Invisible nighttime vascular threat.
+
+### New Dr. Kane Title Patterns (June 16 Scripts)
+| Pattern ID | Pattern Formula | Applied To |
+|------------|-----------------|------------|
+| P160 | "This [Specific Time] [Symptom] Warns of [Disaster] [Time Window] — After [Age]" | VID-045 T1 |
+| P161 | "Why Your [Body Part] [Symptom] Worse at [Time] After [Age] — The [Hidden System] Truth" | VID-046 T1 |
+| P162 | "[Symptom] Worse at [Time] After [Age]? It's NOT [Body Part] — It's [Hidden Cause]" | VID-046 T2 |
+
+---
+
+*Last updated: 2026-06-16 by Memory Curator Agent*

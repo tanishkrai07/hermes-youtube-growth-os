@@ -396,3 +396,29 @@
 - **Never tell viewers bedtime dosing is "better"** — frame as "the Hygia Trial found 45% fewer events with bedtime dosing — discuss with your doctor."
 - **Never diagnose arterial stiffness from magnesium deficiency alone** — frame as "magnesium is one factor in vascular health."
 - **Never tell viewers to stop taking magnesium oxide** — frame as "discuss form and dose with your doctor."
+
+### New Failure Patterns (June 16 Competitor Scans)
+
+#### "Try It For 1 Day" Format — Cross-Channel Viral Risk
+- **What happened:** Dr. William Li (763.5K) and Becker (287.5K) both using identical "Try It For 1 Day" format. This is a NEW cross-channel viral formula.
+- **Lesson:** When a format goes cross-channel viral within days of being identified, the window for differentiation is extremely narrow. Entering it late would be perceived as copying.
+- **Fix:** AVOID the generic "Try It For 1 Day" format. If adapting, must have a genuinely unique vascular angle that no other channel can replicate. The format itself is now contaminated by multi-channel use.
+
+#### Kent's Growth Stalling — New Uploads Underperforming
+- **What happened:** Kent's new uploads (water + blood sugar at 1 view, insulin resistance → arteries at 2 views) are dramatically underperforming vs. his established content (eye health at 956K, blood sugar at 1.31M).
+- **Lesson:** Even major competitors can experience rapid growth stalls when entering new niches without established audience overlap. Eye health and blood sugar are Kent's pillars — vascular crossover content is NOT.
+- **Fix:** Monitor Kent's vascular crossover attempts. If he continues to fail, it confirms that vascular mechanism content requires dedicated authority (which Dr. Kane has) rather than generalist expansion.
+
+#### Vascular Surgeon Mechanism Content — Direct Competition
+- **What happened:** "What's Happening Inside Your Veins" at 40.6K views — a vascular surgeon creating mechanism content directly competing with Dr. Kane's positioning.
+- **Lesson:** The vascular mechanism white space is being claimed by actual vascular surgeons. Dr. Kane's differentiator must shift from "vascular authority" (which surgeons can match) to "diagnostic gap + mechanism depth" (which requires a different skill set than surgery).
+- **Fix:** Double down on diagnostic gap content and patient narrative storytelling — things a surgeon doing mechanism explainers is unlikely to replicate. Dr. Kane's "explain WHY" + patient story approach is the moat.
+
+#### New Safety Boundaries (VID-045 / VID-046 Production)
+- **Never tell viewers they are having a heart attack from morning breathlessness alone** — frame as "discuss new or worsening shortness of breath with your doctor" and "ask about stress testing if you notice a change."
+- **Never tell viewers to self-diagnose coronary stenosis** — frame as "if you notice a pattern of decreasing exertional tolerance, bring it to your cardiologist."
+- **Never tell viewers their tinnitus is "definitely" from high blood pressure** — frame as "pulsatile tinnitus that worsens at night may warrant vascular evaluation."
+- **Never tell viewers to request carotid ultrasound without symptoms** — frame as "if you notice pulsatile tinnitus (rhythmic ringing matching your heartbeat), ask your doctor about carotid artery evaluation."
+- **Never dismiss tinnitus as "just aging"** — frame as "tinnitus has multiple causes, and the pattern of when it worsens can help identify the cause."
+- **Never tell viewers to stop BP medication if they have tinnitus** — frame as "discuss any concerns about medication side effects with your prescriber."
+- **Never diagnose carotid artery stiffness from tinnitus alone** — frame as "pulsatile tinnitus is one data point that, combined with other risk factors, may warrant vascular evaluation."
