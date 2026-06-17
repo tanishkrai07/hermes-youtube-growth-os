@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-15
+> **Last Updated:** 2026-06-17
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -422,3 +422,38 @@
 - **Never dismiss tinnitus as "just aging"** — frame as "tinnitus has multiple causes, and the pattern of when it worsens can help identify the cause."
 - **Never tell viewers to stop BP medication if they have tinnitus** — frame as "discuss any concerns about medication side effects with your prescriber."
 - **Never diagnose carotid artery stiffness from tinnitus alone** — frame as "pulsatile tinnitus is one data point that, combined with other risk factors, may warrant vascular evaluation."
+
+### New Failure Patterns (June 17 Competitor Scans)
+
+#### Whitmore's "11 MISTAKES" Format — Self-Measurement Error Niche Now Hot
+- **What happened:** Whitmore's "SENIORS, 11 MISTAKES IN MEASURING YOUR OWN BLOOD PRESSURE!" at 1M views with multiple versions running (1M + 141K).
+- **Lesson:** Self-measurement error content is a NEW viral format. Dr. Kane can adapt with diagnostic gap angle ("MISTAKES Doctors Make When Testing Your [Body Part]") but must act quickly before the niche saturates.
+- **Fix:** Create vascular-specific self-measurement error content. Pulse check errors, BP measurement errors, ankle-brachial index self-test errors. First-mover window measured in days.
+
+#### Stroke/TIA Symptoms Niche Now Crowded
+- **What happened:** Healthy Seniors at 565K ("Day Before" format) + 372K (TIA signs). Multiple channels entering stroke symptom space.
+- **Lesson:** Waterling's suppression opened the stroke niche, but it's filling fast with symptom-based content. Dr. Kane's mechanism angle is the only differentiator.
+- **Fix:** AVOID stroke symptom content. Focus on stroke PREVENTION mechanism (VID-037 "weeks before" warning framework) which is still unowned.
+
+#### "Reverse Dipping" BP Terminology — Emerging Format
+- **What happened:** Senior Healthy Life Daily at 967 views with "Why Healthy Seniors Have High BP: The 3 AM 'Reverse Dipping' Pattern."
+- **Lesson:** New medical terminology entering YouTube creates first-mover opportunities. "Reverse dipping" is unknown to general audience = high curiosity gap.
+- **Fix:** Create content explaining "reverse dipping" with vascular mechanism angle. First-mover window OPEN but won't last.
+
+#### Bedtime Drink Niche Heating Up
+- **What happened:** Clark's "What Happens If You Drink Olive Oil Every Night Before Bed" at 573 views (very new) + Whitmore's bedtime drink empire.
+- **Lesson:** Bedtime drink/action content is a growing sub-niche. Multiple channels entering = saturation risk.
+- **Fix:** AVOID bedtime drink content. If covering bedtime topics, use mechanism angle (sleep position, nerve compression) rather than drink/substance format.
+
+#### Cross-Posting Networks Emerging
+- **What happened:** Senior Health Podcast cross-posting JOD content at 543K views. Content distribution networks are forming in the elder health niche.
+- **Lesson:** Cross-posting networks can rapidly scale content distribution. This is a McGill flag risk for the channels involved but also a competitive threat.
+- **Fix:** Dr. Kane must maintain single-channel, original content approach. This is increasingly a competitive ADVANTAGE as enforcement targets cross-posting networks.
+
+#### New Safety Boundaries (VID-047 / VID-048 Production)
+- **Never tell viewers they have failed a "death test"** — frame balance test results as "one data point to discuss with your doctor" not "you will die."
+- **Never tell viewers their carotid body is "failing"** — frame as "baroreceptor sensitivity may decline with age" and "discuss BP patterns with your doctor."
+- **Never tell viewers to self-diagnose balance disorders** — frame as "if you notice balance changes, ask your doctor about a formal fall risk assessment."
+- **Never tell viewers to request carotid ultrasound without clinical indication** — frame as "if you notice pulsatile symptoms, ask your doctor about vascular evaluation."
+- **Never tell viewers their neck muscle "controls" their BP absolutely** — frame as "one factor in BP regulation among many."
+- **Never recommend specific neck exercises without doctor approval** — frame as "gentle movements that some research suggests may support vascular function."

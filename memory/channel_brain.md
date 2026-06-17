@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-16
+> **Last Updated:** 2026-06-17
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -696,3 +696,44 @@
 - **⚠️ Firecrawl API STILL DOWN (Day 9+):** yt-dlp search used as fallback. Individual video fetches failing.
 - **⚠️ "Try It For 1 Day" format risk:** Going viral across multiple channels. Risk of audience fatigue and YouTube scrutiny of duplicate content.
 - **New title formulas for Dr. Kane (June 16):** "Try This For 1 Night — What Happens to Your [Body Part] After 60", "Your [Body Part] Can Predict [Outcome] — The Vascular Truth", "Why Your [Metric] Spikes at 3 AM — The Vascular Mechanism", "This [Time] [Symptom] Warns of [Disaster] [Time Window] — After [Age]"
+
+### New Videos Added June 17
+
+45. **VID-047 (Long-form):** "10-Second Balance Test After 60 — If You Fail, Your Body May Be in Danger"
+    - Script: NEEDED (I195, Score 20/20)
+    - Upload target: Tuesday, July 1, 2026 at 2:00 PM EST
+    - Status: SEO METADATA COMPLETE — SCRIPT NEEDED
+    - White space: Fall prevention mechanism EMPTY. 438K views for exercise content, ZERO vascular/balance mechanism.
+
+46. **VID-048 (Long-form):** "The Hidden Muscle in Your Neck That Controls Blood Pressure — After 60"
+    - Script: NEEDED (I191, Score 20/20)
+    - Upload target: Thursday, July 3, 2026 at 2:00 PM EST
+    - Status: SEO METADATA COMPLETE — SCRIPT NEEDED
+    - White space: Carotid body/baroreceptor anatomy for general audience UNOWNED.
+
+### New Content Chain Links (June 17)
+- VID-047 (Balance Test) → VID-048 (Hidden BP Muscle) via end screen
+- VID-048 (Hidden BP Muscle) → VID-044 (BP Medicine Timing) via end screen
+- VID-SHORT-026 → VID-047 (teaser → full)
+- VID-SHORT-027 → VID-048 (teaser → full)
+
+### New Insights from June 17 Scans
+- **⚡⚡⚡ Whitmore "11 MISTAKES" at 1M views:** NEW viral format — self-measurement errors. Multiple versions running (1M + 141K). "SENIORS, 11 MISTAKES IN MEASURING YOUR OWN BLOOD PRESSURE! (Doctor Explains)" — Dr. Kane adaptation: "SENIORS, [Number] MISTAKES Doctors Make When [Testing] Your [Body Part] After [Age]."
+- **⚡⚡ Whitmore BP medication destruction at 660K:** Up from 79K last scan. Multi-version strategy confirmed. SATURATED — AVOID.
+- **⚡⚡ Healthy Seniors stroke "Day Before" at 565K:** FILLING Waterling's suppressed niche. Growing fast. AVOID stroke symptoms niche — CROWDED.
+- **⚡⚡ Dr. Elena Pierce at 490K:** NEW competitor in BP niche. "What's the REAL Ideal Blood Pressure After 65? The Answer Will Surprise You" — "REAL [Metric]" format working at scale.
+- **⚡ Dr. Thomas "BRAIN Doctor" at 1M:** NEW competitor in stroke/brain niche. "As a BRAIN Doctor, I'm SHOCKED: THIS Vegetable Raises Stroke Risk Overnight" — Authority + shock format.
+- **⚡ Kapadia "30-60-5 Rule":** NEW sedentary sitting angle from vascular surgeon. "Sitting 8 Hours? A Vascular Surgeon's 30-60-5 Rule to Save Your Legs"
+- **⚡ Clark's olive oil content at 573 views:** Very new. Bedtime drink format expanding. AVOID bedtime drink niche — HEATING UP.
+- **⚡ JOD cross-posted at 543K by Senior Health Podcast:** Content distribution network emerging.
+- **⚡ Mandell's muscle loss content at 13K-32K:** Growing. Morning nutrition + leg muscle angle.
+- **⚠️ Dr. William Li INACTIVE:** 4 months since last upload. May have been flagged. Risk level DOWNGRADED to LOW.
+- **🆕 "Reverse dipping" terminology emerging:** Senior Healthy Life Daily at 967 views. "Why Healthy Seniors Have High BP: The 3 AM 'Reverse Dipping' Pattern" — Early signal. First-mover window OPEN.
+- **🆕 Senior Life & Health Hub by Dr. Felix Hartmann:** New channel in neuropathy niche. Very small, monitor.
+- **🆕 Senior Healthy Life Daily (5.57K subs):** "Reverse dipping" BP content at 967 views. Monitor for growth.
+- **✅ Stair climbing mechanism STILL EMPTY:** VID-036 uploading June 17. Biggest white space captured.
+- **✅ Stroke prevention mechanism WIDE OPEN:** VID-037 uploading June 19. Waterling's niche vacant for mechanism content.
+- **✅ "Reverse dipping" BP mechanism EMPTY:** Emerging terminology, first-mover window OPEN.
+- **⚠️ Firecrawl API STILL DOWN (Day 10+):** yt-dlp search used as fallback.
+- **⚠️ Whitmore multi-version strategy confirmed:** Running 2+ versions of same video (660K + 79K, 1M + 141K). YouTube enforcement risk for her — validates Dr. Kane's single-upload approach.
+- **New title formulas for Dr. Kane (June 17):** "SENIORS, [Number] MISTAKES Doctors Make When [Testing] Your [Body Part] After [Age]", "What's the REAL [Cause/Number] Behind [Problem] After [Age]? The Vascular Truth", "The 3 AM [Body Part] Pattern That Predicts [Condition] After [Age]", "Sitting All Day After 60? The Vascular Damage You Can't Feel", "As a Vascular Doctor, I'm SHOCKED: THIS [Thing] Is [Hurting/Helping] Your [Body Part] After 60"
