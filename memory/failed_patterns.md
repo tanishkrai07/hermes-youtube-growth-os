@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-17
+> **Last Updated:** 2026-06-18
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -457,3 +457,32 @@
 - **Never tell viewers to request carotid ultrasound without clinical indication** — frame as "if you notice pulsatile symptoms, ask your doctor about vascular evaluation."
 - **Never tell viewers their neck muscle "controls" their BP absolutely** — frame as "one factor in BP regulation among many."
 - **Never recommend specific neck exercises without doctor approval** — frame as "gentle movements that some research suggests may support vascular function."
+
+### New Failure Patterns (June 18 Competitor Scans)
+
+#### Dr. Sarah Mitchell — Blood Test Advocacy Niche Now Occupied
+- **What happened:** Dr. Sarah Mitchell's "The 5 Blood Tests Every Senior Must Demand From Their Doctor" at 681K views fills a previously open niche that Dr. Kane was positioned to own.
+- **Lesson:** First-mover windows for diagnostic advocacy content are closing within days of being identified. Dr. Kane must either act immediately or pivot to adjacent angles.
+- **Fix:** Pivot to "The 3 Vascular Tests Your Doctor Won't Order" or "The Vascular Tests Hiding in Your Routine Blood Work" — angles that differentiate from Mitchell's general blood test advocacy.
+
+#### "NEVER Let My Mother Take" Authority Contradiction Format — New Viral Formula
+- **What happened:** Dr. Sarah Mitchell's "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Medications After 70" at 125K views. This is a NEW variation on the authority contradiction format.
+- **Lesson:** Authority contradiction formats are evolving rapidly. The "family protection" angle (mother/grandmother) adds emotional weight beyond simple "I would NEVER" framing.
+- **Fix:** AVOID copying this format. Dr. Kane's mechanism-first approach is the differentiator. If covering medication concerns, use "What [Medication] Does to Your Blood Vessels After 60" framing.
+
+#### Cross-Posting Farm Channels — McGill Flag Risk
+- **What happened:** Dr. Grace Mitchell cross-posting content from multiple creators (stem cells, BP, cancer, microplastics, urology) at <200 views.
+- **Lesson:** AI-generated cross-posting farms are entering the elder health niche. These channels are at high McGill flag risk and may be removed suddenly.
+- **Fix:** Ignore these channels. They are not competitive threats. Dr. Kane's original content approach is the defensive moat.
+
+#### "Most Disgusting Drink" Contradiction Format — New Viral Formula
+- **What happened:** Whitmore's "Most Disgusting Drink That Clears Your Arteries" is a NEW viral format combining disgust + health benefit contradiction.
+- **Lesson:** Contradiction-based formats continue to evolve. The "disgust" angle is new and drives clicks through cognitive dissonance.
+- **Fix:** AVOID copying this format. Dr. Kane's mechanism-first approach is the differentiator.
+
+#### New Safety Boundaries (VID-049 Production)
+- **Never tell viewers their soleus is "failing" diagnostically** — frame as "pump fibers may be declining with age" and "discuss exercise options with your doctor."
+- **Never tell viewers exercises will "cure" vascular problems** — frame as "may improve" and "research suggests."
+- **Never tell viewers their legs are "giving out" due to vascular problems without differential** — frame as "multiple factors can contribute to stair-climbing difficulty, including vascular, muscular, and pulmonary causes."
+- **Never tell viewers to self-diagnose peripheral artery disease** — frame as "if you notice a pattern of leg fatigue during activity, ask your doctor about ankle-brachial index testing."
+- **Never recommend the seated soleus sustain as a replacement for medical evaluation** — frame as "a simple exercise that may support venous return" alongside professional medical care.

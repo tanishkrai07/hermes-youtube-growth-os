@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-17 (Updated for June 18 priorities)
-**Focus:** Verify June 17 uploads | Thumbnail production for June 19 uploads (4 videos) | VID-047/048 scripts next
-**Priority:** 🔴 Verify uploads + thumbnail production for June 19 | VID-047 (I195 Score 20) + VID-048 (I191 Score 20) scripts
+**Date:** 2026-06-18 (Updated for June 19 production)
+**Focus:** VID-047 + VID-049 scripts complete | Thumbnail production for June 19 uploads (4 videos) | VID-048 script next
+**Priority:** 🔴 Thumbnail production for June 19 | VID-048 (I191 Score 20) script | VID-050 (I199 Score 19) script next
 
 ---
 
@@ -48,7 +48,8 @@
 - VID-SHORT-025 (Tinnitus teaser) — June 26 upload — Script complete
 
 ### Scripts Needed (SEO Metadata Complete)
-- VID-047 (10-Second Balance Test — I195, Score 20) — July 1 upload — 🔴 SCRIPT NEEDED
+- VID-047 (10-Second Balance Test — I195, Score 20) — July 1 upload — ✅ SCRIPT COMPLETE (June 18)
+- VID-049 (Stair Climbing Vascular Pump — I198, Score 20) — July 1 upload — ✅ SCRIPT COMPLETE (June 18)
 - VID-048 (Hidden BP Muscle/Carotid Body — I191, Score 20) — July 3 upload — 🔴 SCRIPT NEEDED
 
 ### Scripts Needed (No SEO Yet)
@@ -56,11 +57,12 @@
 - VID-039 (Bedtime Nerve Destruction — I168, Score 19) — TBD — SCRIPT NEEDED
 - VID-040 (Ozempic Vascular Effects — I169, Score 19) — TBD — SCRIPT NEEDED
 
-### Idea Bank Status (Updated June 17)
+### Idea Bank Status (Updated June 18)
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
-| I195 | 10-Second Balance Test Predicts Death Risk | Fall Prevention/Vascular | 20 | 🔴 SCRIPT NEEDED (VID-047) — SEO COMPLETE |
+| I195 | 10-Second Balance Test Predicts Death Risk | Fall Prevention/Vascular | 20 | ✅ SCRIPT COMPLETE (VID-047) — SEO COMPLETE |
+| I198 | Stair Climbing Vascular Pump | Vascular/Functional Decline | 20 | ✅ SCRIPT COMPLETE (VID-049) — SEO COMPLETE |
 | I191 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | 🔴 SCRIPT NEEDED (VID-048) — SEO COMPLETE |
 | I189 | 3-Second Skin Pinch Test | Vascular/Dermological | 19 | 🟡 BACKLOG |
 | I190 | Dentist Knows Heart Risk | Oral-Systemic/Cardiovascular | 19 | 🟡 BACKLOG |
@@ -73,12 +75,12 @@
 | I168 | Bedtime Habit Destroying Nerves | Neurological/Sleep | 19 | 🟡 SCRIPT NEEDED (VID-039) |
 | I169 | Ozempic Shrinking Arteries | GLP-1/Vascular | 19 | 🟡 SCRIPT NEEDED (VID-040) |
 
-### 🔴 URGENT Production Pipeline (Score 18+, Updated June 17)
-1. **I195** (Score 20) — 10-Second Balance Test. Script target: VID-047. SEO COMPLETE. Fall prevention mechanism EMPTY.
-2. **I191** (Score 20) — Hidden BP Muscle/Carotid Body. Script target: VID-048. SEO COMPLETE. Anatomy UNOWNED.
-3. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
-4. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
-5. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
+### 🔴 URGENT Production Pipeline (Score 18+, Updated June 18)
+1. **I191** (Score 20) — Hidden BP Muscle/Carotid Body. Script target: VID-048. SEO COMPLETE. Anatomy UNOWNED.
+2. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
+3. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
+4. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
+5. **I199** (Score 19) — 3 AM BP Pattern/Stroke. Script target: VID-050. Reverse dipping terminology emerging at only 1K views. First-mover window open.
 
 ### What NOT to Do
 - Don't tell viewers to change medications based on blood type
@@ -234,28 +236,34 @@
 | VID-044 (BP Timing) | Paradox observation (morning BP good, nighttime BP unknown) | Nighttime pattern revelation (non-dipper 40%) → Circadian pharmacology mechanism (CYP450/BMAL1/CLOCK) → Hygia Trial evidence (45% fewer events) → Patient story (Robert's stroke) → 4-point measurement protocol → Doctor conversation script | Empowerment through data + forward tease |
 | VID-045 (Morning Symptom) | Intimate patient story (Margaret's morning breathlessness) | Patient narrative → The symptom nobody names → Mechanism (coronary stenosis → compensatory breathing) → Why it's dismissed → The 6-month timeline → Self-monitoring protocol → Emotional resolution | Patient resolution + forward tease |
 | VID-046 (Nighttime Tinnitus) | Direct sensory experience ("Imagine lying in bed — and your ears are louder than ever") | Sensory hook → Masking phenomenon explanation → Pulsatile vs non-pulsatile distinction → Nocturnal BP amplification mechanism → Self-assessment (fingertip test) → When it's vascular vs not → Actionable steps → Warm close | Empowerment through understanding + forward tease |
-| VID-047 (Balance Test) | TBD — Script needed | TBD — Fall prevention mechanism | TBD |
+|| VID-047 (Balance Test) | Interactive challenge opening ("stand on one leg right now") | Mortality data reveal → Four-system integration explanation → Why each system fails after 60 → The vascular connection (cerebral blood flow/baroreflex) → Age-stratified norms → Self-assessment flow chart → 3-step balance rebuilding protocol → Empowerment close |
 | VID-048 (Hidden BP Muscle) | TBD — Script needed | TBD — Carotid body anatomy | TBD |
+| VID-049 (Stair Climbing) | Functional self-test opening ("the last time you climbed stairs") | Wrong diagnosis pattern → Vascular anatomy lesson (soleus as second heart) → The traffic jam mechanism → Why exercise-only advice fails → The seated soleus sustain protocol → Patient story (Frank's recovery) → Empowerment close |
 
 ---
 
-## Tomorrow's Priorities (June 18)
+## Tomorrow's Priorities (June 19)
 
 ### 🔴 Critical (TODAY)
-1. **Verify VID-027/029/031/036 published** — Confirm all 4 long-form videos + VID-SHORT-018 are live
-2. **Monitor CTR at 24h** — Check all June 17 uploads for CTR performance (target >6%)
-3. **Produce VID-028/030/032/037 thumbnails** — For June 19 upload (tomorrow)
+1. **Produce VID-028/030/032/037 thumbnails** — For June 19 upload
+2. **Upload VID-028/030/032/037** — June 19 upload with thumbnails
+3. **Monitor CTR at 24h** — Check all June 17 uploads for CTR performance (target >6%)
 
 ### 🟡 Important (This Week)
-4. **Upload VID-028/030/032/037** — June 19 upload with thumbnails
-5. **Produce VID-041/043/045 thumbnails** — For June 24 upload
-6. **Begin VID-047 script** — I195: 10-Second Balance Test (Score 20, SEO complete)
-7. **Begin VID-048 script** — I191: Hidden BP Muscle (Score 20, SEO complete)
+4. **Produce VID-041/043/045 thumbnails** — For June 24 upload
+5. **Produce VID-047/049 thumbnails** — For July 1 upload (scripts complete)
+6. **Begin VID-048 script** — I191: Hidden BP Muscle/Carotid Body (Score 20, SEO complete)
+7. **Begin VID-050 script** — I199: 3 AM BP Pattern/Reverse Dipping (Score 19, SEO complete)
 
 ### 🟢 When Time Permits
 8. **Produce VID-042/044/046 thumbnails** — For June 26 upload
 9. **Begin VID-038/039/040 scripts** — PPI Fall Risk, Bedtime Nerve Destruction, Ozempic Vascular
-10. **Refill Firecrawl API credits** — Enable full competitor scanning capability (Day 10+ without)
+10. **Refill Firecrawl API credits** — Enable full competitor scanning capability (Day 11+ without)
+
+---
+
+*Context pack updated: 2026-06-18 by Memory Curator Agent*
+*Next update: 2026-06-19*
 
 ---
 
@@ -282,9 +290,10 @@
 | Thu June 26 | VID-044 (BP Medicine Timing) | Long | Thumbnails needed |
 | Thu June 26 | VID-046 (Ears Ring Louder at Night) | Long | Thumbnails needed |
 | Thu June 26 | VID-SHORT-023 (teaser) | Short | Script complete |
-| Thu June 26 | VID-SHORT-025 (teaser) | Short | Script complete |
-| Tue July 1 | VID-047 (10-Second Balance Test) | Long | 🔴 Script needed |
-| Thu July 3 | VID-048 (Hidden BP Muscle) | Long | 🔴 Script needed |
+|| Thu June 26 | VID-SHORT-025 (teaser) | Short | Script complete |
+|| Tue July 1 | VID-047 (10-Second Balance Test) | Long | ✅ Script complete — Thumbnails needed |
+|| Tue July 1 | VID-049 (Stair Climbing Vascular Pump) | Long | ✅ Script complete — Thumbnails needed |
+|| Thu July 3 | VID-048 (Hidden BP Muscle) | Long | 🔴 Script needed |
 
 ---
 

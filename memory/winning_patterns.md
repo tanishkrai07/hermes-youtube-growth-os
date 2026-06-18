@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-17
+> **Last Updated:** 2026-06-18
 
 ## Top Performing Title Formulas
 
@@ -397,9 +397,11 @@
 397||||||||||||||| 2026-06-15 | VID-043 (Magnesium Form/Arteries) | A: The Invisible Supplement, B: The Pharmacy Maze | New Brief |
 398|398|||||||||||||||| 2026-06-15 | VID-044 (BP Medicine Timing) | A: The Nighttime BP Spike, B: The Pill Bottle Clock | New Brief |
 399|399|||||||||||||||||| 2026-06-16 | VID-045 (Morning Symptom/Heart Attack) | A: The Early Warning, B: The Bedside Test | New Brief |
-400|400|||||||||||||||||||| 2026-06-16 | VID-046 (Ears Ring Louder at Night) | A: The Nighttime Clue, B: The Hidden Pulse | New Brief |
-401|401|
-400|### New Palettes Added (June 15)
+400|400|400|||||||||||||||||||| 2026-06-16 | VID-046 (Ears Ring Louder at Night) | A: The Nighttime Clue, B: The Hidden Pulse | New Brief |
+401|401|401|||||||||||||||||||||| 2026-06-18 | VID-047 (10-Second Balance Test) | A: The Single-Leg Challenge, B: The Mortality Data | New Brief |
+402|402|402|||||||||||||||||||||||| 2026-06-18 | VID-049 (Stair Climbing Vascular Pump) | A: The Stair Struggle, B: The Second Heart | New Brief |
+403|403|403|
+404|401|### New Palettes Added (June 15)
 401|| Video | Primary | Accent 1 | Accent 2 | Status |
 402||-------|---------|----------|----------|--------|
 403||| VID-043 A | Arterial red (#B71C1C) → Charcoal (#263238) | Glowing teal (#00E5FF) | Warning yellow (#FDD835) / Ghosted gray (#90A4AE) | New — Brief |
@@ -413,9 +415,17 @@
 411|411||| VID-045 A | Deep indigo (#1A1A3E) → Lavender (#B39DDB) | Warning amber (#FDD835) | Soft white (#E8EAF6) / Danger red (#FF1744) | New — Brief |
 412|412|||| VID-045 B | Split: Bedroom gold (#FFB300) → Clinical navy (#0D47A1) | Coral (#FF6E40) | Cool white (#ECEFF1) | New — Brief |
 413|413||||| VID-046 A | Deep twilight blue (#0D1B2A) → Warm amber (#FFB300) | Electric cyan (#00E5FF) → Warning red (#FF1744) | Moonlight silver (#CFD8DC) | New — Brief |
-414|414|||||| VID-046 B | Radiating vascular teal (#004D40) → Charcoal (#263238) | Arterial red (#B71C1C) | Pulse teal (#00BFA5) | New — Brief |
-415|415|
-416|416|### New Palettes Added (June 13)
+418|414|414|||||| VID-046 B | Radiating vascular teal (#004D40) → Charcoal (#263238) | Arterial red (#B71C1C) | Pulse teal (#00BFA5) | New — Brief |
+419|415|415|
+420|416|416|### New Palettes Added (June 18)
+421|| Video | Primary | Accent 1 | Accent 2 | Status |
+422||-------|---------|----------|----------|--------|
+423||| VID-047 A | Volcanic black (#0D0D0D) → Ember red (#3E0000) | Electric cyan (#00E5FF) | Warm amber (#FFB300) | New — Brief |
+424|||| VID-047 B | Forest green (#1B5E20) / Charcoal (#263238) split | Warning red (#FF1744) | Electric yellow (#FFEB3B) | New — Brief |
+425||||| VID-049 A | Stone gray (#78909C) → Slate (#37474F) | Electric teal (#00BFA5) | Warm amber (#FFB300) / Electric coral (#FF6E40) | New — Brief |
+426|||||| VID-049 B | Ocean blue (#003B46) → Teal (#004D40) | Arterial red (#B71C1C) | Teal (#00BFA5) / Gray (#757575) | New — Brief |
+427|
+428|### New Palettes Added (June 13)
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
 || VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
@@ -1148,3 +1158,38 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 ---
 
 *Last updated: 2026-06-17 by Memory Curator Agent*
+---
+
+## New Patterns Added 2026-06-18
+
+### New Title Formulas (June 18 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P192 | "The [Number] Blood Tests Every Senior Must Demand From Their Doctor" | Dr. Sarah Mitchell | 681K |
+| P193 | "I'm a Doctor and I Would NEVER Let My Mother Take These [Number] [Medications/Supplements] After [Age]" | Dr. Sarah Mitchell | 125K + 32.8K |
+| P194 | "Varicose Vein Surgery is DEAD in [Year]! [Alternative]..." | Dr. Sumit Kapadia | 81K |
+| P195 | "NEVER Eat These [Number] Foods" | Japan's Oldest Doctor | NEW |
+| P196 | "Do NOT forget this before sleep" | Japan's Oldest Doctor | NEW |
+| P197 | "This Muscle Mimics [Condition] — [Number] Stretches to Release It (Age+)" | TopHealthTips | 11K |
+| P198 | "This One Muscle Is Destroying Your [Body Part]" | Vascular Surgeon | 52K |
+
+### New Viral Formats (June 18)
+1. **"Blood Tests Must Demand" diagnostic advocacy** — Dr. Sarah Mitchell at 681K. Patient empowerment + specific number. FILLS previously open niche. ADAPTABLE for Dr. Kane with vascular mechanism angle.
+2. **"NEVER Let My Mother Take" authority contradiction** — Dr. Sarah Mitchell at 125K. Family protection + prohibition. NEW variation on the established authority contradiction format. ADAPTABLE.
+3. **"Surgery is DEAD in [Year]" medical procedure death announcement** — Kapadia at 81K. Announces a medical procedure is obsolete + offers alternative. ADAPTABLE to other procedures.
+4. **"NEVER Eat These [Number] Foods" prohibition format** — Japan's Oldest Doctor expanding into food warnings. Authority + prohibition + specific number. NEW from this channel.
+5. **"Do NOT forget this before sleep" bedtime urgency** — Japan's Oldest Doctor. Imperative + sleep context. NEW format.
+6. **"This Muscle Mimics [Condition]" confusion format** — TopHealthTips at 11K (3 days). Identifies a muscle that mimics a condition + stretches. Early.
+
+### Updated Blood Test Advocacy Status
+- **PREVIOUSLY OPEN** → **NOW OCCUPIED**
+- Dr. Sarah Mitchell at 681K with "The 5 Blood Tests Every Senior Must Demand"
+- Dr. Kane must DIFFERENTIATE with vascular mechanism angle or target different tests (e.g., "The 3 Vascular Tests Your Doctor Won't Order")
+
+### New Competitor Formats to Monitor
+1. **Dr. Sarah Mitchell multi-format expansion:** "NEVER Let My Mother Take" (medications + supplements + surgeries) — three-pronged authority contradiction strategy
+2. **JOD food empire expansion:** "NEVER Eat" + "7 Egg Mistakes" + "5 Protein Foods" — moving from exercise into nutrition
+3. **Kapadia "Surgery is DEAD" format:** Potential template for Procedure Reversal content
+4. **Dr. Eliza Grant eye health entry:** Confirms eye health niche remains attractive despite saturation
+
+---

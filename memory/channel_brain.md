@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-17
+> **Last Updated:** 2026-06-18
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -736,4 +736,65 @@
 - **✅ "Reverse dipping" BP mechanism EMPTY:** Emerging terminology, first-mover window OPEN.
 - **⚠️ Firecrawl API STILL DOWN (Day 10+):** yt-dlp search used as fallback.
 - **⚠️ Whitmore multi-version strategy confirmed:** Running 2+ versions of same video (660K + 79K, 1M + 141K). YouTube enforcement risk for her — validates Dr. Kane's single-upload approach.
-- **New title formulas for Dr. Kane (June 17):** "SENIORS, [Number] MISTAKES Doctors Make When [Testing] Your [Body Part] After [Age]", "What's the REAL [Cause/Number] Behind [Problem] After [Age]? The Vascular Truth", "The 3 AM [Body Part] Pattern That Predicts [Condition] After [Age]", "Sitting All Day After 60? The Vascular Damage You Can't Feel", "As a Vascular Doctor, I'm SHOCKED: THIS [Thing] Is [Hurting/Helping] Your [Body Part] After 60"
+### New Videos Added June 18
+
+47. **VID-047 (Long-form):** "The 10-Second Balance Test That Predicts Your Death Risk After 60 — Try It Now"
+    - Script: ✅ COMPLETE (June 18, ~2,680 words, 17 safety checks PASS)
+    - Upload target: Tuesday, July 1, 2026 at 2:00 PM EST
+    - Status: SCRIPT COMPLETE — THUMBNAILS NEEDED
+    - Structure: Interactive challenge opening → Mortality data reveal → Four-system integration explanation → Why each system fails after 60 → Vascular connection (cerebral blood flow/baroreflex) → Age-stratified norms → Self-assessment flow chart → 3-step balance rebuilding protocol → Empowerment close
+    - Safety: 17 PASS / 0 FAIL
+    - White space: Fall prevention mechanism EMPTY. 438K views for exercise content, ZERO vascular/balance mechanism.
+    - Key framework: "The Mortality Mirror" — single-leg stance integrates vestibular, proprioception, vision, and baroreflex (cerebral blood flow regulation) simultaneously.
+
+48. **VID-049 (Long-form):** "Why You Can't Climb One Flight of Stairs Anymore After 60 — It's Not Your Lungs"
+    - Script: ✅ COMPLETE (June 18, ~2,720 words, 16 safety checks PASS)
+    - Upload target: Tuesday, July 1, 2026 at 2:00 PM EST
+    - Status: SCRIPT COMPLETE — THUMBNAILS NEEDED
+    - Structure: Functional self-test opening → Wrong diagnosis pattern → Vascular anatomy lesson (soleus as second heart) → The traffic jam mechanism → Why exercise-only advice fails → The seated soleus sustain protocol → Patient story (Frank's recovery) → Empowerment close
+    - Safety: 16 PASS / 0 FAIL
+    - White space: Stair climbing mechanism EMPTY. 2.6M+ views for exercise version. ZERO mechanism content.
+    - Key framework: "The Vascular Traffic Jam" — soleus pump generates 60-80% of venous return; fails after 60 due to 30-40% fast-twitch fiber loss; brain redirects blood from legs to protect cerebral perfusion.
+
+### New Content Chain Links (June 18)
+- VID-047 (Balance Test) → VID-048 (Hidden BP Muscle) via end screen
+- VID-049 (Stair Climbing) → VID-047 (Balance Test) via end screen
+
+### New Insights from June 18 Scans
+- **🆕 Dr. Sarah Mitchell discovered — MAJOR NEW COMPETITOR:** "The 5 Blood Tests Every Senior Must Demand From Their Doctor" at 681K FILLS previously open niche. "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Medications After 70" (125K) — NEW authority contradiction format. "SENIORS OVER 60: These 7 Popular Medications Are..." (682K). Multi-format expansion. Risk: 🟡 MEDIUM-HIGH.
+- **🆕 Dr. Eliza Grant at 126K in eye health:** NEW entrant confirms eye niche saturation. "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes"
+- **🆕 Dr. Grace Mitchell cross-posting farm:** AI-generated cross-posting pattern. McGill flag risk. Ignore.
+- **🆕 Dr. Aliza Wright — medication trio copy:** Very small. Monitor.
+- **⚡ Whitmore "Most Disgusting Drink That Clears Your Arteries":** NEW viral format. "Disgusting" + "Must Drink It" contradiction. Monitor.
+- **⚡ JOD "NEVER Eat These 4 Foods" + "7 Egg Mistakes":** Food warning empire expanding. JOD now in 9+ sub-niches.
+- **⚡ Kapadia "Varicose Vein Surgery is DEAD in 2026":** NEW format — medical procedure death announcement + alternative. 81K views.
+- **⚡ Kapadia "This One Muscle Is Destroying Your Leg Circulation" at 52K:** NEW mechanism angle. Growing.
+- **⚡ Dr. Michael Kent surgery contradiction at 232K:** "I am a Surgeon and I would NEVER recommend these 5 surgeries to my parents." Authority contradiction expanding from medications to procedures.
+- **⚡ KenDBerryMD continuing shift away from elder health:** 7 Health Trends at 108K. Gap widens. Dr. Kane can fill.
+- **⚡ Dr. Frita kidney content at 1.1M:** Generalist channel. Not elder-specific. Validates kidney niche.
+- **⚡ "Reverse dipping" terminology NOT catching on:** Senior Healthy Life Daily at 1K only. First-mover window still open.
+- **✅ Blood test advocacy niche NOW OCCUPIED:** Dr. Sarah Mitchell at 681K. Dr. Kane must differentiate with vascular mechanism angle.
+- **✅ Stair climbing mechanism STILL EMPTY:** VID-049 script complete. Biggest white space captured.
+- **✅ Balance test mechanism STILL EMPTY:** VID-047 script complete. Fall prevention mechanism UNOWNED.
+- **✅ "Reverse dipping" BP mechanism EMPTY:** Emerging terminology, first-mover window OPEN.
+- **⚠️ Firecrawl API STILL DOWN (Day 11+):** web_search YouTube search used as fallback.
+- **New title formulas for Dr. Kane (June 18):** P165 "Why Your [Metric] SPIKES at [Time] After [Age] — The [Hidden Term] Danger", P166 "The [Time] [Metric] Pattern After [Age] That Predicts [Disaster]", P167 "Your [Metric] [Action] at [Time] After [Age]? It's Called [Term] — Here's Why", P168 "Why Your [Condition] Medication May Be [Damaging] Your [Body Part] After [Age]", P169 "The [Drug Class] [Risk] After [Age] — Why [X%] of Seniors Are Affected", P170 "This Common [Condition] Drug Increases [Risk] After [Age] — Doctor Explains"
+
+### New Title Patterns Discovered (June 18)
+1. **"I'm a Doctor and I Would NEVER Let My Mother Take [Number] [Medications/Supplements] After [Age]"** — Dr. Sarah Mitchell (125K + 32.8K). Authority contradiction + family protection angle. ⚡ NEW
+2. **"The [Number] Blood Tests Every Senior Must Demand From Their Doctor"** — Dr. Sarah Mitchell (681K). Patient advocacy + specific number. ⚡ NEW — directly adjacent to Dr. Kane's diagnostic gap positioning.
+3. **"Varicose Vein Surgery is DEAD in [Year]! [Alternative]..."** — Dr. Sumit Kapadia (81K). Medical procedure death announcement + alternative. ⚡ NEW
+4. **"This Muscle Mimics [Condition] — [Number] Stretches to Release It (60+)"** — TopHealthTips (11K, 3 days). Muscle confusion + stretch solution. Early.
+5. **"NEVER Eat These [Number] Foods"** — Japan's Oldest Doctor. Prohibition format from authority figure. Expanding.
+6. **"Do NOT forget this before sleep"** — Japan's Oldest Doctor. Bedtime urgency + authority. NEW sleep-focused format.
+7. **"Most Disgusting Drink That Clears Your Arteries"** — Whitmore. Disgust + health contradiction. ⚡ NEW
+
+### New Safety Boundaries (VID-047 / VID-049 Production)
+- **Don't tell viewers they have failed a "death test"** — frame balance test as "one data point to discuss with your doctor"
+- **Don't tell viewers their soleus is "failing" diagnostically** — frame as "pump fibers may be declining"
+- **Don't tell viewers exercises will "cure" vascular problems** — frame as "may improve"
+- **Don't tell viewers to self-diagnose balance disorders** — frame as "ask about formal fall risk assessment"
+- **Don't tell viewers their carotid body is "failing"** — frame as "baroreceptor sensitivity may decline with age"
+- **Don't tell viewers their neck muscle "controls" their BP absolutely** — frame as "one factor among many"
+- **Don't recommend specific neck exercises without doctor approval**
+- **Don't tell viewers to request carotid ultrasound without clinical indication"
