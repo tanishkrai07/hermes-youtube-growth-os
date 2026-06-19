@@ -1,7 +1,7 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-18 (Competitor Watcher scan — 65+ tracked, 4 new discovered)
-> **Total Tracked Competitors:** 65+ (64 active + 1 removed)
+> **Last Updated:** 2026-06-19 (Competitor Watcher scan — 71+ tracked, 3 new discovered)
+> **Total Tracked Competitors:** 68+ (67 active + 1 removed)
 > **Note:** Firecrawl search API still offline (credits exhausted since Jun 8). Data sourced via web_search YouTube search only.
 
 ## Active Competitors (Elder Health / Senior Wellness)
@@ -44,7 +44,10 @@
 | **Dr. Grace Mitchell** 🆕 | Cross-posting farm (stem cells, BP, cancer, microplastics, urology) | <200 | Cross-posting farm | 🟢 LOW — McGill flag risk. |
 | **Dr. Aliza Wright** 🆕 | "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" | Unknown | BP Meds (Medication Trio copy) | 🟢 LOW — Very small. Monitor. |
 | **Senior Life & Health Hub by Dr. Felix Hartmann** 🆕 | "One Chair Exercise That Relieves Neuropathy in Feet & Legs After 60" | Unknown | Neuropathy / Leg Health | 🟢 LOW — Very new, small scale. |
-| **Senior Healthy Life Daily** 🆕 | "Why Healthy Seniors Have High BP: The 3 AM 'Reverse Dipping' Pattern" (1K) | ~1K | Blood Pressure Mechanism | 🟢 LOW — 5.57K subs. "Reverse dipping" terminology not catching on. |
+|| **Senior Healthy Life Daily** 🆕 | "Why Healthy Seniors Have High BP: The 3 AM 'Reverse Dipping' Pattern" (1K) | ~1K | Blood Pressure Mechanism | 🟢 LOW — 5.57K subs. "Reverse dipping" terminology not catching on. |
+|| **Dr. Owen Senior Health** 🆕⚡ EMERGING | "If You're Over 60, STOP Doing These 7 Things Immediately (Most Seniors Don't Know This)" (NEW) + "Doctor Reveals: The 5 Real Reasons Your Throat Is Full of Mucus After 60" (NEW) | Emerging | General Senior Health / Body Warning Signals | 🟡 MONITOR — Early stage. "STOP Doing" format. Monitor for cross-posting farm pattern. |
+|| **Dr. Edward Hamilton | Senior Health** 🆕⚡ | "OVER 60 3 Vegetables You Should NEVER Touch – And 3 You MUST" (170K-178K) | ~175K | Food Prohibition + Cardiovascular | 🟡 MEDIUM — Cardiovascular surgeon authority. "NEVER Touch + MUST" binary format NEW. |
+|| **Healthy Aging - Senior Health Tips** 🆕⚡ SURGING | "Top 5 Vegetables That Heal Your Kidneys After 60 – Most Seniors Ignore #2" (500K-637K) + "Top 5 Vegetables That Harm Your Kidneys After 60" | ~500K-637K | Kidney Health / Vegetable Nutrition | 🟡 MEDIUM-HIGH — FILLING previously open kidney niche. First-mover window CLOSING. |
 
 ## Removed Competitors
 | Channel | Status | Reason |
@@ -75,6 +78,7 @@
 - **Seated Leg Exercises:** 🔴 SATURATED
 - **Bedtime Drinks/Actions:** 🔴 HEATING UP (Whitmore + Clark + JOD + Becker)
 - **Blood Test Advocacy:** 🔴 NOW OCCUPIED (Dr. Sarah Mitchell at 681K)
+- **Kidney Health (Vegetables):** 🔴 NOW OCCUPIED (Healthy Aging at 500K-637K)
 
 ## Open Niches (Opportunity)
 
@@ -87,12 +91,25 @@
 | **GLP-1/Ozempic + vascular health** | Arden at 19.2K | 🔴 FIRST-MOVER WINDOW NARROWING |
 | **Fall Prevention + Vascular/Balance** | Senior Health Podcast at 438K | 🟡 MECHANISM EMPTY |
 | **Sleep Position + Circulation** | Mandell at 32K | 🟡 GROWING |
-| **Kidney Test Advocacy** | 11.7K for "Kidney Blood Test Is Lying to You" + Dr. Frita 1.1M (generalist) | 🟡 GROWING |
+|| **Kidney Test Advocacy** | 11.7K for "Kidney Blood Test Is Lying to You" + Dr. Frita 1.1M (generalist) | 🟡 GROWING → 🔴 OCCUPIED (Healthy Aging at 500K-637K with kidney vegetable content) |
 | **BP Medication Timing + Vascular** | Whitmore at 209.6K | 🟡 WINDOW OPEN |
 | **Magnesium + Vascular Mechanism** | "BIG Magnesium Mistake" at 1.97M | 🟡 WINDOW OPEN |
 | **Age Spots + Internal Causes** | Khan at 52.2K only | 🟢 STILL OPEN |
 | **Nighttime vascular threats** | Kapadia at 24.8K only | 🟢 VIRTUALLY EMPTY |
 | **"Reverse Dipping" BP Mechanism** | Senior Healthy Life Daily at 1K only | 🟢 VIRTUALLY EMPTY — terminology not catching on |
+
+## Key Events This Period (June 19 Scan)
+
+- **🆕 Healthy Aging - Senior Health Tips discovered at 500K-637K:** NEW major player in kidney health. "Top 5 Vegetables That Heal Your Kidneys After 60" at 500K-637K FILLS previously open niche.
+- **🆕 Dr. Edward Hamilton discovered at 170K-178K:** Cardiovascular surgeon with "NEVER Touch + MUST" binary food format. NEW variation on food warning.
+- **🆕 Dr. Owen Senior Health emerging:** "STOP Doing These 7 Things Immediately" format. Monitor for cross-posting farm pattern.
+- **⚡ Whitmore "5 BP Medications Traps" at 2.5K:** NEW medication warning format. "Traps" framing is NEW.
+- **⚡ Whitmore magnesium + food interaction:** "STOP Taking Magnesium Glycinate IMMEDIATELY If You're Eating THIS Food!" — magnesium empire expanding.
+- **⚡ Dr. Sarah Mitchell surgery contradiction at 73K:** "NEVER Recommend These 5 Surgeries to Any Senior Over 65" — confirmed growing.
+- **⚡ Dr. Alan Mandell muscle loss at 84K (+162%):** From 32K to 84K. Niche ACCELERATING.
+- **⚡ JOD "3 MOST IMPORTANT Moves For Seniors":** Fall prevention angle NEW for JOD.
+- **⚡ Dr. Elena Pierce entering BP measurement:** "Arm Position Blood Pressure" at 593 views (7 days). Competing with Whitmore's BP self-measurement niche.
+- **🔴 Kidney health niche CLOSING:** Healthy Aging at 500K-637K. Previously OPEN. First-mover window CLOSING FAST.
 
 ## Key Events This Period (June 18 Scan)
 
@@ -158,4 +175,4 @@
 16. **✅ "REVERSE DIPPING" BP MECHANISM EMPTY** — Emerging terminology, first-mover window OPEN.
 
 ---
-*Last updated: 2026-06-18 by Competitor Watcher Agent*
+*Last updated: 2026-06-19 by Competitor Watcher Agent*

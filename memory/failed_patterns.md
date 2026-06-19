@@ -480,9 +480,41 @@
 - **Lesson:** Contradiction-based formats continue to evolve. The "disgust" angle is new and drives clicks through cognitive dissonance.
 - **Fix:** AVOID copying this format. Dr. Kane's mechanism-first approach is the differentiator.
 
-#### New Safety Boundaries (VID-049 Production)
-- **Never tell viewers their soleus is "failing" diagnostically** — frame as "pump fibers may be declining with age" and "discuss exercise options with your doctor."
-- **Never tell viewers exercises will "cure" vascular problems** — frame as "may improve" and "research suggests."
-- **Never tell viewers their legs are "giving out" due to vascular problems without differential** — frame as "multiple factors can contribute to stair-climbing difficulty, including vascular, muscular, and pulmonary causes."
-- **Never tell viewers to self-diagnose peripheral artery disease** — frame as "if you notice a pattern of leg fatigue during activity, ask your doctor about ankle-brachial index testing."
-- **Never recommend the seated soleus sustain as a replacement for medical evaluation** — frame as "a simple exercise that may support venous return" alongside professional medical care.
+#### New Safety Boundaries (VID-050 / VID-051 Production)
+- **Never tell viewers they have leaky gut without testing** — frame as "discuss intestinal permeability with your doctor"
+- **Never tell viewers their joint pain is definitely from gut issues** — frame as "one possible cause worth investigating"
+- **Never tell viewers to stop arthritis medications** — frame as "discuss gut-joint connection with your doctor"
+- **Never tell viewers they have Alzheimer's from gum disease** — frame as "associated with" not "causes"
+- **Never tell viewers to stop brushing/flossing** — always encourage dental hygiene
+- **Never tell viewers dental cleaning prevents Alzheimer's** — frame as "reduces inflammatory burden"
+- **Never diagnose periodontal disease from symptoms alone** — recommend professional evaluation
+- **Never tell viewers to self-diagnose gingipains** — frame as research finding, not diagnostic tool
+
+### New Failure Patterns (June 19 Competitor Scans)
+
+#### "Medication Traps" Format — Emerging
+- **What happened:** Whitmore's "5 BP Medications Traps Seniors Fall Into" at 2.5K views. "Traps" framing is NEW.
+- **Lesson:** Reframing medication warnings as "traps" creates a new curiosity angle. Dr. Kane can adapt with vascular-specific traps.
+- **Fix:** Create vascular-specific medication trap content. Focus on hidden vascular side effects of common senior medications.
+
+#### "NEVER Touch + MUST" Binary Food Format — New Viral Formula
+- **What happened:** Dr. Edward Hamilton at 170K-178K with "OVER 60 3 Vegetables You Should NEVER Touch – And 3 You MUST."
+- **Lesson:** Binary prohibition + prescription format is working at scale. Cardiovascular surgeon authority adds credibility.
+- **Fix:** AVOID copying directly. Dr. Kane can adapt with vascular-specific food binary: "Foods that feed your blood vessels vs. foods that clog them."
+
+#### Kidney Health Niche CLOSING
+- **What happened:** Healthy Aging - Senior Health Tips at 500K-637K with kidney vegetable content.
+- **Lesson:** Previously identified as open niche. Now OCCUPIED. First-mover window CLOSING FAST.
+- **Fix:** AVOID kidney vegetable content. If covering kidney health, use vascular mechanism angle (renal artery blood flow, creatinine mask).
+
+#### New Safety Boundaries (VID-048 Production — Anticipated)
+- **Never tell viewers their carotid body is "failing"** — frame as "baroreceptor sensitivity may decline with age"
+- **Never tell viewers to self-diagnose balance disorders** — frame as "ask about formal fall risk assessment"
+- **Never tell viewers to request carotid ultrasound without clinical indication** — frame as "if you notice pulsatile symptoms, ask your doctor"
+- **Never tell viewers their neck muscle "controls" their BP absolutely** — frame as "one factor in BP regulation among many"
+
+#### New Safety Boundaries (VID-052 Production — Anticipated)
+- **Never tell viewers they are "non-dippers"** — frame as "ask about 24-hour BP monitoring to check your nighttime pattern"
+- **Never tell viewers bedtime dosing is "better"** — frame as "the Hygia Trial found 45% fewer events with bedtime dosing — discuss with your doctor"
+- **Never tell viewers to change medication timing on their own** — always frame as "ask your doctor"
+- **Never diagnose reverse dipping from symptoms alone** — recommend ambulatory BP monitoring

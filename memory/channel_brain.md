@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-18
+> **Last Updated:** 2026-06-19
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -491,6 +491,19 @@
 - **🟡 Stroke prevention niche MECHANISM STILL OPEN:** Waterling permanently suppressed. Hargrove owns emergency format but not mechanism.
 - **New viral formats discovered:** "Mind-Blowing Benefits" supplement (1.57M), "Surgeon REVEALS" exercise (826K), "ONLY Exercises YOU Need" neuropathy (1M), "Don't Drink Plain Water" inversion (50K), "Before Bed + Blood Sugar" precision (149K), "AGE SPOTS WILL DISAPPEAR" cosmetic-internal (42K), "Ozempic Works… But" balanced critique (13.6K)
 - **"Mind-Blowing Benefits" is NEW #1 performing hook** — Surpasses "Real Truth" (1.31M) and "INSTANTLY" (701K) with 1.57M views for Whitmore's berberine video.
+
+### New Insights from June 19 Scans
+- **⚡ VID-050 (Gut Leaked → Joint Inflammation) SCRIPT COMPLETE** — I126, Score 21/20. "Gut-Joint Pipeline" framework: intestinal permeability → LPS endotoxin → IL-6/TNF-alpha → synovial joint deposition. 60% of over-70s have elevated serum LPS. 16 PASS / 0 FAIL safety. First-mover: NO competitor covers the gut-joint axis.
+- **⚡ VID-051 (Dentist Sees Brain Inflammation) SCRIPT COMPLETE** — I123, Score 20/20. "Oral-Brain Bacterial Highway" framework: P. gingivalis gingipains found in Alzheimer's brains (Science Advances 2019), 1.7x dementia risk with periodontal disease. 17 PASS / 0 FAIL safety. First-mover: NO competitor covers the oral-brain bacterial pathway.
+- **⚡ VID-048 SEO COMPLETE** — I191, Score 20/20. Hidden BP Muscle/Carotid Body. P171 title pattern added. First-mover: No competitor owns "carotid body" content for elder health.
+- **⚡ VID-052 SEO COMPLETE** — I199, Score 19/20. 3 AM BP Pattern/Reverse Dipping. P172 title pattern added. "Reverse dipping" terminology at only 1K views — first-mover window open.
+- **⚡ VID-050 + VID-051 THUMBNAIL BRIEFS COMPLETE** — VID-050: "GUT LEAKED" mechanism vs. "NORMAL but INFLAMED" paradox. VID-051: "MOUTH → BRAIN" journey vs. "SEES YOUR BRAIN" Alzheimer's stakes. New palettes: warm charcoal/olive + amber/coral (VID-050), midnight teal/navy + cyan/coral (VID-051).
+- **🆕 3 NEW competitor channels discovered:** Dr. Owen Senior Health ("STOP Doing These 7 Things Immediately"), Dr. Edward Hamilton | Senior Health ("NEVER Touch + MUST" binary food format, 170K-178K), Healthy Aging - Senior Health Tips (kidney vegetable content at 500K-637K — FILLS previously open niche).
+- **⚡ Dr. Alan Mandell muscle loss at 84K (+162%):** From 32K to 84K. Niche ACCELERATING.
+- **⚡ JOD "3 MOST IMPORTANT Moves For Seniors":** Fall prevention angle NEW for JOD.
+- **⚡ Dr. Elena Pierce entering BP measurement:** "Arm Position Blood Pressure" at 593 views (7 days). Competing with Whitmore's BP self-measurement niche.
+- **🔴 Kidney health niche CLOSING:** Healthy Aging at 500K-637K. Previously OPEN. First-mover window CLOSING FAST.
+- **🆕 10 new ideas generated (I208-I217):** Top: I212 (Facial Asymmetry, Score 19), I208 (Tongue Vascular Diagnostic, Score 19), I213 (Sitting Disease → Pancreas, Score 19), I215 (Asymmetric Hearing, Score 19), I217 (Knee Temperature, Score 19). All anti-template compliant with varied opening styles and item counts.
 
 ### New Insights from June 12 Scans
 - **⚡⚡ Senior Health Blog "EAT Bread/Rice WITHOUT Blood Sugar Spikes" at 568K:** NEW viral diabetes format. "EAT [Forbidden Carb] WITHOUT [Consequence]" is the breakout pattern. Combines food permission + condition management.

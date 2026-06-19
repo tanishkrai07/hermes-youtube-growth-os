@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-18
+> **Last Updated:** 2026-06-19
 
 ## Top Performing Title Formulas
 
@@ -399,9 +399,11 @@
 399|399|||||||||||||||||| 2026-06-16 | VID-045 (Morning Symptom/Heart Attack) | A: The Early Warning, B: The Bedside Test | New Brief |
 400|400|400|||||||||||||||||||| 2026-06-16 | VID-046 (Ears Ring Louder at Night) | A: The Nighttime Clue, B: The Hidden Pulse | New Brief |
 401|401|401|||||||||||||||||||||| 2026-06-18 | VID-047 (10-Second Balance Test) | A: The Single-Leg Challenge, B: The Mortality Data | New Brief |
-402|402|402|||||||||||||||||||||||| 2026-06-18 | VID-049 (Stair Climbing Vascular Pump) | A: The Stair Struggle, B: The Second Heart | New Brief |
-403|403|403|
-404|401|### New Palettes Added (June 15)
+|| 2026-06-18 | VID-049 (Stair Climbing Vascular Pump) | A: The Stair Struggle, B: The Second Heart | New Brief |
+|403|403|403||||||||| 2026-06-19 | VID-050 (Gut Leaked/Joint Inflammation) | A: The Hidden Pipeline, B: The Arthritis Test Paradox | New Brief |
+|404|404|||||||||||| 2026-06-19 | VID-051 (Dentist Sees Brain Inflammation) | A: The Bacterial Highway, B: The Alzheimer's Connection | New Brief |
+|405|405|405|405|
+406|406|403|### New Palettes Added (June 15)
 401|| Video | Primary | Accent 1 | Accent 2 | Status |
 402||-------|---------|----------|----------|--------|
 403||| VID-043 A | Arterial red (#B71C1C) → Charcoal (#263238) | Glowing teal (#00E5FF) | Warning yellow (#FDD835) / Ghosted gray (#90A4AE) | New — Brief |
@@ -423,9 +425,13 @@
 423||| VID-047 A | Volcanic black (#0D0D0D) → Ember red (#3E0000) | Electric cyan (#00E5FF) | Warm amber (#FFB300) | New — Brief |
 424|||| VID-047 B | Forest green (#1B5E20) / Charcoal (#263238) split | Warning red (#FF1744) | Electric yellow (#FFEB3B) | New — Brief |
 425||||| VID-049 A | Stone gray (#78909C) → Slate (#37474F) | Electric teal (#00BFA5) | Warm amber (#FFB300) / Electric coral (#FF6E40) | New — Brief |
-426|||||| VID-049 B | Ocean blue (#003B46) → Teal (#004D40) | Arterial red (#B71C1C) | Teal (#00BFA5) / Gray (#757575) | New — Brief |
-427|
-428|### New Palettes Added (June 13)
+|| VID-049 B | Ocean blue (#003B46) → Teal (#004D40) | Arterial red (#B71C1C) | Teal (#00BFA5) / Gray (#757575) | New — Brief |
+||| VID-050 A | Warm charcoal (#263238) → Olive (#37474F) gradient | Electric amber (#FFB300) | Warning coral (#FF6E40) / Orange-red (#FF5722) | New — Brief |
+|||| VID-050 B | Split: Sage green (#1B5E20) → Crimson (#B71C1C) | Green (#00E676) | Warning red (#FF1744) | New — Brief |
+||||| VID-051 A | Midnight teal (#00251A) → Dark navy (#0D1B2A) gradient | Electric cyan (#00E5FF) | Amber-gold (#FFB300) | New — Brief |
+|||||| VID-051 B | Split: Deep teal (#004D40) → Dark crimson (#4A0000) | Amber (#FFB300) | Electric coral (#FF6E40) | New — Brief |
+|428|
+### New Palettes Added (June 13)
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
 || VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
@@ -1191,5 +1197,76 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 2. **JOD food empire expansion:** "NEVER Eat" + "7 Egg Mistakes" + "5 Protein Foods" — moving from exercise into nutrition
 3. **Kapadia "Surgery is DEAD" format:** Potential template for Procedure Reversal content
 4. **Dr. Eliza Grant eye health entry:** Confirms eye health niche remains attractive despite saturation
+
+---
+
+## New Patterns Added 2026-06-19
+
+### New Title Formulas (June 19 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P065 | "The [Number] [Medication Type] Traps [Group] Fall Into (And How to Protect Yourself)" | Claire Whitmore | 2.5K |
+| P066 | "OVER [Age] [Number] [Food Category] You Should NEVER Touch – And [Number] You MUST" | Dr. Edward Hamilton | 170K-178K |
+| P067 | "If You're Over [Age], STOP Doing These [Number] Things Immediately (Most [Group] Don't Know This)" | Dr. Owen Senior Health | Emerging |
+| P068 | "The [Number] MOST IMPORTANT Moves For Seniors ([Outcome])" | Japan's Oldest Doctor | New |
+| P069 | "The ONE [Supplement/Food] That [Health Claim] (It's NOT [Common Belief]!)" | Claire Whitmore | New |
+| P070 | "Top [Number] Vegetables That [Heal/Harm] Your [Organ] After [Age] – Most Seniors Ignore #[Number]" | Healthy Aging - Senior Health Tips | 500K-637K |
+| P071 | "STOP Taking [Supplement] IMMEDIATELY If You're Eating THIS Food!" | Claire Whitmore | New |
+
+### New Viral Formats (June 19)
+1. **"Medication Traps" format** — Whitmore: "5 BP Medications Traps Seniors Fall Into." Reframes medication warnings as hidden traps. Empowerment angle: "how to protect yourself."
+2. **"NEVER Touch + MUST" binary food format** — Dr. Edward Hamilton: Prohibition + prescription in one title. Binary framing = curiosity + action. Cardiovascular surgeon authority.
+3. **"STOP Doing These [Number] Things Immediately" format** — Dr. Owen: Age trigger + prohibition + urgency + "most don't know" curiosity gap. Widely adaptable.
+4. **"MOST IMPORTANT Moves" exercise format** — JOD: Superlative + accessible language + outcome promise. Fall prevention angle.
+5. **"It's NOT [Common Belief]" supplement contradiction** — Whitmore: Contradiction + superlative + parenthetical surprise. Applied to leg circulation.
+6. **Kidney + Vegetable "Heal/Harm" format** — Healthy Aging: Organ-specific + vegetable + "most ignore #X" curiosity gap. 500K-637K views.
+7. **Supplement + Food Interaction format** — Whitmore: "STOP Taking [Supplement] IMMEDIATELY If You're Eating THIS Food!" — Expands supplement warnings into food interactions.
+
+### Updated Hook Rankings (June 19)
+- #1: **"Real Truth" hook** — "What's the Best [Metric] for Older Adults? (Know the Real Truth)" (1.3M, Kent)
+- #2: "The Day Before" hook — (1.5M, Waterling — now suppressed)
+- #3: **"How to Reverse" hook** — "How to Reverse [Condition] — What Actually Works (Doctor Explains)" (462K Kent / 393K Whitmore)
+- #4: "The ONE" hook
+- #5: **"NEVER Get/Take" authority contradiction** — Now working for medications (892K), medical procedures (583K), AND surgeries (73K Dr. Sarah Mitchell)
+- #6: **"NEVER Touch + MUST" binary food hook** — NEW (170K-178K, Dr. Edward Hamilton)
+- #7: **"Medication Traps" hook** — NEW (2.5K, Whitmore)
+- #8: **"STOP Doing These [Number] Things Immediately" hook** — NEW (Emerging, Dr. Owen)
+
+### New Niche Status Changes (June 19)
+- **Kidney Health (Vegetables):** 🟡 OPEN → 🔴 OCCUPIED (Healthy Aging at 500K-637K)
+- **Muscle Loss + Legs:** 🟡 GROWING → 🔴 ACCELERATING (Dr. Alan Mandell 84K, +162%)
+- **BP Self-Measurement:** Elena Pierce entering with "Arm Position Blood Pressure" (593 views, 7 days)
+
+### New Competitor Formats to Monitor (June 19)
+1. **Healthy Aging kidney vegetable empire:** "Top 5 Vegetables That Heal/Harm Your Kidneys After 60" — 500K-637K. FILLS previously open kidney niche.
+2. **Dr. Edward Hamilton "NEVER Touch + MUST":** Binary food prohibition format. Cardiovascular surgeon authority. 170K-178K.
+3. **Dr. Owen "STOP Doing" format:** Multi-video presence. Monitor for cross-posting farm pattern.
+4. **Whitmore magnesium empire expansion:** Now covering magnesium + food interactions. "STOP Taking Magnesium Glycinate IMMEDIATELY If You're Eating THIS Food!"
+5. **Dr. Elena Pierce BP measurement entry:** "Arm Position Blood Pressure" — directly competing with Whitmore's BP self-measurement niche.
+6. **JOD fall prevention expansion:** "The 3 MOST IMPORTANT Moves For Seniors" — entering fall prevention from exercise angle.
+
+### New Title Formulas (June 19 SEO Metadata)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P171 | "The Hidden [Structure] in Your [Body Part] That [Controls Function] — After [Age]" | Dr. Kane (VID-048) | New |
+| P172 | "Why Your [Metric] SPIKES at [Time] After [Age] — The [Medical Term] Danger" | Dr. Kane (VID-052) | New |
+
+### New Title Formulas (June 19 Idea List — Dr. Kane Original)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P173 | "Your [Body Part] Knows About [Organ] After [Age] ([Time]-Second Test)" | Dr. Kane (I210 Achilles) | New |
+| P174 | "The [Substance] in Your [Body Part] Is Going Somewhere After [Age] — Where It Ends Up" | Dr. Kane (I209 fluid redistribution) | New |
+| P175 | "Your [Body Part] Is [Adjective] After [Age] — The [System] Pattern That Matters" | Dr. Kane (I212 facial asymmetry) | New |
+| P176 | "The [Disease] After [60] Destroys One Organ First — It's Not Your [Common Organ]" | Dr. Kane (I213 sitting → pancreas) | New |
+| P177 | "Your Doctor Checks Your [Metric] in [Number] Spot After [Age] — [Number] More They're Missing" | Dr. Kane (I214 pulse points) | New |
+| P178 | "Why Your [Sense] Changes in [Location] After [Age] — The [System] Inside It" | Dr. Kane (I215 hearing) | New |
+| P179 | "Your [Body Part] at [Time] After [Age] — The [System] Running Through It" | Dr. Kane (I216 stomach growling) | New |
+| P180 | "The [Comparison] Between Your [Body Parts] After [Age] — [Action] Both Now" | Dr. Kane (I217 knee temperature) | New |
+
+### New Viral Formats (June 19 — Dr. Kane Originals)
+1. **"Gut-Joint Pipeline" format** — VID-050: Intestinal permeability → LPS → systemic inflammation → joint pain. NO competitor has this.
+2. **"Oral-Brain Bacterial Highway" format** — VID-051: Oral bacteria → bloodstream → brain inflammation → Alzheimer's. NO competitor has this.
+3. **"Hidden [Organ] That Controls [Function]" format** — VID-048: Carotid body anatomy UNOWNED.
+4. **"Reverse Dipping" BP terminology** — VID-052: Emerging medical term at only 1K views. First-mover window OPEN.
 
 ---
