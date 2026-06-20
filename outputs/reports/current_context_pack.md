@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-19 (Updated for June 20 production)
-**Focus:** VID-050 + VID-051 scripts complete | Thumbnail production for July 8/10 uploads | VID-048 + VID-052 scripts next
-**Priority:** 🔴 VID-048 (I191 Score 20) + VID-052 (I199 Score 19) scripts | VID-050/051 thumbnails | VID-041-046 thumbnails
+**Date:** 2026-06-20 (Updated for June 21 production)
+**Focus:** VID-048 + VID-053 scripts complete | VID-052 script next | Thumbnail production for July uploads
+**Priority:** 🔴 VID-052 (I199 Score 19) script | VID-048/053/047/049/050/051 thumbnails
 
 ---
 
@@ -26,11 +26,11 @@
 - VID-036 (Stair Climbing Vascular Pump) — June 17 upload — VERIFY PUBLISHED + THUMBNAILS
 - VID-SHORT-018 (Stairs teaser) — June 17 upload — VERIFY PUBLISHED
 
-### Scripts Complete, Thumbnails Needed (UPLOAD June 19 — 1 day lead time)
-- VID-028 (Nocturnal Hypoglycemia) — June 19 upload — 🔴 THUMBNAILS NEEDED
-- VID-030 (Morning Headache + BP Crisis) — June 19 upload — 🔴 THUMBNAILS NEEDED
-- VID-032 (Spine Curving/Organ Compression) — June 19 upload — 🔴 THUMBNAILS NEEDED
-- VID-037 (Stroke Warning Weeks Before) — June 19 upload — 🔴 THUMBNAILS NEEDED
+### Scripts Complete, Thumbnails Needed (UPLOAD June 19 — Verify)
+- VID-028 (Nocturnal Hypoglycemia) — June 19 upload — VERIFY PUBLISHED + THUMBNAILS
+- VID-030 (Morning Headache + BP Crisis) — June 19 upload — VERIFY PUBLISHED + THUMBNAILS
+- VID-032 (Spine Curving/Organ Compression) — June 19 upload — VERIFY PUBLISHED + THUMBNAILS
+- VID-037 (Stroke Warning Weeks Before) — June 19 upload — VERIFY PUBLISHED + THUMBNAILS
 - VID-SHORT-019 (Stroke teaser) — June 19 upload — Script complete
 
 ### Scripts Complete, Thumbnails Needed (June 24 uploads)
@@ -53,244 +53,77 @@
 - VID-SHORT-026 (Balance teaser) — July 1 upload — Script complete
 - VID-SHORT-028 (Stair teaser) — July 1 upload — Script complete
 
+### Scripts Complete, Thumbnails Needed (July 3 uploads)
+- VID-048 (Hidden BP Muscle/Carotid Body — I191, Score 20) — July 3 upload — ✅ SCRIPT COMPLETE
+- VID-SHORT-027 (Neck muscle teaser) — July 3 upload — Script complete
+
 ### Scripts Complete, Thumbnails Needed (July 8/10 uploads)
 - VID-050 (Gut Leaked → Joint Inflammation — I126, Score 21) — July 8 upload — ✅ SCRIPT COMPLETE
+- VID-052 (3 AM BP Pattern/Reverse Dipping — I199, Score 19) — July 8 upload — 🔴 SCRIPT NEEDED
 - VID-051 (Dentist Sees Brain Inflammation — I123, Score 20) — July 10 upload — ✅ SCRIPT COMPLETE
+- VID-053 (Lp(a) Blood Test — I219, Score 20) — July 10 upload — ✅ SCRIPT COMPLETE
 - VID-SHORT-029 (Gut-joint teaser) — July 8 upload — Script complete
 - VID-SHORT-030 (Dentist-brain teaser) — July 10 upload — Script complete
-
-### Scripts Needed (SEO Metadata Complete)
-- VID-048 (Hidden BP Muscle/Carotid Body — I191, Score 20) — July 3 upload — 🔴 SCRIPT NEEDED
-- VID-052 (3 AM BP Pattern/Reverse Dipping — I199, Score 19) — July 8 upload — 🔴 SCRIPT NEEDED
+- VID-SHORT-031 (Lp(a) teaser) — July 10 upload — Script complete
 
 ### Scripts Needed (No SEO Yet)
 - VID-038 (PPI Fall Risk — I161, Score 18) — TBD — 🔴 SCRIPT NEEDED
 - VID-039 (Bedtime Nerve Destruction — I168, Score 19) — TBD — SCRIPT NEEDED
 - VID-040 (Ozempic Vascular Effects — I169, Score 19) — TBD — SCRIPT NEEDED
 
-### Idea Bank Status (Updated June 19)
+### Idea Bank Status (Updated June 20)
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
 | I126/VID-050 | Gut Leaked → Joint Inflammation | Gut Health/Inflammation/Joints | 21 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
 | I123/VID-051 | Dentist Sees Brain Inflammation | Dental-Brain Axis | 20 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
-| I195 | 10-Second Balance Test Predicts Death Risk | Fall Prevention/Vascular | 20 | ✅ SCRIPT COMPLETE (VID-047) — SEO COMPLETE |
-| I198 | Stair Climbing Vascular Pump | Vascular/Functional Decline | 20 | ✅ SCRIPT COMPLETE (VID-049) — SEO COMPLETE |
-| I191 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | 🔴 SCRIPT NEEDED (VID-048) — SEO COMPLETE |
-| I199 | 3 AM BP Pattern/Reverse Dipping | Vascular/Sleep | 19 | 🔴 SCRIPT NEEDED (VID-052) — SEO COMPLETE |
-| I212 | Facial Asymmetry Vascular Pattern | Vascular/Neurological | 19 | 🟡 NEW IDEA — Priority queue |
-| I208 | Tongue Vascular Diagnostic | Oral-Systemic/Vascular | 19 | 🟡 NEW IDEA — Priority queue |
-| I213 | Sitting Disease → Pancreas | Metabolic/Sedentary | 19 | 🟡 NEW IDEA — Priority queue |
-| I215 | Asymmetric Hearing → Artery | Vascular/Auditory | 19 | 🟡 NEW IDEA — Priority queue |
-| I217 | Knee Temperature Comparison | Vascular/Self-Assess | 19 | 🟡 NEW IDEA — Priority queue |
-| I209 | Fluid Redistribution Journey | Cardiovascular/Fluid | 19 | 🟡 NEW IDEA — Standard queue |
-| I210 | Achilles Tendon Heart Risk | Cardiovascular/Musculoskeletal | 18 | 🟡 NEW IDEA — Standard queue |
-| I214 | Six-Point Pulse Check | Vascular/Advocacy | 18 | 🟡 NEW IDEA — Standard queue |
-| I216 | Nighttime Stomach Growling | Vascular/Digestive | 18 | 🟡 NEW IDEA — Backlog |
-| I211 | Denture Fit Bone Signal | Skeletal-Metabolic | 18 | 🟡 NEW IDEA — Backlog |
-| I189 | 3-Second Skin Pinch Test | Vascular/Dermological | 19 | 🟡 BACKLOG |
-| I190 | Dentist Knows Heart Risk | Oral-Systemic/Cardiovascular | 19 | 🟡 BACKLOG |
-| I192 | Pillow Height Brain Blood Flow | Sleep/Cervical/Vascular | 18 | 🟡 BACKLOG |
-| I193 | Toe Temperature Test | Vascular/Self-Assess | 19 | 🟡 BACKLOG |
-| I194 | Stomach Growling Artery Warning | Digestive/Vascular | 18 | 🟡 BACKLOG |
-| I196 | Eyelid Twitch Brain Signal | Neurological/Body Signal | 17 | 🟡 BACKLOG |
-| I197 | Bedtime Water Rule Arteries | Hydration/Cardiovascular | 18 | 🟡 BACKLOG |
-| I161 | PPI Medication → Fall Risk | Medication Safety | 18 | 🔴 SCRIPT NEEDED (VID-038) |
-| I168 | Bedtime Habit Destroying Nerves | Neurological/Sleep | 19 | 🟡 SCRIPT NEEDED (VID-039) |
-| I169 | Ozempic Shrinking Arteries | GLP-1/Vascular | 19 | 🟡 SCRIPT NEEDED (VID-040) |
+| I195/VID-047 | 10-Second Balance Test Predicts Death Risk | Fall Prevention/Vascular | 20 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
+| I198/VID-049 | Stair Climbing Vascular Pump | Vascular/Functional Decline | 20 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
+| I191/VID-048 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | ✅ SCRIPT COMPLETE — Thumbnails needed |
+| I219/VID-053 | Lp(a) Blood Test | Diagnostic Gap/Cardiovascular | 20 | ✅ SCRIPT COMPLETE — Thumbnails needed |
+| I223 | Morning Leg Pattern Predicts Heart Failure | Cardiovascular/Predictive | 20 | 🟡 NEW IDEA — Priority queue |
+| I218 | Fingertip Tingling at Night After 60 | Neurological/Vascular/Body Signal | 19 | 🟡 NEW IDEA — Priority queue |
+| I220 | Voice Changes After 60 — Artery Behind Vocal Cords | Vascular/ENT/Body Signal | 19 | 🟡 NEW IDEA — Priority queue |
+| I222 | Eyelids Sag After 60 — Ice Pack Test | Neurological/Muscular/Body Signal | 19 | 🟡 NEW IDEA — Priority queue |
+| I227 | Waist-to-Height Ratio After 60 | Metabolic/Body Composition | 19 | 🟡 NEW IDEA — Priority queue |
+| I199/VID-052 | 3 AM BP Pattern/Reverse Dipping | Vascular/Sleep | 19 | 🔴 SCRIPT NEEDED — SEO COMPLETE |
+| I221 | 30-Second Foot Pulse Test | Vascular/Self-Assessment | 18 | 🟡 NEW IDEA — Standard queue |
+| I225 | Taste Map on Your Tongue After 60 | Neurological/Sensory | 18 | 🟡 NEW IDEA — Standard queue |
+| I226 | Cold Hands But Warm Feet After 60 | Vascular/Autonomic | 18 | 🟡 NEW IDEA — Standard queue |
+| I224 | Easy Bruising After 60 — Vascular Fragility | Vascular/Dermological | 17 | 🟡 NEW IDEA — Standard queue |
+| I212 | Facial Asymmetry Vascular Pattern | Vascular/Neurological | 19 | 🟡 BACKLOG |
+| I208 | Tongue Vascular Diagnostic | Oral-Systemic/Vascular | 19 | 🟡 BACKLOG |
+| I213 | Sitting Disease → Pancreas | Metabolic/Sedentary | 19 | 🟡 BACKLOG |
+| I215 | Asymmetric Hearing → Artery | Vascular/Auditory | 19 | 🟡 BACKLOG |
+| I217 | Knee Temperature Comparison | Vascular/Self-Assess | 19 | 🟡 BACKLOG |
+| I161/VID-038 | PPI Medication → Fall Risk | Medication Safety | 18 | 🔴 SCRIPT NEEDED |
+| I168/VID-039 | Bedtime Habit Destroying Nerves | Neurological/Sleep | 19 | 🟡 SCRIPT NEEDED |
+| I169/VID-040 | Ozempic Vascular Effects | GLP-1/Vascular | 19 | 🟡 SCRIPT NEEDED |
 
-### 🔴 URGENT Production Pipeline (Score 18+, Updated June 19)
-1. **I191** (Score 20) — Hidden BP Muscle/Carotid Body. Script target: VID-048. SEO COMPLETE. Anatomy UNOWNED.
-2. **I199** (Score 19) — 3 AM BP Pattern/Stroke. Script target: VID-052. Reverse dipping terminology emerging at only 1K views. First-mover window open.
-3. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
-4. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
-5. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
-
-### What NOT to Do
-- Don't tell viewers to change medications based on blood type
-- Don't use alarmist "TOXIC" or "DESTROYING" language
-- Don't diagnose Parkinson's or essential tremor — frame as "discuss with a neurologist"
-- Don't make absolute claims ("your blood type means you WILL...")
-- Don't diagnose heart failure from edema alone
-- Frame as "research suggests" not "this is definitely happening to you"
-- Don't copy Whitmore's "Cardiologists Would Never Take Themselves" format
-- Don't recommend stopping PPIs — frame as awareness + doctor conversation
-- Don't recommend self-supplementing iron — frame as "evaluate GI tract first"
-- Don't tell viewers to self-diagnose AFib — frame as "report irregular pulse to doctor"
-- Don't tell viewers to request specific lab tests without doctor conversation
-- Never use "misleading" or "lies" about standard tests — frame accurately without being anti-doctor
-- Don't tell viewers to self-diagnose small-fiber neuropathy — frame as "ask about skin punch biopsy"
-- Don't tell viewers to self-diagnose from breath odor alone — frame as "mention to doctor as one data point"
-- Don't recommend stopping SGLT2 inhibitors — frame as "call doctor if fruity breath noticed"
-- Don't tell viewers to refuse prescribed antibiotics — frame as "ask about alternatives"
-- Don't tell viewers to stop beta-blockers abruptly — withdrawal is dangerous
-- Don't tell viewers to self-supplement magnesium without lab work
-- Don't tell viewers to self-adjust diabetes medications — always "discuss with your doctor"
-- Don't tell viewers they have NAFLD without imaging — frame as "ask about FIB-4 score and FibroScan"
-- Don't tell viewers their morning headache is definitely from high BP — frame as "discuss with your doctor"
-- Don't tell viewers to change medication timing on their own — frame as "ask your doctor"
-- Don't tell viewers coffee "cures" fatty liver — frame as "associated with lower fibrosis risk"
-- Don't produce generic leg health/exercise content — HYPER-SATURATED (10M+ views)
-- Don't enter GLP-1/Ozempic niche without vascular mechanism angle (I169 only)
-- Don't tell viewers they have UARS without a sleep study — frame as "ask about ODI"
-- Don't tell viewers their organs are "being crushed" — frame as "reduced space for organs to function"
-- Don't recommend specific exercises for kyphosis without doctor approval
-- Don't produce standalone microplastics content — audience not interested
-- Don't use "Mind-Blowing Benefits" supplement format — Whitmore owns at 1.57M
-- Don't use "Taking [Med A], [Med B], or [Med C]" format — Saturating at 601K
-- Don't enter BP medication timing (general) — Getting crowded with multiple new entrants
-- Don't tell viewers their soleus is "failing" diagnostically — frame as "pump fibers may be declining"
-- Don't tell viewers to self-diagnose TIA — frame as "seek immediate medical evaluation"
-- Don't tell viewers to drive themselves to ER during active neurological symptoms — "call 911"
-- Don't use "mini-stroke" without explaining it's a real stroke that resolved
-- Don't tell viewers exercises will "cure" vascular problems — frame as "may improve"
-- Don't tell viewers to self-supplement magnesium without kidney function check
-- Don't tell viewers their magnesium oxide is "useless" — frame as "may not be optimal form"
-- Don't tell viewers they are "non-dippers" — frame as "ask about 24-hour BP monitoring"
-- Don't tell viewers bedtime dosing is "better" — frame as "discuss with your doctor"
-- Don't tell viewers they are having a heart attack from morning breathlessness alone
-- Don't tell viewers their tinnitus is "definitely" from high blood pressure
-- Don't diagnose carotid artery stiffness from tinnitus alone
-- Don't tell viewers they have failed a "death test" — frame balance test as "one data point to discuss with your doctor"
-- Don't tell viewers their carotid body is "failing" — frame as "baroreceptor sensitivity may decline with age"
-- Don't tell viewers to self-diagnose balance disorders — frame as "ask about formal fall risk assessment"
-- Don't tell viewers to request carotid ultrasound without clinical indication
-- Don't tell viewers their neck muscle "controls" their BP absolutely — frame as "one factor among many"
-- Don't recommend specific neck exercises without doctor approval
-- Don't tell viewers they have leaky gut without testing — frame as "discuss with your doctor"
-- Don't tell viewers their joint pain is definitely from gut issues — frame as "one possible cause worth investigating"
-- Don't tell viewers they have Alzheimer's from gum disease — frame as "associated with" not "causes"
-- Don't tell viewers dental cleaning prevents Alzheimer's — frame as "reduces inflammatory burden"
-- Don't diagnose periodontal disease from symptoms alone — recommend professional evaluation
-
-### Anti-Template Rules Reminder
-- Vary the number of items in lists (not always "3 things")
-- Vary the opening style (patient story, myth, surprising fact, direct question)
-- No formulaic "If you're over 60, you need to know this" openings
-- Each script's structure must serve its specific content
-- Use "#" superlative hooks when appropriate (trending over "THE ONE")
-- "INSTANTLY" format is #1 performing hook — adapt with mechanism depth
-
-### YouTube Policy Compliance Reminder
-- One channel, one upload per video, original content only
-- 3-4 uploads per week maximum
-- Transparent about AI assistance in production
-- No multi-ID upload strategy
-- "Hot take > plain facts" — channels with opinions survive enforcement
-- Every video must include Dr. Kane's original commentary and professional opinion
-- Multi-ID competitors (Franklin 7+, Carter 3, Whitmore 2) are at HIGH enforcement risk
-
-### Key Competitor Threats (Updated June 19)
-- **Claire Whitmore 🔴🔴:** 1M "11 MISTAKES" (NEW!) + 660K BP meds + 1.57M berberine + 209.6K BP Timing + 134K Vit D + 70K overnight blood sugar + 18.8K magnesium + Multi-ID. Now in 5+ pillars. Fastest-growing competitor.
-- **Dr. Michael Kent 🔴🔴:** Eye niche DOMINANCE (956K+727K=1.7M+). Blood sugar expansion (378K). Memory at 349K. New uploads stalling (1-39 views).
-- **Dr. Sumit Kapadia 🔴🔴:** "Your Legs Can Predict Your Death" (85K) + "Arteries Collapsing at Night" (24.8K) + "30-60-5 Rule" (NEW) + "Calcium Clogging Arteries" (15K). MOST DANGEROUS vascular authority competitor.
-- **Healthy Seniors 🟡↑:** Stroke "Day Before" at 565K + TIA at 372K. FILLING Waterling's gap.
-- **Dr. Elena Pierce 🟡:** NEW competitor at 490K. "REAL [Metric]" format. Monitor.
-- **Dr. Thomas 🟡:** NEW competitor at 1M. "BRAIN Doctor" authority + shock format.
-- **TopHealthTips 🔴🔴:** 1.46M leg circulation video. Direct competition at massive scale.
-- **Senior Book 🔴🔴:** 826K leg exercise video. "Surgeon reveals" authority format.
-- **Japan's Oldest Doctor 🔴🔴:** Neuropathy video CROSSED 1M. Nerve repair at 99K. Now dominating 7+ sub-niches.
-- **Dr. Arthur Clark 🟡↑:** Diabetic milk at 91.4K + olive oil at 573 + water + sarcopenia at 11.2K. Growing fast.
-- **Dr. James Hargrove 🟡:** Water/blood flow breakout (50K). Entering diagnostic gap space.
-- **Senior Health Blog 🔴:** Diabetes niche DOMINANCE (1.3M+). Bedtime seeds format (150K).
-- **Dr. Franklin 🔴:** 7+ IDs running identical nail content. YouTube enforcement time bomb.
-- **Dr. Ibrahim Khan 🟡:** Age spots niche (53.6K). Growing.
-- **Dr. William Arden 🟡:** Ozempic content at 19.2K (growing). "Dr. Now Diet Plan" at 58K.
-- **Dr. Alex Carter 🟡:** "Medication Trio" format at 601K. Format saturating.
-- **Dr. Nathaniel Brooks 🟡:** Body warning content DOUBLED to 545.7K.
-- **More Life Health 🟡:** 2.57M leg strengthening video. Now a MAJOR player.
-- **Vascular Surgeon 🟡:** Mechanism content at 40.6K. Direct threat.
-- **Dr. William Li 🟢:** INACTIVE (4 months). Risk DOWNGRADED.
-- **Dr. Waterling 🟢:** PERMANENTLY SUPPRESSED. Stroke niche window WIDE OPEN.
-- **Healthy Aging - Senior Health Tips 🟡:** NEW at 500K-637K. FILLING kidney vegetable niche. First-mover window CLOSING.
-- **Dr. Edward Hamilton 🟡:** NEW at 170K-178K. "NEVER Touch + MUST" binary food format. Cardiovascular surgeon authority.
-- **Dr. Owen Senior Health 🟡:** NEW. "STOP Doing These 7 Things Immediately" format. Monitor for cross-posting farm pattern.
-
-### Content Chain (Updated June 19)
-- VID-002 (Microplastics Brain) → VID-010 (Microplastics Gut) via end screen (series)
-- VID-017 (Balance Loss) → VID-018 (Hand Tremor) via end screen
-- VID-018 (Hand Tremor) → VID-019 (Taste Changes) via end screen
-- VID-021 (Heartbeat/Stroke) → VID-022 (Kidney Test) via end screen
-- VID-022 (Kidney Test) → VID-021 (Heartbeat/Stroke) via end screen
-- VID-023 (Burning Feet) → VID-024 (Breath Odor) via end screen
-- VID-024 (Breath Odor) → VID-023 (Burning Feet) via end screen
-- VID-027 (Antibiotic Tendon) → VID-028 (Nocturnal Hypoglycemia) via end screen
-- VID-028 (Nocturnal Hypoglycemia) → VID-027 (Antibiotic Tendon) via end screen
-- VID-029 (Fatty Liver) → VID-030 (Morning Headache + BP Crisis) via end screen
-- VID-030 (Morning Headache) → VID-029 (Fatty Liver) via end screen
-- VID-031 (Sleep/Oxygen) → VID-032 (Spine Curving) via end screen
-- VID-032 (Spine Curving) → VID-031 (Sleep/Oxygen) via end screen
-- VID-036 (Stair Climbing) → VID-037 (Stroke Warning) via end screen
-- VID-037 (Stroke Warning) → VID-036 (Stair Climbing) via end screen
-- VID-041 (Nail Ridges) → VID-042 (Carotid/Dementia) via end screen
-- VID-042 (Carotid/Dementia) → VID-041 (Nail Ridges) via end screen
-- VID-043 (Magnesium/Arteries) → VID-044 (BP Medicine Timing) via end screen
-- VID-044 (BP Medicine Timing) → VID-043 (Magnesium/Arteries) via end screen
-- VID-045 (Morning Symptom/Heart Attack) → VID-046 (Ears Ring Louder at Night) via end screen
-- VID-046 (Ears Ring Louder at Night) → VID-045 (Morning Symptom/Heart Attack) via end screen
-- VID-047 (Balance Test) → VID-048 (Hidden BP Muscle) via end screen
-- VID-048 (Hidden BP Muscle) → VID-044 (BP Medicine Timing) via end screen
-- VID-050 (Gut Leaked/Joints) → VID-051 (Dentist/Brain Inflammation) via end screen
-- VID-051 (Dentist/Brain) → VID-050 (Gut Leaked/Joints) via end screen
-- VID-SHORT-016 → VID-031 (teaser → full)
-- VID-SHORT-017 → VID-032 (teaser → full)
-- VID-SHORT-018 → VID-036 (teaser → full)
-- VID-SHORT-019 → VID-037 (teaser → full)
-- VID-SHORT-022 → VID-043 (teaser → full)
-- VID-SHORT-023 → VID-044 (teaser → full)
-- VID-SHORT-024 → VID-045 (teaser → full)
-- VID-SHORT-025 → VID-046 (teaser → full)
-- VID-SHORT-026 → VID-047 (teaser → full)
-- VID-SHORT-027 → VID-048 (teaser → full)
-- VID-SHORT-029 → VID-050 (teaser → full)
-- VID-SHORT-030 → VID-051 (teaser → full)
-
-### Structural Variety Log
-| Video | Opening Style | Core Structure | Closing Style |
-|-------|--------------|----------------|---------------|
-| VID-001 (Nocturia) | Specific time observation (2:47 AM) | 3-cause mechanism breakdown | Forward tease (microplastics) |
-| VID-002 (Microplastics) | Surprising statistic (credit card weight) | Pathway → mechanism → evidence → action | Forward tease (leg health) |
-| VID-004 (Blood Type) | Clinical pattern observation | Biology → studies → practical implications | Forward tease (nail health) |
-| VID-017 (Balance) | Direct question + myth challenge | 3-system framework → medication compounding → action | Forward tease (hand tremor) |
-| VID-018 (Tremor) | Emotional fear acknowledgment | Taxonomy classification → medication misdiagnosis → framework | Forward tease (taste changes) |
-| VID-019 (Stomach Acid) | Clinical mystery (medication stops working) | Mystery → Mechanism → 5-drug map → PPI cascade → Protocol | Patient resolution story + forward tease |
-| VID-020 (Iron) | Empathic frustration validation | Test explanation → Ferritin deception → sTfR → 3 drains → Doctor script | Word-for-word conversation script + forward tease |
-| VID-021 (Heartbeat) | Real-world patient discovery (Robert's Apple Watch) | Discovery → Detection gap → Self-check method → Action protocol | Patient resolution + reflection + forward tease |
-| VID-022 (Kidney) | Direct challenge to assumptions | Challenge → Paradox explained → Better marker → Advocacy script | Empowerment + bonus insight (BUN:Cr ratio) + forward tease |
-| VID-023 (Burning Feet) | Sensory immersion ("imagine your feet burning at 11 PM") | Sensory mystery → Normal-test paradox → Small-fiber mechanism → Biopsy revelation → 3 treatable causes → Action protocol | Hope (nerve regeneration) + specific test requests + forward tease |
-| VID-024 (Breath Odor) | Social embarrassment story (Margaret's experience) | Social story → Clinical pivot → Organ breath map (4 patterns) → Emergency red flags → Reassurance → Self-test → Emotional resolution | Patient resolution (Margaret's hugs) + reassurance framework + forward tease |
-| VID-027 (Antibiotics) | Direct confrontation ("This medication can rupture your tendon") | Drug ID → Mechanism (Mg chelation) → Risk stratification → 6-month timeline revelation → Warning signs → Doctor conversation protocol → Clinical guidance | Patient outcome honesty (David's lasting weakness) + empowerment + warm sign-off |
-| VID-028 (Hypoglycemia) | Medical mystery story ("Let me tell you about a patient") | Mystery presentation → Physiology → 3-drug interaction stack → Why system misses it → Self-detection protocol → Doctor conversation → Emergency guidance → Patient resolution | Patient resolution with specific outcome data + warm sign-off |
-| VID-029 (Fatty Liver) | Assumption challenge ("The word 'normal' may be the most dangerous miscommunication") | Assumption setup → Test flaw explanation (ALT/AST measure damage not fat) → Better screening (FIB-4 + FibroScan) → Compounding risk after 60 → Evidence-based interventions → Practical doctor conversation script | Empowerment through understanding + specific test request + warm sign-off |
-| VID-030 (Morning Headache) | Symptom recognition ("You wake up with a headache — and you've stopped noticing") | Symptom pattern → Mechanism (nocturnal BP surge → vessel pain) → Diagnostic gap (office BP misses nighttime) → 3-position home test protocol → Causes (sleep apnea, med timing, cortisol) → Stroke risk urgency → Action steps | Direct agency message ("before the ibuprofen, reach for the BP cuff") + warm sign-off |
-| VID-031 (Sleep/Oxygen) | Paradox hook ("You slept 8 hours but woke up tired") | Paradox → Patient story (Robert's diagnostic journey) → Mechanism (UARS vs. apnea, AHI vs. ODI) → Diagnostic gap (standard sleep studies miss ODI) → Self-assessment + doctor script → Action steps (bed elevation, nasal support, alcohol timing) → Emotional close (Robert's resolution) | Empowerment through understanding + forward tease |
-| VID-036 (Stair Climbing) | Functional observation ("the last time you climbed stairs") | Muscle-as-organ reframing → Mechanism (soleus-as-pump) → Fiber-type distinction → Self-test (3-position stair test) → Exercise protocol (3 seated soleus exercises) | Three-exercise pump protocol + forward tease |
-| VID-037 (Stroke Warning) | Patient story (Robert's 4 warnings over 2 weeks) | Narrative anchor → Mechanism (micro-emboli from carotid plaque) → 4-pattern taxonomy (visual, language, facial, motor) → Self-advocacy script ("transient neurological episode") → Patient's own words ("Don't be me") | Patient resolution + forward tease |
-| VID-041 (Nail Ridges) | Visual self-discovery prompt ("Hold your hands out. Look at your nails.") | Pattern taxonomy (4 ridge types) → Organ mapping with timeline tracking → Interactive self-test (Schamroth's window) → 60-second self-assessment protocol → Specific action triggers ("Call your doctor if...") | Practical self-assessment tool + forward tease |
-| VID-042 (Carotid/Dementia) | Hidden anatomical revelation ("There's a blood vessel in your neck that knows your brain's future") | Anatomical connection (embryology) → Test explanation (CIMT ultrasound) → Barrier explanation (3 reasons doctors don't order it) → Advocacy script (exact words) → Results interpretation → Empowerment close ("Know your CIMT. Protect your brain.") | Empowerment through knowledge + forward tease |
-| VID-043 (Magnesium/Arteries) | Scientific myth-opening ("You're taking magnesium. Your arteries can't feel it.") | Pharmacy maze (form comparison) → Vascular smooth muscle mechanism (Ca/Mg tug-of-war) → Test gap (RBC vs serum Mg) → Form selection guide (taurate > oxide) → Doctor conversation script | Practical form selection + forward tease |
-| VID-044 (BP Timing) | Paradox observation (morning BP good, nighttime BP unknown) | Nighttime pattern revelation (non-dipper 40%) → Circadian pharmacology mechanism (CYP450/BMAL1/CLOCK) → Hygia Trial evidence (45% fewer events) → Patient story (Robert's stroke) → 4-point measurement protocol → Doctor conversation script | Empowerment through data + forward tease |
-| VID-045 (Morning Symptom) | Intimate patient story (Margaret's morning breathlessness) | Patient narrative → The symptom nobody names → Mechanism (coronary stenosis → compensatory breathing) → Why it's dismissed → The 6-month timeline → Self-monitoring protocol → Emotional resolution | Patient resolution + forward tease |
-| VID-046 (Nighttime Tinnitus) | Direct sensory experience ("Imagine lying in bed — and your ears are louder than ever") | Sensory hook → Masking phenomenon explanation → Pulsatile vs non-pulsatile distinction → Nocturnal BP amplification mechanism → Self-assessment (fingertip test) → When it's vascular vs not → Actionable steps → Warm close | Empowerment through understanding + forward tease |
-| VID-047 (Balance Test) | Interactive challenge opening ("stand on one leg right now") | Mortality data reveal → Four-system integration explanation → Why each system fails after 60 → The vascular connection (cerebral blood flow/baroreflex) → Age-stratified norms → Self-assessment flow chart → 3-step balance rebuilding protocol → Empowerment close |
-| VID-048 (Hidden BP Muscle) | TBD — Script needed | TBD — Carotid body anatomy | TBD |
-| VID-049 (Stair Climbing) | Functional self-test opening ("the last time you climbed stairs") | Wrong diagnosis pattern → Vascular anatomy lesson (soleus as second heart) → The traffic jam mechanism → Why exercise-only advice fails → The seated soleus sustain protocol → Patient story (Frank's recovery) → Empowerment close |
-| VID-050 (Gut Leaked/Joints) | Patient story opening (Helen's unexplained joint pain) | Wrong diagnosis pattern → Gut-joint mechanism revelation (LPS pipeline) → Why arthritis tests miss it → 4-question self-assessment → 3 dietary interventions (L-glutamine, targeted probiotics, trigger removal) → Patient resolution (Helen's recovery) → Empowerment close |
-| VID-051 (Dentist/Brain) | Surprising clinical observation (Robert's cognitive symptoms + dentist's chart note) | Bacterial identification (P. gingivalis, T. denticola) → Oral-blood-brain highway mechanism → Alzheimer's connection (gingipains in brain tissue) → Why dentists see it first → 3 oral signs self-assessment → Dental advocacy protocol (probing depth questions) → Empowerment close |
+### 🔴 URGENT Production Pipeline (Score 18+, Updated June 20)
+1. **I199** (Score 19) — 3 AM BP Pattern/Reverse Dipping. Script target: VID-052. Reverse dipping terminology emerging at only 1K views. First-mover window open. SEO COMPLETE.
+2. **I223** (Score 20) — Morning Leg Pattern/HFpEF. Script target: TBD. Zero competition. HFpEF is the most underdiagnosed heart failure.
+3. **I218** (Score 19) — Fingertip Tingling. High emotional resonance, interactive self-test, zero competition.
+4. **I220** (Score 19) — Voice Changes + Aortic Arch. Unique ENT-vascular bridge, zero competition.
+5. **I222** (Score 19) — Ptosis + Ice Pack Test. Simple home test with dramatic diagnostic power, zero competition.
+6. **I227** (Score 19) — Waist-to-Height Ratio. Highly shareable, practical, zero competition.
+7. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
+8. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
+9. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
 
 ---
 
-## Tomorrow's Priorities (June 20)
+## Tomorrow's Priorities (June 21)
 
 ### 🔴 Critical (TODAY)
-1. **Upload VID-028/030/032/037** — June 19 upload with thumbnails (if not already done)
-2. **Monitor CTR at 24h** — Check all June 17 uploads for CTR performance (target >6%)
+1. **Produce VID-048 thumbnails** — Hidden BP Muscle/Carotid Body — Upload July 3 (script complete)
+2. **Produce VID-053 thumbnails** — Lp(a) Blood Test — Upload July 10 (script complete)
+3. **Monitor CTR at 48h** — Check all June 19 uploads for CTR performance (target >6%)
 
 ### 🟡 Important (This Week)
-3. **Produce VID-041/043/045 thumbnails** — For June 24 upload
-4. **Produce VID-047/049 thumbnails** — For July 1 upload (scripts complete)
-5. **Produce VID-050/051 thumbnails** — For July 8/10 uploads (scripts complete)
-6. **Begin VID-048 script** — I191: Hidden BP Muscle/Carotid Body (Score 20, SEO complete)
+4. **Produce VID-041/043/045 thumbnails** — For June 24 upload
+5. **Produce VID-047/049 thumbnails** — For July 1 upload (scripts complete)
+6. **Produce VID-050/051 thumbnails** — For July 8/10 uploads (scripts complete)
 7. **Begin VID-052 script** — I199: 3 AM BP Pattern/Reverse Dipping (Score 19, SEO complete)
 
 ### 🟢 When Time Permits
@@ -299,8 +132,8 @@
 
 ---
 
-*Context pack updated: 2026-06-19 by Memory Curator Agent*
-*Next update: 2026-06-20*
+*Context pack updated: 2026-06-20 by Memory Curator Agent*
+*Next update: 2026-06-21*
 
 ---
 
@@ -313,10 +146,10 @@
 | Tue June 17 | VID-031 (Sleep/Oxygen Drop — UARS) | Long | VERIFY PUBLISHED |
 | Tue June 17 | VID-036 (Stair Climbing Vascular Pump) | Long | VERIFY PUBLISHED |
 | Tue June 17 | VID-SHORT-018 (teaser) | Short | VERIFY PUBLISHED |
-| Thu June 19 | VID-028 (Nocturnal Hypoglycemia) | Long | 🔴 Thumbnails needed |
-| Thu June 19 | VID-030 (Morning Headache + BP Crisis) | Long | 🔴 Thumbnails needed |
-| Thu June 19 | VID-032 (Spine Curving/Organ Compression) | Long | 🔴 Thumbnails needed |
-| Thu June 19 | VID-037 (Stroke Warning Weeks Before) | Long | 🔴 Thumbnails needed |
+| Thu June 19 | VID-028 (Nocturnal Hypoglycemia) | Long | VERIFY PUBLISHED |
+| Thu June 19 | VID-030 (Morning Headache + BP Crisis) | Long | VERIFY PUBLISHED |
+| Thu June 19 | VID-032 (Spine Curving/Organ Compression) | Long | VERIFY PUBLISHED |
+| Thu June 19 | VID-037 (Stroke Warning Weeks Before) | Long | VERIFY PUBLISHED |
 | Thu June 19 | VID-SHORT-019 (teaser) | Short | Script complete |
 | Tue June 24 | VID-041 (Fingernail Ridges/Organ Map) | Long | Thumbnails needed |
 | Tue June 24 | VID-043 (Magnesium Mistake/Arteries) | Long | Thumbnails needed |
@@ -330,12 +163,13 @@
 | Thu June 26 | VID-SHORT-025 (teaser) | Short | Script complete |
 | Tue July 1 | VID-047 (10-Second Balance Test) | Long | ✅ Script complete — Thumbnails needed |
 | Tue July 1 | VID-049 (Stair Climbing Vascular Pump) | Long | ✅ Script complete — Thumbnails needed |
-| Thu July 3 | VID-048 (Hidden BP Muscle) | Long | 🔴 Script needed |
+| Thu July 3 | VID-048 (Hidden BP Muscle) | Long | ✅ Script complete — Thumbnails needed |
 | Tue July 8 | VID-050 (Gut Leaked/Joint Inflammation) | Long | ✅ Script complete — Thumbnails needed |
 | Tue July 8 | VID-052 (3 AM BP Pattern) | Long | 🔴 Script needed |
 | Thu July 10 | VID-051 (Dentist Sees Brain Inflammation) | Long | ✅ Script complete — Thumbnails needed |
+| Thu July 10 | VID-053 (Lp(a) Blood Test) | Long | ✅ Script complete — Thumbnails needed |
 
 ---
 
-*Context pack updated: 2026-06-19 by Memory Curator Agent*
-*Next update: 2026-06-20*
+*Context pack updated: 2026-06-20 by Memory Curator Agent*
+*Next update: 2026-06-21*

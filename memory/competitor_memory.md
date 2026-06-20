@@ -1,7 +1,7 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-19 (Competitor Watcher scan — 71+ tracked, 3 new discovered)
-> **Total Tracked Competitors:** 68+ (67 active + 1 removed)
+> **Last Updated:** 2026-06-20 (Competitor Watcher scan — 72+ tracked, 2 new discovered)
+> **Total Tracked Competitors:** 70+ (69 active + 1 removed)
 > **Note:** Firecrawl search API still offline (credits exhausted since Jun 8). Data sourced via web_search YouTube search only.
 
 ## Active Competitors (Elder Health / Senior Wellness)
@@ -11,7 +11,7 @@
 | **Claire Whitmore** ⚡⚡⚡ MEGA-BREAKOUT + MEASUREMENT ERRORS + BP MEDS + ARTERIES + BLOOD SUGAR | "SENIORS, What's the Best Blood Pressure For Older Adults? (Know The TRUTH!)" (1.1M, UP from 1M) + "Optimal Blood Pressure Targets with Age" (657K) + "#1 Best Meal to UNCLOG Your Arteries" (653K) + "#1 Most Disgusting Drink That Clears Your Arteries" (NEW) + "These 3 BP Medications Are Quietly Destroying Your Heart After 60" (660K) + "The Mind-Blowing Benefits of Berberine" (1.57M) + "SENIORS: Poor Leg Circulation? Do These 4 Moves" (45.9K) + "Neurologist Reveals: The 60 Second Exercise to Recover Your Memory" (12K) + "The Magnesium Mistake → Stroke" (18.8K) + "STOP Taking Magnesium Glycinate Immediately" (258) + "Which Magnesium Is Actually Best For BP" (1.7K) + "The Only Magnesium Type That Actually Lowers BP" (3.2K) | **~6M+** | Berberine/Supplements (DOMINANT) + BP Timing + Magnesium + Heart Nutrition + Leg Health + Meds + Muscle Loss + Ozempic/GLP-1 + AFib + Supplement Interactions + Arterial Health + Overnight Blood Sugar + Memory + BP Self-Measurement (1M) + "Most Disgusting Drink" (NEW) | 🔴🔴 HIGHEST — "Most Disgusting Drink That Clears Your Arteries" is NEW viral format. Multi-version strategy confirmed. Multi-ID expanding FAST. |
 | **Dr. Michael Kent** ⚡⚡⚡ EYE + BLOOD SUGAR + MEMORY + SURGERY | "I am a Surgeon and I would NEVER recommend these 5 surgeries to my parents" (232K, NEW) + "Forget Carrots — Tiny Seed Repairs Eyes" (956.5K) + "Blood Sugar Real Truth" (1.31M) + "10 Fruits That Reverse Blood Sugar" (378K) + "NEVER Take Mag Glycinate with D3 & K2" (156K) + "Japan's Oldest Doctor: Leg Circulation" (176K) + "Doctor Warning: This Common Fruit Is Quietly Destroying Your Memory" (349K) + "8 Symptoms of PANCREATIC CANCER Seniors Should Never Ignore" (20K) | **~3.5M+** | Eye Health (DOMINANT) + Blood Sugar + Memory/Cognitive + Leg Circulation + Supplement Interactions + Surgery Contradiction (NEW) + Pancreatic Cancer | 🔴🔴 HIGHEST — Surgery contradiction format at 232K is NEW expansion. Pancreatic cancer content emerging. |
 | **Japan's Oldest Doctor** ⚡⚡⚡ NEUROPATHY + NERVE REPAIR + FOOD WARNING + MUSCLE + SLEEP | "ONLY 4 Exercises to Relieve Neuropathy" (1M) + "Do This Before Bed To Repair Your Nerves While You Sleep" (99.9K) + "How to Stop Tripping" (537K) + "INSTANTLY Improve Leg Circulation" (176K) + "NEVER Have Shoulder Pain Again" (380K) + "5 Exercises To NEVER Lose Balance Again" (182K) + "3 Bedtime Stretches Helped 1M+ Seniors Sleep" (538K) + "Do NOT forget this before sleep" (NEW) + "NEVER Eat These 4 Foods" (NEW) + "7 Egg Mistakes That Can Harm Your Health" (NEW) + "5 Protein Foods That PROTECT Your Muscles" (NEW) + "8 Foods That Restore Leg Power in 12 Hours" (NEW) | **~3.4M+** | Leg Circulation / Balance / Neuropathy / Shoulder Pain / Sleep / Nerve Repair / Sciatica / Stroke + Food Warning (NEW) + Muscle Protection (NEW) | 🔴🔴🔴 HIGHEST — Now dominating 9+ sub-niches. "NEVER Eat" + "Do NOT forget" + "Egg Mistakes" = food warning empire expanding. |
-| **Dr. Sumit Kapadia Vascular Surgeon** ⚡⚡⚡ MECHANISM EMPIRE + SEDENTARY + VARICOSE VEIN + MORTALITY FEAR | "Varicose Vein Surgery is DEAD in 2026! Laser, RFA" (81K, NEW) + "Sitting 8 Hours? A Vascular Surgeon's 30-60-5 Rule to Save Your Legs" (NEW) + "This One Muscle Is Destroying Your Leg Circulation" (52K, NEW) + "Your Legs Can Predict Your De@th" (85.3K) + "Your Arteries Are Collapsing at Night" (24.8K) + "5 Chair Exercises That Can Save Your Legs" (200.3K) + "Stop Taking Calcium Alone! It's Clogging Your Arteries" (15K) + "Podcast launched" (Apr 2026) | **~2.7M+** | Leg Circulation + Varicose Veins + Clot Detection + Stroke Warning + Sleep Position + Blood Test Advocacy + Mortality Fear + Nighttime Vascular Threats + Sedentary Sitting + "Surgery is DEAD" format (NEW) + Podcast (NEW) | 🔴🔴 HIGHEST — "Varicose Vein Surgery is DEAD" is NEW format. Podcast = content distribution expansion. Direct vascular authority threat to Dr. Kane. |
+|| **Dr. Sumit Kapadia Vascular Surgeon** ⚡⚡⚡ MECHANISM EMPIRE + SEDENTARY + VARICOSE VEIN + MORTALITY FEAR + MICROPLASTICS | "Varicose Vein Surgery is DEAD in 2026! Laser, RFA" (81K) + "Sitting 8 Hours? A Vascular Surgeon's 30-60-5 Rule to Save Your Legs" (347K, UP from NEW) + "This One Muscle Is Destroying Your Leg Circulation" (52K) + "Your Legs Can Predict Your De@th" (85.3K) + "Your Arteries Are Collapsing at Night" (24.8K) + "5 Chair Exercises That Can Save Your Legs" (200.3K) + "MICROPLASTICS in Your Blood and Vascular Health" (NEW) + "Are Microplastics Dangerous? A Cancer Surgeon Tells You..." (86K, podcast cross-post) + "Microplastics in the Body | How to AVOID and ELIMINATE Them!" (2K) + "Podcast: Diabetes is Silently Blocking Your Blood Vessels" | **~3.1M+** | Leg Circulation + Varicose Veins + Clot Detection + Stroke Warning + Sleep Position + Blood Test Advocacy + Mortality Fear + Nighttime Vascular Threats + Sedentary Sitting + "Surgery is DEAD" format + Podcast + Microplastics (NEW — entering niche!) | 🔴🔴🔴 HIGHEST — Microplastics entry validates niche but Kapadia brings 1M+ subs. 30-60-5 rule at 347K. Most dangerous vascular authority. |
 | **Dr. Sarah Mitchell** 🆕⚡ MULTI-ID BLOOD TESTS + MEDICATIONS | "The 5 Blood Tests Every Senior Must Demand From Their Doctor" (681K) + "SENIORS OVER 60: These 7 Popular Medications Are..." (682K) + "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Medications After 70" (125K) + "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Supplements After 65" (32.8K) + "I'm a Doctor and I Would NEVER Recommend These 5 Surgeries" (NEW) | **~1.5M+ combined** | Blood Test Advocacy (DOMINANT at 681K) + Medication Warnings + Supplement Warnings + Surgery Contradiction | 🔴 HIGH — NEW major competitor. "NEVER Let My Mother Take" is NEW authority contradiction format. Blood tests at 681K FILLS previously open niche. Multi-format expansion. |
 | **TopHealthTips** ⚡⚡⚡ MAJOR PLAYER | "Poor Leg Circulation? 30-Second Test + 3 Fast Fix Exercises" (1.46M) + "4 Exercises While Sitting" (988K) + "This Muscle Mimics Sciatica — 6 Stretches to Release It (60+)" (11K, NEW) | **~2.6M+** | Leg Circulation / Exercises + Sciatica (NEW) | 🔴🔴 HIGHEST — 2.6M+ leg health views. Sciatica content NEW. |
 | **Senior Book** ⚡⚡⚡ MAJOR PLAYER | "Surgeon REVEALS: Do THIS 1 Exercise for Poor Leg Circulation" (826K) + "5 Exercises Double Leg Strength" (452.9K) + "Single Bed Exercise Faster Than Walking" (99K) | **~1.5M+** | Leg Strength / Exercises | 🔴🔴 HIGHEST — "Surgeon reveals" authority format. |
@@ -49,6 +49,9 @@
 || **Dr. Edward Hamilton | Senior Health** 🆕⚡ | "OVER 60 3 Vegetables You Should NEVER Touch – And 3 You MUST" (170K-178K) | ~175K | Food Prohibition + Cardiovascular | 🟡 MEDIUM — Cardiovascular surgeon authority. "NEVER Touch + MUST" binary format NEW. |
 || **Healthy Aging - Senior Health Tips** 🆕⚡ SURGING | "Top 5 Vegetables That Heal Your Kidneys After 60 – Most Seniors Ignore #2" (500K-637K) + "Top 5 Vegetables That Harm Your Kidneys After 60" | ~500K-637K | Kidney Health / Vegetable Nutrition | 🟡 MEDIUM-HIGH — FILLING previously open kidney niche. First-mover window CLOSING. |
 
+||| **Dr. Edward Kensington | MedTalk** 🆕⚡ | "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" | 196K (6 days!) | BP Meds (Trio) | 🔴 HIGH — 196K in 6 days is exceptional velocity. NEW major player in BP medication space. |
+||| **Dr. Joshua Tiamson** 🆕 | Co-appears with Dr. Owen on "STOP Doing These 7 Things" | 4K | General Senior Health | 🟡 LOW — Monitor. May be cross-posting partner. |
+
 ## Removed Competitors
 | Channel | Status | Reason |
 |---------|--------|--------|
@@ -70,15 +73,16 @@
 - **Stem Cell (general):** 🔴 SATURATED
 - **Body Shock:** 🔴 AVOID
 - **Nail Health:** 🔴 CLOSED
-- **Microplastics + seniors:** 🔴 AUDIENCE NOT INTERESTED
+- **Microplastics + seniors:** 🔴 NOW HEATING UP — Kapadia entering with 86K podcast cross-post + new video. Window NARROWING.
 - **Berberine:** 🔴 OWNED by Whitmore
 - **Varicose Veins:** 🔴 CLAIMED
 - **Sciatica:** 🔴 HYPER-SATURATED (TopHealthTips entering)
 - **Magnesium:** 🔴 HEATING UP
 - **Seated Leg Exercises:** 🔴 SATURATED
 - **Bedtime Drinks/Actions:** 🔴 HEATING UP (Whitmore + Clark + JOD + Becker)
-- **Blood Test Advocacy:** 🔴 NOW OCCUPIED (Dr. Sarah Mitchell at 681K)
-- **Kidney Health (Vegetables):** 🔴 NOW OCCUPIED (Healthy Aging at 500K-637K)
+|- **Blood Test Advocacy:** 🔴 NOW OCCUPIED (Dr. Sarah Mitchell at 681K + Dr. James Hargrove at 117K-128K)
+|- **Kidney Health (Vegetables):** 🔴 NOW OCCUPIED (Healthy Aging at 500K-637K)
+|- **BP Medication Trio:** 🔴 NOW CROWDED (Kensington 196K + Carter 601K + Whitmore)
 
 ## Open Niches (Opportunity)
 
@@ -97,6 +101,17 @@
 | **Age Spots + Internal Causes** | Khan at 52.2K only | 🟢 STILL OPEN |
 | **Nighttime vascular threats** | Kapadia at 24.8K only | 🟢 VIRTUALLY EMPTY |
 | **"Reverse Dipping" BP Mechanism** | Senior Healthy Life Daily at 1K only | 🟢 VIRTUALLY EMPTY — terminology not catching on |
+
+## Key Events This Period (June 20 Scan)
+
+- **🆕 Dr. Edward Kensington | MedTalk discovered at 196K (6 days old!):** NEW major competitor in BP Medication Trio format. "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" at 196K in 6 days = exceptional velocity. Directly competing with Dr. Alex Carter (601K) and Dr. Aliza Wright.
+- **⚡⚡ Kapadia enters MICROPLASTICS niche:** "MICROPLASTICS in Your Blood and Vascular Health" (new) + "Are Microplastics Dangerous?" (86K podcast cross-post) + "Microplastics in the Body | How to AVOID and ELIMINATE Them!" (2K). Kapadia brings 1M+ subscribers to microplastics space. First-mover window NARROWING.
+- **⚡ Kapadia "30-60-5 Rule" at 347K:** From "NEW" to 347K. Instagram cross-promotion active. Sedentary sitting niche CLAIMED by vascular authority.
+- **⚡ Arthur Clark milk video at 49K-156K:** "The Milk Every Diabetic Should DRINK to LOWER Blood Sugar" — cross-posted to multiple channels. Bedtime drink niche HEATING UP.
+- **⚡ Dr. James Hargrove blood tests at 117K-128K:** "The 5 Blood Tests Every Senior Must Demand From Their Doctor (Before It's Too Late)" growing. CLOSING on Dr. Sarah Mitchell's 681K niche.
+- **⚡ Healthy Seniors TIA at 373K:** "7 Mini-Stroke (TIA) Warning Signs" growing from 340K to 373K. Stroke niche ACCELERATING.
+- **⚡ Dr. Thomas "BRAIN Doctor" empire:** Multiple videos at 1M+ with "BRAIN Doctor SHOCKED" format. Fruit variant NEW.
+- **🆕 Dr. Joshua Tiamson emerging:** Co-appears with Dr. Owen on "STOP Doing These 7 Things." Monitor for cross-posting network pattern.
 
 ## Key Events This Period (June 19 Scan)
 

@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-18
+> **Last Updated:** 2026-06-20
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -518,3 +518,32 @@
 - **Never tell viewers bedtime dosing is "better"** — frame as "the Hygia Trial found 45% fewer events with bedtime dosing — discuss with your doctor"
 - **Never tell viewers to change medication timing on their own** — always frame as "ask your doctor"
 - **Never diagnose reverse dipping from symptoms alone** — recommend ambulatory BP monitoring
+
+### New Failure Patterns (June 20 Competitor Scans)
+
+#### BP Medication Trio Format Now Saturated
+- **What happened:** Dr. Edward Kensington at 196K in 6 days with "Taking Amlodipine, Losartan, or Lisinopril?" — this is the THIRD channel (after Carter 601K and Whitmore) to successfully use this format at scale.
+- **Lesson:** When 3+ channels achieve 196K+ views with the same format within weeks of each other, the space is saturated. Entering it would be perceived as following, not leading.
+- **Fix:** AVOID the "Taking [Med A], [Med B], or [Med C]" format entirely. If covering medication classes, use Dr. Kane's mechanism-first approach.
+
+#### Microplastics Niche Heating Up — First-Mover Window Narrowing
+- **What happened:** Dr. Sumit Kapadia (1M+ subscribers, real vascular surgeon) entered microplastics with "MICROPLASTICS in Your Blood and Vascular Health." This brings massive authority to a niche that was previously only covered by tiny channels.
+- **Lesson:** When a major authority figure enters a niche you identified as "first-mover window," the window narrows dramatically. Kapadia's 1M+ subscriber base means he can achieve in days what took smaller channels months.
+- **Fix:** Dr. Kane's mechanism-first approach (endothelial inflammation, vascular-specific pathways) still differentiates, but the window is narrowing. Any microplastics content must be vascular-mechanism-specific, not general awareness.
+
+#### Bedtime Drink Niche Heating Up Faster Than Expected
+- **What happened:** Arthur Clark's milk video at 49K-156K views (cross-posted to multiple channels). Bedtime drink niche went from "emerging" to "heating up" in days.
+- **Lesson:** Cross-posting networks can rapidly scale content distribution. A video that would normally get 49K can reach 156K+ through cross-posting.
+- **Fix:** AVOID bedtime drink content entirely. The niche is now heating up faster than anticipated, and cross-posting networks make it harder to compete.
+
+#### Blood Test Advocacy Niche Filling Fast
+- **What happened:** Dr. James Hargrove at 117K-128K with "The 5 Blood Tests Every Senior Must Demand (Before It's Too Late)" — closing on Dr. Sarah Mitchell's 681K. Two major players now in the same niche.
+- **Lesson:** Diagnostic advocacy niches that were open 2 weeks ago are now filling with multiple competitors. First-mover advantage is eroding.
+- **Fix:** Dr. Kane must differentiate with Lp(a)-specific advocacy (VID-053) rather than general blood test advocacy. The Lp(a) angle is still unowned.
+
+#### New Safety Boundaries (VID-053 Production)
+- **Never tell viewers their Lp(a) number means they WILL have a heart attack** — frame as "risk factor" not "certainty"
+- **Never tell viewers to start aspirin based on Lp(a) alone** — frame as "discuss with your doctor"
+- **Never tell viewers to order Lp(a) test without doctor conversation** — frame as informed dialogue
+- **Never tell viewers to panic if Lp(a) is elevated** — frame as "information that helps you be more aggressive about other risk factors"
+- **Never tell viewers Lp(a) is "the most important number"** — frame as "one important number among many"

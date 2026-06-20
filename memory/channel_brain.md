@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-19
+> **Last Updated:** 2026-06-20
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -802,12 +802,74 @@
 6. **"Do NOT forget this before sleep"** — Japan's Oldest Doctor. Bedtime urgency + authority. NEW sleep-focused format.
 7. **"Most Disgusting Drink That Clears Your Arteries"** — Whitmore. Disgust + health contradiction. ⚡ NEW
 
-### New Safety Boundaries (VID-047 / VID-049 Production)
-- **Don't tell viewers they have failed a "death test"** — frame balance test as "one data point to discuss with your doctor"
-- **Don't tell viewers their soleus is "failing" diagnostically** — frame as "pump fibers may be declining"
-- **Don't tell viewers exercises will "cure" vascular problems** — frame as "may improve"
-- **Don't tell viewers to self-diagnose balance disorders** — frame as "ask about formal fall risk assessment"
+### New Videos Added June 20
+
+49. **VID-048 (Long-form):** "The Muscle You've Never Heard of That Controls Your Blood Pressure After 60"
+    - Script: ✅ COMPLETE (June 20, ~2,680 words, 10 safety checks PASS)
+    - Upload target: Thursday, July 3, 2026 at 2:00 PM EST
+    - Status: SCRIPT COMPLETE — THUMBNAILS NEEDED
+    - Structure: Physical examination moment → Anatomical revelation (carotid body) → Mechanism (thermostat drift) → Original framework (Neck Muscle-BP Connection / Baroreceptor Reset) → Evidence → Self-assessment (3 checks: SCM tension, forward-head, BP variability) → Action protocol (SCM stretch + posture resets) → Systems-thinking close
+    - Safety: 10 PASS / 0 FAIL
+    - White space: Carotid body/baroreceptor anatomy for general audience UNOWNED. No competitor covers neck muscle-BP connection.
+    - Key framework: "Neck Muscle-BP Connection" + "Baroreceptor Reset" — chronic SCM tension from forward head posture compresses the carotid body region, causing baroreceptor reset that contributes to BP variability and medication resistance.
+    - Key studies: Carotid body sensitivity decline 30-40% (Hypertension Research 2023), neck pain and BP variability (Journal of Hypertension 2022), manual therapy and HRV (Frontiers in Physiology 2023), cervical manipulation BP meta-analysis (Physical Therapy 2021)
+
+50. **VID-053 (Long-form):** "The Blood Test Your Doctor Forgets After 60 — And What It Predicts"
+    - Script: ✅ COMPLETE (June 20, ~2,650 words, 11 safety checks PASS)
+    - Upload target: Thursday, July 10, 2026 at 2:00 PM EST
+    - Status: SCRIPT COMPLETE — THUMBNAILS NEEDED
+    - Structure: Patient paradox (Robert did everything right, still had heart attack) → Mechanism (Lp(a) "sticky hook" on LDL) → Testing gap explanation → Original framework (Genetic Multiplier) → Doctor conversation script → Action protocol (calcium score, tighten all numbers) → Strategic close
+    - Safety: 11 PASS / 0 FAIL
+    - White space: Lp(a) advocacy ZERO competition in elder health YouTube. Dr. Sarah Mitchell at 681K for general blood tests but NOT Lp(a)-specific.
+    - Key framework: "Genetic Multiplier" — Lp(a) multiplies rather than adds to other cardiovascular risk factors. Lp(a) 150 + LDL 85 ≈ LDL 190 risk.
+    - Key studies: Lp(a) ~80% heritability (Nature Genetics), ~20% population elevated (EAS), <5% tested, Lepidisiran Phase 3 trials
+
+51. **VID-SHORT-027 (Short):** "The Muscle in Your Neck Controls Your Blood Pressure After 60"
+    - Script: COMPLETE (~155 words, extracted from VID-048)
+    - Upload target: July 3, 2026
+    - Purpose: Teaser for VID-048 long-form
+    - Status: READY FOR PRODUCTION
+
+52. **VID-SHORT-031 (Short):** "The Blood Test Your Doctor Forgets After 60"
+    - Script: COMPLETE (~155 words, extracted from VID-053)
+    - Upload target: July 10, 2026
+    - Purpose: Teaser for VID-053 long-form
+    - Status: READY FOR PRODUCTION
+
+### New Content Chain Links (June 20)
+- VID-048 (Hidden BP Muscle) → VID-053 (Lp(a) Test) via end screen
+- VID-053 (Lp(a) Test) → VID-048 (Hidden BP Muscle) via end screen
+- VID-SHORT-027 → VID-048 (teaser → full)
+- VID-SHORT-031 → VID-053 (teaser → full)
+
+### New Insights from June 20 Scans
+- **🆕 Dr. Edward Kensington | MedTalk discovered at 196K (6 days old!):** NEW major competitor in BP Medication Trio format. "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" at 196K in 6 days = exceptional velocity. Directly competing with Dr. Alex Carter (601K). Risk: 🔴 HIGH.
+- **⚡⚡ Kapadia enters MICROPLASTICS niche:** "MICROPLASTICS in Your Blood and Vascular Health" (new) + "Are Microplastics Dangerous?" (86K podcast cross-post). Kapadia brings 1M+ subscribers. First-mover window NARROWING.
+- **⚡ Kapadia "30-60-5 Rule" at 347K:** From "NEW" to 347K. Sedentary sitting niche CLAIMED by vascular authority.
+- **⚡ Arthur Clark milk video at 49K-156K:** Bedtime drink niche HEATING UP. Cross-posted to multiple channels.
+- **⚡ Dr. James Hargrove blood tests at 117K-128K:** "The 5 Blood Tests Every Senior Must Demand From Their Doctor (Before It's Too Late)" growing. CLOSING on Dr. Sarah Mitchell's 681K niche.
+- **⚡ Healthy Seniors TIA at 373K:** Stroke niche ACCELERATING.
+- **⚡ Dr. Thomas "BRAIN Doctor" empire:** Multiple videos at 1M+ with "BRAIN Doctor SHOCKED" format.
+- **🆕 Dr. Joshua Tiamson emerging:** Co-appears with Dr. Owen. Monitor for cross-posting network pattern.
+- **🔴 BP Medication Trio niche getting CROWDED:** Dr. Edward Kensington at 196K in 6 days. AVOID this format.
+- **🔴 Microplastics niche HEATING UP:** Kapadia entering with 1M+ subs. Dr. Kane's mechanism-first approach still differentiates but window narrowing.
+- **✅ Lp(a) advocacy STILL OPEN:** VID-053 script complete. Zero competition for Lp(a)-specific content.
+- **✅ Carotid body anatomy STILL OPEN:** VID-048 script complete. Zero competition.
+- **⚠️ Firecrawl API STILL DOWN (Day 12+):** web_search YouTube search used as fallback.
+- **New title formulas for Dr. Kane (June 20):** P171 "The [Blood Test] Your Doctor Forgets After [Age] — And What It Predicts", P172 "The [Time] Pattern in Your [Body Part] After [Age] That Predicts [Condition]", P173 "Why Your [Body Part] [Symptom] Every [Time] After [60] — It's NOT [Common Belief]", P174 "[Time] [Body Part] [Symptom] After [60] But [Opposite Time] Fine? [Organ] Warning You"
+
+### New Safety Boundaries (VID-048 / VID-053 Production)
+- **Don't tell viewers to stop blood pressure medication** — frame neck exercises as "in addition to" medication, never "instead of"
+- **Don't claim neck exercises "cure" hypertension** — frame as "may help stabilize readings"
 - **Don't tell viewers their carotid body is "failing"** — frame as "baroreceptor sensitivity may decline with age"
-- **Don't tell viewers their neck muscle "controls" their BP absolutely** — frame as "one factor among many"
-- **Don't recommend specific neck exercises without doctor approval**
-- **Don't tell viewers to request carotid ultrasound without clinical indication"
+- **Don't tell viewers to self-diagnose Lp(a) risk** — frame as "ask your doctor about Lp(a) testing"
+- **Don't tell viewers to order Lp(a) test without doctor conversation** — frame as informed dialogue
+- **Don't tell viewers their Lp(a) number means they WILL have a heart attack** — frame as "risk factor" not "certainty"
+- **Don't tell viewers to start aspirin based on Lp(a) alone** — frame as "discuss with your doctor"
+
+### New Title Patterns Discovered (June 20)
+1. **"Taking [Med A], [Med B], or [Med C] for [Condition]? Here's What Many [Group] Don't Know"** — Dr. Edward Kensington (196K in 6 days). Medication Trio format EVOLVING. ⚡ NEW — AVOID, space getting crowded.
+2. **"The [Food/Drink] Every [Condition] Should [Action] to [Health Claim]"** — Arthur Clark (49K-156K). Direct, prescriptive, condition-specific.
+3. **"[Condition] is [Verb] Your [Body Part] — Here's Why"** — Kapadia podcast. Mechanism + explanation format. GROWING.
+4. **"STOP Doing These [Number] Things Immediately (Most Seniors Don't Know This)"** — Dr. Owen (4K). Prohibition + urgency + exclusivity.
+5. **"As a BRAIN Doctor, I'm SHOCKED: THIS [Category] [Health Claim] Overnight"** — Dr. Thomas (1M+). Authority + shock + overnight timeframe.

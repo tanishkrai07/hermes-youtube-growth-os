@@ -1,7 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-19
-
+> **Last Updated:** 2026-06-20
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -401,8 +400,10 @@
 401|401|401|||||||||||||||||||||| 2026-06-18 | VID-047 (10-Second Balance Test) | A: The Single-Leg Challenge, B: The Mortality Data | New Brief |
 || 2026-06-18 | VID-049 (Stair Climbing Vascular Pump) | A: The Stair Struggle, B: The Second Heart | New Brief |
 |403|403|403||||||||| 2026-06-19 | VID-050 (Gut Leaked/Joint Inflammation) | A: The Hidden Pipeline, B: The Arthritis Test Paradox | New Brief |
-|404|404|||||||||||| 2026-06-19 | VID-051 (Dentist Sees Brain Inflammation) | A: The Bacterial Highway, B: The Alzheimer's Connection | New Brief |
-|405|405|405|405|
+||404|404|404|||||||||||| 2026-06-19 | VID-051 (Dentist Sees Brain Inflammation) | A: The Bacterial Highway, B: The Alzheimer's Connection | New Brief |
+||| 2026-06-20 | VID-053 (Lp(a) Blood Test) | A: The Missing Test, B: The Perfect Cholesterol Paradox | New Brief |
+|||| 2026-06-20 | I223 (Morning Leg Pattern/HFpEF) | A: The Morning Pattern, B: The Reversed Pattern | New Brief |
+||405|405|405|405|405|
 406|406|403|### New Palettes Added (June 15)
 401|| Video | Primary | Accent 1 | Accent 2 | Status |
 402||-------|---------|----------|----------|--------|
@@ -429,9 +430,17 @@
 ||| VID-050 A | Warm charcoal (#263238) → Olive (#37474F) gradient | Electric amber (#FFB300) | Warning coral (#FF6E40) / Orange-red (#FF5722) | New — Brief |
 |||| VID-050 B | Split: Sage green (#1B5E20) → Crimson (#B71C1C) | Green (#00E676) | Warning red (#FF1744) | New — Brief |
 ||||| VID-051 A | Midnight teal (#00251A) → Dark navy (#0D1B2A) gradient | Electric cyan (#00E5FF) | Amber-gold (#FFB300) | New — Brief |
-|||||| VID-051 B | Split: Deep teal (#004D40) → Dark crimson (#4A0000) | Amber (#FFB300) | Electric coral (#FF6E40) | New — Brief |
-|428|
-### New Palettes Added (June 13)
+||||||| VID-051 B | Split: Deep teal (#004D40) → Dark crimson (#4A0000) | Amber (#FFB300) | Electric coral (#FF6E40) | New — Brief |
+||428|
+|### New Palettes Added (June 20)|
+|| Video | Primary | Accent 1 | Accent 2 | Status |
+||-------|---------|----------|----------|--------|
+||| VID-053 A | Deep clinical navy (#0D1B2A) → Dark teal (#004D40) | Warning amber (#FFB300) | Electric red (#FF1744) / Cyan (#00E5FF) | New — Brief |
+|||| VID-053 B | Split: Clinical green (#1B5E20) → Deep crimson (#4A0000) | Green (#00E676) | Electric coral (#FF6E40) / Red (#FF1744) | New — Brief |
+||||| I223 A | Dawn gold (#FFB300) → Twilight blue (#0D1B2A) | Warm amber (#FFB300) | Warning red (#FF1744) / Teal (#00BFA5) | New — Brief |
+|||||| I223 B | Deep burgundy (#4A0040) → Dark plum (#311B92) | Electric yellow (#FFEB3B) | Electric coral (#FF6E40) / Green (#00E676) | New — Brief |
+||428|
+|### New Palettes Added (June 13)|
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
 || VID-039 A | Deep midnight navy (#0D1B2A) | Electric coral (#FF6E40) | Glowing cyan (#00E5FF) | New — Brief |
@@ -1268,5 +1277,39 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 2. **"Oral-Brain Bacterial Highway" format** — VID-051: Oral bacteria → bloodstream → brain inflammation → Alzheimer's. NO competitor has this.
 3. **"Hidden [Organ] That Controls [Function]" format** — VID-048: Carotid body anatomy UNOWNED.
 4. **"Reverse Dipping" BP terminology** — VID-052: Emerging medical term at only 1K views. First-mover window OPEN.
+
+### New Patterns Added 2026-06-20
+
+### New Title Formulas (June 20 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P181 | "Taking [Med A], [Med B], or [Med C] for [Condition]? Here's What Many [Group] Don't Know" | Dr. Edward Kensington | 196K (6 days!) |
+| P182 | "The [Food/Drink] Every [Condition] Should [Action] to [Health Claim] & Slower [Condition]" | Dr. Arthur Clark | 49K-156K |
+| P183 | "MICROPLASTICS in Your Blood and [System] Health" | Dr. Sumit Kapadia | NEW (1M+ subs) |
+| P184 | "Are [Threat] Dangerous? A [Specialty] Tells You What You Need to Know" | Dr. Sumit Kapadia | 86K (podcast cross-post) |
+| P185 | "This [Time] [Body Part] Trick to [Health Claim] After [Age]" | Japan's Oldest Doctor | NEW |
+| P186 | "As a BRAIN Doctor, I'm SHOCKED: THIS [Category] [Health Claim] Overnight" | Dr. Thomas | 1M+ |
+| P187 | "The [Number] Blood Tests Every Senior Must Demand From Their Doctor (Before It's Too Late)" | Dr. James Hargrove | 117K-128K |
+| P188 | "If You're Over [Age], STOP Doing These [Number] Things Immediately (Most Seniors Don't Know This)" | Dr. Owen Senior Health | 4K |
+
+### New Viral Formats (June 20)
+1. **"Microplastics Invasion" format** — Kapadia: "MICROPLASTICS in Your Blood and Vascular Health." Invasion fear + scientific authority + vascular angle. Kapadia brings 1M+ subscribers to this niche. Window NARROWING.
+2. **"Bedtime Drink Prescription" format** — Arthur Clark: "The Milk Every Diabetic Should DRINK to LOWER Blood Sugar & Slower Type 2 Diabetes." Direct prescriptive + bedtime ritual + condition-specific. 49K-156K views (cross-posted).
+3. **"Medication Trio + Unknown" format** — Dr. Edward Kensington: "Taking [Med A], [Med B], or [Med C]? Here's What Many Seniors Don't Know." 196K in 6 days. Medication Trio format still EVOLVING with new authority.
+4. **"BRAIN Doctor SHOCKED" format** — Dr. Thomas: Multiple videos at 1M+. Authority specialty + shock + overnight timeframe. Fruit variant expanding.
+5. **"Blood Tests Must Demand (Before Too Late)" format** — Dr. James Hargrove: 117K-128K. Urgency + specific number + diagnostic advocacy. CLOSING on Dr. Sarah Mitchell's 681K.
+6. **"STOP Doing Immediately" prohibition format** — Dr. Owen: 4K views, early stage. Age target + prohibition + "Most Don't Know" exclusivity.
+
+### Updated Top Hook Rankings (June 20)
+- #1: **"Real Truth" hook** — "What's the Best [Metric] for Older Adults? (Know the Real Truth)" (1.31M, Kent)
+- #2: **"BRAIN Doctor SHOCKED" hook** — "As a BRAIN Doctor, I'm SHOCKED: THIS [X] [Y] Overnight" (1M+, Dr. Thomas) ⚡ NEW #2
+- #3: **"INSTANTLY" hook** — "3 Breathing Tricks To INSTANTLY Lower BP" (701K, Whitmore)
+- #4: **"Which is More DANGEROUS" hook** — Binary comparison (452K, Whitmore)
+- #5: "The Day Before" hook — (1.39M, Waterling evergreen — now suppressed)
+- #6: "Forget [X] — This [Y]" hook — (956K, Kent)
+- #7: "The ONE" hook — (650K, Whitmore leg circulation)
+- #8: **"Medication Trio + Unknown" hook** — "Taking [Med A], [Med B], or [Med C]? Here's What Many Don't Know" (196K, Kensington) ⚡ NEW TOP 8
+- #9: **"Microplastics Invasion" hook** — NEW: Authority + invasion fear + vascular angle (Kapadia entering)
+- #10: **"Bedtime Drink Prescription" hook** — NEW: Direct prescriptive + bedtime + condition (Clark 49K-156K)
 
 ---
