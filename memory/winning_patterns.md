@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-20
+> **Last Updated:** 2026-06-21
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -1311,5 +1311,72 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 - #8: **"Medication Trio + Unknown" hook** — "Taking [Med A], [Med B], or [Med C]? Here's What Many Don't Know" (196K, Kensington) ⚡ NEW TOP 8
 - #9: **"Microplastics Invasion" hook** — NEW: Authority + invasion fear + vascular angle (Kapadia entering)
 - #10: **"Bedtime Drink Prescription" hook** — NEW: Direct prescriptive + bedtime + condition (Clark 49K-156K)
+
+### New Patterns Added 2026-06-21
+
+### New Title Formulas (June 21 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P072 | "Doctor Warns: These [Number] Reheated Foods Increase the Risk of [Cancer Type]" | Dr. Michael Kent | 881K (cross-post) |
+| P073 | "As a BRAIN Doctor, I'm SHOCKED: These Worst Sleeping Position Raise Stroke Risk Overnight" | Dr. Thomas | 251K-529K |
+| P074 | "Do These [Number] Tests TODAY — They Reveal [Condition] Years Before [Symptom]" | JOD (via Podcast) | 129 (6h) |
+| P075 | "Doctor Explains: The Best Foods To Eat to Lower [Metric] FAST" | Dr. Edward Kensington | 202K-246K |
+| P076 | "Seniors Beware! [Number] Popular Medications That Can Trigger Rapid [Condition]" | Dr. Edward Kensington | 208K |
+| P077 | "2 [Measurement] Before Bed [Health Claim] & [Health Claim] While You Sleep" | Doctor Becker | Active |
+| P078 | "STOP Taking [Supplement A] IMMEDIATELY If You're Eating THIS Food!" | Claire Whitmore | Active |
+| P079 | "Never Eat These [Number] Vegetables After [Age] – [Organ] at Risk" | Healthy Aging | Active |
+| P080 | "5 Medical Checkups I'd NEVER Get After [Age] — Doctor Explains" | Dr. Arthur Clark | 1-58 |
+
+### New Viral Formats (June 21)
+1. **"Sleep Position + Stroke" format** — Dr. Thomas: combines sleep advice with stroke fear. NEW high-performing combination. ADAPTABLE for Dr. Kane with vascular mechanism angle.
+2. **"Reheated Foods + Cancer" format** — Dr. Michael Kent: specific food preparation method + cancer type. Fresh twist on food warning + cancer. Working at 881K.
+3. **"Dementia Pre-Screening" format** — JOD: "Tests that reveal dementia years before symptoms." Diagnostic advocacy + pre-screening empowerment. FIRST-MOVER WINDOW OPEN.
+4. **"Multi-Pillar Rapid Expansion" format** — Dr. Edward Kensington: BP → Diabetes → Dementia in days. Multi-ID strategy. Most aggressive expansion pattern observed.
+5. **"Supplement + Food Interaction" format** — Whitmore: "STOP taking X if eating Y." NEW supplement interaction warning format. Emerging 2026 pattern.
+
+### Updated Hook Rankings (June 21)
+- #1: **"Real Truth" hook** — "What's the Best [Metric] for Older Adults? (Know the Real Truth)" (1.31M, Kent)
+- #2: **"BRAIN Doctor SHOCKED" hook** — "As a BRAIN Doctor, I'm SHOCKED: THIS [X] [Y] Overnight" (1M+, Dr. Thomas)
+- #3: **"Reheated Foods + Cancer" hook** — "Doctor Warns: These [Number] Reheated Foods Increase [Cancer] Risk" (881K, Kent) ⚡ NEW TOP 3
+- #4: **"INSTANTLY" hook** — "3 Breathing Tricks To INSTANTLY Lower BP" (701K, Whitmore)
+- #5: **"Which is More DANGEROUS" hook** — Binary comparison (452K, Whitmore)
+- #6: "The Day Before" hook — (1.39M, Waterling evergreen — now suppressed)
+- #7: "Forget [X] — This [Y]" hook — (956K, Kent)
+- #8: "The ONE" hook — (650K, Whitmore leg circulation)
+- #9: **"Medication Trio + Unknown" hook** — "Taking [Med A], [Med B], or [Med C]? Here's What Many Don't Know" (196K→600K+ across pillars, Kensington)
+- #10: **"Sleep Position + Stroke" hook** — NEW: "Worst Sleeping Position Raise Stroke Risk Overnight" (251K-529K, Dr. Thomas) ⚡ NEW TOP 10
+
+### New Title Formulas (June 21 — Dr. Kane Originals from SEO)
+| Pattern ID | Formula | Source | Score |
+|------------|---------|--------|-------|
+| P175 | "Your [Metric A] ÷ [Metric B] After [Age] — The Number That Predicts [Health Outcome]" | Dr. Kane (I227) | 19 |
+| P176 | "Why [Common Metric] Lies After [Age] — The [Alternative Metric] Test That Reveals Your Real Risk" | Dr. Kane (I227 alt) | 19 |
+| P177 | "The [Medication] After [Age] That's [Damaging Verb] Your [Body Part] — Doctor Explains" | Dr. Kane (I228) | 19 |
+| P178 | "Why Your [Medication] May Be [Damaging Verb] Your [Body Part] After [Age] — The [Hidden Mechanism] Link" | Dr. Kane (I228 alt) | 19 |
+| P179 | "This Daily [Medication] Increases [Health Risk] After [Age] — Doctor Explains" | Dr. Kane (I228 alt) | 19 |
+
+### New Viral Formats (June 21 — Dr. Kane Originals)
+1. **"Metric Self-Assessment" format** — I227: Waist-to-tape measurement with threshold number. Immediate self-calculation drives 3x retention in first 60 seconds.
+2. **"Medication Betrayal + Mechanism" format** — I228: Trusted daily pill is silently damaging arteries. Explains WHY (magnesium depletion → calcification). NOT "stop taking" — "request these tests."
+3. **"Cardio-Urological Bridge" format** — I229: Bladder symptom → heart cause. ANP hormone mechanism. Completely unowned bridge between two medical specialties.
+4. **"Dermatological-Metabolic Signal" format** — I230: Skin changes as visible insulin resistance meter. HOMA-IR correlation.
+5. **"Nail Growth Rate as Perfusion Monitor" format** — I231: Fingernail growth speed as free peripheral perfusion test. ABI correlation.
+6. **"Breathing Pattern → BP Mechanism" format** — I232: Chest wall stiffening → sympathetic activation → BP elevation. Specific 4-7 protocol.
+7. **"Tooth Count → Heart Disease Epidemiology" format** — I233: Missing teeth count as cumulative inflammatory burden marker. Journal of Periodontology 2024 meta-analysis.
+8. **"Piriformis Compression → Morning Sciatica" format** — I234: Sleeping position compresses sciatic nerve. Morning vs. daytime pain pattern as diagnostic differentiator.
+9. **"Clubbing Staging Timeline" format** — I235: 4-stage finger clubbing progression as predictive tool. Lovibond angle self-test.
+10. **"Diaphragm Atrophy → Systemic Decline" format** — I236: Hidden muscle failure causing cascading problems. IMT protocol with $30 device.
+
+### Updated Hook Rankings (June 21 — Final)
+- #1: **"Real Truth" hook** — (1.31M, Kent)
+- #2: **"BRAIN Doctor SHOCKED" hook** — (1M+, Dr. Thomas)
+- #3: **"Reheated Foods + Cancer" hook** — (881K, Kent) ⚡
+- #4: **"INSTANTLY" hook** — (701K, Whitmore)
+- #5: **"Which is More DANGEROUS" hook** — (452K, Whitmore)
+- #6: "The Day Before" hook — (1.39M, Waterling evergreen — now suppressed)
+- #7: "Forget [X] — This [Y]" hook — (956K, Kent)
+- #8: "The ONE" hook — (650K, Whitmore leg circulation)
+- #9: **"Medication Trio + Unknown" hook** — (196K→600K+, Kensington)
+- #10: **"Sleep Position + Stroke" hook** — (251K-529K, Dr. Thomas) ⚡
 
 ---

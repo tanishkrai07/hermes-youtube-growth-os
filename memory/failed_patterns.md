@@ -547,3 +547,48 @@
 - **Never tell viewers to order Lp(a) test without doctor conversation** — frame as informed dialogue
 - **Never tell viewers to panic if Lp(a) is elevated** — frame as "information that helps you be more aggressive about other risk factors"
 - **Never tell viewers Lp(a) is "the most important number"** — frame as "one important number among many"
+
+### New Failure Patterns (June 21 Competitor Scans)
+
+#### Cross-Posting Networks Scaling — Competitive Threat Amplification
+- **What happened:** Multiple competitors (Dr. Thomas → Senior Reborn 1.2M, Kensington → "Dr. John Li" alias, Franklin → Sten Ekberg content, Whitmore → multiple cross-posts, Kent → 881K cross-post) are amplifying reach through cross-posting networks.
+- **Lesson:** Cross-posting networks can achieve in days what takes authentic channels months. A single video can appear on 3-5 channels simultaneously, inflating apparent reach.
+- **Fix:** Dr. Kane must maintain single-channel, original content approach. This is increasingly a competitive ADVANTAGE as YouTube enforcement targets cross-posting networks. The McGill flag risk for cross-posting channels may clear the competitive landscape.
+
+#### "Would NEVER Get/Take/Recommend" Format Now Saturating
+- **What happened:** At least 5 channels now using variations: Kent (232K), Dr. Sarah Mitchell (125K), Dr. Arthur Clark (1-58 views), Kensington (208K), Healthy Aging (active).
+- **Lesson:** When 5+ channels use the same format within weeks, it becomes a template. YouTube's "inauthentic content" enforcement specifically targets template structures.
+- **Fix:** AVOID this format entirely. Dr. Kane's mechanism-first approach is the differentiator. If covering medication/test concerns, use "What [Medication] Does to Your Blood Vessels After 60" framing.
+
+#### Sleep Position + Stroke Format — New Viral Combination Emerging
+- **What happened:** Dr. Thomas's "Worst Sleeping Position Raise Stroke Risk Overnight" at 251K-529K is a NEW combination. Sleep content + stroke fear = high engagement.
+- **Lesson:** New viral formats emerge from combining two previously separate niches. Sleep + stroke was uncombined before Dr. Thomas.
+- **Fix:** AVOID copying directly. Dr. Kane's vascular mechanism angle ("Why [Sleep Position] Destroys Your [Vascular Metric] Overnight After 60") is the differentiator. Window still open for mechanism-first approach.
+
+#### Pancreatic Cancer + Food Warning — New High-Performing Format
+- **What happened:** Dr. Michael Kent's "5 Reheated Foods Increase Pancreatic Cancer Risk" at 881K. Merges two popular formats: food warnings + cancer fear.
+- **Lesson:** The "reheated foods" angle is a fresh twist on food warnings. Previously only Adeyemi had "Never Reheat These 4 Foods" at 1.79M, but Kent adds the pancreatic cancer angle for higher fear/stakes.
+- **Fix:** AVOID copying directly. If covering cancer + food, use Dr. Kane's vascular inflammation angle rather than fear-based framing.
+
+#### Dementia Pre-Screening — Emerging Niche Being Claimed
+- **What happened:** JOD's "3 Tests That Reveal Dementia Years Before Memory Loss" at 129 views (6h) is the FIRST mover in pre-screening diagnostic content for dementia.
+- **Lesson:** First-mover windows for diagnostic advocacy content are opening and closing within days. JOD identified this window and entered immediately.
+- **Fix:** Dr. Kane's vascular + diagnostic gap expertise is PERFECT for this niche. "The [Number] Tests That Reveal [Condition] Years Before Symptoms — And Why Doctors Miss Them" format. FIRST-MOVER WINDOW STILL OPEN but closing fast.
+
+#### Multi-Pillar Rapid Expansion — New Competitive Strategy
+- **What happened:** Dr. Edward Kensington expanded from BP Trio → Diabetes Foods → Dementia Medications in approximately 1 week, using multi-ID strategy ("Dr. John Li" alias).
+- **Lesson:** Competitors are using rapid multi-pillar expansion to dominate multiple niches simultaneously. Multi-ID strategy amplifies reach but carries McGill flag risk.
+- **Fix:** Dr. Kane should NOT copy this strategy (YouTube enforcement risk). Instead, focus on depth over breadth — mechanism-first content that competitors can't replicate with surface-level cross-posts.
+
+#### New Safety Boundaries (I227 WHtR Production)
+- **Never tell viewers their WHtR means they WILL have a heart attack** — frame as "risk factor" not "certainty"
+- **Never tell viewers to self-diagnose from WHtR alone** — frame as "one screening tool among many"
+- **Never tell viewers WHtR is "better than all other metrics"** — frame as "one useful metric among several"
+- **Never tell viewers to ignore their doctor's advice about weight** — frame as "additional information to discuss"
+
+#### New Safety Boundaries (I228 PPI Production)
+- **Never tell viewers to stop PPIs** — PPI rebound can cause dangerous acid hypersecretion
+- **Never tell viewers their PPI is "killing them"** — frame as "discuss vascular health monitoring with your doctor"
+- **Never tell viewers RBC magnesium is "the only accurate test"** — frame as "may provide additional information beyond serum magnesium"
+- **Never tell viewers to self-supplement magnesium without lab work** — excess magnesium is dangerous with kidney disease
+- **Never tell viewers their coronary calcium score means they need immediate intervention** — frame as "information to discuss with your doctor for a comprehensive risk assessment"

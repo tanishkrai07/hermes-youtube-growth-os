@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-20
+> **Last Updated:** 2026-06-21
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -873,3 +873,100 @@
 3. **"[Condition] is [Verb] Your [Body Part] — Here's Why"** — Kapadia podcast. Mechanism + explanation format. GROWING.
 4. **"STOP Doing These [Number] Things Immediately (Most Seniors Don't Know This)"** — Dr. Owen (4K). Prohibition + urgency + exclusivity.
 5. **"As a BRAIN Doctor, I'm SHOCKED: THIS [Category] [Health Claim] Overnight"** — Dr. Thomas (1M+). Authority + shock + overnight timeframe.
+
+### New Videos Added June 21 (Idea Bank Expansion)
+
+53. **I227** — "Your Waist-to-Height Ratio After 60 — The Number That Predicts Your Heart (Measure Now)"
+    - Score: 19/20 | Competition: ZERO
+    - Pillar: Metabolic/Body Composition/Cardiovascular Risk
+    - Key insight: WHtR >0.5 after 60 predicts cardiovascular mortality BETTER than BMI. Tape measure test: waist ÷ height, threshold 0.5.
+    - SEO complete. Script needed.
+    - Upload target: July 22, 2026
+
+54. **I228** — "The Heartburn Pill After 60 That's Calcifying Your Arteries — Doctor Explains"
+    - Score: 19/20 | Competition: ZERO
+    - Pillar: Medication Safety/Vascular Calcification/PPIs
+    - Key insight: Chronic PPI use → magnesium depletion → reduced vascular calcium regulation → arterial calcification. 40%+ of seniors take PPIs.
+    - SEO complete. Script needed.
+    - Upload target: July 24, 2026
+
+55. **I229** — "Why Your Bladder Wakes You Up at Night After 60 — The Heart Connection Nobody Explains"
+    - Score: 18/20 | Competition: ZERO
+    - Pillar: Cardiovascular/Urological/Cardio-Urological Bridge
+    - Key insight: Nocturia = first symptom of diastolic heart failure (HFpEF) 2-3 years before daytime symptoms. ANP hormone mechanism. BNP test advocacy.
+
+56. **I230** — "The Skin Fold on the Back of Your Neck After 60 — What It Reveals About Your Metabolism"
+    - Score: 17/20 | Competition: ZERO
+    - Pillar: Dermatological/Metabolic Syndrome/Body Signal
+    - Key insight: Posterior neck skin thickening/darkening correlates with HOMA-IR >3.0. Insulin resistance visible 3-5 years before diabetes diagnosis.
+
+57. **I231** — "Why Your Fingernails Grow Slower After 60 — The Blood Flow Connection"
+    - Score: 17/20 | Competition: ZERO
+    - Pillar: Vascular/Dermological/Body Signal
+    - Key insight: Nail growth rate drops from 3.5mm/month (age 30) to ~2.0mm/month (age 70). ABI <0.9 = 40% slower nail growth. Free peripheral perfusion monitor.
+
+58. **I232** — "The Breathing Pattern After 60 That's Raising Your Blood Pressure — And How to Fix It in 5 Minutes"
+    - Score: 18/20 | Competition: ZERO
+    - Pillar: Respiratory/Cardiovascular/Autonomic
+    - Key insight: Chest wall stiffening → upper-chest breathing → sympathetic activation → BP elevation. 4-7 breathing protocol reduces systolic BP 5-8 mmHg.
+
+59. **I233** — "How Many Teeth You've Lost After 60 Predicts Your Heart Disease — The Research"
+    - Score: 18/20 | Competition: ZERO
+    - Pillar: Oral-Systemic/Cardiovascular/Epidemiology
+    - Key insight: 5+ missing teeth after 50 = 2x coronary artery disease risk (Journal of Periodontology 2024 meta-analysis). Cumulative inflammatory burden marker.
+
+60. **I234** — "The Bedtime Position After 60 That's Destroying Your Sciatic Nerve — Doctor Explains"
+    - Score: 17/20 | Competition: ZERO
+    - Pillar: Neurological/Sleep/Nerve Compression
+    - Key insight: Piriformis syndrome = most underdiagnosed cause of sciatica in seniors. Fetal position compresses sciatic nerve. Morning-predominant leg pain = piriformis, not spinal stenosis.
+
+61. **I235** — "Why Your Fingers Club After 60 — The Timeline That Predicts What's Coming"
+    - Score: 17/20 | Competition: ZERO
+    - Pillar: Vascular/Predictive/Diagnostic/Longitudinal Body Signal
+    - Key insight: 4-stage clubbing system (Lovibond angle → boggy → visible → osteoarthropathy). Stage 1 detectable 6-12 months before visible changes.
+
+62. **I236** — "The Diaphragm Muscle After 60 That's Failing — And Why It's Making Everything Worse"
+    - Score: 18/20 | Competition: ZERO
+    - Pillar: Respiratory/Vascular/Functional Decline
+    - Key insight: Diaphragm loses 25-30% thickness after 60. Correlates with VO2 max better than leg strength. IMT (inspiratory muscle training) increases thickness 20% in 8 weeks.
+
+### New Title Patterns Discovered (June 21)
+6. **"Your [Metric A] ÷ [Metric B] After [Age] — The Number That Predicts [Health Outcome]"** — Dr. Kane (I227, P175). Metric-based self-assessment format. NEW.
+7. **"The [Medication] After [Age] That's [Damaging Verb] Your [Body Part] — Doctor Explains"** — Dr. Kane (I228, P177). Medication betrayal + mechanism. NEW.
+8. **"Why Your [Body Part] [Symptom] Every [Time] After [Age] — It's NOT [Common Belief]"** — Dr. Kane (I229, P173 variant). Paradox observation format. NEW.
+9. **"The [Body Part] [Timeframe] After [Age] — The [System] Connection Nobody Explains"** — Dr. Kane (I229). Hidden connection format. NEW.
+10. **"Why Your [Body Part] [Changes] After [60] — The [Hidden Mechanism] Connection"** — Dr. Kane (I231). Everyday observation reframed. NEW.
+11. **"The [Behavior] After [60] That's [Damaging Verb] Your [Metric] — And How to Fix It in [Time]"** — Dr. Kane (I232). Habit reversal + quick fix. NEW.
+12. **"How Many [Body Parts] You've [Lost/Changed] After [Age] Predicts [Disease] — The Research"** — Dr. Kane (I233). Counting prompt + epidemiological correlation. NEW.
+13. **"The [Activity] After [60] That's [Damaging Verb] Your [Nerve/Organ] — Doctor Explains"** — Dr. Kane (I234). Everyday habit betrayal. NEW.
+14. **"Why Your [Body Part] [Changes] After [60] — The Timeline That Predicts What's Coming"** — Dr. Kane (I235). Longitudinal self-assessment. NEW.
+15. **"The [Muscle/Organ] After [60] That's Failing — And Why It's Making Everything Worse"** — Dr. Kane (I236). Hidden organ revelation. NEW.
+
+### New Insights from June 21 Scans
+- **🆕 10 new ideas generated (I227-I236)** — All scored 17-19. All have ZERO competition. Top priorities: I227 (WHtR, Score 19), I228 (PPI calcification, Score 19), I229 (Bladder-heart, Score 18), I232 (Breathing-BP, Score 18), I233 (Teeth-heart, Score 18), I236 (Diaphragm, Score 18).
+- **⚡ VID-048 + VID-053 thumbnails briefs COMPLETE** — Both thumbnail briefs with A/B variants, color palettes, and production notes now documented.
+- **⚡ I227 + I228 SEO metadata COMPLETE** — Title variations, descriptions, tags, upload times, end screens all documented.
+- **⚡ Dr. Edward Kensington multi-pillar EXPLOSION continues:** BP Trio (192K) → Diabetes Foods (202K-246K) → Dementia Medications (208K, cross-posted as "Dr. John Li"). Multi-ID strategy confirmed. Fastest-growing new competitor.
+- **⚡ Dr. Thomas sleep position + stroke at 251K-529K:** Cross-posted to Senior Reborn at 1.2M views. Sleep + stroke format is NEW viral combination.
+- **⚡ Dr. Michael Kent pancreatic cancer + reheated foods at 881K:** Food warning + cancer type format performing strongly.
+- **⚡ JOD enters dementia pre-screening at 129 views (6h):** First-mover in diagnostic advocacy for dementia. Window OPEN.
+- **⚡ Cross-posting networks SCALING:** Multiple competitors amplifying reach through cross-posting. YouTube enforcement risk increasing.
+- **✅ "Reverse dipping" BP mechanism STILL OPEN:** VID-052 script needed. First-mover window open.
+- **✅ Lp(a) advocacy STILL OPEN:** VID-053 script complete. Zero competition.
+- **✅ Carotid body anatomy STILL OPEN:** VID-048 script complete. Zero competition.
+- **✅ All 10 new ideas (I227-I236) have ZERO direct competition** — Largest single-day expansion of white-space ideas in channel history.
+- **⚠️ Cross-posting network risk:** Multiple competitors scaling via cross-posting. YouTube enforcement risk may clear competitive landscape. Dr. Kane's authentic single-channel approach is the defensive moat.
+- **⚠️ "Would NEVER Get/Take/Recommend" format SATURATING:** At least 5 channels now using variations. Format becoming template-like.
+- **⚠️ Sleep position + stroke = NEW Viral Format:** Dr. Thomas at 251K-529K. Window still open for mechanism-first approach.
+- **⚠️ Pancreatic cancer + food warning = NEW High-Performer:** Kent at 881K. "Reheated foods" angle is fresh and specific.
+- **⚠️ Dementia Pre-Screening = EMERGING Niche:** JOD at 129 views (6h). Dr. Kane's vascular + diagnostic gap expertise is PERFECT for this niche.
+- **New safety boundaries (I228 PPI content):** Never tell viewers to stop PPIs. Frame as "discuss with your doctor" and "request these tests while continuing your medication." PPI rebound can cause dangerous acid hypersecretion.
+- **New safety boundaries (I227 WHtR content):** WHtR is a screening tool, not a diagnosis. Frame as "one data point" not "you will have a heart attack."
+
+### New Safety Boundaries (I227 / I228 Production)
+- **Never tell viewers their WHtR means they WILL have a heart attack** — frame as "risk factor" not "certainty"
+- **Never tell viewers to stop PPIs** — PPI rebound can cause dangerous acid hypersecretion
+- **Never tell viewers their PPI is "killing them"** — frame as "discuss vascular health monitoring with your doctor"
+- **Never recommend stopping any medication without doctor supervision** — always frame as "questions to ask your doctor"
+- **Never tell viewers to self-diagnose from WHtR alone** — frame as "one screening tool among many"
+- **Never tell viewers RBC magnesium is "the only accurate test"** — frame as "may provide additional information beyond serum magnesium"

@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-20 (Updated for June 21 production)
-**Focus:** VID-048 + VID-053 scripts complete | VID-052 script next | Thumbnail production for July uploads
-**Priority:** 🔴 VID-052 (I199 Score 19) script | VID-048/053/047/049/050/051 thumbnails
+**Date:** 2026-06-21 (Updated for June 22 production)
+**Focus:** VID-048 + VID-053 thumbnail briefs complete | I227 + I228 SEO complete | 10 new ideas (I227-I236) | VID-052 script next
+**Priority:** 🔴 VID-052 (I199 Score 19) script | I227 + I228 scripts | Thumbnail production for June 24 uploads
 
 ---
 
@@ -54,14 +54,14 @@
 - VID-SHORT-028 (Stair teaser) — July 1 upload — Script complete
 
 ### Scripts Complete, Thumbnails Needed (July 3 uploads)
-- VID-048 (Hidden BP Muscle/Carotid Body — I191, Score 20) — July 3 upload — ✅ SCRIPT COMPLETE
+- VID-048 (Hidden BP Muscle/Carotid Body — I191, Score 20) — July 3 upload — ✅ SCRIPT COMPLETE — ✅ THUMBNAIL BRIEF COMPLETE
 - VID-SHORT-027 (Neck muscle teaser) — July 3 upload — Script complete
 
 ### Scripts Complete, Thumbnails Needed (July 8/10 uploads)
 - VID-050 (Gut Leaked → Joint Inflammation — I126, Score 21) — July 8 upload — ✅ SCRIPT COMPLETE
-- VID-052 (3 AM BP Pattern/Reverse Dipping — I199, Score 19) — July 8 upload — 🔴 SCRIPT NEEDED
+- VID-052 (3 AM BP Pattern/Reverse Dipping — I199, Score 19) — July 8 upload — 🔴 SCRIPT NEEDED — SEO COMPLETE
 - VID-051 (Dentist Sees Brain Inflammation — I123, Score 20) — July 10 upload — ✅ SCRIPT COMPLETE
-- VID-053 (Lp(a) Blood Test — I219, Score 20) — July 10 upload — ✅ SCRIPT COMPLETE
+- VID-053 (Lp(a) Blood Test — I219, Score 20) — July 10 upload — ✅ SCRIPT COMPLETE — ✅ THUMBNAIL BRIEF COMPLETE
 - VID-SHORT-029 (Gut-joint teaser) — July 8 upload — Script complete
 - VID-SHORT-030 (Dentist-brain teaser) — July 10 upload — Script complete
 - VID-SHORT-031 (Lp(a) teaser) — July 10 upload — Script complete
@@ -71,7 +71,7 @@
 - VID-039 (Bedtime Nerve Destruction — I168, Score 19) — TBD — SCRIPT NEEDED
 - VID-040 (Ozempic Vascular Effects — I169, Score 19) — TBD — SCRIPT NEEDED
 
-### Idea Bank Status (Updated June 20)
+### Idea Bank Status (Updated June 21)
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
@@ -79,18 +79,27 @@
 | I123/VID-051 | Dentist Sees Brain Inflammation | Dental-Brain Axis | 20 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
 | I195/VID-047 | 10-Second Balance Test Predicts Death Risk | Fall Prevention/Vascular | 20 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
 | I198/VID-049 | Stair Climbing Vascular Pump | Vascular/Functional Decline | 20 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
-| I191/VID-048 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | ✅ SCRIPT COMPLETE — Thumbnails needed |
-| I219/VID-053 | Lp(a) Blood Test | Diagnostic Gap/Cardiovascular | 20 | ✅ SCRIPT COMPLETE — Thumbnails needed |
-| I223 | Morning Leg Pattern Predicts Heart Failure | Cardiovascular/Predictive | 20 | 🟡 NEW IDEA — Priority queue |
-| I218 | Fingertip Tingling at Night After 60 | Neurological/Vascular/Body Signal | 19 | 🟡 NEW IDEA — Priority queue |
-| I220 | Voice Changes After 60 — Artery Behind Vocal Cords | Vascular/ENT/Body Signal | 19 | 🟡 NEW IDEA — Priority queue |
-| I222 | Eyelids Sag After 60 — Ice Pack Test | Neurological/Muscular/Body Signal | 19 | 🟡 NEW IDEA — Priority queue |
-| I227 | Waist-to-Height Ratio After 60 | Metabolic/Body Composition | 19 | 🟡 NEW IDEA — Priority queue |
+| I191/VID-048 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | ✅ SCRIPT COMPLETE — Thumbnail brief complete |
+| I219/VID-053 | Lp(a) Blood Test | Diagnostic Gap/Cardiovascular | 20 | ✅ SCRIPT COMPLETE — Thumbnail brief complete |
+| I227 | Waist-to-Height Ratio After 60 | Metabolic/Body Composition | 19 | 🟡 NEW — SEO COMPLETE — Script needed |
+| I228 | Heartburn Pill Calcifying Arteries | Medication/Vascular | 19 | 🟡 NEW — SEO COMPLETE — Script needed |
 | I199/VID-052 | 3 AM BP Pattern/Reverse Dipping | Vascular/Sleep | 19 | 🔴 SCRIPT NEEDED — SEO COMPLETE |
-| I221 | 30-Second Foot Pulse Test | Vascular/Self-Assessment | 18 | 🟡 NEW IDEA — Standard queue |
-| I225 | Taste Map on Your Tongue After 60 | Neurological/Sensory | 18 | 🟡 NEW IDEA — Standard queue |
-| I226 | Cold Hands But Warm Feet After 60 | Vascular/Autonomic | 18 | 🟡 NEW IDEA — Standard queue |
-| I224 | Easy Bruising After 60 — Vascular Fragility | Vascular/Dermological | 17 | 🟡 NEW IDEA — Standard queue |
+| I229 | Bladder Wakes You — Heart Connection | Cardio-Urological | 18 | 🟡 NEW — Script needed |
+| I232 | Breathing Pattern Raising BP | Respiratory/Cardiovascular | 18 | 🟡 NEW — Script needed |
+| I233 | Teeth Lost Predicts Heart Disease | Oral-Systemic/Epidemiology | 18 | 🟡 NEW — Script needed |
+| I236 | Diaphragm Muscle Failing After 60 | Respiratory/Vascular | 18 | 🟡 NEW — Script needed |
+| I223 | Morning Leg Pattern Predicts Heart Failure | Cardiovascular/Predictive | 20 | 🟡 Priority queue |
+| I218 | Fingertip Tingling at Night After 60 | Neurological/Vascular/Body Signal | 19 | 🟡 Priority queue |
+| I220 | Voice Changes After 60 — Artery Behind Vocal Cords | Vascular/ENT/Body Signal | 19 | 🟡 Priority queue |
+| I222 | Eyelids Sag After 60 — Ice Pack Test | Neurological/Muscular/Body Signal | 19 | 🟡 Priority queue |
+| I230 | Neck Skin Fold — Metabolic Signal | Dermatological/Metabolic | 17 | 🟡 Standard queue |
+| I231 | Fingernails Grow Slower — Blood Flow | Vascular/Body Signal | 17 | 🟡 Standard queue |
+| I234 | Bedtime Position Destroying Sciatic Nerve | Neurological/Sleep | 17 | 🟡 Standard queue |
+| I235 | Finger Clubbing Timeline | Vascular/Predictive | 17 | 🟡 Standard queue |
+| I221 | 30-Second Foot Pulse Test | Vascular/Self-Assessment | 18 | 🟡 Standard queue |
+| I225 | Taste Map on Your Tongue After 60 | Neurological/Sensory | 18 | 🟡 Standard queue |
+| I226 | Cold Hands But Warm Feet After 60 | Vascular/Autonomic | 18 | 🟡 Standard queue |
+| I224 | Easy Bruising After 60 — Vascular Fragility | Vascular/Dermological | 17 | 🟡 Standard queue |
 | I212 | Facial Asymmetry Vascular Pattern | Vascular/Neurological | 19 | 🟡 BACKLOG |
 | I208 | Tongue Vascular Diagnostic | Oral-Systemic/Vascular | 19 | 🟡 BACKLOG |
 | I213 | Sitting Disease → Pancreas | Metabolic/Sedentary | 19 | 🟡 BACKLOG |
@@ -100,40 +109,47 @@
 | I168/VID-039 | Bedtime Habit Destroying Nerves | Neurological/Sleep | 19 | 🟡 SCRIPT NEEDED |
 | I169/VID-040 | Ozempic Vascular Effects | GLP-1/Vascular | 19 | 🟡 SCRIPT NEEDED |
 
-### 🔴 URGENT Production Pipeline (Score 18+, Updated June 20)
-1. **I199** (Score 19) — 3 AM BP Pattern/Reverse Dipping. Script target: VID-052. Reverse dipping terminology emerging at only 1K views. First-mover window open. SEO COMPLETE.
-2. **I223** (Score 20) — Morning Leg Pattern/HFpEF. Script target: TBD. Zero competition. HFpEF is the most underdiagnosed heart failure.
-3. **I218** (Score 19) — Fingertip Tingling. High emotional resonance, interactive self-test, zero competition.
-4. **I220** (Score 19) — Voice Changes + Aortic Arch. Unique ENT-vascular bridge, zero competition.
-5. **I222** (Score 19) — Ptosis + Ice Pack Test. Simple home test with dramatic diagnostic power, zero competition.
-6. **I227** (Score 19) — Waist-to-Height Ratio. Highly shareable, practical, zero competition.
-7. **I168** (Score 19) — Bedtime Nerve Destruction. Script target: VID-039. JOD at 99K surface only.
-8. **I169** (Score 19) — Ozempic Vascular Effects. Script target: VID-040. First-mover window closing.
-9. **I161** (Score 18) — PPI Fall Risk. Script target: VID-038. 40%+ of seniors take PPIs. Completely unowned.
+### 🔴 URGENT Production Pipeline (Score 18+, Updated June 21)
+1. **I199/VID-052** (Score 19) — 3 AM BP Pattern/Reverse Dipping. SEO COMPLETE. First-mover window open.
+2. **I227** (Score 19) — Waist-to-Height Ratio. SEO COMPLETE. Zero competition.
+3. **I228** (Score 19) — PPI Vascular Calcification. SEO COMPLETE. Zero competition.
+4. **I223** (Score 20) — Morning Leg Pattern/HFpEF. Zero competition.
+5. **I229** (Score 18) — Bladder Wakes You — Heart Connection. Zero competition.
+6. **I232** (Score 18) — Breathing Pattern Raising BP. Zero competition.
+7. **I233** (Score 18) — Teeth Lost Predicts Heart Disease. Zero competition.
+8. **I236** (Score 18) — Diaphragm Muscle Failing. Zero competition.
+9. **I218** (Score 19) — Fingertip Tingling. High emotional resonance, zero competition.
+10. **I220** (Score 19) — Voice Changes + Aortic Arch. Zero competition.
+11. **I222** (Score 19) — Ptosis + Ice Pack Test. Zero competition.
+12. **I168/VID-039** (Score 19) — Bedtime Nerve Destruction. JOD at 99K surface only.
+13. **I169/VID-040** (Score 19) — Ozempic Vascular Effects. First-mover window closing.
+14. **I161/VID-038** (Score 18) — PPI Fall Risk. 40%+ of seniors take PPIs.
 
 ---
 
-## Tomorrow's Priorities (June 21)
+## Tomorrow's Priorities (June 22)
 
 ### 🔴 Critical (TODAY)
-1. **Produce VID-048 thumbnails** — Hidden BP Muscle/Carotid Body — Upload July 3 (script complete)
-2. **Produce VID-053 thumbnails** — Lp(a) Blood Test — Upload July 10 (script complete)
-3. **Monitor CTR at 48h** — Check all June 19 uploads for CTR performance (target >6%)
+1. **Write VID-052 script** — I199: 3 AM BP Pattern/Reverse Dipping (Score 19, SEO complete)
+2. **Write I227 script** — Waist-to-Height Ratio (Score 19, SEO complete)
+3. **Write I228 script** — PPI Vascular Calcification (Score 19, SEO complete)
+4. **Produce VID-041/043/045 thumbnails** — For June 24 upload
+5. **Monitor CTR at 48h** — Check all June 19 uploads for CTR performance (target >6%)
 
 ### 🟡 Important (This Week)
-4. **Produce VID-041/043/045 thumbnails** — For June 24 upload
-5. **Produce VID-047/049 thumbnails** — For July 1 upload (scripts complete)
-6. **Produce VID-050/051 thumbnails** — For July 8/10 uploads (scripts complete)
-7. **Begin VID-052 script** — I199: 3 AM BP Pattern/Reverse Dipping (Score 19, SEO complete)
+6. **Produce VID-047/049 thumbnails** — For July 1 upload (scripts complete)
+7. **Produce VID-048/053 thumbnails** — For July 3/10 uploads (briefs complete)
+8. **Produce VID-050/051 thumbnails** — For July 8/10 uploads (scripts complete)
+9. **Produce VID-042/044/046 thumbnails** — For June 26 upload
 
 ### 🟢 When Time Permits
-8. **Produce VID-042/044/046 thumbnails** — For June 26 upload
-9. **Begin VID-038/039/040 scripts** — PPI Fall Risk, Bedtime Nerve Destruction, Ozempic Vascular
+10. **Begin VID-038/039/040 scripts** — PPI Fall Risk, Bedtime Nerve Destruction, Ozempic Vascular
+11. **Begin I229/I232/I233/I236 scripts** — Next priority ideas (all Score 18, zero competition)
 
 ---
 
-*Context pack updated: 2026-06-20 by Memory Curator Agent*
-*Next update: 2026-06-21*
+*Context pack updated: 2026-06-21 by Memory Curator Agent*
+*Next update: 2026-06-22*
 
 ---
 
@@ -163,13 +179,13 @@
 | Thu June 26 | VID-SHORT-025 (teaser) | Short | Script complete |
 | Tue July 1 | VID-047 (10-Second Balance Test) | Long | ✅ Script complete — Thumbnails needed |
 | Tue July 1 | VID-049 (Stair Climbing Vascular Pump) | Long | ✅ Script complete — Thumbnails needed |
-| Thu July 3 | VID-048 (Hidden BP Muscle) | Long | ✅ Script complete — Thumbnails needed |
+| Thu July 3 | VID-048 (Hidden BP Muscle) | Long | ✅ Script complete — Thumbnail brief complete |
 | Tue July 8 | VID-050 (Gut Leaked/Joint Inflammation) | Long | ✅ Script complete — Thumbnails needed |
-| Tue July 8 | VID-052 (3 AM BP Pattern) | Long | 🔴 Script needed |
+| Tue July 8 | VID-052 (3 AM BP Pattern) | Long | 🔴 Script needed — SEO complete |
 | Thu July 10 | VID-051 (Dentist Sees Brain Inflammation) | Long | ✅ Script complete — Thumbnails needed |
-| Thu July 10 | VID-053 (Lp(a) Blood Test) | Long | ✅ Script complete — Thumbnails needed |
+| Thu July 10 | VID-053 (Lp(a) Blood Test) | Long | ✅ Script complete — Thumbnail brief complete |
 
 ---
 
-*Context pack updated: 2026-06-20 by Memory Curator Agent*
-*Next update: 2026-06-21*
+*Context pack updated: 2026-06-21 by Memory Curator Agent*
+*Next update: 2026-06-22*
