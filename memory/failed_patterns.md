@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-20
+> **Last Updated:** 2026-06-22
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures

@@ -1,56 +1,34 @@
 # Next Actions — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-21
-> **Planning Horizon:** June 22 - July 5, 2026
+> **Last Updated:** 2026-06-22
+> **Planning Horizon:** June 23 - July 5, 2026
 
-## 🔴 IMMEDIATE (June 22, 2026)
+## 🔴 IMMEDIATE (June 23, 2026)
 
 ### Script Writing — TOP PRIORITY
-1. **Begin VID-052 script** — I199: 3 AM BP Pattern/Reverse Dipping (Score 19/20)
+1. **Begin I227 script** — Waist-to-Height Ratio (Score 19/20)
+    - Upload target: July 1, 2026
+    - White space: ZERO competition. SEO metadata COMPLETE.
+2. **Begin I228 script** — PPI Vascular Calcification (Score 19/20)
+    - Upload target: July 3, 2026
+    - White space: ZERO competition. 40%+ of seniors take PPIs. SEO metadata COMPLETE.
+3. **Begin VID-052 script** — I199: 3 AM BP Pattern/Reverse Dipping (Score 19/20)
     - Upload target: July 8, 2026
-    - White space: "Reverse dipping" terminology at only 1K views. First-mover window OPEN.
-    - SEO metadata: COMPLETE
-2. **Begin I227 script** — Waist-to-Height Ratio (Score 19/20)
-    - Upload target: July 22, 2026
-    - White space: ZERO competition. Metric-based self-assessment.
-    - SEO metadata: COMPLETE
-3. **Begin I228 script** — PPI Vascular Calcification (Score 19/20)
-    - Upload target: July 24, 2026
-    - White space: ZERO competition. 40%+ of seniors take PPIs.
-    - SEO metadata: COMPLETE
+    - White space: "Reverse dipping" terminology at only 1K views. SEO metadata COMPLETE.
 
-### Thumbnail Production — URGENT (June 24 uploads)
-4. **Produce VID-041 Thumbnails** — Fingernail Ridges/Organ Map — Upload June 24
-5. **Produce VID-043 Thumbnails** — Magnesium Mistake/Arteries — Upload June 24
-6. **Produce VID-045 Thumbnails** — Morning Symptom/Heart Attack — Upload June 24
+### Thumbnail Production — URGENT
+4. **Produce VID-054 Thumbnails** — Morning Joint Stiffness — Upload July 15 (script complete)
+5. **Produce VID-055 Thumbnails** — Scale Is Lying / Body Composition — Upload July 17 (script complete)
+6. **Produce VID-041 Thumbnails** — Fingernail Ridges/Organ Map — Upload June 24
+7. **Produce VID-043 Thumbnails** — Magnesium Mistake/Arteries — Upload June 24
+8. **Produce VID-045 Thumbnails** — Morning Symptom/Heart Attack — Upload June 24
 
 ### Thumbnail Production — URGENT (July 1 uploads — scripts complete)
-7. **Produce VID-047 Thumbnails** — 10-Second Balance Test — Upload July 1
-8. **Produce VID-049 Thumbnails** — Stair Climbing Vascular Pump — Upload July 1
-
-### Thumbnail Production — URGENT (July 3/10 uploads — scripts complete)
-9. **Produce VID-048 Thumbnails** — Hidden BP Muscle/Carotid Body — Upload July 3 (brief complete)
-10. **Produce VID-053 Thumbnails** — Lp(a) Blood Test — Upload July 10 (brief complete)
-
-### Thumbnail Production — URGENT (June 26 uploads)
-11. **Produce VID-042 Thumbnails** — Carotid/Dementia Prediction — Upload June 26
-12. **Produce VID-044 Thumbnails** — BP Medicine Timing — Upload June 26
-13. **Produce VID-046 Thumbnails** — Ears Ring Louder at Night — Upload June 26
-
-### Thumbnail Production — URGENT (July 8/10 uploads — scripts complete)
-14. **Produce VID-050 Thumbnails** — Gut Leaked/Joint Inflammation — Upload July 8
-15. **Produce VID-051 Thumbnails** — Dentist Sees Brain Inflammation — Upload July 10
+9. **Produce VID-047 Thumbnails** — 10-Second Balance Test — Upload July 1
+10. **Produce VID-049 Thumbnails** — Stair Climbing Vascular Pump — Upload July 1
 
 ### CTR Monitoring
-16. **Monitor VID-028/030/032/037 CTR at 48h** — Check June 22 (target >6%)
-17. **Review A/B test results** — Determine winning thumbnail variants for all June 19 uploads
-
-### Channel Optimization
-18. **Create/Update Playlists:**
-    - "Medication Dangers Your Doctor Misses" (add VID-027, VID-028, VID-021, VID-022)
-    - "Body Signals After 60" (add VID-023, VID-024, VID-020, VID-022)
-    - "What Your Doctor Missed" (add VID-029, VID-030, VID-021, VID-022)
-    - "Vascular Health" (add VID-036, VID-037, VID-043, VID-044)
+11. **Monitor VID-030/032/037 CTR at 48h** — Check June 23 (target >6%)
 
 ## 🟢 NEXT WEEK (June 24 - July 5, 2026)
 

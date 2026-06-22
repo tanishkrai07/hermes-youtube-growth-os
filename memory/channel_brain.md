@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-21
+> **Last Updated:** 2026-06-22
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -242,9 +242,45 @@
     - Purpose: Teaser for VID-028 long-form
     - Status: READY FOR PRODUCTION
 
-### New Videos Added June 11
+### New Videos Added June 22
 
-29. **VID-031 (Long-form):** "Why Your Sleep Gets Worse After 60 — The Oxygen Drop Nobody Measures"
+33. **VID-054 (Long-form):** "Your Morning Joint Stiffness After 60 — The Fluid Shift Doctors Don't Measure"
+    - Script: COMPLETE (June 22 script package, ~2,620 words, 4 studies, 9 retention hooks)
+    - Score: 21/20
+    - Unique angle: "Stiffness Clock" framework — duration of morning stiffness distinguishes mechanical (<30 min) from inflammatory (>60 min) joint disease. Cartilage rehydration physics vs. cytokine-driven synovial inflammation.
+    - Structure: Interactive self-test opening → Two-path divergence (mechanical vs. inflammatory) → Cytokine clock mechanism → Red flag thresholds → Doctor conversation script → Empowerment close
+    - Original insight: Stiffness duration as zero-cost diagnostic tool. Timer-able self-assessment that transforms a universal annoyance into a clinical decision tool. No competitor covers stiffness duration as a diagnostic signal.
+    - Key studies: Mechanical stiffness resolves <30 min (cartilage fluid repositioning), inflammatory stiffness >60 min (cytokine surge + synovial inflammation), cytokine circadian rhythm (nadir 2-6 AM), cortisol低下 accelerates inflammatory process overnight
+    - Upload target: Tuesday, July 15, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-055 (Scale Is Lying)
+    - Companion Short: VID-SHORT-032
+    - Safety: 16 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+34. **VID-SHORT-032 (Short):** "Time Your Morning Stiffness — The Answer Predicts Your Joint Future"
+    - Script: COMPLETE (~155 words)
+    - Upload target: July 15, 2026
+    - Purpose: Teaser for VID-054 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+35. **VID-055 (Long-form):** "Your Doctor's Scale Is Lying to You After 60 — The Hidden Body Composition Shift"
+    - Script: COMPLETE (June 22 script package, ~2,580 words, 5 studies, 9 retention hooks)
+    - Score: 21/20
+    - Unique angle: "Invisible Inversion" framework — after 60, body can lose 20% muscle while gaining fat at SAME WEIGHT. Sarcopenic obesity (25-30% of normal-weight seniors over 65) completely missed by BMI and scale. Three zero-cost measurements: waist-to-height ratio, grip strength, 5-times sit-to-stand test.
+    - Structure: Visual paradox demonstration → Invisible inversion revealed → Three-measurement self-assessment protocol → DEXA advocacy moment → Muscle-preservation framework → Empowerment close
+    - Original insight: "You're not overweight. You're under-muscled. And those are very different problems with very different solutions." Scale lies after 60 because weight is not composition.
+    - Key studies: Sarcopenic obesity 25-30% of over-65s (J Am Geriatr Soc 2024), quadriceps cross-sectional area declines 40% from age 40-80, visceral fat increases 30-50% after 60 without weight change, WHtR >0.5 predicts cardiometabolic risk better than BMI (BMJ 2023 meta-analysis), grip strength predicts all-cause mortality (Lancet 2024)
+    - Upload target: Thursday, July 17, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-054 (Morning Joint Stiffness)
+    - Companion Short: VID-SHORT-033
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+36. **VID-SHORT-033 (Short):** "Your Scale Is Lying to You After 60 — Here's What to Check Instead"
+    - Script: COMPLETE (~150 words)
+    - Upload target: July 17, 2026
+    - Purpose: Teaser for VID-055 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
     - Script: COMPLETE (June 11 script package, ~2,650 words, 11 studies, 8 retention hooks)
     - Score: 21/20
     - Unique angle: Upper Airway Resistance Syndrome (UARS) — the AHI vs. ODI diagnostic gap; standard sleep studies miss oxygen desaturation while apnea count stays "normal"
@@ -256,6 +292,8 @@
     - Companion Short: VID-SHORT-016
     - Safety: 18 PASS / 0 FAIL
     - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Videos Added June 11 (continued)
 
 30. **VID-SHORT-016 (Short):** "You slept 8 hours but woke up exhausted — here's what your sleep study missed"
     - Script: COMPLETE (~155 words)
@@ -970,3 +1008,24 @@
 - **Never recommend stopping any medication without doctor supervision** — always frame as "questions to ask your doctor"
 - **Never tell viewers to self-diagnose from WHtR alone** — frame as "one screening tool among many"
 - **Never tell viewers RBC magnesium is "the only accurate test"** — frame as "may provide additional information beyond serum magnesium"
+
+### New Insights from June 22 Scans
+- **⚡⚡ Dr. Michael Kent pancreatic cancer SURGE to 1.1M:** "These 5 Reheated Foods May Increase Pancreatic Cancer Risk" jumped from 881K to 1.1M (+219K). Now Kent's SECOND highest-performing video. Food warning + specific cancer type format ACCELERATING.
+- **⚡⚡ Dr. Thomas stroke empire EXPANDING:** "THIS Morning Habit TRIPLES Stroke Risk After 60" grew from 251K-529K to 577K-656K. NEW video "5 Common Medications Seniors Must Avoid (Heart Damage Risk!)" at 11K — Dr. Thomas now expanding from stroke/brain into heart medications.
+- **⚡ Kapadia enters sleep + circulation at 98K:** "The Sleep Position That's Slowly Killing Your Circulation Every Night" — vascular surgeon authority entering sleep health niche. First-mover window for vascular mechanism + sleep position CLOSING.
+- **⚡ Kapadia diabetic foot at 115K:** "You Won't Believe the #1 Diabetic Foot Warning Sign You're Ignoring" — vascular surgeon authority on diabetic complications performing strongly.
+- **⚡ Healthy Aging kidney content at 662K:** "Top 5 Vegetables That Heal Your Kidneys After 60" grew to 662K. Kidney niche OCCUPIED. First-mover window CLOSED.
+- **🆕 Dr. Arthur Clark diabetes vegetables:** "9 Vegetables That Lower Blood Sugar Instantly" at 17K-36K. Clark expanding diabetes portfolio.
+- **🆕 Japan's Oldest Doctor stroke trick:** "Do This 10-Second Tongue Trick to Reduce Stroke Risk After 60" — cross-posted across channels. Simple at-home trick format entering stroke prevention.
+- **🆕 Japan's Oldest Doctor dementia nutrition:** "One Breakfast Food That May Prevent Dementia After 60" — entering dementia prevention through nutrition.
+- **🆕 Claire Whitmore members-only content:** "I SHOW YOU HOW TO QUICKLY CLEAR YOUR ARTERIES WITH YOUR OWN HANDS" — members-only format. Platform diversification strategy emerging.
+- **🆕 Dr. Edward Kensington multi-ID confirmed:** "9 Popular Medications That Can Trigger Rapid Dementia" at 158 views (2 days) cross-posted as "Dr. John Li".
+- **🆕 Dr. Parker Jace | Senior's Health** — Referenced for "7 Early DEMENTIA Signs That Appear YEARS BEFORE Memory Loss." Too early to assess scale. Monitor for cross-posting farm pattern.
+- **Dr. Sarah Mitchell blood tests at 681K stable:** No new growth observed. "The 5 Blood Tests Every Senior Must Demand" maintaining position.
+- **No new major competitor channels discovered** — Competitive landscape stable. Existing competitors expanding within niches.
+- **✅ VID-054 (Morning Joint Stiffness) SCRIPT COMPLETE** — I111, Score 21. "Stiffness Clock" framework. 16 PASS / 0 FAIL safety. Upload target: July 15.
+- **✅ VID-055 (Scale Is Lying) SCRIPT COMPLETE** — I114, Score 21. "Invisible Inversion" framework. 18 PASS / 0 FAIL safety. Upload target: July 17.
+- **✅ I237 (Carotid Body) thumbnail brief COMPLETE** — A/B variants with "Grain of Rice" and "Press Here" concepts. Zero competition.
+- **✅ I245 (Arterial Age / CAC Score) thumbnail brief COMPLETE** — A/B variants with "20 Years Older" and "CAC: 847" concepts. Zero competition.
+- **✅ 10 new ideas generated (I237-I246)** — All scored 17-19. All have ZERO competition. Top: I237 (Carotid Body, Score 19), I245 (CAC Score, Score 18), I238 (Dentist Sees Heart Disease, Score 18), I239 (Pulsatile Tinnitus, Score 18), I240 (Throat Muscle, Score 18).
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 14). web_search used as fallback.

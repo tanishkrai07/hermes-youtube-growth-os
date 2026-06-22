@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-21
+> **Last Updated:** 2026-06-22
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -1378,5 +1378,52 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 - #8: "The ONE" hook — (650K, Whitmore leg circulation)
 - #9: **"Medication Trio + Unknown" hook** — (196K→600K+, Kensington)
 - #10: **"Sleep Position + Stroke" hook** — (251K-529K, Dr. Thomas) ⚡
+
+---
+
+## New Patterns Added 2026-06-22
+
+### New Title Formulas (June 22 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P065 | "Over [Age] THIS [Time] [Habit] [Dramatic Claim] In Older Adults!" | Dr. Thomas | 577K-656K |
+| P066 | "You Won't Believe the #1 [Condition] Warning Sign You're Ignoring" | Dr. Sumit Kapadia | 115K |
+| P067 | "The [Sleep Position] That's Slowly Killing Your [System] Every Night ([Specialty] Warns)" | Dr. Sumit Kapadia | 98K |
+| P068 | "Do This [Time] [Body Part] Trick to [Health Claim] After [Age]" | Japan's Oldest Doctor | Active |
+| P069 | "I SHOW YOU HOW TO [Dramatic Action] WITH YOUR OWN [Body Part]" | Claire Whitmore | Members only |
+| P070 | "Cardiologist Warning [Year]: [Number] Common Medications That May DAMAGE Your [Organ]" | Dr. Thomas | 11K |
+| P071 | "[Number] Popular Medications That Can Trigger Rapid [Condition]" | Dr. Michael Kent | 892K |
+| P072 | "THIS [Time] [Habit] [Multiplier] [Condition] Risk After [Age]" | Dr. Thomas | 577K-656K |
+| P073 | "These [Number] Reheated Foods May Increase [Cancer Type] Risk" | Dr. Michael Kent | 1.1M |
+| P074 | "[Number] Vegetables That Lower [Metric] Instantly! ([Condition] Must See)" | Dr. Arthur Clark | 17K-36K |
+| P075 | "[Number] [Meal] Food That May Prevent [Condition] After [Age]!" | Japan's Oldest Doctor | Active |
+
+### New Viral Formats (June 22)
+
+1. **"Morning Habit Multiplier" format** — Dr. Thomas: "Over 60 THIS Morning Habit TRIPLES Stroke Risk." Age trigger + temporal specificity + dramatic multiplier + exclamation. Working at 577K-656K. ADAPTABLE for Dr. Kane with vascular mechanism angle.
+
+2. **"Curiosity Gap Warning Sign" format** — Kapadia: "You Won't Believe the #1 Diabetic Foot Warning Sign You're Ignoring." Curiosity gap + superlative + specific condition + "ignoring" creates urgency. Working at 115K. ADAPTABLE for vascular conditions.
+
+3. **"Sleep Position Slow Kill" format** — Kapadia: "The Sleep Position That's Slowly Killing Your Circulation Every Night." Specific position + "slowly killing" fear + nighttime vulnerability. Working at 98K. ADAPTABLE for Dr. Kane with vascular mechanism angle.
+
+4. **"Body Part Trick" format** — JOD: "Do This 10-Second Tongue Trick to Reduce Stroke Risk." Time-bound + body part + "trick" implies simplicity. Cross-posting well. ADAPTABLE for Dr. Kane with diagnostic test angle.
+
+5. **"Reheated Foods + Cancer Type" format** — Kent: "These 5 Reheated Foods May Increase Pancreatic Cancer Risk." Common action + cancer type + chemistry explanation. Working at 1.1M. DO NOT COPY — but vascular inflammation + food angle still open.
+
+6. **"Cardiologist Warning Year" format** — Dr. Thomas: "Cardiologist Warning (2026): 5 Common Medications That May DAMAGE Your Heart." Authority + year branding + urgency + common item + damage claim. Working at 11K. ADAPTABLE with vascular surgeon authority.
+
+7. **"Members-Only Premium" format** — Claire Whitmore: "I SHOW YOU HOW TO QUICKLY CLEAR YOUR ARTERIES WITH YOUR OWN HANDS." First-person demonstration + dramatic action + members-only gate. Platform diversification strategy. Monitor for adoption by other channels.
+
+### Updated Hook Rankings (June 22)
+- #1: "The Day Before" hook — (1.39M, Waterling evergreen — now suppressed)
+- #2: "Forget [X] — This [Y]" hook — (1.1M, Kent pancreatic cancer) ⚡
+- #3: "Taking [Med A], [Med B], or [Med C]" hook — (600K+, Kensington)
+- #4: "BRAIN Doctor SHOCKED" hook — (1M, Dr. Thomas)
+- #5: "Which is More DANGEROUS" hook — (452K, Whitmore)
+- #6: "The ONE" hook — (650K, Whitmore leg circulation)
+- #7: **"Morning Habit Multiplier" hook** — (577K-656K, Dr. Thomas) ⚡ NEW
+- #8: **"Curiosity Gap Warning Sign" hook** — (115K, Kapadia) ⚡ NEW
+- #9: **"Sleep Position Slow Kill" hook** — (98K, Kapadia) ⚡ NEW
+- #10: **"Reheated Foods + Cancer" hook** — (1.1M, Kent) ⚡ NEW
 
 ---
