@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-23
+> **Last Updated:** 2026-06-24
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -616,3 +616,26 @@
 - **What happened:** Smart Health Tips entered leg circulation niche by copying Senior Book's "Surgeon reveals" formula. Leg circulation is HYPER-SATURATED (10M+ views across 8+ channels).
 - **Lesson:** New entrants copying proven formulas into saturated niches will fail. The "Surgeon reveals" format is now attracting copycats into an already crowded space.
 - **Fix:** Dr. Kane should NEVER enter leg circulation exercise content. The mechanism angle (soleus pump, vascular) remains the ONLY viable differentiation.
+
+#### New Failure Pattern: Eye Health Hyper-Saturation (June 24)
+- **What happened:** Dr. Arthur Clark's "Best Fruit to Eat Before Bed for Healthy Eyes" hit 924K in 2 weeks. Eye health went from "crowded" to "hyper-saturated" with 5 major players (Dr. Arthur Clark 924K, Dr. Michael Kent 945K, Dr.Robert Harrison 917K, Doctor Eye Health 568K, Dr. Eliza Grant 126K).
+- **Lesson:** Even niches identified as having room for one more player can become hyper-saturated within days when a breakout format emerges. The "Doctor Explains: Best [Food] Before Bed" format is highly replicable and will saturate other body parts within 2-4 weeks.
+- **Fix:** AVOID all eye health content. The "Best [Food] Before Bed" format is Dr. Arthur Clark's territory. If covering sleep + nutrition, use mechanism angle (postprandial lipemia timing) rather than specific food recommendations.
+
+#### New Failure Pattern: Walking/Biomechanics Niche Heating Up (June 24)
+- **What happened:** Dr. Thomas's "One SIMPLE Change to How You Walk That Could Save Your Life After 70" at 108K. This is a NEW category — not exercise content, but movement pattern correction content. Cross-posted to Senior Health Podcast.
+- **Lesson:** Competitors are discovering that "how you move" content performs differently from "exercise" content. The biomechanics angle is a sub-niche within the broader walking niche that is still open but heating up.
+- **Fix:** Dr. Kane can own the vascular mechanism behind walking changes (why gait changes happen, what they indicate about vascular health) but should NOT produce "how to walk better" exercise content. The mechanism-first approach is the differentiator.
+
+#### New Safety Boundaries (I257 Bedtime Snack / I258 Tinnitus Production)
+- **Never tell viewers their bedtime snack is "destroying" their arteries** — frame as "eating within 1 hour of sleep may contribute to elevated overnight triglycerides"
+- **Never tell viewers to stop eating before bed entirely** — frame as "if you eat before bed, allow at least 1 hour before lying down"
+- **Never tell viewers their tinnitus is "definitely" from venous pressure** — frame as "one possible explanation worth discussing with your doctor"
+- **Never diagnose sigmoid sinus dehiscence from symptoms alone** — frame as "if you notice positional changes in tinnitus, ask your doctor about appropriate imaging"
+- **Never tell viewers venous tinnitus is "curable"** — frame as "understanding the cause can guide appropriate management"
+
+#### New Safety Boundaries (I261 Morning Arterial Failing / I260 Cholesterol Particle)
+- **Never tell viewers their morning symptoms mean their arteries are "failing"** — frame as "one possible indicator worth discussing with your doctor"
+- **Never tell viewers their LDL-C is "lying"** — frame as "LDL-C measures cholesterol mass, but particle number may provide additional information"
+- **Never tell viewers to demand ApoB testing** — frame as "ask your doctor whether ApoB or LDL-P might be appropriate for your situation"
+- **Never tell viewers they need advanced lipid testing** — frame as "for some people, additional testing beyond standard cholesterol may provide useful information"

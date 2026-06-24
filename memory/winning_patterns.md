@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-22
+> **Last Updated:** 2026-06-24
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -1489,6 +1489,78 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 | P188 | "The [Metaphor] in Your [Body Part] That's [Action] Your [Health Aspect] After [Age]" | VID-057 T3 |
 | P189 | "[Time] [Symptom] But [Opposite]? The [Condition] [Term] After [Age]" | VID-056 T3 |
 
+### New Patterns Added 2026-06-24 (from competitor scan)
+
+### New Title Formulas (June 24 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P068 | "Doctor Explains: The Best [Food] to Eat Before Bed for Healthy [Body Part]" | Dr. Arthur Clark | 924K (2 weeks) |
+| P069 | "One SIMPLE Change to How You Walk That Could Save Your Life After [Age]" | Dr. Thomas | 108K |
+| P070 | "FASTEST Protocol to [Achieve Result] (Doctor Explains)" | Dr. Michael Kent | 435 (2 days) |
+
+### New Viral Formats (June 24)
+1. **"Doctor Explains: Best [Food] Before Bed" format** — Dr. Arthur Clark at 924K in 2 weeks. Combines: bedtime ritual + food + body part + authority. Cross-posted to 5+ channels. Eye health window NOW CLOSED.
+2. **"Walking Pattern Biomechanics" format** — Dr. Thomas at 108K. "One SIMPLE Change to How You Walk" combines biomechanics + fear + simple fix. NEW category — not exercise content, but movement pattern content. ADAPTABLE for Dr. Kane with vascular mechanism.
+3. **"FASTEST Protocol" format** — Dr. Michael Kent testing (435 views, 2 days). "FASTEST" superlative + urgency + authority. Monitor for traction.
+
+### Platform Risk Update (June 24)
+- **Cross-posting networks accelerating:** Dr. Arthur Clark's "Best Fruit" video cross-posted to 5+ channels. Dr. Aliza Wright's BP Trio cross-posted to "Healing path" (675K views). Dr. Thomas's walking content cross-posted to Senior Health Podcast.
+- **Multi-ID strategy confirmed:** Dr. Thomas (Senior Health Tips 112K subs + Senior Secrets 117K views). Dr. Arthur Clark (main 16.8K + Dr. Arthur Reveals separate ID).
+- **McGill enforcement:** No new takedowns this scan. Cross-posting networks remain HIGHEST risk pattern.
+
+### Updated Hook Rankings (June 24)
+- #1: "The Day Before" hook — (1.39M, Waterling evergreen — suppressed)
+- #2: "Forget [X] — This [Y]" hook — (1.1M, Kent)
+- #3: "Taking [Med A], [Med B], or [Med C]" hook — (675K, Wright)
+- #4: "BRAIN Doctor SHOCKED" hook — (1M, Dr. Thomas)
+- #5: "Doctor Explains: Best [Food] Before Bed" hook — (924K, Dr. Arthur Clark) ⚡ NEW
+- #6: "Which is More DANGEROUS" hook — (452K, Whitmore)
+- #7: "The ONE" hook — (650K, Whitmore)
+- #8: "Morning Habit Multiplier" hook — (577K-656K, Dr. Thomas)
+- #9: "Curiosity Gap Warning Sign" hook — (115K, Kapadia)
+- #10: "Sleep Position Slow Kill" hook — (98K, Kapadia)
+- #11: "Reheated Foods + Cancer" hook — (1.1M, Kent)
+- #12: "Walking Pattern Biomechanics" hook — (108K, Dr. Thomas) ⚡ NEW
+- #13: "Emergency Time-Bound Technique" hook — (NEW, Dr. Thomas)
+- #14: "Patient Advocacy Communication" hook — (25 views, Dr. Pierce)
+
 ---
 
-*Last updated: 2026-06-23 by Competitor Watcher Agent (Cron)*
+### New Patterns Added 2026-06-24 (from today's reports)
+
+### New Title Formulas (June 24 — from VID-058/059 SEO + Idea List)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P190 | "The [Test] That Predicts [Condition] [Time] Before — After [Age]" | Dr. Kane (VID-058) | New |
+| P191 | "[Device/Habit] Making You [Condition] — The [Hidden Mechanism] Secret After [Age]" | Dr. Kane (VID-059) | New |
+| P192 | "Why [Device] Are [Damaging Verb] Your [Nutrient] After [Age] — Doctor Explains" | Dr. Kane (VID-059 T2) | New |
+
+### New Viral Formats (June 24)
+1. **"Predictive Window" format** — Dr. Kane VID-058: "This Blood Test Predicts Your Memory 10 Years Before Symptoms." Shifts from "what's happening now" to "what will happen when." Empowerment through prediction. No competitor owns this.
+2. **"Mechanical Malnutrition" format** — Dr. Kane VID-059: "Dentures Making You Anemic." Connects medical hardware to systemic nutritional decline through invisible cascade. Unique mechanism angle.
+3. **"Healthy Habit Inversion + Timing Mechanism" format** — I257: "The Bedtime Snack That's Silently Destroying Your Blood Vessels." Inverts the "healthy snack" myth with postprandial lipemia mechanism. Highly novel framing.
+
+### New Competitor Formats to Monitor (June 24)
+1. **"Doctor Explains: Best [Food] Before Bed" format** — Dr. Arthur Clark at 924K. Eye health SATURATED but format replicable for other niches. Window: 2-4 weeks before saturation.
+2. **"Walking Pattern Biomechanics" format** — Dr. Thomas at 108K. "One SIMPLE Change to How You Walk." Not exercise — movement pattern correction. NEW category.
+3. **"FASTEST Protocol" format** — Dr. Michael Kent testing at 435 views (2 days). Superlative + urgency + authority. Monitor.
+
+### Updated Hook Rankings (June 24 — Final)
+- #1: "The Day Before" hook — (1.39M, Waterling evergreen — suppressed)
+- #2: "Forget [X] — This [Y]" hook — (1.1M, Kent)
+- #3: "Taking [Med A], [Med B], or [Med C]" hook — (675K, Wright)
+- #4: "BRAIN Doctor SHOCKED" hook — (1M, Dr. Thomas)
+- #5: "Doctor Explains: Best [Food] Before Bed" hook — (924K, Dr. Arthur Clark)
+- #6: "Which is More DANGEROUS" hook — (452K, Whitmore)
+- #7: "The ONE" hook — (650K, Whitmore)
+- #8: "Morning Habit Multiplier" hook — (577K-656K, Dr. Thomas)
+- #9: "Curiosity Gap Warning Sign" hook — (115K, Kapadia)
+- #10: "Sleep Position Slow Kill" hook — (98K, Kapadia)
+- #11: "Reheated Foods + Cancer" hook — (1.1M, Kent)
+- #12: "Walking Pattern Biomechanics" hook — (108K, Dr. Thomas) ⚡ NEW
+- #13: "Emergency Time-Bound Technique" hook — (NEW, Dr. Thomas)
+- #14: "Patient Advocacy Communication" hook — (25 views, Dr. Pierce)
+- #15: "Predictive Window" hook — (NEW, Dr. Kane VID-058) ⚡ NEW Dr. Kane format
+- #16: "Mechanical Malnutrition" hook — (NEW, Dr. Kane VID-059) ⚡ NEW Dr. Kane format
+
+*Last updated: 2026-06-24 by Memory Curator Agent (Cron)*

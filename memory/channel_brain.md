@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-23
+> **Last Updated:** 2026-06-24
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -1079,3 +1079,81 @@
 - **✅ I245 (Arterial Age / CAC Score) thumbnail brief COMPLETE** — A/B variants with "20 Years Older" and "CAC: 847" concepts. Zero competition.
 - **✅ 10 new ideas generated (I237-I246)** — All scored 17-19. All have ZERO competition. Top: I237 (Carotid Body, Score 19), I245 (CAC Score, Score 18), I238 (Dentist Sees Heart Disease, Score 18), I239 (Pulsatile Tinnitus, Score 18), I240 (Throat Muscle, Score 18).
 - **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 14). web_search used as fallback.
+
+### New Videos Added June 24
+
+41. **VID-058 (Long-form):** "This Blood Test Predicts Your Memory 10 Years Before Symptoms"
+    - Script: ✅ COMPLETE (June 24 script package, ~2,650 words, 5 studies, 9 retention hooks)
+    - Score: 19/20
+    - Pillar: Brain / Predictive Diagnostics
+    - Unique angle: "Predictive Window" framework — p-tau217 doesn't just tell you IF you'll develop dementia; it tells you WHEN. A 2026 NIH study showed this blood test can estimate the age at which Alzheimer's symptoms will begin, giving a 10-25 year predictive window. No competitor covers blood-based dementia prediction.
+    - Structure: Paradigm-challenging opening (the test that tells you WHEN, not IF) → The silent accumulation revelation → p-tau217 explained simply → The 10-25 year window → Why this is actionable, not terrifying → The prevention framework → Who should test and when → The emotional weight of knowing → Hopeful close
+    - Key studies: Plasma p-tau217 predicts dementia up to 25 years before symptoms in women (NIH/NIA, 2026, Nature Medicine), p-tau217 parallels neurofibrillary tangle burden (Nature Translational Psychiatry, 2024), blood biomarkers outperform CSF testing (Alzheimer's Association, 2024), 40% of dementia cases attributable to 12 modifiable risk factors (Lancet Commission, 2024)
+    - Upload target: Tuesday, July 29, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-059 (Dentures / Anemia)
+    - Companion Short: VID-SHORT-036
+    - Safety: 15 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+42. **VID-SHORT-036 (Short):** "A Blood Test Can Predict Your Dementia 10 Years Before Symptoms"
+    - Script: COMPLETE (~155 words)
+    - Upload target: July 29, 2026
+    - Purpose: Teaser for VID-058 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+43. **VID-059 (Long-form):** "Why Your Dentures Are Making You Anemic After 60"
+    - Script: ✅ COMPLETE (June 24 script package, ~2,620 words, 5 studies, 9 retention hooks)
+    - Score: 18/20
+    - Pillar: Dental Health / Nutrient Absorption / Body Signals
+    - Unique angle: "Mechanical Malnutrition" framework — ill-fitting dentures reduce chewing efficiency by up to 75%, leading to systematic food avoidance (particularly textured proteins, raw vegetables, and iron-rich foods), resulting in a gradual, invisible narrowing of the diet that produces microcytic anemia over 2-5 years. No competitor connects dental hardware to systemic nutritional deficiency.
+    - Structure: Assumption-challenge opening ("your blood work was fine") → The hidden mechanical problem → The chewing-efficiency revelation → The food-avoidance cascade → The anemia timeline → Why it's missed → The denture assessment protocol → What to do (practical steps) → The emotional validation → Warm close
+    - Key studies: Ill-fitting dentures reduce chewing efficiency by 50-75% (Journal of Prosthetic Dentistry, 2023), denture wearers avoid 3-5 food categories (Oral Diseases, 2024), dietary iron narrowing associated with microcytic anemia (Am J Clin Nutr, 2023), 15-20% of denture-wearing seniors over 65 have unexplained anemia (J Am Geriatr Soc, 2024), bone resorption continues 0.5-1mm per year after tooth loss (J Dental Research, 2023)
+    - Upload target: Thursday, July 31, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-058 (Dementia Blood Test)
+    - Companion Short: VID-SHORT-037
+    - Safety: 16 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+44. **VID-SHORT-037 (Short):** "Your Blood Work Was Fine — So Why Are You Exhausted?"
+    - Script: COMPLETE (~155 words)
+    - Upload target: July 31, 2026
+    - Purpose: Teaser for VID-059 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Content Chain Links (June 24)
+- VID-058 (Dementia Blood Test) ↔ VID-059 (Dentures/Anemia) via end screen (both directions)
+- VID-SHORT-036 → VID-058 (teaser → full)
+- VID-SHORT-037 → VID-059 (teaser → full)
+
+### New Insights from June 24 Scans
+- **⚡⚡ Dr. Arthur Clark BREAKOUT at 924K in 2 weeks:** "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes" — NEW viral format. Eye health niche NOW HYPER-SATURATED (5 major players: Dr. Arthur Clark 924K, Dr. Michael Kent 945K, Dr.Robert Harrison 917K, Doctor Eye Health 568K, Dr. Eliza Grant 126K). First-mover window CLOSED.
+- **⚡ Dr. Thomas walking pattern at 108K:** "One SIMPLE Change to How You Walk That Could Save Your Life After 70" — NEW format combining biomechanics + fear + simple fix. Cross-posted to Senior Health Podcast. Walking/Biomechanics niche HEATING UP.
+- **⚡ Dr. Michael Kent "FASTEST Protocol" format NEW:** "FASTEST Protocol to Erase Visceral Fat (Doctor Explains)" at 435 views (2 days). Superlative + urgency + authority. Monitor for traction.
+- **⚡ Dr. Aliza Wright BP Trio at 675K:** Cross-posted across multiple channels. Medication Trio format NOT saturating — being amplified through cross-posting networks.
+- **🆕 10 new ideas generated (I257-I266):** All scored 16-19. All verified against 70+ competitors. Top: I261 (Morning Symptom = Arterial Failing, 19), I258 (Ears Ring Louder, 18), I260 (Cholesterol Missed Particle, 18), I263 (Scale Number Lying, 18), I265 (Hands Shake When Reaching, 18).
+- **🆕 New title patterns P190-P192:** From VID-058/059 SEO metadata.
+- **🆕 New thumbnail briefs for I257 and I258:** Both with A/B variants, color palettes, and A/B test strategies.
+- **🚨 Cross-posting networks accelerating:** Dr. Arthur Clark (5+ channels), Dr. Aliza Wright (675K cross-post), Dr. Thomas (Senior Health Podcast), Dr. Michael Kent (cross-post). Dr. Kane's single-channel approach remains the defensive moat.
+- **🚨 Multi-ID strategy confirmed:** Dr. Thomas (Senior Health Tips 112K + Senior Secrets 117K), Dr. Arthur Clark (main 16.8K + Dr. Arthur Reveals).
+- **✅ Anti-template compliance verified:** All 10 new ideas (I257-I266) pass the "Remove the Name" test. Each has unique mechanism, varied structure, original insight.
+- **✅ VID-058 safety score: 15 PASS / 0 FAIL**
+- **✅ VID-059 safety score: 16 PASS / 0 FAIL**
+
+### New Title Patterns Discovered (June 24)
+16. **"The [Test] That Predicts [Condition] [Time] Before — After [Age]"** — Dr. Kane (VID-058, P190). Predictive diagnostics format. NEW.
+17. **"[Device/Habit] Making You [Condition] — The [Hidden Mechanism] Secret After [Age]"** — Dr. Kane (VID-059, P191). Device-disease connection format. NEW.
+18. **"Why [Device] Are [Damaging Verb] Your [Nutrient] After [Age] — Doctor Explains"** — Dr. Kane (VID-059 T2, P192). Device depletion format. NEW.
+
+### New Safety Boundaries (VID-058 Dementia Blood Test Production)
+- **Never tell viewers they WILL develop dementia based on blood test** — frame as "risk information" not "certainty"
+- **Never tell viewers to panic about predictive biomarkers** — frame as "empowerment through preparation"
+- **Never recommend testing without doctor consultation** — frame as "discuss with your doctor whether this test is appropriate for you"
+- **Never tell viewers p-tau217 is "the only test you need"** — frame as "one valuable data point among many"
+- **Never tell viewers to stop medications based on dementia risk** — frame as "use this information to have a more informed conversation with your healthcare provider"
+
+### New Safety Boundaries (VID-059 Dentures/Anemia Production)
+- **Never tell viewers their dentures are "ruining their health"** — frame as "may be contributing to nutritional gaps worth investigating"
+- **Never tell viewers to stop wearing dentures** — frame as "check fit and discuss absorption concerns with your dentist/doctor"
+- **Never tell viewers to self-supplement iron without testing** — excess iron is dangerous; frame as "ask your doctor about checking iron levels"
+- **Never tell viewers standard blood panels "always miss" anemia** — frame as "in some cases, more detailed testing may be helpful"
+- **Never recommend specific supplements** — frame as "discuss your nutritional status with your healthcare provider"
