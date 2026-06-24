@@ -402,8 +402,12 @@
 |403|403|403||||||||| 2026-06-19 | VID-050 (Gut Leaked/Joint Inflammation) | A: The Hidden Pipeline, B: The Arthritis Test Paradox | New Brief |
 ||404|404|404|||||||||||| 2026-06-19 | VID-051 (Dentist Sees Brain Inflammation) | A: The Bacterial Highway, B: The Alzheimer's Connection | New Brief |
 ||| 2026-06-20 | VID-053 (Lp(a) Blood Test) | A: The Missing Test, B: The Perfect Cholesterol Paradox | New Brief |
-|||| 2026-06-20 | I223 (Morning Leg Pattern/HFpEF) | A: The Morning Pattern, B: The Reversed Pattern | New Brief |
-||405|405|405|405|405|
+||||| 2026-06-20 | I223 (Morning Leg Pattern/HFpEF) | A: The Morning Pattern, B: The Reversed Pattern | New Brief |
+|| 2026-06-21 | VID-048 (Hidden BP Muscle/Carotid Body) | A: The Neck Touch, B: The Baroreceptor Reset Scale | New Brief |
+|| 2026-06-21 | VID-052 (3 AM BP Spike/Reverse Dipping) | A: The Sleeping Danger, B: The Normal But At Night | New Brief |
+| 2026-06-23 | VID-056 (Dawn Phenomenon) | A: The 4 AM Liver (saffron gold), B: Dinner vs Liver Split | 🆕 New Brief |
+| 2026-06-23 | VID-057 (Restless Legs/Brain Iron) | A: The Brain Redirect (midnight teal), B: The Ferritin Paradox | 🆕 New Brief |
+|405|405|405|405|405|
 406|406|403|### New Palettes Added (June 15)
 401|| Video | Primary | Accent 1 | Accent 2 | Status |
 402||-------|---------|----------|----------|--------|
@@ -438,7 +442,15 @@
 ||| VID-053 A | Deep clinical navy (#0D1B2A) → Dark teal (#004D40) | Warning amber (#FFB300) | Electric red (#FF1744) / Cyan (#00E5FF) | New — Brief |
 |||| VID-053 B | Split: Clinical green (#1B5E20) → Deep crimson (#4A0000) | Green (#00E676) | Electric coral (#FF6E40) / Red (#FF1744) | New — Brief |
 ||||| I223 A | Dawn gold (#FFB300) → Twilight blue (#0D1B2A) | Warm amber (#FFB300) | Warning red (#FF1744) / Teal (#00BFA5) | New — Brief |
-|||||| I223 B | Deep burgundy (#4A0040) → Dark plum (#311B92) | Electric yellow (#FFEB3B) | Electric coral (#FF6E40) / Green (#00E676) | New — Brief |
+||||||| I223 B | Deep burgundy (#4A0040) → Dark plum (#311B92) | Electric yellow (#FFEB3B) | Electric coral (#FF6E40) / Green (#00E676) | New — Brief |
+
+### New Palettes Added (June 23)
+| Video | Primary | Accent 1 | Accent 2 | Status |
+|-------|---------|----------|----------|--------|
+| VID-056 A | Saffron gold (#F5A623) → Cream (#FFF8E1) | Metabolic green (#00E676) | Warning red (#D50000) / Espresso text (#3E2723) | 🆕 New — Brief |
+| VID-056 B | Split: Deep indigo (#1A1A3E) → Gold (#F5A623) | White / Red (#D50000) | Green glucose glow | 🆕 New — Brief |
+| VID-057 A | Midnight teal-black (#003B46) → (#001A1E) | Electric cyan (#00E5FF) | Iron metallic gold (#CFB53B) / Sage gray (#90A4AE) | 🆕 New — Brief |
+| VID-057 B | Dark slate blue (#1A237E) → Midnight teal (#003B46) | Iron gold (#CFB53B) | Red (#D50000) / White | 🆕 New — Brief |
 ||428|
 |### New Palettes Added (June 13)|
 | Video | Primary | Accent 1 | Accent 2 | Status |
@@ -1426,4 +1438,57 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 - #9: **"Sleep Position Slow Kill" hook** — (98K, Kapadia) ⚡ NEW
 - #10: **"Reheated Foods + Cancer" hook** — (1.1M, Kent) ⚡ NEW
 
+
 ---
+
+## New Patterns Added 2026-06-23
+
+### New Title Formulas (June 23)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P064b | "SURGEON REVEALS: Do This 1 Exercise for [Condition] After [Age] | Senior Health" | Smart Health Tips | ~942 |
+| P065b | "Do THIS Before Help Arrives — The [Time]-Second Technique That [Solves Emergency]" | Dr. Thomas | New |
+| P066b | "[Number] Critical Mistakes You're Making When [Common Activity]" | Japan's Oldest Doctor | New |
+| P067b | "How To Talk to Your Doctor About [Condition] — Without Feeling Dismissed" | Dr. Elena Pierce | 25 (20h) |
+
+### New Viral Formats (June 23)
+
+1. **"Emergency Time-Bound Technique" format** — Dr. Thomas: "Seniors, Do THIS Before Help Arrives — The 60-Second Technique That Stops a Stroke." Emergency context + time-bound + specific number. NOT yet replicated.
+
+2. **"Food Preparation Mistake" format** — JOD: "5 Critical Mistakes You're Making When Soaking Chia Seeds." Expanding food warning empire beyond "NEVER Eat" into preparation errors.
+
+3. **"Patient Advocacy Communication" format** — Dr. Elena Pierce: "How To Talk to Your Doctor About BP Medication — Without Feeling Dismissed." NEW non-mechanism format. NOT competing with Dr. Kane.
+
+4. **"Surgeon Reveals (Small Exercise)" format** — Smart Health Tips copying Senior Book's proven formula. CONFIRMS "authority + single exercise" continues to attract new entrants.
+
+### Platform Risk Update (June 23)
+- **McGill AI Enforcement Article Resurfacing:** "Deceitful AI Videos Mislead Seniors" widely shared. YouTube 2026 enforcement accelerating. POSITIVE for Dr. Kane's authentic approach.
+- **Cross-posting networks:** Dr. Owen + Dr. Joshua Tiamson network growing (6.3K-21K). McGill flag risk INCREASING.
+- **Multi-ID strategy risk:** Kensington's "Dr. John Li" alias confirmed. YouTube enforcement targeting this.
+
+### Updated Hook Rankings (June 23)
+- #1: "The Day Before" hook — (1.39M, Waterling evergreen — suppressed)
+- #2: "Forget [X] — This [Y]" hook — (1.1M, Kent)
+- #3: "Taking [Med A], [Med B], or [Med C]" hook — (600K+, Kensington)
+- #4: "BRAIN Doctor SHOCKED" hook — (1M, Dr. Thomas)
+- #5: "Which is More DANGEROUS" hook — (452K, Whitmore)
+- #6: "The ONE" hook — (650K, Whitmore)
+- #7: "Morning Habit Multiplier" hook — (577K-656K, Dr. Thomas)
+- #8: "Curiosity Gap Warning Sign" hook — (115K, Kapadia)
+- #9: "Sleep Position Slow Kill" hook — (98K, Kapadia)
+- #10: "Reheated Foods + Cancer" hook — (1.1M, Kent)
+- #11: **"Emergency Time-Bound Technique" hook** — (NEW, Dr. Thomas) ⚡ NEW
+- #12: **"Patient Advocacy Communication" hook** — (25 views, Dr. Pierce) ⚡ NEW
+
+### New Dr. Kane Title Patterns (June 23 — SEO Metadata)
+| Pattern ID | Pattern Formula | Applied To |
+|------------|-----------------|------------|
+| P185 | "Why [Symptom] at [Time] After [Age] — The [Organ] [Process] Secret" | VID-056 T1 |
+| P186 | "Why [Body Part] Won't [Function] After [Age] — It's [Hidden Organ] Not [Body Part]" | VID-057 T1 |
+| P187 | "Your [Lab Value] Is Normal But [Organ] Is [Failing Verb] — Doctor Explains" | VID-057 T2 |
+| P188 | "The [Metaphor] in Your [Body Part] That's [Action] Your [Health Aspect] After [Age]" | VID-057 T3 |
+| P189 | "[Time] [Symptom] But [Opposite]? The [Condition] [Term] After [Age]" | VID-056 T3 |
+
+---
+
+*Last updated: 2026-06-23 by Competitor Watcher Agent (Cron)*

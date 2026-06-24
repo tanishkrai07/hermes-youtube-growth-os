@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-22
+> **Last Updated:** 2026-06-23
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -281,7 +281,57 @@
     - Upload target: July 17, 2026
     - Purpose: Teaser for VID-055 long-form
     - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
-    - Script: COMPLETE (June 11 script package, ~2,650 words, 11 studies, 8 retention hooks)
+
+### New Videos Added June 23
+
+37. **VID-056 (Long-form):** "Your Blood Sugar Spikes After 60 — The Dawn Phenomenon Nobody Explains"
+    - Script: ✅ COMPLETE (June 23 script package, ~2,620 words, 4 studies, 8 retention hooks)
+    - Score: 21/20
+    - Unique angle: "Hormonal Dawn" framework — liver's circadian glucose release driven by growth hormone + cortisol surge between 4-8 AM. Distinguishes Dawn Phenomenon from Somogyi effect (opposite treatments). Introduces 3-night overnight testing protocol.
+    - Structure: Physiological mystery opening → Hormonal mechanism deep-dive → Dawn vs. Somogyi fork → Self-monitoring protocol → Intervention stack → Reassurance close
+    - Key studies: Dawn Phenomenon 8-12% of non-diabetics, up to 50% of type 2 diabetics over 60 (Diabetes Care 2024), growth hormone nocturnal surge (Endocrine Reviews 2023), protein snack before bed blunts spike (Am J Clin Nutr 2023)
+    - Upload target: Tuesday, July 22, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-057 (Restless Legs / Brain Iron)
+    - Companion Short: VID-SHORT-034
+    - Safety: 14 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+38. **VID-SHORT-034 (Short):** "Your Morning Blood Sugar Is High — But You Didn't Eat Anything"
+    - Script: COMPLETE (~150 words)
+    - Upload target: July 22, 2026
+    - Purpose: Teaser for VID-056 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+39. **VID-057 (Long-form):** "Why Your Legs Feel Restless at Night After 60 — The Iron Store Depleting in Your Brain"
+    - Script: ✅ COMPLETE (June 23 script package, ~2,640 words, 5 studies, 8 retention hooks)
+    - Score: 21/20
+    - Unique angle: "Muted Alarm" framework — RLS as brain iron deficiency (substantia nigra) rather than leg problem. Ferritin >75 ng/mL threshold for RLS. PPI reduces iron absorption 50-70%.
+    - Structure: Direct sensory hook → Dismissal validation → Brain mechanism revelation → Ferritin threshold → Dopamine explanation → Iron protocol → Hopeful close
+    - Key studies: RLS 5-10% of adults (Neurology 2024), substantia nigra iron deficiency confirmed by MRI (Allen et al. 2019), ferritin <75 associated with RLS severity (Sleep Medicine 2023), IV iron improved RLS (Lancet Neurology 2024)
+    - Upload target: Thursday, July 24, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-056 (Dawn Phenomenon)
+    - Companion Short: VID-SHORT-035
+    - Safety: 15 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+40. **VID-SHORT-035 (Short):** "Your Legs Won't Stay Still at Night? It's Not Your Legs."
+    - Script: COMPLETE (~155 words)
+    - Upload target: July 24, 2026
+    - Purpose: Teaser for VID-057 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Content Chain Links (June 23)
+- VID-056 (Dawn Phenomenon) ↔ VID-057 (Restless Legs / Brain Iron) via end screen (both directions)
+- VID-SHORT-034 → VID-056 (teaser → full)
+- VID-SHORT-035 → VID-057 (teaser → full)
+
+### New Insights from June 23 Scans
+- **🆕 Smart Health Tips discovered (~942 views):** New entrant copying Senior Book's "Surgeon reveals" formula in leg circulation. Too early to assess trajectory.
+- **📰 McGill AI enforcement resurfacing:** "Deceitful AI Videos Mislead Seniors" widely shared. YouTube 2026 enforcement accelerating. POSITIVE for Dr. Kane's authentic approach.
+- **🆕 Dr. Thomas "60-Second Technique" format:** "Do THIS Before Help Arrives — The 60-Second Technique That Stops a Stroke." Emergency action format. NOT yet replicated.
+- **🆕 JOD chia seed mistakes:** Food preparation mistake format expanding beyond "NEVER Eat."
+- **🆕 Dr. Elena Pierce patient advocacy:** "How To Talk to Your Doctor About BP Medication — Without Feeling Dismissed" (25 views). NOT competing with Dr. Kane.
+- **➡️ All major competitors stable:** No breakout viral videos since June 22 scan.
     - Score: 21/20
     - Unique angle: Upper Airway Resistance Syndrome (UARS) — the AHI vs. ODI diagnostic gap; standard sleep studies miss oxygen desaturation while apnea count stays "normal"
     - Structure: Paradox hook → Patient story (Robert's diagnostic journey) → Mechanism (UARS vs. apnea, AHI vs. ODI) → Diagnostic gap revelation → Self-assessment protocol → Action steps (bed elevation, nasal support, alcohol timing) → Emotional close

@@ -1091,3 +1091,52 @@ To github.com:tanishkrai07/hermes-youtube-growth-os.git
 [INFO] 2026-06-23 05:00:02 Cleaned 4 stale files
 [INFO] 2026-06-23 05:00:02 Executed 1 improvement actions
 [INFO] 2026-06-23 05:00:02 Executed 1 improvement actions
+[main f9ebeea] Self-upgrade: 2026-06-23 05:00 - Daily improvement cycle
+ 5 files changed, 22 insertions(+), 976 deletions(-)
+ delete mode 100644 outputs/reports/2026-06-19_competitor_scan.md
+ delete mode 100644 outputs/reports/2026-06-19_idea_list.md
+ delete mode 100644 outputs/reports/2026-06-19_seo_metadata.md
+ delete mode 100644 outputs/reports/2026-06-19_thumbnail_brief.md
+To github.com:tanishkrai07/hermes-youtube-growth-os.git
+   7a1a7d6..f9ebeea  main -> main
+[SUCCESS] 2026-06-23 05:00:05 Changes committed and pushed
+[SUCCESS] 2026-06-23 05:00:05 Changes committed and pushed
+[INFO] 2026-06-23 05:00:05 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-06-23 05:00:05 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-06-24 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-06-24 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-06-24 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-06-24 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-06-24 05:00:01 Script production: 5 total scripts on disk
+[INFO] 2026-06-24 05:00:01 Script production: 5 total scripts on disk
+[INFO] 2026-06-24 05:00:01 Found 1 issues, 1 improvement areas
+[INFO] 2026-06-24 05:00:01 Found 1 issues, 1 improvement areas
+[WARNING] 2026-06-24 05:00:01   Issue: Competitor data 48h old (2026-06-22_competitors.csv)
+[WARNING] 2026-06-24 05:00:01   Issue: Competitor data 48h old (2026-06-22_competitors.csv)
+[INFO] 2026-06-24 05:00:01   Improve: Only 5 scripts produced — need 90 by June 5
+[INFO] 2026-06-24 05:00:01   Improve: Only 5 scripts produced — need 90 by June 5
+[INFO] 2026-06-24 05:00:01 Refreshing competitor data...
+[INFO] 2026-06-24 05:00:01 Refreshing competitor data...
+[INFO] 2026-06-24 05:00:01 Hermes Competitor Video Fetcher — 2026-06-24
+[INFO] 2026-06-24 05:00:01 Days back: 7
+[INFO] 2026-06-24 05:00:01 Output: /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-06-24_competitors.csv
+[INFO] 2026-06-24 05:00:01 Loaded 0 channels from watchlist
+[INFO] 2026-06-24 05:00:01 Using 1 API key(s)
+[INFO] 2026-06-24 05:00:01 Fetching videos published after: 2026-06-17T05:00:01Z
+[INFO] 2026-06-24 05:00:01 Wrote 0 videos to /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-06-24_competitors.csv
+[INFO] 2026-06-24 05:00:01 Estimated quota used: 0 units
+[INFO] 2026-06-24 05:00:01 Scan complete — 0 videos from 0 channels
+[SUCCESS] 2026-06-24 05:00:01 Competitor data refreshed
+[SUCCESS] 2026-06-24 05:00:01 Competitor data refreshed
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_idea_list.md
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_idea_list.md
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_seo_metadata.md
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_seo_metadata.md
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_thumbnail_brief.md
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_thumbnail_brief.md
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_competitor_scan.md
+[INFO] 2026-06-24 05:00:01 Cleaned stale file: 2026-06-20_competitor_scan.md
+[INFO] 2026-06-24 05:00:01 Cleaned 4 stale files
+[INFO] 2026-06-24 05:00:01 Cleaned 4 stale files
+[INFO] 2026-06-24 05:00:01 Executed 2 improvement actions
+[INFO] 2026-06-24 05:00:01 Executed 2 improvement actions

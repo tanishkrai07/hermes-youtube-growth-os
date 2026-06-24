@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-22
+> **Last Updated:** 2026-06-23
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -592,3 +592,27 @@
 - **Never tell viewers RBC magnesium is "the only accurate test"** — frame as "may provide additional information beyond serum magnesium"
 - **Never tell viewers to self-supplement magnesium without lab work** — excess magnesium is dangerous with kidney disease
 - **Never tell viewers their coronary calcium score means they need immediate intervention** — frame as "information to discuss with your doctor for a comprehensive risk assessment"
+
+#### New Safety Boundaries (VID-056 Dawn Phenomenon Production)
+- **Never tell viewers to adjust diabetes medication on their own** — always frame as "bring your overnight glucose data to your doctor"
+- **Never tell viewers the 3 AM test is diagnostic** — frame as "information to discuss with your healthcare provider"
+- **Never tell viewers apple cider vinegar will "cure" dawn phenomenon** — frame as "modest effect, safe to try"
+- **Never tell viewers to stop eating dinner carbs entirely** — frame as "shift toward protein and non-starchy vegetables"
+- **Never tell viewers dawn phenomenon causes vascular damage directly** — frame as "one factor among many in overnight glucose management"
+
+#### New Safety Boundaries (VID-057 Restless Legs / Brain Iron Production)
+- **Never tell viewers to stop PPIs to fix RLS** — frame as "discuss PPI alternatives with your doctor"
+- **Never tell viewers iron supplementation will "cure" RLS** — frame as "may help if ferritin is below 75"
+- **Never tell viewers to self-prescribe IV iron** — frame as "requires specialist referral and monitoring"
+- **Never tell viewers their ferritin of 35 means their brain is iron-depleted** — frame as "serum ferritin may not reflect brain iron status; discuss with your doctor"
+- **Never tell viewers RLS is "just" an iron deficiency** — frame as "one potential contributor among many"
+
+#### New Failure Pattern: Ignoring McGill AI Enforcement Signals (June 23)
+- **What happened:** McGill AI enforcement article resurfacing across LinkedIn/Facebook. YouTube's 2026 "inauthentic content" enforcement accelerating.
+- **Lesson:** Platform risk is INCREASING for multi-ID, cross-posting, and AI-generated content. Dr. Kane's authentic single-channel approach is the defensive moat.
+- **Fix:** Continue single-channel, original-content, mechanism-first strategy. Document authenticity (real studies, real journal names, original commentary).
+
+#### New Failure Pattern: Entering Niche After Authority Claim (June 23)
+- **What happened:** Smart Health Tips entered leg circulation niche by copying Senior Book's "Surgeon reveals" formula. Leg circulation is HYPER-SATURATED (10M+ views across 8+ channels).
+- **Lesson:** New entrants copying proven formulas into saturated niches will fail. The "Surgeon reveals" format is now attracting copycats into an already crowded space.
+- **Fix:** Dr. Kane should NEVER enter leg circulation exercise content. The mechanism angle (soleus pump, vascular) remains the ONLY viable differentiation.

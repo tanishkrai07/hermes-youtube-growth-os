@@ -89,8 +89,10 @@
 | I198/VID-049 | Stair Climbing Vascular Pump | Vascular/Functional Decline | 20 | ✅ SCRIPT COMPLETE — SEO COMPLETE |
 | I191/VID-048 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | ✅ SCRIPT COMPLETE — Thumbnail brief complete |
 | I219/VID-053 | Lp(a) Blood Test | Diagnostic Gap/Cardiovascular | 20 | ✅ SCRIPT COMPLETE — Thumbnail brief complete |
-| I227 | Waist-to-Height Ratio After 60 | Metabolic/Body Composition | 19 | 🟡 SEO COMPLETE — Script needed |
-| I228 | Heartburn Pill Calcifying Arteries | Medication/Vascular | 19 | 🟡 SEO COMPLETE — Script needed |
+|| I109/VID-056 | Dawn Phenomenon — The 4-8 AM Liver Glucose Dump | Blood Sugar/Circadian | 21 | ✅ SCRIPT COMPLETE — June 23 |
+| | I119/VID-057 | Restless Legs — Brain Iron Deficiency | Sleep/Neurological | 21 | ✅ SCRIPT COMPLETE — June 23 |
+| | I227 | Waist-to-Height Ratio After 60 | Metabolic/Body Composition | 19 | 🟡 SEO COMPLETE — Script needed |
+| | I228 | Heartburn Pill Calcifying Arteries | Medication/Vascular | 19 | 🟡 SEO COMPLETE — Script needed |
 | I199/VID-052 | 3 AM BP Pattern/Reverse Dipping | Vascular/Sleep | 19 | 🔴 SCRIPT NEEDED — SEO COMPLETE |
 | I237 | Carotid Body BP Control | Vascular/Anatomy | 19 | 🟡 Thumbnail brief complete — Script needed |
 | I245 | Arterial Age Test (CAC Score) | Diagnostic Gap | 18 | 🟡 Thumbnail brief complete — Script needed |
@@ -129,11 +131,11 @@
 
 ---
 
-## Tomorrow's Priorities (June 23)
+## Tomorrow's Priorities (June 24)
 
 ### 🔴 Critical (TODAY)
-1. **Write I227 script** — Waist-to-Height Ratio (Score 19, SEO complete)
-2. **Write I228 script** — PPI Vascular Calcification (Score 19, SEO complete)
+1. **Produce VID-056 thumbnails** — Dawn Phenomenon (Score 21, for July 22 upload)
+2. **Produce VID-057 thumbnails** — Restless Legs / Brain Iron (Score 21, for July 24 upload)
 3. **Produce VID-041/043/045 thumbnails** — For June 24 upload
 4. **Monitor CTR at 48h** — Check all June 19 uploads for CTR performance (target >6%)
 
@@ -151,8 +153,51 @@
 
 ---
 
-*Context pack updated: 2026-06-22 by Memory Curator Agent*
-*Next update: 2026-06-23*
+### New Videos Added June 23
+
+55. **VID-056 (Long-form):** "Your Blood Sugar Spikes After 60 — The Dawn Phenomenon Nobody Explains"
+    - Script: ✅ COMPLETE (June 23 script package, ~2,620 words, 4 studies, 8 retention hooks)
+    - Score: 21/20
+    - Unique angle: "Hormonal Dawn" framework — the liver's circadian glucose release driven by growth hormone + cortisol surge between 4-8 AM. Distinguishes Dawn Phenomenon from Somogyi effect (opposite treatments). Introduces the 3-night overnight testing protocol and the protein-snack-before-bed intervention.
+    - Structure: Physiological mystery opening → Hormonal mechanism deep-dive → Dawn vs. Somogyi fork → Self-monitoring protocol → Intervention stack → Reassurance close
+    - Original insight: Dawn phenomenon is a circadian hormonal event, not a dietary failure. The 3 AM test distinguishes it from Somogyi effect — and getting the distinction wrong leads to opposite (harmful) treatment.
+    - Key studies: Dawn Phenomenon 8-12% of non-diabetics, up to 50% of type 2 diabetics over 60 (Diabetes Care 2024), growth hormone nocturnal surge drives hepatic glucose output (Endocrine Reviews 2023), protein snack before bed blunts dawn spike (Am J Clin Nutr 2023), apple cider vinegar before bed (Diabetes Care 2017)
+    - Upload target: Tuesday, July 22, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-057 (Restless Legs / Brain Iron)
+    - Companion Short: VID-SHORT-034
+    - Safety: 14 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+56. **VID-SHORT-034 (Short):** "Your Morning Blood Sugar Is High — But You Didn't Eat Anything"
+    - Script: COMPLETE (~150 words)
+    - Upload target: July 22, 2026
+    - Purpose: Teaser for VID-056 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+57. **VID-057 (Long-form):** "Why Your Legs Feel Restless at Night After 60 — The Iron Store Depleting in Your Brain"
+    - Script: ✅ COMPLETE (June 23 script package, ~2,640 words, 5 studies, 8 retention hooks)
+    - Score: 21/20
+    - Unique angle: "Muted Alarm" framework — restless legs syndrome as a brain iron deficiency (substantia nigra) rather than a leg problem. Standard ferritin "normal" (30-50) doesn't reflect brain iron status. Threshold of ferritin >75 ng/mL for RLS symptom management. PPI use reduces iron absorption 50-70%.
+    - Structure: Direct sensory hook → Dismissal validation → Brain mechanism revelation → Ferritin threshold → Dopamine explanation → Iron protocol → Hopeful close
+    - Original insight: The problem isn't in the legs — it's in the substantia nigra, which needs iron to make dopamine. Standard blood panels test for anemia, not brain iron. The "all clear" signal metaphor makes the dopamine mechanism accessible.
+    - Key studies: RLS affects 5-10% of adults, increases with age (Neurology 2024), substantia nigra iron deficiency in RLS confirmed by MRI (Allen et al. 2019), ferritin <75 associated with RLS severity (Sleep Medicine 2023), IV iron improved RLS (Lancet Neurology 2024), PPI reduces iron absorption 50-70% (Am J Gastroenterology 2023)
+    - Upload target: Thursday, July 24, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-056 (Dawn Phenomenon)
+    - Companion Short: VID-SHORT-035
+    - Safety: 15 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+58. **VID-SHORT-035 (Short):** "Your Legs Won't Stay Still at Night? It's Not Your Legs."
+    - Script: COMPLETE (~155 words)
+    - Upload target: July 24, 2026
+    - Purpose: Teaser for VID-057 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Content Chain Links (June 23)
+- VID-056 (Dawn Phenomenon) → VID-057 (Restless Legs / Brain Iron) via end screen
+- VID-057 (Restless Legs / Brain Iron) → VID-056 (Dawn Phenomenon) via end screen
+- VID-SHORT-034 → VID-056 (teaser → full)
+- VID-SHORT-035 → VID-057 (teaser → full)
 
 ---
 

@@ -1,7 +1,7 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-22 (Competitor Watcher scan — 70+ tracked, 0 new channels discovered)
-> **Total Tracked Competitors:** 70+ (69 active + 1 removed)
+> **Last Updated:** 2026-06-23 (Competitor Watcher scan — 70+ tracked, 1 new channel: Smart Health Tips)
+> **Total Tracked Competitors:** 70+ (70 active + 1 removed)
 > **Note:** Firecrawl search API still offline (credits exhausted since Jun 8). Data sourced via web_search YouTube search only.
 
 ## Active Competitors (Elder Health / Senior Wellness)
@@ -50,7 +50,8 @@
 ||| **Healthy Aging - Senior Health Tips** 🆕⚡ SURGING | "Top 5 Vegetables That Heal Your Kidneys After 60 – Most Seniors Ignore #2" (662K, UP from 500K-637K) + "Top 5 Vegetables That Harm Your Kidneys After 60" + "Never Eat These 5 Vegetables After 60 – Kidneys at Risk" (cross-posted) | ~662K+ | Kidney Health / Vegetable Nutrition (Heal + Harm binary) | 🟡 MEDIUM-HIGH — Kidney niche FILLING FAST. Binary "heal + harm" format expanding. First-mover window CLOSED. |
 
 |||| **Dr. Edward Kensington | MedTalk** 🆕⚡⚡ SURGING | "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" (192K) + "Doctor Explains: The Best Foods To Eat to Lower Blood Sugar FAST" (202K-246K, cross-posted) + "9 Popular Medications That Can Trigger Rapid Dementia" (208K, cross-posted as "Dr. John Li") | ~600K+ combined | BP Meds (Trio) + Diabetes Foods + Dementia Meds | 🔴🔴 HIGHEST — 192K+202K+208K across 3 pillars in days. Multi-ID strategy confirmed ("Dr. John Li" alias). Fastest-growing new competitor. |
-||| **Dr. Joshua Tiamson** 🆕 | Co-appears with Dr. Owen on "STOP Doing These 7 Things" | 4K | General Senior Health | 🟡 LOW — Monitor. May be cross-posting partner. |
+|||| **Smart Health Tips** 🆕 EMERGING | "SURGEON REVEALS: Do This 1 Exercise for Poor Leg Circulation After 70 | Senior Health" (~942 views, NEW) | ~942 | Leg Circulation / Exercises | 🟡 LOW — Copying Senior Book's "Surgeon reveals" formula. Too early to assess. Monitor for cross-posting farm pattern. |
+|||| **Dr. Joshua Tiamson** 🆕 | Co-appears with Dr. Owen on "STOP Doing These 7 Things" | 4K | General Senior Health | 🟡 LOW — Monitor. May be cross-posting partner. |
 
 ## Removed Competitors
 | Channel | Status | Reason |
@@ -101,6 +102,16 @@
 | **Age Spots + Internal Causes** | Khan at 52.2K only | 🟢 STILL OPEN |
 | **Nighttime vascular threats** | Kapadia at 24.8K only | 🟢 VIRTUALLY EMPTY |
 | **"Reverse Dipping" BP Mechanism** | Senior Healthy Life Daily at 1K only | 🟢 VIRTUALLY EMPTY — terminology not catching on |
+
+## Key Events This Period (June 23 Scan)
+
+- **🆕 Smart Health Tips discovered at ~942 views:** NEW entrant in leg circulation niche. "SURGEON REVEALS: Do This 1 Exercise for Poor Leg Circulation After 70" — copying Senior Book's proven formula. Too early to assess trajectory.
+- **🆕 Dr. Thomas "60-Second Technique" format NEW:** "Seniors, Do THIS Before Help Arrives — The 60-Second Technique That Stops a Stroke" — emergency action format. Time-bound technique promise. Not yet replicated.
+- **🆕 Dr. Owen mucus video:** "Doctor Reveals: The 5 Real Reasons Your Throat Is Full of Mucus After 60" — body warning signal expansion. Cross-posted with Dr. Joshua Tiamson (6.3K-21K views).
+- **🆕 JOD chia seed mistakes:** "5 Critical Mistakes You're Making When Soaking Chia Seeds" — food preparation mistake format. Food warning empire expanding beyond "NEVER Eat."
+- **🆕 Dr. Elena Pierce patient advocacy:** "How To Talk to Your Doctor About Blood Pressure Medication — Without Feeling Dismissed" (25 views, 20h) — NEW non-mechanism format. Not competing with Dr. Kane.
+- **📰 McGill AI enforcement article resurfacing:** "Deceitful AI Videos Mislead Seniors" widely shared on LinkedIn/Facebook. YouTube's 2026 "inauthentic content" enforcement accelerating. POSITIVE for Dr. Kane's authentic approach.
+- **➡️ All major competitors stable:** No new breakout viral videos since June 22 scan. Whitmore, Kent, Kapadia, Kensington, Dr. Sarah Mitchell all in steady-state.
 
 ## Key Events This Period (June 22 Scan)
 
@@ -205,8 +216,12 @@
 35. **"STOP Taking [Supplement A] IMMEDIATELY If You're Eating THIS Food!"** — Claire Whitmore (Active) ⚡ NEW (June 21)
 36. **"Never Eat These [Number] Vegetables After [Age] – [Organ] at Risk"** — Healthy Aging (Active) ⚡ NEW (June 21)
 37. **"5 Medical Checkups I'd NEVER Get After [Age] — Doctor Explains"** — Dr. Arthur Clark (1-58) ⚡ NEW (June 21)
+38. **"SURGEON REVEALS: Do This 1 Exercise for [Condition] After [Age]"** — Smart Health Tips (~942) ⚡ NEW (June 23)
+39. **"Do THIS Before Help Arrives — The [Time]-Second Technique That [Solves Emergency]"** — Dr. Thomas (NEW) ⚡ NEW (June 23)
+40. **[Number] Critical Mistakes You're Making When [Common Activity]** — Japan's Oldest Doctor (NEW) ⚡ NEW (June 23)
+41. **"How To Talk to Your Doctor About [Condition] — Without Feeling Dismissed"** — Dr. Elena Pierce (25 views) ⚡ NEW (June 23)
 
-## Recommended Script Topics (Updated for June 21)
+## Recommended Script Topics (Updated for June 23)
 
 ### 🔴 URGENT (First-Mover Windows Closing)
 1. **VID-052 (I199, Score 19): "3 AM BP Pattern/Reverse Dipping"** — First-mover window OPEN. "Reverse dipping" terminology at only 1K views. SEO COMPLETE. Script target: July 8 upload.
@@ -263,4 +278,4 @@
 
 ---
 
-*Last updated: 2026-06-21 by Memory Curator Agent (post-competitor scan)*
+*Last updated: 2026-06-23 by Competitor Watcher Agent (Cron)*
