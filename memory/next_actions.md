@@ -1,71 +1,84 @@
 # Next Actions — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-24
-> **Planning Horizon:** June 25 - July 7, 2026
+> **Last Updated:** 2026-06-25
+> **Planning Horizon:** June 26 - July 7, 2026
 
-## 🔴 IMMEDIATE (June 25, 2026)
+## 🔴 IMMEDIATE (June 26, 2026)
 
 ### Thumbnail Production — URGENT
-1. **Produce VID-058 Thumbnails** — Dementia Blood Test (Score 19, for July 29 upload)
-   - Script complete. "Predictive Window" framework. p-tau217 biomarker.
-   - Needs: Brain/prediction visual metaphor, warm authority tone
-2. **Produce VID-059 Thumbnails** — Dentures/Anemia (Score 18, for July 31 upload)
-   - Script complete. "Mechanical Malnutrition" framework.
-   - Needs: Mouth-to-energy connection visual, warm concern
-3. **Produce VID-056 Thumbnails** — Dawn Phenomenon (Score 21, for July 22 upload)
+1. **Produce VID-060 Thumbnails** — Hantavirus (Score 20, for August 5 upload)
+   - Script complete. "Reservoir Proximity" framework. 5 hiding places + 3 warning signs.
+   - Needs: Environmental/investigative visual, calm authority tone
+2. **Produce VID-061 Thumbnails** — Stroke 48-Hour Vascular Cascade (Score 19, for August 7 upload)
+   - Script complete. "Hemodynamic Cascade" framework. "Vascular weather" concept.
+   - Needs: Artery animation/visual, internal journey framing
+3. **Produce VID-058 Thumbnails** — Dementia Blood Test (Score 19, for July 29 upload)
+   - Brief complete (June 25): Sapphire/gold (Variant A) vs Burgundy/graphite (Variant B)
+4. **Produce VID-059 Thumbnails** — Dentures/Anemia (Score 18, for July 31 upload)
+   - Brief complete (June 25): Terracotta/coral (Variant A) vs Dusty rose/charcoal (Variant B)
+5. **Produce VID-056 Thumbnails** — Dawn Phenomenon (Score 21, for July 22 upload)
    - Brief complete: Saffron gold palette (Variant A) vs Split indigo/gold (Variant B)
-4. **Produce VID-057 Thumbnails** — Restless Legs / Brain Iron (Score 21, for July 24 upload)
+6. **Produce VID-057 Thumbnails** — Restless Legs / Brain Iron (Score 21, for July 24 upload)
    - Brief complete: Midnight teal palette (Variant A) vs Ferritin lab card (Variant B)
-5. **Produce VID-041/043/045 Thumbnails** — For June 24 upload (overdue)
-
-### Script Writing — TOP PRIORITY
-6. **Begin I261 script** — Morning Symptom = Arterial Failing (Score 19/20)
-   - From June 24 idea list. Zero competition. Morning arterial stiffness peak mechanism.
-7. **Begin I258 script** — Ears Ring Louder When Lying Down (Score 18/20)
-   - From June 24 idea list. Zero competition. Venous pressure diagnostic differentiator.
-8. **Begin I260 script** — Cholesterol Missed Particle (Score 18/20)
-   - From June 24 idea list. ApoB/LDL-P angle. Complements VID-053 (Lp(a)).
-
-### CTR Monitoring
-9. **Monitor all June 19 uploads at 7-day mark** — Check CTR performance (target >6%)
-
-## 🟢 NEXT WEEK (June 26 - July 5, 2026)
-
-### Planned Content
-10. **Upload VID-041-045 (Long-form):** June 24 (thumbnails needed)
-11. **Upload VID-042-046 (Long-form):** June 26 (thumbnails needed)
-12. **Upload VID-047/049 (Long-form):** July 1 (scripts complete, thumbnails needed)
-13. **Upload VID-048 (Long-form):** July 3 (script complete, thumbnail brief complete)
-14. **Upload VID-050/052 (Long-form):** July 8 (VID-050 script complete, VID-052 script needed)
-15. **Upload VID-051/053 (Long-form):** July 10 (scripts complete, thumbnails needed)
-16. **Upload VID-054/055 (Long-form):** July 15/17 (scripts complete, thumbnails needed)
-17. **Upload VID-056/057 (Long-form):** July 22/24 (scripts complete, thumbnails needed)
-18. **Upload VID-058/059 (Long-form):** July 29/31 (scripts complete, thumbnails needed)
 
 ### Script Writing
-19. **Begin I257 script** — Bedtime Snack Destroying Blood Vessels (Score 17/20)
-   - Thumbnail brief complete (A/B variants). Postprandial lipemia timing mechanism.
-20. **Begin I259 script** — Sitting Cutting Spinal Blood Flow (Score 17/20)
-   - Zero competition. Lumbar artery compression mechanism.
-21. **Begin I263 script** — Scale Number Lying (Score 18/20)
-   - "Stable weight trap" framework. Sarcopenic obesity mechanism.
-22. **Begin I264 script** — Jaw Sound Predicts Stroke (Score 17/20)
-   - Zero competition. Jaw claudication as vascular predictor.
-23. **Begin I265 script** — Hands Shake When Reaching (Score 18/20)
-   - Action tremor = vertebrobasilar insufficiency. Zero competition.
-24. **Begin I266 script** — Bathroom Habit Destroying Nerves (Score 16/20)
-   - Valsalva maneuver → autonomic nerve damage. Unique mechanism.
+7. **Begin I269 script** — Stomach Acid + Meds (Score 19/20)
+   - From June 25 idea list. Zero competition. Pharmacology mechanism.
+8. **Begin I271 script** — Functional Iron Deficiency (Score 19/20)
+   - From June 25 idea list. Zero competition. Diagnostic gap (ferritin masking).
+9. **Begin I267 script** — Missed Valve (Score 18/20)
+   - From June 25 idea list. Valvular heart disease missed on standard cardiac workup.
+10. **Begin I268 script** — Fingertip Tingling/Spinal Cord (Score 18/20)
+    - From June 25 idea list. Zero competition. Dermatome mapping self-assessment.
+
+### CTR Monitoring
+11. **Monitor all June 19 uploads at 7-day mark** — Check CTR performance (target >6%)
+12. **Check June 24 uploads at 24h mark** — VID-041/043/045 thumbnails needed urgently
+
+## 🟢 NEXT WEEK (June 27 - July 5, 2026)
+
+### Planned Content
+13. **Upload VID-041-045 (Long-form):** June 24 (thumbnails needed — OVERDUE)
+14. **Upload VID-042-046 (Long-form):** June 26 (thumbnails needed)
+15. **Upload VID-047/049 (Long-form):** July 1 (scripts complete, thumbnails needed)
+16. **Upload VID-048 (Long-form):** July 3 (script complete, thumbnail brief complete)
+17. **Upload VID-050/052 (Long-form):** July 8 (VID-050 script complete, VID-052 script needed)
+18. **Upload VID-051/053 (Long-form):** July 10 (scripts complete, thumbnails needed)
+19. **Upload VID-054/055 (Long-form):** July 15/17 (scripts complete, thumbnails needed)
+20. **Upload VID-056/057 (Long-form):** July 22/24 (scripts complete, thumbnails needed)
+21. **Upload VID-058/059 (Long-form):** July 29/31 (scripts complete, thumbnails needed)
+22. **Upload VID-060/061 (Long-form):** August 5/7 (scripts complete, thumbnails needed)
+
+### Script Writing
+23. **Begin I272 script** — Bladder Muscle Loss (Score 18/20)
+    - From June 25 idea list. Zero competition. Detrusor muscle atrophy mechanism.
+24. **Begin I273 script** — Nail Clubbing/Lung Signal (Score 18/20)
+    - From June 25 idea list. Zero competition. Schamroth's window test.
+25. **Begin I274 script** — Calf Cramps/PAD (Score 18/20)
+    - From June 25 idea list. Zero competition. Nocturnal calf cramps as PAD signal.
+26. **Begin I275 script** — Gut-Mood Connection (Score 18/20)
+    - From June 25 idea list. Zero competition. Microbiome-serotonin axis.
+27. **Begin I270 script** — Gum Recession/Bone Loss (Score 17/20)
+    - From June 25 idea list. Zero competition. Dental-osteoporosis bridge.
+28. **Begin I276 script** — Frozen Shoulder/Cervical Nerve (Score 17/20)
+    - From June 25 idea list. Zero competition. Misdirection format.
 
 ## 🟡 STRATEGIC OPPORTUNITIES (Act This Week)
 
-25. **🔴 I261 (Score 19) — Morning Arterial Failing** — Highest priority from June 24 ideas. Zero competition. Morning arterial stiffness peak as chronic failure indicator.
-26. **🔴 I258 (Score 18) — Venous Pressure Tinnitus** — Zero competition. Positional diagnostic differentiator.
-27. **🔴 I260 (Score 18) — ApoB/LDL-P Particle** — Complements VID-053 (Lp(a)). Diagnostic gap content.
-28. **🟡 I257 (Score 17) — Bedtime Snack** — Thumbnail brief complete. Ready for script.
-29. **🟡 I263 (Score 18) — Stable Weight Trap** — Differentiates from VID-055 (body composition).
-30. **✅ VID-058 + VID-059 scripts COMPLETE** — Both scored 18-19. "Predictive Window" and "Mechanical Malnutrition" frameworks are original Dr. Kane contributions.
-31. **✅ 10 new ideas from June 24 (I257-I266)** — All scored 16-19. All zero competition. Anti-template verified.
-32. **✅ New competitor patterns P068-P070 added** — From June 24 scan. "Doctor Explains: Best [Food] Before Bed" (924K), "Walking Pattern Biomechanics" (108K), "FASTEST Protocol" (435, monitor).
+29. **🔴 I269 (Score 19) — Stomach Acid + Meds** — Highest priority from June 25 ideas. Zero competition. Pharmacology mechanism (stomach pH rise → drug absorption failure).
+30. **🔴 I271 (Score 19) — Functional Iron Deficiency** — Zero competition. Diagnostic gap (ferritin as acute-phase reactant masks deficiency).
+31. **🔴 I267 (Score 18) — Missed Valve** — Zero competition. Standard cardiac workup misses valvular disease.
+32. **🔴 I268 (Score 18) — Fingertip Tingling** — Zero competition. Self-assessment format with dermatome mapping.
+33. **🟡 I272 (Score 18) — Bladder Muscle Loss** — Zero competition. Reframes frequent urination.
+34. **🟡 I273 (Score 18) — Nail Clubbing** — Zero competition. Self-check format.
+35. **🟡 I274 (Score 18) — Calf Cramps/PAD** — Vascular mechanism, misdirection reveal.
+36. **🟡 I275 (Score 18) — Gut-Mood Connection** — Emerging science, unique intersection.
+37. **✅ VID-060 + VID-061 scripts COMPLETE** — Scored 19-20. "Reservoir Proximity" and "Hemodynamic Cascade" frameworks are original Dr. Kane contributions.
+38. **✅ 10 new ideas from June 25 (I267-I276)** — All scored 17-19. All zero competition. Anti-template verified.
+39. **✅ SEO Metadata complete for VID-060/061** — Title variations, descriptions, tags, timestamps documented.
+40. **✅ Thumbnail briefs complete for VID-058/059** — A/B variants with new palettes documented.
+41. **✅ New competitor patterns P071-P075 added** — From June 25 scan.
+42. **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 17). web_search fallback active.
 
 ## ❌ SKIP / DO NOT PRODUCE
 - ❌ Blood pressure content (general) — NOW SATURATED
@@ -78,7 +91,7 @@
 - ❌ General medication warnings — SATURATED
 - ❌ Stem cell content — Becker OWNS (2.4M+)
 - ❌ Body shock / embarrassing topics — Franklin owns this
-- ❌ Eye health content — HYPER-SATURATED (5 major players, 924K+945K+917K+568K+126K)
+- ❌ Eye health content — HYPER-SATURATED (5 major players, 3,456K+ combined views)
 - ❌ Heart medication warnings — CROWDED
 - ❌ Nail health content — Window CLOSED
 - ❌ Diabetes/nutrition general — Senior Health Blog dominates
@@ -93,13 +106,15 @@
 - ❌ BP medication timing (general) — Getting crowded
 - ❌ Multi-ID upload strategy — YouTube enforcement targeting this
 - ❌ Blood test advocacy (general) — Dr. Sarah Mitchell at 681K. Differentiate with vascular angle.
-- ❌ Kidney health (vegetables) — Healthy Aging at 500K-637K. OCCUPIED.
+- ❌ Kidney health (vegetables) — Healthy Aging at 662K + Kent at 227K. OCCUPIED.
 - ❌ "Would NEVER Get/Take/Recommend" format — Now saturating (5+ channels)
-- ❌ Sleep position + stroke (direct copy) — Dr. Thomas at 251K-529K. Only enter with vascular mechanism angle.
-- ❌ Pancreatic cancer + food warning (direct copy) — Kent at 1.1M. Only enter with vascular inflammation angle.
-- ❌ Cross-posting network strategy — McGill flag risk. Dr. Kane's single-channel approach is the defensive moat.
-- ❌ "Best [Food] Before Bed" format — Dr. Arthur Clark OWNS this (924K)
-- ❌ Walking exercise content — Dr. Thomas + 8+ others. Only enter with vascular mechanism.
+- ❌ Sleep position + stroke (direct copy) — Dr. Thomas at 251K-529K.
+- ❌ Pancreatic cancer + food warning (direct copy) — Kent at 1.1M.
+- ❌ Cross-posting network strategy — McGill flag risk.
+- ❌ "Best [Food] Before Bed" format — Dr. Arthur Clark OWNS this (927K)
+- ❌ Walking exercise content — Dr. Thomas + 8+ others.
+- ❌ Dementia medications content — Kent at 691K-875K + Kensington at 207K-267K. OCCUPIED.
+- ❌ "BRAIN Doctor SHOCKED" format — Dr. Thomas OWNS this (5+ variants). AVOID direct copy.
 
 ## 📊 Key Metrics to Track
 - VID-041/043/045 CTR (target >6%) — check June 25 (24h), June 26 (48h)
@@ -110,34 +125,32 @@
 - VID-054/055 CTR (target >6%) — check July 16 (24h), July 17 (48h)
 - VID-056/057 CTR (target >6%) — check July 23 (24h), July 24 (48h)
 - VID-058/059 CTR (target >6%) — check July 30 (24h), July 31 (48h)
+- VID-060/061 CTR (target >6%) — check August 6 (24h), August 8 (48h)
 - A/B test results for all videos
 - Average view duration for all long-form videos (target >50%)
 - Subscriber conversion rate per video
-- Any competitor entering: stair climbing mechanism, stroke weeks-before, bedtime nerve destruction, GLP-1/vascular, balance test mechanism, Lp(a) advocacy, carotid body anatomy, PPI fall risk, WHtR, PPI calcification, or reverse dipping niches
-- Dr. Arthur Clark's "Best [Food] Before Bed" format saturation timeline (2-4 weeks to saturation in new niches)
-- Dr. Thomas's "SIMPLE Change to How You Walk" format — monitor for replication
+- Any competitor entering: stomach acid + meds, functional iron deficiency, missed valve, fingertip tingling, bladder muscle loss, nail clubbing, calf cramps/PAD, gut-mood, gum recession/bone loss, frozen shoulder/cervical nerve
 
 ## 🎯 Success Criteria for This Week
-1. VID-058 + VID-059 thumbnails produced (scripts complete, Score 18-19)
-2. VID-056 + VID-057 thumbnails produced (briefs complete, Score 21 each)
-3. VID-041-046 thumbnails produced for June 24/26 uploads
-4. VID-054/055 thumbnails produced for July 15/17 uploads
-5. I261 script started (Morning Arterial Failing — Score 19)
-6. I258 script started (Venous Pressure Tinnitus — Score 18)
-7. I260 script started (Cholesterol Particle — Score 18)
-8. I257 script started (Bedtime Snack — Score 17, thumbnail brief complete)
+1. VID-060 + VID-061 thumbnails produced (scripts complete, Score 19-20)
+2. VID-058 + VID-059 thumbnails produced (briefs complete, Score 18-19)
+3. VID-056 + VID-057 thumbnails produced (briefs complete, Score 21 each)
+4. VID-041-046 thumbnails produced for June 24/26 uploads
+5. I269 script started (Stomach Acid + Meds — Score 19)
+6. I271 script started (Functional Iron Deficiency — Score 19)
+7. I267 script started (Missed Valve — Score 18)
+8. I268 script started (Fingertip Tingling — Score 18)
 9. Zero policy violations
 10. All memory files updated and pushed
 
-## ⚡ NEW STRATEGIC NOTES (June 24)
-- **🔥🔥 VID-058 + VID-059 scripts COMPLETE** — Scored 19 and 18. "Predictive Window" (p-tau217) and "Mechanical Malnutrition" (dentures → anemia) frameworks are original Dr. Kane contributions. No competitor owns these angles.
-- **🔥 10 new ideas from June 24 (I257-I266)** — All scored 16-19. All zero competition. Anti-template verified. Top: I261 (Morning Arterial Failing, 19), I258 (Ears Ring Louder, 18), I260 (Cholesterol Particle, 18), I263 (Scale Lying, 18), I265 (Hands Shake, 18).
-- **🔥 New competitor patterns P068-P070 added** — "Doctor Explains: Best [Food] Before Bed" (924K, Dr. Arthur Clark), "Walking Pattern Biomechanics" (108K, Dr. Thomas), "FASTEST Protocol" (435, Dr. Michael Kent — monitor).
-- **🔥 Eye health HYPER-SATURATED** — 5 major players, 3,456K+ combined views. AVOID entirely.
-- **🔥 Walking/Biomechanics HEATING UP** — Dr. Thomas at 108K with NEW format. Dr. Kane can own vascular mechanism angle.
-- **📰 Cross-posting networks accelerating** — Dr. Arthur Clark (5+ channels), Dr. Aliza Wright (675K cross-post). Dr. Kane's single-channel approach is the defensive moat.
-- **✅ VID-058 safety score: 15 PASS / 0 FAIL**
-- **✅ VID-059 safety score: 16 PASS / 0 FAIL**
-- **✅ New safety boundaries added for VID-058/059 production**
-- **✅ Anti-template compliance verified for all 10 new ideas (I257-I266)**
-- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 16). web_search fallback active.
+## ⚡ NEW STRATEGIC NOTES (June 25)
+- **🔥🔥 VID-060 + VID-061 scripts COMPLETE** — Scored 20 and 19. "Reservoir Proximity" (hantavirus environmental clustering) and "Hemodynamic Cascade" (vascular weather before stroke) frameworks are original Dr. Kane contributions. No competitor owns these angles.
+- **🔥 10 new ideas from June 25 (I267-I276)** — All scored 17-19. All zero competition. Anti-template verified. Top: I269 (Stomach Acid + Meds, 19), I271 (Functional Iron Deficiency, 19), I267 (Missed Valve, 18), I268 (Fingertip Tingling, 18), I272 (Bladder Muscle Loss, 18).
+- **🔥 New competitor patterns P071-P075 added** — "Most Hated Fruit" (353K), "Olive Oil Before Bed" (904K), "BRAIN Doctor SHOCKED" (1M+220K), "Early Warning Signs" (227K), "Silent Killers + Savers" (228K).
+- **🔥 Dementia medications OCCUPIED** — Kent at 691K-875K + Kensington at 207K-267K. AVOID.
+- **🔥 Cross-posting networks ACCELERATING** — Kent↔Thomas, Clark multi-channel, JOD↔Podcast. Format copying becoming deliberate strategy.
+- **🔥 Dr. James Hargrove BREAKOUT** — "4 Vitamins" stroke video surged 53x (8.2K→438K). Vitamin warning format PROVEN.
+- **✅ VID-060 safety score: 17 PASS / 0 FAIL**
+- **✅ VID-061 safety score: 18 PASS / 0 FAIL**
+- **✅ Anti-template compliance verified for all 10 new ideas (I267-I276)**
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 17). web_search fallback active.

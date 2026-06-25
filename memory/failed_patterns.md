@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-24
+> **Last Updated:** 2026-06-25
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -638,4 +638,48 @@
 - **Never tell viewers their morning symptoms mean their arteries are "failing"** — frame as "one possible indicator worth discussing with your doctor"
 - **Never tell viewers their LDL-C is "lying"** — frame as "LDL-C measures cholesterol mass, but particle number may provide additional information"
 - **Never tell viewers to demand ApoB testing** — frame as "ask your doctor whether ApoB or LDL-P might be appropriate for your situation"
-- **Never tell viewers they need advanced lipid testing** — frame as "for some people, additional testing beyond standard cholesterol may provide useful information"
+- **Never tell viewers they need advanced lipid testing** — frame as \"for some people, additional testing beyond standard cholesterol may provide useful information\"
+
+### New Failure Patterns (June 25 Competitor Scans)
+
+#### Dementia Medications Niche Now OCCUPIED
+- **What happened:** Dr. Michael Kent's "9 Popular Medications That Can Trigger Rapid Dementia" surged from 208K to 691K-875K (3x growth). Dr. Edward Kensington also at 207K-267K with same topic.
+- **Lesson:** When two major competitors exceed 200K views on the same topic within weeks, the niche is OCCUPIED. First-mover window CLOSED.
+- **Fix:** AVOID dementia medications content entirely. Dr. Kane's vascular mechanism angle doesn't differentiate enough in this now-crowded space.
+
+#### "BRAIN Doctor SHOCKED" Format — Dr. Thomas OWNS This
+- **What happened:** Dr. Thomas expanded his "BRAIN Doctor SHOCKED" format into 5+ variants (vegetable, fruit, exercise, walking habit, morning habit). Cross-posted by Dr. Michael Kent.
+- **Lesson:** When a competitor has 5+ variants of a format AND cross-posting networks are replicating it, the format is OWNED. Direct copy risks brand damage and YouTube enforcement.
+- **Fix:** AVOID this format entirely. Dr. Kane's "Doctor Explains WHY" positioning is DIFFERENT — use mechanism-first framing, not authority-shock framing.
+
+#### Bedtime Ritual Format — Window CLOSING
+- **What happened:** Dr. Arthur Clark has TWO 900K+ videos using bedtime ritual format ("Best Fruit Before Bed" 927K + "Olive Oil Before Bed" 904K). Multiple competitors entering.
+- **Lesson:** Bedtime ritual + health claim format is the hottest viral pattern. But with two 900K+ videos from one creator and multiple entrants, the window is closing.
+- **Fix:** AVOID bedtime drink/substance content. If covering sleep topics, use mechanism angle (sleep position, nerve compression, vascular overnight changes) rather than ritual format.
+
+#### "Most Hated" Superlative Format — Window NARROWING
+- **What happened:** Claire Whitmore's "#1 Most Hated Fruit to OPEN Your Arteries" at 353K. NEW viral format combining negative superlative + contradiction.
+- **Lesson:** New viral formats saturate within 2-4 weeks in this niche. Whitmore is the first major player at scale.
+- **Fix:** Monitor for saturation. If adapting, must have a genuinely unique vascular angle that can't be replicated by changing one word. Consider "#1 Most [Adjective] [Thing] That [Dramatic Claim] After 60" only if mechanism-deep.
+
+#### Cross-Posting Networks Accelerating — McGill Flag Risk INCREASING
+- **What happened:** Kent↔Thomas cross-posting confirmed. Clark multi-channel (5+ channels). JOD↔Podcast network at 543K. Format copying becoming deliberate strategy.
+- **Lesson:** Cross-posting networks are becoming the NORM among top competitors. This increases McGill flag risk across the entire niche.
+- **Fix:** Dr. Kane must maintain single-channel, original content approach. This is increasingly a competitive ADVANTAGE as enforcement targets cross-posting networks. Document authenticity rigorously.
+
+#### New Safety Boundaries (VID-060 Hantavirus Production)
+- **Never tell viewers they definitely have hantavirus** — frame as "if you have symptoms AND exposure history, mention it to your doctor"
+- **Never tell viewers to avoid their garage/shed** — frame as "clean safely with proper precautions"
+- **Never tell viewers standard ER workups are "useless"** — frame as "hantavirus requires specific testing that may not be ordered automatically"
+- **Never tell viewers to self-diagnose from symptoms alone** — frame as "mention rodent exposure to your doctor"
+- **Never tell viewers hantavirus is "common"** — frame as "rare but worth knowing about"
+- **Never show graphic disease imagery in thumbnails** — "awareness" not "horror"
+
+#### New Safety Boundaries (VID-061 Stroke Vascular Cascade Production)
+- **Never tell viewers they are "about to have a stroke"** — frame as "understanding instability helps you recognize warning signs"
+- **Never tell viewers to ignore FAST symptoms** — always emphasize "if you experience FAST symptoms, call 911 immediately"
+- **Never tell viewers a TIA is "not serious"** — frame as "a TIA is a medical emergency that requires urgent evaluation"
+- **Never tell viewers to self-diagnose vascular instability** — frame as "if you notice these patterns, discuss with your doctor"
+- **Never tell viewers to stop BP medication if they have variability** — frame as "discuss BP patterns with your doctor"
+- **Never tell viewers morning headaches "mean" they will have a stroke** — frame as "one possible indicator among many"
+- **Never tell viewers to drive themselves to the ER during neurological symptoms** — explicitly say "call 911"

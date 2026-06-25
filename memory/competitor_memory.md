@@ -1,30 +1,30 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-24 (Competitor Watcher scan — 70+ tracked, 0 new channels, 3 new title formulas, 3 new viral formats)
+> **Last Updated:** 2026-06-25 (Competitor Watcher scan — 70+ tracked, 0 new channels, 4 new title updates, 2 new viral format replications)
 > **Total Tracked Competitors:** 70+ (70 active + 1 removed)
 > **Note:** Firecrawl search API still offline (credits exhausted since Jun 8). Data sourced via web_search YouTube search only.
-> **Key Changes:** Eye health → HYPER-SATURATED (Dr. Arthur Clark 924K breakout). Walking/Biomechanics → HEATING UP (Dr. Thomas 108K). 3 new title formulas (P068-P070).
+> **Key Changes:** Dr. Michael Kent "9 Popular Medications Trigger Rapid Dementia" SURGED to 691K-875K. Dr. Thomas "Fruit Raises Stroke Risk" NEW at 220K. Kent cross-posted Thomas's "Walking Habit Raises Stroke Risk" format (6.6K). Dr. Arthur Clark "Olive Oil Before Bed" at 904K (NEW bedtime format). Dr. Edward Kensington "Blood Sugar" content growing to 266K.
 
 ## Active Competitors (Elder Health / Senior Wellness)
 
 | Channel | Latest Key Videos | Views | Niche | Risk Level |
 |---------|------------------|-------|-------|------------|
-| **Claire Whitmore** ⚡⚡⚡ MEGA-BREAKOUT + MEASUREMENT ERRORS + BP MEDS + ARTERIES + BLOOD SUGAR | "SENIORS, What's the Best Blood Pressure For Older Adults? (Know The TRUTH!)" (1.1M, UP from 1M) + "Optimal Blood Pressure Targets with Age" (657K) + "#1 Best Meal to UNCLOG Your Arteries" (653K) + "#1 Most Disgusting Drink That Clears Your Arteries" (NEW) + "These 3 BP Medications Are Quietly Destroying Your Heart After 60" (660K) + "The Mind-Blowing Benefits of Berberine" (1.57M) + "SENIORS: Poor Leg Circulation? Do These 4 Moves" (45.9K) + "Neurologist Reveals: The 60 Second Exercise to Recover Your Memory" (12K) + "The Magnesium Mistake → Stroke" (18.8K) + "STOP Taking Magnesium Glycinate Immediately" (258) + "Which Magnesium Is Actually Best For BP" (1.7K) + "The Only Magnesium Type That Actually Lowers BP" (3.2K) | **~6M+** | Berberine/Supplements (DOMINANT) + BP Timing + Magnesium + Heart Nutrition + Leg Health + Meds + Muscle Loss + Ozempic/GLP-1 + AFib + Supplement Interactions + Arterial Health + Overnight Blood Sugar + Memory + BP Self-Measurement (1M) + "Most Disgusting Drink" (NEW) | 🔴🔴 HIGHEST — "Most Disgusting Drink That Clears Your Arteries" is NEW viral format. Multi-version strategy confirmed. Multi-ID expanding FAST. |
-|| **Dr. Michael Kent** ⚡⚡⚡ EYE + BLOOD SUGAR + MEMORY + SURGERY + PANCREATIC CANCER | "I am a Surgeon and I would NEVER recommend these 5 surgeries to my parents" (232K) + "Forget Carrots — Tiny Seed Repairs Eyes" (945K, stable) + "Blood Sugar Real Truth" (1.31M) + "10 Fruits That Reverse Blood Sugar" (378K) + "NEVER Take Mag Glycinate with D3 & K2" (156K) + "Japan's Oldest Doctor: Leg Circulation" (176K) + "Doctor Warning: This Common Fruit Is Quietly Destroying Your Memory" (349K) + "8 Symptoms of PANCREATIC CANCER Seniors Should Never Ignore" (20K) + "Doctor Warns: These 5 Reheated Foods Increase the Risk of Pancreatic Cancer" (1.1M, UP from 881K, cross-posted) | **~4.6M+** | Eye Health (DOMINANT) + Blood Sugar + Memory/Cognitive + Leg Circulation + Supplement Interactions + Surgery Contradiction + Pancreatic Cancer (SURGING) | 🔴🔴 HIGHEST — Pancreatic cancer + reheated foods SURGED to 1.1M. Surgery contradiction at 232K. Multi-pillar empire expanding FAST. |
-|| **Japan's Oldest Doctor** ⚡⚡⚡ NEUROPATHY + NERVE REPAIR + FOOD WARNING + MUSCLE + SLEEP + DEMENTIA PRE-SCREENING + STROKE TRICK + DEMENTIA NUTRITION | "ONLY 4 Exercises to Relieve Neuropathy" (1M) + "Do This Before Bed To Repair Your Nerves While You Sleep" (99.9K) + "How to Stop Tripping" (537K) + "INSTANTLY Improve Leg Circulation" (176K) + "NEVER Have Shoulder Pain Again" (380K) + "5 Exercises To NEVER Lose Balance Again" (182K) + "3 Bedtime Stretches Helped 1M+ Seniors Sleep" (538K) + "Do NOT forget this before sleep" (NEW) + "NEVER Eat These 4 Foods" (NEW) + "7 Egg Mistakes That Can Harm Your Health" (NEW) + "5 Protein Foods That PROTECT Your Muscles" (NEW) + "8 Foods That Restore Leg Power in 12 Hours" (NEW) + "Do These 3 Tests TODAY — They Reveal Dementia Years Before Memory Loss" (129 views, 6h, NEW — on Senior Health Podcast) + "Do This 10-Second Tongue Trick to Reduce Stroke Risk After 60" (NEW, cross-posted) + "One Breakfast Food That May Prevent Dementia After 60" (NEW) | **~3.4M+** | Leg Circulation / Balance / Neuropathy / Shoulder Pain / Sleep / Nerve Repair / Sciatica / Stroke + Food Warning + Muscle Protection + Dementia Pre-Screening + Stroke Trick (NEW) + Dementia Nutrition (NEW) | 🔴🔴🔴 HIGHEST — Now dominating 12+ sub-niches. Expanding into stroke trick and dementia nutrition. |
-|| **Dr. Sumit Kapadia Vascular Surgeon** ⚡⚡⚡ MECHANISM EMPIRE + SEDENTARY + VARICOSE VEIN + MORTALITY FEAR + MICROPLASTICS + SLEEP + DIABETIC FOOT | "Varicose Vein Surgery is DEAD in 2026! Laser, RFA" (81K) + "Sitting 8 Hours? A Vascular Surgeon's 30-60-5 Rule to Save Your Legs" (347K) + "This One Muscle Is Destroying Your Leg Circulation" (52K) + "Your Legs Can Predict Your De@th" (85.3K) + "Your Arteries Are Collapsing at Night" (24.8K) + "5 Chair Exercises That Can Save Your Legs" (200.3K) + "MICROPLASTICS in Your Blood and Vascular Health" (NEW) + "Are Microplastics Dangerous? A Cancer Surgeon Tells You..." (86K, podcast cross-post) + "The Sleep Position That's Slowly Killing Your Circulation Every Night" (98K, NEW) + "You Won't Believe the #1 Diabetic Foot Warning Sign You're Ignoring" (115K, NEW) + "Podcast: Diabetes is Silently Blocking Your Blood Vessels" | **~3.3M+** | Leg Circulation + Varicose Veins + Clot Detection + Stroke Warning + Sleep Position (NEW) + Diabetic Foot (NEW) + Blood Test Advocacy + Mortality Fear + Nighttime Vascular Threats + Sedentary Sitting + "Surgery is DEAD" format + Podcast + Microplastics | 🔴🔴🔴 HIGHEST — Now entering sleep+circulation (98K) and diabetic foot (115K). Most dangerous vascular authority expanding FAST. |
-| **Dr. Sarah Mitchell** 🆕⚡ MULTI-ID BLOOD TESTS + MEDICATIONS | "The 5 Blood Tests Every Senior Must Demand From Their Doctor" (681K) + "SENIORS OVER 60: These 7 Popular Medications Are..." (682K) + "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Medications After 70" (125K) + "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Supplements After 65" (32.8K) + "I'm a Doctor and I Would NEVER Recommend These 5 Surgeries" (NEW) | **~1.5M+ combined** | Blood Test Advocacy (DOMINANT at 681K) + Medication Warnings + Supplement Warnings + Surgery Contradiction | 🔴 HIGH — NEW major competitor. "NEVER Let My Mother Take" is NEW authority contradiction format. Blood tests at 681K FILLS previously open niche. Multi-format expansion. |
-| **TopHealthTips** ⚡⚡⚡ MAJOR PLAYER | "Poor Leg Circulation? 30-Second Test + 3 Fast Fix Exercises" (1.46M) + "4 Exercises While Sitting" (988K) + "This Muscle Mimics Sciatica — 6 Stretches to Release It (60+)" (11K, NEW) | **~2.6M+** | Leg Circulation / Exercises + Sciatica (NEW) | 🔴🔴 HIGHEST — 2.6M+ leg health views. Sciatica content NEW. |
+| **Claire Whitmore** ⚡⚡⚡ MEGA-BREAKOUT + BP MEDS + ARTERIES + BLOOD SUGAR | "#1 Best Meal to UNCLOG Your Arteries" (671K, UP from 653K) + "#1 Most Hated Fruit to OPEN Your Arteries (You Must Eat It!)" (353K, NEW format) + "SENIORS, What's the Best Blood Pressure For Older Adults? (Know The TRUTH!)" (1.1M, stable) + "These 3 BP Medications Are Quietly Destroying Your Heart After 60" (660K) + "The Mind-Blowing Benefits of Berberine" (1.57M) + "Women Driving Change for Heart, Brain & Vascular Health" (NEW) | **~6.5M+** | Berberine/Supplements (DOMINANT) + BP Timing + Magnesium + Heart Nutrition + Leg Health + Meds + Muscle Loss + Ozempic/GLP-1 + AFib + Supplement Interactions + Arterial Health + Overnight Blood Sugar + Memory + BP Self-Measurement (1M) + "Most Hated Fruit" (NEW viral format) | 🔴🔴 HIGHEST — "Most Hated Fruit to OPEN Your Arteries" is NEW viral format at 353K. Multi-version strategy confirmed. Multi-ID expanding FAST. |
+| **Dr. Michael Kent** ⚡⚡⚡ EYE + BLOOD SUGAR + MEMORY + SURGERY + PANCREATIC CANCER + DEMENTIA + KIDNEYS + STROKE (THOMAS COPY) | "9 Popular Medications That Can Trigger Rapid Dementia" (691K-875K, SURGING — was 208K) + "Forget Carrots — Tiny Seed Repairs Eyes" (945K, stable) + "Blood Sugar Real Truth" (1.31M) + "These 5 Reheated Foods Increase the Risk of Pancreatic Cancer" (1.1M, stable) + "I am a Surgeon and I would NEVER recommend these 5 surgeries" (232K) + "7 Early Warning Signs Your Kidneys Are Failing" (227K-231K) + "5 Silent Vegetable Killers of Your Kidneys… and 4 That Can Save Them" (228K-232K) + "THIS Walking Habit Raises Stroke Risk Overnight" (6.6K, cross-posted from Dr. Thomas) + "FASTEST Protocol to Erase Visceral Fat" (435) | **~5.5M+** | Dementia Meds (SURGING at 691K-875K) + Eye Health (DOMINANT) + Blood Sugar + Memory/Cognitive + Leg Circulation + Supplement Interactions + Surgery Contradiction + Pancreatic Cancer + Kidney Health (NEW empire) + Stroke (cross-posted) | 🔴🔴🔴 HIGHEST — Dementia medications EMPIRE at 691K-875K (was 208K — 3x growth!). Kidney niche now CLAIMED at 227K-232K. Cross-posting Dr. Thomas's stroke format. Multi-pillar empire expanding FAST. |
+| **Japan's Oldest Doctor** ⚡⚡⚡ NEUROPATHY + NERVE REPAIR + FOOD WARNING + MUSCLE + SLEEP + DEMENTIA PRE-SCREENING + STROKE TRICK + DEMENTIA NUTRITION | "ONLY 4 Exercises to Relieve Neuropathy" (1M) + "Do This Before Bed To Repair Your Nerves While You Sleep" (99.9K) + "How to Stop Tripping" (537K) + "INSTANTLY Improve Leg Circulation" (176K) + "NEVER Have Shoulder Pain Again" (380K) + "5 Exercises To NEVER Lose Balance Again" (182K) + "3 Bedtime Stretches Helped 1M+ Seniors Sleep" (538K) + "Do NOT forget this before sleep" (NEW) + "NEVER Eat These 4 Foods" (NEW) + "7 Egg Mistakes That Can Harm Your Health" (NEW) + "5 Protein Foods That PROTECT Your Muscles" (NEW) + "8 Foods That Restore Leg Power in 12 Hours" (NEW) + "Do These 3 Tests TODAY — They Reveal Dementia Years Before Memory Loss" (129 views, 6h, NEW) + "Do This 10-Second Tongue Trick to Reduce Stroke Risk After 60" (NEW) + "One Breakfast Food That May Prevent Dementia After 60" (NEW) + "Japan's Oldest Doctor: 4 carbs you MUST eat Daily and 4 You..." (NEW) | **~3.5M+** | Leg Circulation / Balance / Neuropathy / Shoulder Pain / Sleep / Nerve Repair / Sciatica / Stroke + Food Warning + Muscle Protection + Dementia Pre-Screening + Stroke Trick + Dementia Nutrition + Carb Selection (NEW) | 🔴🔴🔴 HIGHEST — Now dominating 12+ sub-niches. Expanding into carb selection and dementia nutrition. |
+| **Dr. Sumit Kapadia Vascular Surgeon** ⚡⚡⚡ MECHANISM EMPIRE + SEDENTARY + VARICOSE VEIN + MORTALITY FEAR + MICROPLASTICS + SLEEP + DIABETIC FOOT | "Varicose Vein Surgery is DEAD in 2026! Laser, RFA" (81K) + "Sitting 8 Hours? A Vascular Surgeon's 30-60-5 Rule to Save Your Legs" (347K) + "This One Muscle Is Destroying Your Leg Circulation" (52K) + "Your Legs Can Predict Your De@th" (85.3K) + "Your Arteries Are Collapsing at Night" (24.8K) + "5 Chair Exercises That Can Save Your Legs" (200.3K) + "MICROPLASTICS in Your Blood and Vascular Health" (NEW) + "Are Microplastics Dangerous? A Cancer Surgeon Tells You..." (86K, podcast cross-post) + "The Sleep Position That's Slowly Killing Your Circulation Every Night" (98K, NEW) + "You Won't Believe the #1 Diabetic Foot Warning Sign You're Ignoring" (115K, NEW) + "Heavy Legs Every Evening? Your Circulation is Failing" (NEW) + "Can't Walk 100m Without Calf..." (NEW) | **~3.5M+** | Leg Circulation + Varicose Veins + Clot Detection + Stroke Warning + Sleep Position (98K) + Diabetic Foot (115K) + Blood Test Advocacy + Mortality Fear + Nighttime Vascular Threats + Sedentary Sitting + "Surgery is DEAD" format + Podcast + Microplastics + Heavy Legs (NEW) | 🔴🔴🔴 HIGHEST — Now entering sleep+circulation (98K) and diabetic foot (115K). Most dangerous vascular authority expanding FAST. |
+| **Dr. Sarah Mitchell** 🆕⚡ MULTI-ID BLOOD TESTS + MEDICATIONS | "The 5 Blood Tests Every Senior Must Demand From Their Doctor" (681K) + "SENIORS OVER 60: These 7 Popular Medications Are..." (682K) + "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Medications After 70" (125K) + "I'm a Doctor and I Would NEVER Let My Mother Take These 5 Supplements After 65" (32.8K) + "I'm a Doctor and I Would NEVER Recommend These 5 Surgeries" (NEW) + "WARNING: Not All Eggs Are Safe After 60" (NEW) + "WARNING: Waking Up at 3AM After 60?" (NEW) | **~1.5M+ combined** | Blood Test Advocacy (DOMINANT at 681K) + Medication Warnings + Supplement Warnings + Surgery Contradiction + Egg Safety (NEW) + 3AM Warning (NEW) | 🔴 HIGH — NEW major competitor. "NEVER Let My Mother Take" is NEW authority contradiction format. Blood tests at 681K FILLS previously open niche. Multi-format expansion. |
+| **TopHealthTips** ⚡⚡⚡ MAJOR PLAYER | "Poor Leg Circulation? 30-Second Test + 3 Fast Fix Exercises" (1.46M) + "4 Exercises While Sitting" (988K) + "This Muscle Mimics Sciatica — 6 Stretches to Release It (60+)" (11K, NEW) + "Waking Up to Pee at Night? This Simple Exercise Could Change Everything (60+)" (NEW) | **~2.6M+** | Leg Circulation / Exercises + Sciatica + Nocturia (NEW) | 🔴🔴 HIGHEST — 2.6M+ leg health views. Nocturia content NEW. |
 | **Senior Book** ⚡⚡⚡ MAJOR PLAYER | "Surgeon REVEALS: Do THIS 1 Exercise for Poor Leg Circulation" (826K) + "5 Exercises Double Leg Strength" (452.9K) + "Single Bed Exercise Faster Than Walking" (99K) | **~1.5M+** | Leg Strength / Exercises | 🔴🔴 HIGHEST — "Surgeon reveals" authority format. |
 | **Senior Health Blog** ⚡⚡⚡ DIABETES EMPIRE | "Top 3 BEST FRUITS for DIABETICS" (568K) + "Top 3 BEST BREADS for DIABETICS" (131.9K) + "No. 1 Endocrinologist Reveals Simple Daily Habit" (287.6K) + "Zero Diabetes Japanese Village" (353K) + "2026 AACE Guidelines for Type 2 Diabetes" (NEW) | **~1.7M+** | Diabetes/Nutrition (DOMINANT) | 🔴 HIGH — Diabetes niche OWNED. Updated for 2026 guidelines. |
 | **Dr. Alex Carter** ⚡ MULTI-ID BP MEDS | "Taking Amlodipine, Losartan, or Lisinopril?" (601K) + "Most Dangerous Time to Take BP Medication" (122) | **601K+** | BP Meds (Medication Trio format) | 🟡 MEDIUM — Format replication working at scale. |
 | **Dr. Franklin** ⚡⚡ MULTI-ID NAIL STRATEGY | Multi-ID nail/blood type/urology | **~1.8M+** across all IDs | Body Shock → Nail Health → Urology → Blood Type | 🔴 HIGH — Multi-ID strategy at PEAK RISK. |
 | **Doctor Christopher Carter** ⚡ MULTI-ID HEART MEDS | "5 Pills Could Trigger Heart Attack" (1.25M evergreen) | **1.25M+** | Heart Medications | 🟡 MEDIUM — Evergreen dominant. |
-| **Dr. James Hargrove** ⚡⚡ WATER/BLOOD FLOW + STROKE + EYE | "Don't Drink Plain Water After 60" (50K) + "4 Vitamins SILENTLY Causing Stroke" (8.2K) | **~78K+** recent | Water/Blood Flow + Emergency Format + Vitamin Warning + Diagnostic Advocacy + Eye Health | 🟡 MEDIUM-HIGH — Multi-format empire building. |
+| **Dr. James Hargrove** ⚡⚡ WATER/BLOOD FLOW + STROKE + EYE | "Don't Drink Plain Water After 60" (50K) + "4 Vitamins SILENTLY Causing Stroke" (438K, UP from 8.2K!) + "If Your Legs Tingle, Burn, or Go Numb After 60" (48.6K) + "Doctor WARNS: 7 Mini-Stroke Signs After 60" (1K, NEW) | **~537K+** recent | Water/Blood Flow + Emergency Format + Vitamin Warning + Diagnostic Advocacy + Eye Health + Leg Nerve Warning (NEW at 48.6K) | 🟡 MEDIUM-HIGH — "4 Vitamins" video SURGED from 8.2K to 438K. Multi-format empire building. |
 | **Doctor Becker** ⚡⚡ SURGING | "1 Spoon of THIS Before Bed Rebuilds Stem Cells & Clears Senescent Cells By Morning" (2.3K, 19h, NEW) + "After 65, You Have ONLY a 3-Year Window To REACTIVATE Your..." + Stem cell portfolio (2.4M+) + "Chew This Before Bed – Watch Your Stem Cells Rebuild" | **2.8M+ combined** | Stem Cell → Cancer Prevention → Microplastics (dead) | 🟡 MEDIUM-HIGH — Bedtime stem cell format expanding. New content at 2.3K (19h). |
 | **Dr. William Li** ⚠️ INACTIVE | "Try It For 1 Day" — REGROW Stem Cells (763.6K) + "THIS Drink REGROWS STEM CELLS & Starves Cancer" (184.5K) + "Regenerate Your Stem Cells" (582.3K) | **~1.7M+** | Stem Cells (DOMINANT) + Memory + Magnesium + Age Spots + Arterial Health + Cancer Prevention | 🟢 LOW — INACTIVE since 4 months ago. Possibly flagged/suppressed. |
 | **Dr. James Cross** | "Simple Movement Drains Swollen Legs" (40.7K) | 40.7K | Leg Health / Swollen Ankles | 🟡 MEDIUM — Growth STALLED. |
-|| **Dr. Arthur Clark** ⚡⚡⚡ SURGING | "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes" (924K, 2 weeks — BREAKOUT) + "9 Warning Signs in Your Feet That Could Mean Diabetes" (1.2K) + "9 Vegetables That LOWER Blood Sugar FAST!" (5.1K) + "5 Medical Checkups I'd NEVER Get After 65" (active) + "The Milk Every Diabetic Should DRINK" (49K) | **~1M+ combined** | Eye Health (NOW DOMINANT at 924K) + Diabetes + Food Warning + Medical Checkup Contradiction | 🔴🔴🔴 HIGHEST — "Best Fruit to Eat Before Bed" is NEW viral format at 924K in 2 weeks. Cross-posted to 5+ channels. Eye health niche NOW HYPER-SATURATED. |
+| **Dr. Arthur Clark** ⚡⚡⚡ SURGING | "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes" (927K, UP from 924K) + "What Happens If You Drink Olive Oil Every Night Before Bed" (904K, NEW — bedtime format) + "Neurologist Warns: If Your NAILS Look Like THIS After 60" (NEW) + "9 Warning Signs in Your Feet That Could Mean Diabetes" (1.2K) + "9 Vegetables That LOWER Blood Sugar FAST!" (5.1K) + "5 Medical Checkups I'd NEVER Get After 65" (active) | **~1.8M+ combined** | Eye Health (NOW DOMINANT at 927K) + Bedtime Olive Oil (NEW at 904K) + Diabetes + Food Warning + Medical Checkup Contradiction + Nail Warning (NEW) | 🔴🔴🔴 HIGHEST — "Olive Oil Every Night Before Bed" is NEW viral bedtime format at 904K. "Best Fruit Before Bed" still growing at 927K. Cross-posted to 5+ channels. Eye health niche NOW HYPER-SATURATED. |
 | **Dr. Ibrahim Khan** 🆕 | "AGE SPOTS WILL DISAPPEAR! 5 Hidden Causes" (52.2K) | ~52K | Age Spots + Leg Muscle Loss | 🟡 MEDIUM — Age spots niche uncontested. |
 | **Dr. Favor Adeyemi** | "Never Reheat These 4 Foods" (1.79M evergreen) | ~1.9M est. (steady) | Food Warning | LOW — Evergreen only. STALLED. |
 | **Dr.Robert Harrison** | "Forget Carrots — Tiny Seed Repairs Eyes" | ~893K (plateaued) | Eye Health | LOW — Growth plateaued. |
@@ -32,7 +32,7 @@
 | **Dr. Nathaniel Brooks** ↑ | "If You Wake Up With Dry Mouth" (91K) | ~546K | General Senior Health / Body Signals | 🟡 MEDIUM — Body warning content stable. |
 | **Doctor Eye Health** | "I Used 100% CASTOR OIL Eye Drops for 30 days" | ~568K | Eye Health / Natural Remedies | LOW |
 | **Dr. Richard Ben** | Urologist water drinking videos | <200 recent | Urology / Nocturia | LOW — New uploads all under 200 views. |
-|| **Healthy Seniors** ⚡⚡ GROWING | "SENIORS! What a Stroke Looks Like the Day Before It Hits (Most Miss #4)" (422K, UP from 410K) + "7 Mini-Stroke (TIA) Warning Signs" (373K, UP from 340K) | ~950K combined | Stroke / TIA | 🟡 MEDIUM-HIGH ↑ — FILLING Waterling's suppressed niche. "Day Before" format at 422K+373K. |
+| **Healthy Seniors** ⚡⚡ GROWING | "SENIORS! What a Stroke Looks Like the Day Before It Hits (Most Miss #4)" (422K, UP from 410K) + "7 Mini-Stroke (TIA) Warning Signs" (373K, UP from 340K) | ~950K combined | Stroke / TIA | 🟡 MEDIUM-HIGH ↑ — FILLING Waterling's suppressed niche. "Day Before" format at 422K+373K. |
 | **Dr. William Arden** | "Ozempic Works… But Here's What It's Really Doing (60+)" (19.2K) + "Truth About Dr. Now's Diet Plan" (58K) | ~107K | Cancer + Ozempic + Anti-Smoking | 🟡 MEDIUM — Ozempic content GROWING. |
 | **Dr. Sophia Williams, MD** | "7 Mini-Stroke Warning Signs" (232) + "Stroke Day Before" (111) + "Vascular Dementia" (157) | ~500 | Stroke/TIA Prevention + Vascular Dementia | 🟡 MONITOR |
 | **Dr. Julian Cross** | "Which BP Number More DANGEROUS" (176) + "People Dying in Their Sleep" (25) | ~350 | Stroke + BP binary comparison | 🟡 MONITOR |
@@ -40,19 +40,18 @@
 | **Vascular Surgeon** ⚡ MECHANISM CONTENT | "The ONLY 3 Exercises you NEED to Improve Leg Circulation" + "This One Muscle Is Destroying Your Leg Circulation" (52K) + "3 Seated Exercises If You Can't Walk" (245.5K) | ~287K | Leg Circulation (Seated) + Mechanism | 🟡 MEDIUM — "One Muscle" angle at 52K. Mechanism content growing. |
 | **More Life Health** ⚡ MAJOR PLAYER | "Leg Strengthening Exercises For Seniors" (2.57M) + "Leg Strengthening Workout for Beginners and Seniors" (2.6M) | **~2.84M+** | Leg Exercises / Strength | 🟡 MEDIUM-HIGH — 2.6M views confirmed. |
 | **Dr. Elena Pierce** 🆕⚡ | "What's the REAL Ideal Blood Pressure After 65? The Answer Will Surprise You" (490K) + "Proven Natural Methods To Lower Blood Pressure After 70" | ~490K | Blood Pressure | 🟡 MEDIUM — "REAL [Metric]" format. Fast-growing. |
-|| **Dr. Thomas (Senior Health Tips)** ⚡⚡⚡ EXPANDING | "As a BRAIN Doctor, I'm SHOCKED: THIS Vegetable Raises Stroke Risk Overnight" (1M, stable) + "As a BRAIN Doctor, I'm SHOCKED: THIS Morning Habit TRIPLES Stroke Risk After 60" (656K, UP from 577K) + "One SIMPLE Change to How You Walk That Could Save Your Life After 70" (108K, NEW — walking pattern biomechanics) + "5 Common Medications Seniors Must Avoid (Heart Damage Risk!)" (11K) + "Cardiac Surgeon Warns: THIS Drug Is Damaging the Hearts of Older Adults" (492K, cross-posted) + "Cardiac Surgeon Warns: This Sleeping POSITION Raises STROKE Risk Overnight" (641K, cross-posted) | **~2.9M+ combined** | Stroke / Brain Health (DOMINANT) + Heart Medications + Walking Biomechanics (NEW) + Sleep Position | 🔴🔴🔴 HIGHEST — "SIMPLE Change to How You Walk" is NEW viral format at 108K. "Cardiac Surgeon Warns" cross-posting empire at 492K+641K. Multi-pillar empire accelerating. |
+| **Dr. Thomas (Senior Health Tips)** ⚡⚡⚡ EXPANDING | "As a BRAIN Doctor, I'm SHOCKED: THIS Vegetable Raises Stroke Risk Overnight" (1M, stable) + "As a BRAIN Doctor, I'm SHOCKED: THIS Morning Habit TRIPLES Stroke Risk After 60" (656K, stable) + "As a BRAIN Doctor, I'm SHOCKED: THIS Fruit Raises Stroke Risk Overnight" (1M, NEW — fruit variant) + "A BRAIN Doctor WARNING I'm SHOCKED — These Fruits Raise Stroke Risk" (220K, NEW) + "As a BRAIN Doctor, I'm SHOCKED: THIS Exercise Raises Stroke Risk Overnight" (NEW — cross-posted by Kent) + "One SIMPLE Change to How You Walk That Could Save Your Life After 70" (108K, stable) + "5 Common Medications Seniors Must Avoid (Heart Damage Risk!)" (11K) + "Cardiac Surgeon Warns: THIS Drug Is Damaging the Hearts of Older Adults" (492K, cross-post) + "Cardiac Surgeon Warns: This Sleeping POSITION Raises STROKE Risk Overnight" (641K, cross-post) + "This Simple Exercise Is Better Than Walking After 60" (117K, on Senior Secrets) | **~3.2M+ combined** | Stroke / Brain Health (DOMINANT) + Heart Medications + Walking Biomechanics + Sleep Position + "BRAIN Doctor SHOCKED" empire (5+ variants) + Exercise + Fruit (NEW) | 🔴🔴🔴 HIGHEST — "BRAIN Doctor SHOCKED" now has 5+ variants (vegetable, morning habit, fruit, exercise, walking habit). "Fruit Raises Stroke Risk" at 1M+220K. Cross-posting empire accelerating. Walking biomechanics at 108K stable. |
 | **Dr. Eliza Grant** 🆕 | "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes" (121K-129K) | ~126K | Eye Health | 🟡 MEDIUM — NEW entrant. Eye health niche saturated. |
 | **Dr. Grace Mitchell** 🆕 | Cross-posting farm (stem cells, BP, cancer, microplastics, urology) | <200 | Cross-posting farm | 🟢 LOW — McGill flag risk. |
 | **Dr. Aliza Wright** 🆕 | "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" | Unknown | BP Meds (Medication Trio copy) | 🟢 LOW — Very small. Monitor. |
 | **Senior Life & Health Hub by Dr. Felix Hartmann** 🆕 | "One Chair Exercise That Relieves Neuropathy in Feet & Legs After 60" | Unknown | Neuropathy / Leg Health | 🟢 LOW — Very new, small scale. |
-|| **Senior Healthy Life Daily** 🆕 | "Why Healthy Seniors Have High BP: The 3 AM 'Reverse Dipping' Pattern" (1K) | ~1K | Blood Pressure Mechanism | 🟢 LOW — 5.57K subs. "Reverse dipping" terminology not catching on. |
-|| **Dr. Owen Senior Health** 🆕⚡ EMERGING | "If You're Over 60, STOP Doing These 7 Things Immediately (Most Seniors Don't Know This)" (NEW) + "Doctor Reveals: The 5 Real Reasons Your Throat Is Full of Mucus After 60" (NEW) | Emerging | General Senior Health / Body Warning Signals | 🟡 MONITOR — Early stage. "STOP Doing" format. Monitor for cross-posting farm pattern. |
-|| **Dr. Edward Hamilton | Senior Health** 🆕⚡ | "OVER 60 3 Vegetables You Should NEVER Touch – And 3 You MUST" (170K-178K) | ~175K | Food Prohibition + Cardiovascular | 🟡 MEDIUM — Cardiovascular surgeon authority. "NEVER Touch + MUST" binary format NEW. |
-||| **Healthy Aging - Senior Health Tips** 🆕⚡ SURGING | "Top 5 Vegetables That Heal Your Kidneys After 60 – Most Seniors Ignore #2" (662K, UP from 500K-637K) + "Top 5 Vegetables That Harm Your Kidneys After 60" + "Never Eat These 5 Vegetables After 60 – Kidneys at Risk" (cross-posted) | ~662K+ | Kidney Health / Vegetable Nutrition (Heal + Harm binary) | 🟡 MEDIUM-HIGH — Kidney niche FILLING FAST. Binary "heal + harm" format expanding. First-mover window CLOSED. |
-
-|||| **Dr. Edward Kensington | MedTalk** 🆕⚡⚡ SURGING | "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" (192K) + "Doctor Explains: The Best Foods To Eat to Lower Blood Sugar FAST" (202K-246K, cross-posted) + "9 Popular Medications That Can Trigger Rapid Dementia" (208K, cross-posted as "Dr. John Li") | ~600K+ combined | BP Meds (Trio) + Diabetes Foods + Dementia Meds | 🔴🔴 HIGHEST — 192K+202K+208K across 3 pillars in days. Multi-ID strategy confirmed ("Dr. John Li" alias). Fastest-growing new competitor. |
-|||| **Smart Health Tips** 🆕 EMERGING | "SURGEON REVEALS: Do This 1 Exercise for Poor Leg Circulation After 70 | Senior Health" (~942 views, NEW) | ~942 | Leg Circulation / Exercises | 🟡 LOW — Copying Senior Book's "Surgeon reveals" formula. Too early to assess. Monitor for cross-posting farm pattern. |
-|||| **Dr. Joshua Tiamson** 🆕 | Co-appears with Dr. Owen on "STOP Doing These 7 Things" | 4K | General Senior Health | 🟡 LOW — Monitor. May be cross-posting partner. |
+| **Senior Healthy Life Daily** 🆕 | "Why Healthy Seniors Have High BP: The 3 AM 'Reverse Dipping' Pattern" (1K) | ~1K | Blood Pressure Mechanism | 🟢 LOW — 5.57K subs. "Reverse dipping" terminology not catching on. |
+| **Dr. Owen Senior Health** 🆕⚡ EMERGING | "If You're Over 60, STOP Doing These 7 Things Immediately (Most Seniors Don't Know This)" (NEW) + "Doctor Reveals: The 5 Real Reasons Your Throat Is Full of Mucus After 60" (NEW) | Emerging | General Senior Health / Body Warning Signals | 🟡 MONITOR — Early stage. "STOP Doing" format. Monitor for cross-posting farm pattern. |
+| **Dr. Edward Hamilton | Senior Health** 🆕⚡ | "OVER 60 3 Vegetables You Should NEVER Touch – And 3 You MUST" (170K-178K) | ~175K | Food Prohibition + Cardiovascular | 🟡 MEDIUM — Cardiovascular surgeon authority. "NEVER Touch + MUST" binary format NEW. |
+| **Healthy Aging - Senior Health Tips** 🆕⚡ SURGING | "Top 5 Vegetables That Heal Your Kidneys After 60 – Most Seniors Ignore #2" (662K, stable) + "Top 5 Vegetables That Harm Your Kidneys After 60" + "Never Eat These 5 Vegetables After 60 – Kidneys at Risk" (cross-posted) | ~662K+ | Kidney Health / Vegetable Nutrition (Heal + Harm binary) | 🟡 MEDIUM-HIGH — Kidney niche FILLING FAST. Binary "heal + harm" format expanding. First-mover window CLOSED. |
+| **Dr. Edward Kensington | MedTalk** 🆕⚡⚡ SURGING | "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure?" (192K) + "Doctor Explains: The Best Foods To Eat to Lower Blood Sugar FAST" (266K-268K, UP from 202K-246K, cross-posted) + "9 Popular Medications That Can Trigger Rapid Dementia" (207K-267K, cross-posted as "Dr. John Li") | ~730K+ combined | BP Meds (Trio) + Diabetes Foods (GROWING at 266K) + Dementia Meds (GROWING at 207K-267K) | 🔴🔴 HIGHEST — 192K+266K+267K across 3 pillars. Multi-ID strategy confirmed ("Dr. John Li" alias). Fastest-growing new competitor. Diabetes foods SURGED from 202K to 266K. |
+| **Smart Health Tips** 🆕 EMERGING | "SURGEON REVEALS: Do This 1 Exercise for Poor Leg Circulation After 70 | Senior Health" (~942 views, NEW) | ~942 | Leg Circulation / Exercises | 🟡 LOW — Copying Senior Book's "Surgeon reveals" formula. Too early to assess. Monitor for cross-posting farm pattern. |
+| **Dr. Joshua Tiamson** 🆕 | Co-appears with Dr. Owen on "STOP Doing These 7 Things" | 4K | General Senior Health | 🟡 LOW — Monitor. May be cross-posting partner. |
 
 ## Removed Competitors
 | Channel | Status | Reason |
@@ -63,11 +62,11 @@
 - **Leg Health / Circulation (exercises):** Hyper-saturated (10M+ total views across 8+ channels)
 - **Blood Pressure (general):** 🔴🔴 SATURATED (Whitmore 1.1M, Elena Pierce 490K, Carter 601K, Dr. Sarah Mitchell 682K)
 - **BP Self-Measurement Errors:** 🔴 NEWLY HOT (Whitmore at 1M)
-- **Eye Health:** 🔴🔴 HYPER-SATURATED (Kent 945K, Dr. Arthur Clark 924K, Dr.Robert Harrison 917K, Doctor Eye Health 568K, Dr. Eliza Grant 126K — 5 major players)
+- **Eye Health:** 🔴🔴 HYPER-SATURATED (Kent 945K, Dr. Arthur Clark 927K, Dr.Robert Harrison 917K, Doctor Eye Health 568K, Dr. Eliza Grant 126K — 5 major players)
 - **Heart Medications:** 🔴 CROWDED
 - **Diabetes/Nutrition:** 🔴 SATURATED
-- **Stroke Prevention (symptoms):** 🔴 HEATING UP (Healthy Seniors 410K+340K, Dr. Thomas 1M)
-- **Dementia/Medications:** 🔴 SATURATED
+- **Stroke Prevention (symptoms):** 🔴 HEATING UP (Healthy Seniors 410K+340K, Dr. Thomas 1M+)
+- **Dementia/Medications:** 🔴 SATURATED (Kent 691K-875K, Kensington 207K-267K)
 - **Cancer Prevention:** 🔴 CROWDED
 - **Blood Type + Longevity:** 🔴 CLAIMED
 - **Food Warning (general):** 🔴 CROWDED (Adeyemi 1.79M, JOD expanding)
@@ -82,10 +81,11 @@
 - **Magnesium:** 🔴 HEATING UP
 - **Seated Leg Exercises:** 🔴 SATURATED
 - **Walking/Biomechanics:** 🔴 HEATING UP (Dr. Thomas 108K with "SIMPLE Change" format — NEW category)
-- **Bedtime Drinks/Actions:** 🔴 HEATING UP (Whitmore + Clark + JOD + Becker + Dr. Arthur Clark "Best Fruit Before Bed" 924K)
+- **Bedtime Drinks/Actions:** 🔴 HEATING UP (Whitmore + Clark 904K + JOD + Becker + Dr. Arthur Clark "Best Fruit Before Bed" 927K + Kent)
 - **Blood Test Advocacy:** 🔴 NOW OCCUPIED (Dr. Sarah Mitchell at 681K + Dr. James Hargrove at 117K-128K)
-|- **Kidney Health (Vegetables):** 🔴 NOW OCCUPIED (Healthy Aging at 500K-637K)
-|- **BP Medication Trio:** 🔴 NOW CROWDED (Kensington 196K + Carter 601K + Whitmore)
+- **Kidney Health (Vegetables):** 🔴 NOW OCCUPIED (Healthy Aging at 662K + Dr. Michael Kent 227K-232K)
+- **BP Medication Trio:** 🔴 NOW CROWDED (Kensington 192K + Carter 601K + Whitmore)
+- **Dementia Medications:** 🔴 NOW OCCUPIED (Kent 691K-875K + Kensington 207K-267K)
 
 ## Open Niches (Opportunity)
 
@@ -98,97 +98,29 @@
 | **GLP-1/Ozempic + vascular health** | Arden at 19.2K | 🔴 FIRST-MOVER WINDOW NARROWING |
 | **Fall Prevention + Vascular/Balance** | Senior Health Podcast at 438K | 🟡 MECHANISM EMPTY |
 | **Sleep Position + Circulation** | Mandell at 32K | 🟡 GROWING |
-|| **Kidney Test Advocacy** | 11.7K for "Kidney Blood Test Is Lying to You" + Dr. Frita 1.1M (generalist) | 🟡 GROWING → 🔴 OCCUPIED (Healthy Aging at 500K-637K with kidney vegetable content) |
+| **Kidney Test Advocacy** | 11.7K for "Kidney Blood Test Is Lying to You" + Dr. Frita 1.1M (generalist) | 🟡 GROWING → 🔴 OCCUPIED (Healthy Aging at 662K + Kent at 227K) |
 | **BP Medication Timing + Vascular** | Whitmore at 209.6K | 🟡 WINDOW OPEN |
 | **Magnesium + Vascular Mechanism** | "BIG Magnesium Mistake" at 1.97M | 🟡 WINDOW OPEN |
 | **Age Spots + Internal Causes** | Khan at 52.2K only | 🟢 STILL OPEN |
 | **Nighttime vascular threats** | Kapadia at 24.8K only | 🟢 VIRTUALLY EMPTY |
 | **"Reverse Dipping" BP Mechanism** | Senior Healthy Life Daily at 1K only | 🟢 VIRTUALLY EMPTY — terminology not catching on |
+| **"Most Hated Fruit" format** | Whitmore at 353K | 🟡 WINDOW NARROWING — NEW viral format. Monitor for saturation. |
+| **Bedtime Olive Oil format** | Dr. Arthur Clark at 904K | 🟡 WINDOW NARROWING — NEW viral format. Monitor for replication. |
 
-## Key Events This Period (June 24 Scan)
+## Key Events This Period (June 25 Scan)
 
-- **⚡⚡ Dr. Arthur Clark BREAKOUT at 924K in 2 weeks:** "Doctor Explains: The Best Fruit to Eat Before Bed for Healthy Eyes" — NEW viral format. Eye health niche NOW HYPER-SATURATED (5 major players). Cross-posted to 5+ channels. First-mover window CLOSED for eye health.
-- **⚡ Dr. Thomas walking pattern at 108K:** "One SIMPLE Change to How You Walk That Could Save Your Life After 70" — NEW format combining biomechanics + fear + simple fix. Cross-posted to Senior Health Podcast. Walking/Biomechanics niche HEATING UP.
-- **⚡ Dr. Michael Kent "FASTEST Protocol" format NEW:** "FASTEST Protocol to Erase Visceral Fat (Doctor Explains)" at 435 views (2 days). Superlative + urgency + authority. Too early to assess.
-- **⚡ Dr. Aliza Wright BP Trio at 675K:** Cross-posted across multiple channels (including "Healing path"). Medication Trio format NOT saturating — being amplified through cross-posting networks.
-- **🚨 Cross-posting networks accelerating:** Dr. Arthur Clark (5+ channels), Dr. Aliza Wright (675K cross-post), Dr. Thomas (Senior Health Podcast), Dr. Michael Kent (cross-post). Dr. Kane's single-channel approach remains the defensive moat.
-- **🚨 Multi-ID strategy confirmed:** Dr. Thomas (Senior Health Tips 112K subs + Senior Secrets 117K views). Dr. Arthur Clark (main 16.8K + Dr. Arthur Reveals separate ID).
-- **📰 McGill AI enforcement article resurfacing:** Platform risk INCREASING for multi-ID/cross-posting channels. POSITIVE for Dr. Kane.
-- **➡️ All major competitors stable:** Whitmore, Kent, Kapadia, Kensington, Dr. Sarah Mitchell all in steady-state. No new major competitor channels discovered.
-
-## Key Events This Period (June 23 Scan)
-
-- **🆕 Smart Health Tips discovered at ~942 views:** NEW entrant in leg circulation niche. "SURGEON REVEALS: Do This 1 Exercise for Poor Leg Circulation After 70" — copying Senior Book's proven formula. Too early to assess trajectory.
-- **🆕 Dr. Thomas "60-Second Technique" format NEW:** "Seniors, Do THIS Before Help Arrives — The 60-Second Technique That Stops a Stroke" — emergency action format. Time-bound technique promise. Not yet replicated.
-- **🆕 Dr. Owen mucus video:** "Doctor Reveals: The 5 Real Reasons Your Throat Is Full of Mucus After 60" — body warning signal expansion. Cross-posted with Dr. Joshua Tiamson (6.3K-21K views).
-- **🆕 JOD chia seed mistakes:** "5 Critical Mistakes You're Making When Soaking Chia Seeds" — food preparation mistake format. Food warning empire expanding beyond "NEVER Eat."
-- **🆕 Dr. Elena Pierce patient advocacy:** "How To Talk to Your Doctor About Blood Pressure Medication — Without Feeling Dismissed" (25 views, 20h) — NEW non-mechanism format. Not competing with Dr. Kane.
-- **📰 McGill AI enforcement article resurfacing:** "Deceitful AI Videos Mislead Seniors" widely shared on LinkedIn/Facebook. YouTube's 2026 "inauthentic content" enforcement accelerating. POSITIVE for Dr. Kane's authentic approach.
-- **➡️ All major competitors stable:** No new breakout viral videos since June 22 scan. Whitmore, Kent, Kapadia, Kensington, Dr. Sarah Mitchell all in steady-state.
-
-## Key Events This Period (June 22 Scan)
-
-- **⚡⚡ Dr. Michael Kent pancreatic cancer SURGE to 1.1M:** "Doctor Warns: These 5 Reheated Foods Increase the Risk of Pancreatic Cancer" jumped from 881K to 1.1M (+219K). Now Kent's SECOND highest-performing video. Food warning + specific cancer type format ACCELERATING.
-- **⚡⚡ Dr. Thomas stroke empire EXPANDING:** "THIS Morning Habit TRIPLES Stroke Risk After 60" grew from 251K-529K to 577K-656K. NEW video "5 Common Medications Seniors Must Avoid (Heart Damage Risk!)" at 11K — Dr. Thomas now expanding from stroke/brain into heart medications. Multi-pillar empire accelerating.
-- **⚡ Kapadia enters sleep + circulation:** "The Sleep Position That's Slowly Killing Your Circulation Every Night" at 98K. Vascular surgeon authority entering sleep health niche. First-mover window for vascular mechanism + sleep position CLOSING.
-- **⚡ Kapadia diabetic foot at 115K:** "You Won't Believe the #1 Diabetic Foot Warning Sign You're Ignoring" at 115K. Vascular surgeon authority on diabetic complications performing strongly.
-- **⚡ Healthy Aging kidney content at 662K:** "Top 5 Vegetables That Heal Your Kidneys After 60" grew to 662K. Kidney niche OCCUPIED. First-mover window CLOSED.
-- **🆕 Dr. Arthur Clark diabetes vegetables:** "9 Vegetables That Lower Blood Sugar Instantly" at 17K-36K. Clark expanding diabetes portfolio.
-- **🆕 Japan's Oldest Doctor stroke trick:** "Do This 10-Second Tongue Trick to Reduce Stroke Risk After 60" — cross-posted across channels. Simple at-home trick format entering stroke prevention.
-- **🆕 Japan's Oldest Doctor dementia nutrition:** "One Breakfast Food That May Prevent Dementia After 60" — entering dementia prevention through nutrition.
-- **🆕 JOD + Dr. Thomas morning habit content:** "Over 60 THIS Morning Habit TRIPLES Stroke Risk In Older Adults" appearing on both Dr. Thomas and Mastering Your Health channels. Cross-posting network expanding.
-- **🆕 Claire Whitmore members-only content:** "I SHOW YOU HOW TO QUICKLY CLEAR YOUR ARTERIES WITH YOUR OWN HANDS" — members-only format. Platform diversification strategy emerging.
-- **⚡ Healthy Seniors stroke content growing:** "What a Stroke Looks Like the Day Before" at 422K (+12K), "7 Mini-Stroke Warning Signs" at 373K (+33K). Stroke niche HEATING.
-- **🆕 Dr. Edward Kensington multi-ID confirmed:** "9 Popular Medications That Can Trigger Rapid Dementia" at 158 views (2 days) cross-posted as "Dr. John Li". Multi-ID strategy confirmed with alias.
-
-## Key Events This Period (June 21 Scan)
-
-- **⚡⚡ Dr. Edward Kensington multi-pillar EXPLOSION:** From BP Trio (192K) → Diabetes Foods (202K-246K) → Dementia Medications (208K, cross-posted as "Dr. John Li") in approximately 1 week. Multi-ID strategy confirmed. Fastest-growing new competitor.
-- **⚡ Dr. Thomas sleep position + stroke:** "As a BRAIN Doctor, I'm SHOCKED: These Worst Sleeping Position Raise Stroke Risk Overnight" at 251K-529K. Cross-posted to Senior Reborn at 1.2M views. Sleep + stroke format is NEW viral combination.
-- **⚡ Dr. Michael Kent pancreatic cancer + reheated foods at 881K:** "Doctor Warns: These 5 Reheated Foods Increase the Risk of Pancreatic Cancer" — cross-posted at 881K. Food warning + cancer type format performing strongly.
-- **⚡ JOD enters dementia pre-screening:** "Do These 3 Tests TODAY — They Reveal Dementia Years Before Memory Loss" at 129 views (6h) on Senior Health Podcast. First-mover in diagnostic advocacy for dementia. Window OPEN.
-- **⚡ Dr. Franklin cross-posts dementia content:** "10 Warning Signs You Already Have Dementia" at 713K — cross-posted from Dr. Sten Ekberg (8.2M original). Cross-posting dependency increasing.
-- **🆕 Dr. Arthur Clark medical checkup contradiction:** "5 Medical Checkups I'd NEVER Get After 65" at 1-58 views (multiple cross-posts). Copying Kent/Mitchell "Would NEVER" format. Too early to assess.
-- **⚡ Healthy Aging kidney binary format:** "Never Eat These 5 Vegetables After 60 – Kidneys at Risk" (cross-posted) joins "Top 5 Vegetables That Heal Your Kidneys" — binary heal/harm format expanding.
-- **⚡ Whitmore "Most Disgusting Drink" at 57K-664K:** Cross-posting amplifying reach. Magnesium + food interaction format continuing to expand.
-
-## Key Events This Period (June 20 Scan)
-
-- **🆕 Dr. Edward Kensington | MedTalk discovered at 196K (6 days old!):** NEW major competitor in BP Medication Trio format. "Taking Amlodipine, Losartan, or Lisinopril for Blood Pressure? Here's What Many Seniors Don't Know" at 196K in 6 days = exceptional velocity. Directly competing with Dr. Alex Carter (601K) and Dr. Aliza Wright.
-- **⚡⚡ Kapadia enters MICROPLASTICS niche:** "MICROPLASTICS in Your Blood and Vascular Health" (new) + "Are Microplastics Dangerous?" (86K podcast cross-post) + "Microplastics in the Body | How to AVOID and ELIMINATE Them!" (2K). Kapadia brings 1M+ subscribers to microplastics space. First-mover window NARROWING.
-- **⚡ Kapadia "30-60-5 Rule" at 347K:** From "NEW" to 347K. Instagram cross-promotion active. Sedentary sitting niche CLAIMED by vascular authority.
-- **⚡ Arthur Clark milk video at 49K-156K:** "The Milk Every Diabetic Should DRINK to LOWER Blood Sugar" — cross-posted to multiple channels. Bedtime drink niche HEATING UP.
-- **⚡ Dr. James Hargrove blood tests at 117K-128K:** "The 5 Blood Tests Every Senior Must Demand From Their Doctor (Before It's Too Late)" growing. CLOSING on Dr. Sarah Mitchell's 681K niche.
-- **⚡ Healthy Seniors TIA at 373K:** "7 Mini-Stroke (TIA) Warning Signs" growing from 340K to 373K. Stroke niche ACCELERATING.
-- **⚡ Dr. Thomas "BRAIN Doctor" empire:** Multiple videos at 1M+ with "BRAIN Doctor SHOCKED" format. Fruit variant NEW.
-- **🆕 Dr. Joshua Tiamson emerging:** Co-appears with Dr. Owen on "STOP Doing These 7 Things." Monitor for cross-posting network pattern.
-
-## Key Events This Period (June 19 Scan)
-
-- **🆕 Healthy Aging - Senior Health Tips discovered at 500K-637K:** NEW major player in kidney health. "Top 5 Vegetables That Heal Your Kidneys After 60" at 500K-637K FILLS previously open niche.
-- **🆕 Dr. Edward Hamilton discovered at 170K-178K:** Cardiovascular surgeon with "NEVER Touch + MUST" binary food format. NEW variation on food warning.
-- **🆕 Dr. Owen Senior Health emerging:** "STOP Doing These 7 Things Immediately" format. Monitor for cross-posting farm pattern.
-- **⚡ Whitmore "5 BP Medications Traps" at 2.5K:** NEW medication warning format. "Traps" framing is NEW.
-- **⚡ Whitmore magnesium + food interaction:** "STOP Taking Magnesium Glycinate IMMEDIATELY If You're Eating THIS Food!" — magnesium empire expanding.
-- **⚡ Dr. Sarah Mitchell surgery contradiction at 73K:** "NEVER Recommend These 5 Surgeries to Any Senior Over 65" — confirmed growing.
-- **⚡ Dr. Alan Mandell muscle loss at 84K (+162%):** From 32K to 84K. Niche ACCELERATING.
-- **⚡ JOD "3 MOST IMPORTANT Moves For Seniors":** Fall prevention angle NEW for JOD.
-- **⚡ Dr. Elena Pierce entering BP measurement:** "Arm Position Blood Pressure" at 593 views (7 days). Competing with Whitmore's BP self-measurement niche.
-- **🔴 Kidney health niche CLOSING:** Healthy Aging at 500K-637K. Previously OPEN. First-mover window CLOSING FAST.
-
-## Key Events This Period (June 18 Scan)
-
-- **⚡⚡ Dr. Sarah Mitchell discovered — 1.5M+ combined views:** NEW major competitor. "The 5 Blood Tests Every Senior Must Demand" at 681K FILLS previously open niche. "NEVER Let My Mother Take" format at 125K is NEW authority contradiction format. Multi-format expansion.
-- **⚡ Whitmore "Most Disgusting Drink That Clears Your Arteries":** NEW viral format. "Disgusting" + "Must Drink It" contradiction. Monitor for replication.
-- **⚡ JOD "NEVER Eat These 4 Foods" + "7 Egg Mistakes":** Food warning empire expanding. JOD now in 9+ sub-niches.
-- **⚡ Kapadia "Varicose Vein Surgery is DEAD in 2026":** NEW format — medical procedure death announcement + alternative. 81K views.
-- **⚡ Kapadia "This One Muscle Is Destroying Your Leg Circulation" at 52K:** NEW mechanism angle. Growing.
-- **⚡ Dr. Michael Kent surgery contradiction at 232K:** "I am a Surgeon and I would NEVER recommend these 5 surgeries to my parents." Authority contradiction expanding from medications to procedures.
-- **⚡ Dr. Eliza Grant at 126K in eye health:** NEW entrant confirms eye niche saturation.
-- **⚡ Dr. Grace Mitchell cross-posting farm:** AI-generated cross-posting pattern. McGill flag risk.
-- **⚡ KenDBerryMD continuing shift away from elder health:** 7 Health Trends at 108K. Gap widens.
-- **⚡ Dr. Frita kidney content at 1.1M:** Generalist channel. Not elder-specific. Validates kidney niche.
-- **⚡ "Reverse dipping" terminology NOT catching on:** Senior Healthy Life Daily at 1K only. First-mover window still open.
+- **⚡⚡⚡ Dr. Michael Kent DEMENTIA MEDS SURGE to 691K-875K:** "9 Popular Medications That Can Trigger Rapid Dementia" jumped from 208K to 691K-875K. Now Kent's HIGHEST-performing video (surpassing pancreatic cancer at 1.1M in absolute terms but growing faster). Dementia medication niche NOW OCCUPIED.
+- **⚡⚡ Dr. Michael Kent kidney empire EXPANDING:** "7 Early Warning Signs Your Kidneys Are Failing" at 227K-231K + "5 Silent Vegetable Killers of Your Kidneys" at 228K-232K. Kidney niche now DUAL-CLAIMED (Kent + Healthy Aging).
+- **⚡ Dr. Thomas "Fruit Raises Stroke Risk" NEW at 1M+220K:** Two videos using the "BRAIN Doctor SHOCKED: THIS Fruit Raises Stroke Risk Overnight" format. Vegetable variant at 1M (stable), fruit variant at 1M+220K (growing). Format empire expanding.
+- **⚡ Dr. Arthur Clark "Olive Oil Before Bed" at 904K:** NEW viral format — "What Happens If You Drink Olive Oil Every Night Before Bed." Bedtime ritual + health claim format EXPANDING. Clark now has 3 bedtime videos (fruit for eyes 927K + olive oil 904K).
+- **⚡ Dr. Edward Kensington diabetes foods at 266K:** "Doctor Explains: The Best Foods To Eat to Lower Blood Sugar FAST" grew from 202K-246K to 266K-268K. Multi-pillar empire (BP 192K + Diabetes 266K + Dementia 207K-267K) at 730K+ combined.
+- **⚡ Dr. James Hargrove "4 Vitamins" stroke at 438K:** SURGED from 8.2K to 438K. Vitamin warning format performing strongly.
+- **⚡ Dr. Thomas cross-posted by Kent:** "THIS Walking Habit Raises Stroke Risk Overnight" appeared on both Dr. Thomas (original) and Dr. Michael Kent (6.6K views). Cross-posting network CONFIRMED between top competitors.
+- **⚡ Whitmore "Most Hated Fruit to OPEN Your Arteries" at 353K:** NEW viral format. "Most Hated" + "You Must Eat It" contradiction format. Superlative + dramatic action + mandatory consumption.
+- **⚡ Whitmore "UNCLOG Your Arteries" at 671K:** Growing from 653K. Arterial health niche still expanding.
+- **⚡ TopHealthTips entering nocturia:** "Waking Up to Pee at Night? This Simple Exercise Could Change Everything (60+)" — NEW content expansion.
+- **➡️ Dr. Sarah Mitchell stable:** Blood tests at 681K, medications at 682K. New videos (eggs, 3AM waking) too early to assess.
+- **➡️ No new competitor channels discovered this period.** All growth from existing competitors expanding within their empires.
 
 ## Key Title Formulas (Performing)
 
@@ -211,7 +143,7 @@
 17. "Taking [Med A], [Med B], or [Med C]?" — Multiple (601K)
 18. "A SIMPLE Exercise Every [Age]+ Should Do Daily (Stop [Problem] for Good)" — Senior Health Podcast (438K)
 19. "Poor Leg Circulation? [Number] Seated Exercises If You Can't Walk" — Vascular Surgeon (245.5K)
-20. "What Happens If You Drink [Substance] Every Night Before Bed" — Clark (570-614, NEW)
+20. "What Happens If You Drink [Substance] Every Night Before Bed" — Clark (904K, NEW) ⚡⚡
 21. "Why Healthy Seniors Have High BP: The 3 AM [Pattern] Pattern" — Senior Healthy Life Daily (1K)
 22. "Your [Body Part] Can Predict Your De@th" — Kapadia (85.3K)
 23. "These [Number] [Medication Type] Are Quietly Destroying Your [Body Part] After [Age]" — Whitmore (660K)
@@ -220,30 +152,35 @@
 26. "I am a Surgeon and I would NEVER recommend these [Number] surgeries" — Dr. Michael Kent (232K) ⚡ NEW
 27. "This Muscle Mimics [Condition] — [Number] Stretches to Release It (60+)" — TopHealthTips (11K) ⚡ NEW
 28. "This One Muscle Is Destroying Your [Body Part]" — Vascular Surgeon (52K) ⚡ NEW
-29. **"Doctor Warns: These [Number] Reheated Foods Increase the Risk of [Cancer Type]"** — Dr. Michael Kent (881K, cross-post) ⚡ NEW (June 21)
-30. **"As a BRAIN Doctor, I'm SHOCKED: These Worst Sleeping Position Raise Stroke Risk Overnight"** — Dr. Thomas (251K-529K) ⚡ NEW (June 21)
-31. **"Do These [Number] Tests TODAY — They Reveal [Condition] Years Before [Symptom]"** — JOD via Podcast (129 views, 6h) ⚡ NEW (June 21)
-32. **"Doctor Explains: The Best Foods To Eat to Lower [Metric] FAST"** — Dr. Edward Kensington (202K-246K) ⚡ NEW (June 21)
-33. **"Seniors Beware! [Number] Popular Medications That Can Trigger Rapid [Condition]"** — Dr. Edward Kensington (208K) ⚡ NEW (June 21)
-34. **"2 [Measurement] Before Bed [Health Claim] & [Health Claim] While You Sleep"** — Doctor Becker (Active) ⚡ NEW (June 21)
-35. **"STOP Taking [Supplement A] IMMEDIATELY If You're Eating THIS Food!"** — Claire Whitmore (Active) ⚡ NEW (June 21)
-36. **"Never Eat These [Number] Vegetables After [Age] – [Organ] at Risk"** — Healthy Aging (Active) ⚡ NEW (June 21)
-37. **"5 Medical Checkups I'd NEVER Get After [Age] — Doctor Explains"** — Dr. Arthur Clark (1-58) ⚡ NEW (June 21)
-38. **"SURGEON REVEALS: Do This 1 Exercise for [Condition] After [Age]"** — Smart Health Tips (~942) ⚡ NEW (June 23)
-39. **"Do THIS Before Help Arrives — The [Time]-Second Technique That [Solves Emergency]"** — Dr. Thomas (NEW) ⚡ NEW (June 23)
-40. **[Number] Critical Mistakes You're Making When [Common Activity]** — Japan's Oldest Doctor (NEW) ⚡ NEW (June 23)
-41. **"How To Talk to Your Doctor About [Condition] — Without Feeling Dismissed"** — Dr. Elena Pierce (25 views) ⚡ NEW (June 23)
-42. **"Doctor Explains: The Best [Food] to Eat Before Bed for Healthy [Body Part]"** — Dr. Arthur Clark (924K) ⚡ NEW (June 24) — BREAKOUT FORMAT
-43. **"One SIMPLE Change to How You Walk That Could Save Your Life After [Age]"** — Dr. Thomas (108K) ⚡ NEW (June 24) — WALKING BIOMECHANICS FORMAT
-44. **"FASTEST Protocol to [Achieve Result] (Doctor Explains)"** — Dr. Michael Kent (435, NEW) ⚡ NEW (June 24) — URGENCY SUPERLATIVE
+29. **"Doctor Warns: These [Number] Reheated Foods Increase the Risk of [Cancer Type]"** — Dr. Michael Kent (1.1M) ⚡
+30. **"As a BRAIN Doctor, I'm SHOCKED: These Worst Sleeping Position Raise Stroke Risk Overnight"** — Dr. Thomas (251K-529K) ⚡
+31. **"Do These [Number] Tests TODAY — They Reveal [Condition] Years Before [Symptom]"** — JOD via Podcast (129 views, 6h) ⚡
+32. **"Doctor Explains: The Best Foods To Eat to Lower [Metric] FAST"** — Dr. Edward Kensington (266K-268K) ⚡
+33. **"Seniors Beware! [Number] Popular Medications That Can Trigger Rapid [Condition]"** — Dr. Edward Kensington (208K) + Dr. Michael Kent (691K-875K) ⚡⚡
+34. **"2 [Measurement] Before Bed [Health Claim] & [Health Claim] While You Sleep"** — Doctor Becker (Active) ⚡
+35. **"STOP Taking [Supplement A] IMMEDIATELY If You're Eating THIS Food!"** — Claire Whitmore (Active) ⚡
+36. **"Never Eat These [Number] Vegetables After [Age] – [Organ] at Risk"** — Healthy Aging (Active) ⚡
+37. **"5 Medical Checkups I'd NEVER Get After [Age] — Doctor Explains"** — Dr. Arthur Clark (1-58) ⚡
+38. **"SURGEON REVEALS: Do This 1 Exercise for [Condition] After [Age]"** — Smart Health Tips (~942) ⚡
+39. **"Do THIS Before Help Arrives — The [Time]-Second Technique That [Solves Emergency]"** — Dr. Thomas (NEW) ⚡
+40. **[Number] Critical Mistakes You're Making When [Common Activity]** — Japan's Oldest Doctor (NEW) ⚡
+41. **"How To Talk to Your Doctor About [Condition] — Without Feeling Dismissed"** — Dr. Elena Pierce (25 views) ⚡
+42. **"Doctor Explains: The Best [Food] to Eat Before Bed for Healthy [Body Part]"** — Dr. Arthur Clark (927K) ⚡ BREAKOUT FORMAT
+43. **"One SIMPLE Change to How You Walk That Could Save Your Life After [Age]"** — Dr. Thomas (108K) ⚡ WALKING BIOMECHANICS FORMAT
+44. **"FASTEST Protocol to [Achieve Result] (Doctor Explains)"** — Dr. Michael Kent (435, NEW) ⚡ URGENCY SUPERLATIVE
+45. **"#1 Most Hated [Food] to [Dramatic Action] Your [Body Part] (You Must Eat It!)"** — Claire Whitmore (353K) ⚡ NEW (June 25) — MOST HATED FORMAT
+46. **"What Happens If You Drink [Substance] Every Night Before Bed"** — Dr. Arthur Clark (904K) ⚡ NEW (June 25) — BEDTIME RITUAL FORMAT
+47. **"As a BRAIN Doctor, I'm SHOCKED: THIS [Food] Raises Stroke Risk Overnight"** — Dr. Thomas (1M+220K) ⚡ NEW (June 25) — FOOD STROKE VARIANT
+48. **"7 Early Warning Signs Your [Organ] Are Failing (Doctor Explains)"** — Dr. Michael Kent (227K-231K) ⚡ NEW (June 25) — KIDNEY WARNING FORMAT
+49. **"5 Silent [Food] Killers of Your [Organ]… and [Number] That Can Save Them"** — Dr. Michael Kent (228K-232K) ⚡ NEW (June 25) — KILLER/SAVER BINARY FORMAT
 
-## Recommended Script Topics (Updated for June 23)
+## Recommended Script Topics (Updated for June 25)
 
 ### 🔴 URGENT (First-Mover Windows Closing)
 1. **VID-052 (I199, Score 19): "3 AM BP Pattern/Reverse Dipping"** — First-mover window OPEN. "Reverse dipping" terminology at only 1K views. SEO COMPLETE. Script target: July 8 upload.
 2. **I227 (Score 19): "Waist-to-Height Ratio"** — ZERO competition. SEO COMPLETE. Highly shareable metric-based self-assessment.
 3. **I228 (Score 19): "PPI Vascular Calcification"** — ZERO competition. 40%+ of seniors take PPIs. Mechanism completely unowned.
-4. **Dementia Pre-Screening** — JOD just entered at 129 views (6h). Dr. Kane's vascular + diagnostic gap expertise is PERFIRST. Window OPEN but closing fast.
+4. **Dementia Pre-Screening** — JOD just entered at 129 views (6h). Dr. Kane's vascular + diagnostic gap expertise is PERFECT. Window OPEN but closing fast.
 
 ### 🟡 HIGH PRIORITY (This Week)
 5. **I229 (Score 18): "Bladder Wakes You — Heart Connection"** — ZERO competition. Cardio-urological bridge completely unowned.
@@ -264,7 +201,7 @@
 - ❌ Blood pressure content (general) — SATURATED
 - ❌ BP Self-Measurement Errors — Whitmore at 1M
 - ❌ Stroke/TIA symptoms — CROWDED
-- ❌ Bedtime drinks/actions — AVOID
+- ❌ Bedtime drinks/actions — AVOID (Clark 904K + multiple competitors)
 - ❌ General blood type longevity — Franklin owns this
 - ❌ Cancer prevention — Becker dominates
 - ❌ General food warnings — SATURATED
@@ -286,12 +223,15 @@
 - ❌ BP medication timing (general) — Getting crowded
 - ❌ Multi-ID upload strategy — YouTube enforcement targeting this
 - ❌ Blood test advocacy (general) — Dr. Sarah Mitchell at 681K. Differentiate with vascular angle.
-- ❌ Kidney health (vegetables) — Healthy Aging at 500K-637K. OCCUPIED.
+- ❌ Kidney health (vegetables) — Healthy Aging at 662K + Kent at 227K. OCCUPIED.
 - ❌ "Would NEVER Get/Take/Recommend" format — Now saturating (5+ channels)
 - ❌ Sleep position + stroke (direct copy) — Dr. Thomas at 251K-529K. Only enter with vascular mechanism angle.
-- ❌ Pancreatic cancer + food warning (direct copy) — Kent at 881K. Only enter with vascular inflammation angle.
+- ❌ Pancreatic cancer + food warning (direct copy) — Kent at 1.1M. Only enter with vascular inflammation angle.
 - ❌ Cross-posting network strategy — McGill flag risk. Dr. Kane's single-channel approach is the defensive moat.
+- ❌ Dementia medications content — Kent at 691K-875K + Kensington at 207K-267K. OCCUPIED.
+- ❌ "Most Hated Fruit" format — Whitmore at 353K. Window NARROWING.
+- ❌ "BRAIN Doctor SHOCKED" format — Dr. Thomas OWNS this (5+ variants). AVOID direct copy.
 
 ---
 
-*Last updated: 2026-06-23 by Competitor Watcher Agent (Cron)*
+*Last updated: 2026-06-25 by Competitor Watcher Agent (Cron)*

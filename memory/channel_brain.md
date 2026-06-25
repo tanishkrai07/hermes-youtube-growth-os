@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-24
+> **Last Updated:** 2026-06-25
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -320,6 +320,44 @@
     - Purpose: Teaser for VID-057 long-form
     - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
 
+### New Videos Added June 25
+
+41. **VID-060 (Long-form):** "Hantavirus After 60: 5 Places It Hides and 3 Warning Signs"
+    - Script: ✅ COMPLETE (June 25 script package, ~2,680 words, 5 studies, 9 retention hooks)
+    - Score: 20/20
+    - Unique angle: "Reservoir Proximity" framework — hantavirus clusters in specific microenvironments (garage, shed, cabin, attic, stored vehicles). Immunosenescence after 60 reduces viral clearance 40-60%. Standard ER workups miss it (mimics flu/pneumonia). 35-40% mortality in over-60s.
+    - Structure: Geographic/investigative opening → 5 hiding places → Why age 60 changes equation → 3 warning signs → Diagnostic gap → What to do → Reassurance frame → 2-min prevention checklist
+    - Key studies: CDC MMWR 2023 (35-40% mortality >60), Nature Aging 2024 (immunosenescence), Clinical Infectious Diseases 2023 (70% mimic rate), Emerging Infectious Diseases 2024 (deer mouse range expansion)
+    - Upload target: Tuesday, August 5, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-061 (Stroke 48 Hours)
+    - Companion Short: VID-SHORT-038
+    - Safety: 17 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+42. **VID-SHORT-038 (Short):** "The Virus Hiding in Your Garage Right Now — What Everyone Over 60 Must Know"
+    - Script: COMPLETE (~155 words)
+    - Upload target: August 5, 2026
+    - Purpose: Teaser for VID-060 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+43. **VID-061 (Long-form):** "The 48 Hours Before a Stroke After 60 — The Vascular Cascade Nobody Explains"
+    - Script: ✅ COMPLETE (June 25 script package, ~2,700 words, 6 studies, 8 retention hooks)
+    - Score: 19/20
+    - Unique angle: "Hemodynamic Cascade" framework — 48 hours before stroke follow specific vascular cascade (instability → endothelial shear stress → tipping point). "Vascular weather" concept. Reframes stroke warning signs as instability indicators, not emergency symptoms. No competitor explains stroke through vascular hemodynamics.
+    - Structure: Internal-journey opening → Vascular weather concept → Cascade stages → 48-hour tipping point → Morning danger zone → Instability signals → What to do → Empowerment reframe
+    - Key studies: Neurology 2024 (25-30% warning symptoms within 48h), Hypertension 2024 (BP variability predicts stroke), Circulation Research 2023 (endothelial dysfunction), Stroke 2024 (2.8x morning risk), Clinical Hemorheology 2023 (blood viscosity)
+    - Upload target: Saturday, August 7, 2026 at 10:00 AM EST
+    - Cross-link: End screen → VID-060 (Hantavirus)
+    - Companion Short: VID-SHORT-039
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+44. **VID-SHORT-039 (Short):** "Before FAST — The Vascular Weather Inside Your Arteries Before a Stroke"
+    - Script: COMPLETE (~150 words)
+    - Upload target: August 7, 2026
+    - Purpose: Teaser for VID-061 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
 ### New Content Chain Links (June 23)
 - VID-056 (Dawn Phenomenon) ↔ VID-057 (Restless Legs / Brain Iron) via end screen (both directions)
 - VID-SHORT-034 → VID-056 (teaser → full)
@@ -495,6 +533,29 @@
 - VID-SHORT-014 → VID-029 (teaser → full)
 - VID-SHORT-015 → VID-030 (teaser → full)
 - This creates a content ecosystem that keeps viewers in the channel
+
+### New Insights from June 25 Scans
+- **⚡⚡⚡ VID-060 (Hantavirus) SCRIPT COMPLETE** — I001, Score 20/20. "Reservoir Proximity" framework: hantavirus clusters in 5 specific microenvironments (garage, shed, cabin, attic, stored vehicles). Immunosenescence after 60 reduces viral clearance 40-60%. 35-40% mortality in over-60s. Standard ER workups miss it (mimics flu/pneumonia in 70% of cases). 17 PASS / 0 FAIL safety. First-mover: NO competitor covers hantavirus for elder health.
+- **⚡⚡⚡ VID-061 (Stroke 48-Hour Vascular Cascade) SCRIPT COMPLETE** — I002, Score 19/20. "Hemodynamic Cascade" framework: 48 hours before stroke follow specific vascular cascade (instability → endothelial shear stress → tipping point). "Vascular weather" concept — reframes stroke warning signs as instability indicators, not emergency symptoms. No competitor explains stroke through vascular hemodynamics. 18 PASS / 0 FAIL safety.
+- **⚡⚡ SEO METADATA COMPLETE for VID-060 + VID-061** — Title variations (3 per video), descriptions, tags, timestamps, end screens, cards, optimal upload times all documented. Patterns applied: P005 (Disease Outbreak), P001 (Specialty WARNS), P003 (Body Hiding), P002 (Time Before Disaster), P104 (Body Sends Warnings), P106 (Why Some People Get Warnings).
+- **⚡⚡ THUMBNAIL BRIEFS COMPLETE for VID-058 + VID-059** — VID-058: "The Time Machine" (sapphire/gold, knowing smile, brain trajectory) vs "The Inherited Code" (burgundy/graphite, DNA→brain). VID-059: "The Shrinking Plate" (terr/coral, empathetic) vs "The Hidden Link" (dusty rose, chain reaction). 4 new palettes added.
+- **🔥 10 NEW IDEAS GENERATED (I267-I276)** — All scored 17-19. All zero competition. Anti-template verified. Top: I269 (Stomach Acid + Meds, 19), I271 (Functional Iron Deficiency, 19), I267 (Missed Valve, 18), I268 (Fingertip Tingling/Spinal Cord, 18), I272 (Bladder Muscle Loss, 18).
+- **🔥 Dr. Michael Kent DEMENTIA MEDS SURGE to 691K-875K** — "9 Popular Medications That Can Trigger Rapid Dementia" jumped from 208K to 691K-875K (3x growth). Dementia medication niche NOW OCCUPIED.
+- **🔥 Dr. Arthur Clark "Olive Oil Before Bed" at 904K** — NEW viral bedtime format. Clark now has TWO 900K+ bedtime videos (fruit for eyes 927K + olive oil 904K).
+- **🔥 Dr. Thomas "BRAIN Doctor SHOCKED" format at 5+ variants** — Vegetable (1M), fruit (1M+220K), exercise (NEW), walking habit (cross-posted by Kent). Format empire expanding.
+- **🔥 Dr. James Hargrove "4 Vitamins" stroke at 438K** — SURGED from 8.2K to 438K (53x increase). Vitamin warning format PROVEN.
+- **🔥 Cross-posting networks ACCELERATING** — Kent↔Thomas, Clark multi-channel, JOD↔Podcast. Format copying becoming deliberate strategy.
+- **🔥 Whitmore "Most Hated Fruit to OPEN Your Arteries" at 353K** — NEW viral format. Negative superlative + contradiction (hated but must eat).
+- **✅ VID-060 safety score: 17 PASS / 0 FAIL**
+- **✅ VID-061 safety score: 18 PASS / 0 FAIL**
+- **✅ Anti-template compliance verified for all 10 new ideas (I267-I276)**
+- **✅ New title patterns P071-P075 documented from June 25 competitor scan**
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 17). web_search fallback active.
+
+### New Content Chain Links (June 25)
+- VID-060 (Hantavirus) ↔ VID-061 (Stroke 48 Hours) via end screen (both directions)
+- VID-SHORT-038 → VID-060 (teaser → full)
+- VID-SHORT-039 → VID-061 (teaser → full)
 
 ### New Insights from May 26 Scans
 - **Claire Whitmore "Heart Medications" video hits 607K** — "The 3 Heart Medications Most Cardiologists Would Never Take Themselves #2 is DANGER!" — Whitmore's BIGGEST video yet. New format: "Cardiologists Would Never Take Themselves" authority contradiction.

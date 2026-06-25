@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-24 (Updated for June 25 production)
-**Focus:** VID-058 + VID-059 scripts complete | Thumbnail production for June-August uploads | 10 new ideas (I257-I266) ready for scripts
-**Priority:** 🔴 Thumbnail production for VID-058 (Dementia Blood Test) + VID-059 (Dentures/Anemia) | Next scripts: I261 + I258 + I260
+**Date:** 2026-06-25 (Updated June 25 EOD — post-daily sync)
+**Focus:** VID-060 + VID-061 scripts complete | Thumbnail production for June-August uploads
+**Priority:** 🔴 Thumbnail production for VID-060 (Hantavirus) + VID-061 (Stroke Vascular Cascade) | Next scripts: I269 + I271 + I267 + I268
 
 ---
 
@@ -78,11 +78,17 @@
 - VID-SHORT-034 (Dawn teaser) — July 22 upload — Script complete
 - VID-SHORT-035 (RLS teaser) — July 24 upload — Script complete
 
-### Scripts Complete, Thumbnails Needed (July 29/31 uploads) — NEW (June 24)
-- VID-058 (Dementia Blood Test — I074, Score 19) — July 29 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
-- VID-059 (Dentures/Anemia — I071, Score 18) — July 31 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
+### Scripts Complete, Thumbnails Needed (July 29/31 uploads)
+- VID-058 (Dementia Blood Test — I074, Score 19) — July 29 upload — ✅ SCRIPT COMPLETE — ✅ THUMBNAIL BRIEF COMPLETE
+- VID-059 (Dentures/Anemia — I071, Score 18) — July 31 upload — ✅ SCRIPT COMPLETE — ✅ THUMBNAIL BRIEF COMPLETE
 - VID-SHORT-036 (Dementia teaser) — July 29 upload — Script complete
 - VID-SHORT-037 (Dentures teaser) — July 31 upload — Script complete
+
+### Scripts Complete, Thumbnails Needed (August 5/7 uploads) — NEW (June 25)
+- VID-060 (Hantavirus — I001, Score 20) — August 5 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
+- VID-061 (Stroke 48-Hour Vascular Cascade — I002, Score 19) — August 7 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
+- VID-SHORT-038 (Hantavirus teaser) — August 5 upload — Script complete
+- VID-SHORT-039 (Stroke cascade teaser) — August 7 upload — Script complete
 
 ### Scripts Needed (No SEO Yet)
 - VID-038 (PPI Fall Risk — I161, Score 18) — TBD — 🔴 SCRIPT NEEDED
@@ -91,35 +97,40 @@
 
 ---
 
-## Tomorrow's Priorities (June 25)
+## Tomorrow's Priorities (June 26)
 
 ### 🔴 Critical (TODAY)
-1. **Produce VID-058 thumbnails** — Dementia Blood Test (Score 19, for July 29 upload)
-2. **Produce VID-059 thumbnails** — Dentures/Anemia (Score 18, for July 31 upload)
-3. **Produce VID-056 thumbnails** — Dawn Phenomenon (Score 21, for July 22 upload)
-4. **Produce VID-057 thumbnails** — Restless Legs / Brain Iron (Score 21, for July 24 upload)
-5. **Produce VID-041/043/045 thumbnails** — For June 24 upload (overdue)
-6. **Monitor CTR at 48h** — Check all June 19 uploads for CTR performance (target >6%)
+1. **Produce VID-060 thumbnails** — Hantavirus (Score 20, for August 5 upload)
+2. **Produce VID-061 thumbnails** — Stroke 48-Hour Vascular Cascade (Score 19, for August 7 upload)
+3. **Produce VID-058 thumbnails** — Dementia Blood Test (Score 19, brief complete, for July 29 upload)
+4. **Produce VID-059 thumbnails** — Dentures/Anemia (Score 18, brief complete, for July 31 upload)
+5. **Produce VID-056 thumbnails** — Dawn Phenomenon (Score 21, for July 22 upload)
+6. **Produce VID-057 thumbnails** — Restless Legs / Brain Iron (Score 21, for July 24 upload)
+7. **Monitor CTR at 48h** — Check all June 19 uploads for CTR performance (target >6%)
 
 ### 🟡 Important (This Week)
-7. **Produce VID-054/055 thumbnails** — Newly completed scripts for July 15/17 uploads
-8. **Produce VID-047/049 thumbnails** — For July 1 upload (scripts complete)
-9. **Produce VID-048/053 thumbnails** — For July 3/10 uploads (briefs complete)
-10. **Produce VID-050/051 thumbnails** — For July 8/10 uploads (scripts complete)
-11. **Produce VID-042/044/046 thumbnails** — For June 26 upload
+8. **Produce VID-054/055 thumbnails** — Newly completed scripts for July 15/17 uploads
+9. **Produce VID-047/049 thumbnails** — For July 1 upload (scripts complete)
+10. **Produce VID-048/053 thumbnails** — For July 3/10 uploads (briefs complete)
+11. **Produce VID-050/051 thumbnails** — For July 8/10 uploads (scripts complete)
+12. **Produce VID-042/044/046 thumbnails** — For June 26 upload
+13. **Monitor June 24 uploads at 24h** — VID-041/043/045 should have thumbnails urgently
 
 ### 🟢 When Time Permits
-12. **Begin I261 script** — Morning Symptom = Arterial Failing (Score 19, zero competition)
-13. **Begin I258 script** — Ears Ring Louder When Lying Down (Score 18, zero competition)
-14. **Begin I260 script** — Cholesterol Missed Particle (Score 18, zero competition)
-15. **Begin I257 script** — Bedtime Snack Destroying Vessels (Score 17, thumbnail brief complete)
+14. **Begin I269 script** — Stomach Acid + Meds (Score 19, zero competition)
+15. **Begin I271 script** — Functional Iron Deficiency (Score 19, zero competition)
+16. **Begin I267 script** — Missed Valve (Score 18, zero competition)
+17. **Begin I268 script** — Fingertip Tingling/Spinal Cord (Score 18, zero competition)
+18. **Begin I272 script** — Bladder Muscle Loss (Score 18, zero competition)
 
 ---
 
-## Idea Bank Status (Updated June 24)
+## Idea Bank Status (Updated June 25)
 
 | Idea ID | Title (short) | Pillar | Score | Status |
 |---------|---------------|--------|-------|--------|
+| I001/VID-060 | Hantavirus: 5 Hiding Places + 3 Warning Signs | Warning/Virus | 20 | ✅ SCRIPT COMPLETE — June 25 |
+| I002/VID-061 | Stroke 48-Hour Vascular Cascade | Brain/Warning | 19 | ✅ SCRIPT COMPLETE — June 25 |
 | I074/VID-058 | Blood Test Predicts Memory 10 Years Before | Brain/Predictive | 19 | ✅ SCRIPT COMPLETE — June 24 |
 | I071/VID-059 | Dentures Making You Anemic | Dental/Nutrient | 18 | ✅ SCRIPT COMPLETE — June 24 |
 | I109/VID-056 | Dawn Phenomenon — The 4-8 AM Liver Glucose Dump | Blood Sugar/Circadian | 21 | ✅ SCRIPT COMPLETE — June 23 |
@@ -132,86 +143,48 @@
 | I198/VID-049 | Stair Climbing Vascular Pump | Vascular/Functional | 20 | ✅ SCRIPT COMPLETE |
 | I191/VID-048 | Hidden Muscle Controls BP | Vascular/Anatomy | 20 | ✅ SCRIPT COMPLETE |
 | I219/VID-053 | Lp(a) Blood Test | Diagnostic/Cardiovascular | 20 | ✅ SCRIPT COMPLETE |
+| I269 | Stomach Acid Dropped 40% — Meds Not Absorbing | Medication Safety | 19 | 🟡 Script needed — Zero competition |
+| I271 | Iron Levels Normal but Cells Starving | Blood/Diagnostic | 19 | 🟡 Script needed — Zero competition |
 | I227 | Waist-to-Height Ratio After 60 | Metabolic | 19 | 🟡 SEO COMPLETE — Script needed |
 | I228 | Heartburn Pill Calcifying Arteries | Medication/Vascular | 19 | 🟡 SEO COMPLETE — Script needed |
 | I199/VID-052 | 3 AM BP Pattern/Reverse Dipping | Vascular/Sleep | 19 | 🔴 SCRIPT NEEDED — SEO COMPLETE |
-| I237 | Carotid Body BP Control | Vascular/Anatomy | 19 | 🟡 Thumbnail brief complete — Script needed |
-| I245 | Arterial Age Test (CAC Score) | Diagnostic | 18 | 🟡 Thumbnail brief complete — Script needed |
-| I261 | Morning Symptom = Arterial Failing | Cardiovascular/Predictive | 19 | 🟡 Script needed — Zero competition |
-| I258 | Ears Ring Louder When Lying Down | Vascular-ENT | 18 | 🟡 Script needed — Zero competition |
-| I260 | Cholesterol Missed Particle | Diagnostic/Lipidology | 18 | 🟡 Script needed — Zero competition |
-| I263 | Scale Number Lying (Stable Weight Trap) | Metabolic/Body Comp | 18 | 🟡 Script needed — Zero competition |
-| I265 | Hands Shake When Reaching | Neurological-Vascular | 18 | 🟡 Script needed — Zero competition |
-| I257 | Bedtime Snack Destroying Vessels | Vascular/Nutritional Timing | 17 | 🟡 Thumbnail brief complete — Script needed |
-| I259 | Sitting Cutting Spinal Blood Flow | Vascular-Spinal | 17 | 🟡 Script needed — Zero competition |
-| I262 | Gums Bleeding Not About Teeth | Oral-Systemic/Vascular | 17 | 🟡 Script needed — Zero competition |
-| I264 | Jaw Sound Predicts Stroke | Vascular-Temporomandibular | 17 | 🟡 Script needed — Zero competition |
-| I266 | Bathroom Habit Destroying Nerves | Neurological/Functional | 16 | 🟡 Script needed — Low competition |
-| I229 | Bladder Wakes You — Heart Connection | Cardio-Urological | 18 | 🟡 Script needed |
-| I232 | Breathing Pattern Raising BP | Respiratory/Cardiovascular | 18 | 🟡 Script needed |
-| I233 | Teeth Lost Predicts Heart Disease | Oral-Systemic | 18 | 🟡 Script needed |
-| I236 | Diaphragm Muscle Failing After 60 | Respiratory/Vascular | 18 | 🟡 Script needed |
-| I238 | Dentist Sees Heart Disease | Oral-Systemic | 18 | 🟡 Script needed |
-| I239 | Pulsatile Tinnitus Vascular | Vascular/ENT | 18 | 🟡 Script needed |
-| I240 | Throat Muscle Failing | Vascular/Swallowing | 18 | 🟡 Script needed |
-| I241 | Wrong Pulse Check Place | Diagnostic Gap | 17 | 🟡 Script needed |
-| I242 | Hand Vein Collapsing | Vascular/Derm | 17 | 🟡 Script needed |
-| I243 | Supraclavicular Organ Swelling | Vascular/Lymphatic | 17 | 🟡 Script needed |
-| I244 | Morning Leg Heaviness Reverse | Cardiovascular | 17 | 🟡 Script needed |
-| I246 | Brown Shins Blood Leak | Vascular/Derm | 17 | 🟡 Script needed |
-| I223 | Morning Leg Pattern Predicts Heart Failure | Cardiovascular | 20 | 🟡 Priority queue |
-| I218 | Fingertip Tingling at Night | Neurological/Vascular | 19 | 🟡 Priority queue |
-| I220 | Voice Changes — Artery Behind Vocal Cords | Vascular/ENT | 19 | 🟡 Priority queue |
-| I222 | Eyelids Sag After 60 — Ice Pack Test | Neurological/Muscular | 19 | 🟡 Priority queue |
-| I230 | Neck Skin Fold — Metabolic Signal | Dermatological/Metabolic | 17 | 🟡 Standard queue |
-| I231 | Fingernails Grow Slower — Blood Flow | Vascular/Body Signal | 17 | 🟡 Standard queue |
-| I234 | Bedtime Position Destroying Sciatic Nerve | Neurological/Sleep | 17 | 🟡 Standard queue |
-| I235 | Finger Clubbing Timeline | Vascular/Predictive | 17 | 🟡 Standard queue |
-| I221 | 30-Second Foot Pulse Test | Vascular/Self-Assessment | 18 | 🟡 Standard queue |
-| I225 | Taste Map on Your Tongue | Neurological/Sensory | 18 | 🟡 Standard queue |
-| I226 | Cold Hands But Warm Feet | Vascular/Autonomic | 18 | 🟡 Standard queue |
-| I224 | Easy Bruising — Vascular Fragility | Vascular/Derm | 17 | 🟡 Standard queue |
-| I212 | Facial Asymmetry Vascular Pattern | Vascular/Neurological | 19 | 🟡 BACKLOG |
-| I208 | Tongue Vascular Diagnostic | Oral-Systemic/Vascular | 19 | 🟡 BACKLOG |
-| I213 | Sitting Disease → Pancreas | Metabolic/Sedentary | 19 | 🟡 BACKLOG |
-| I215 | Asymmetric Hearing → Artery | Vascular/Auditory | 19 | 🟡 BACKLOG |
-| I217 | Knee Temperature Comparison | Vascular/Self-Assess | 19 | 🟡 BACKLOG |
-| I161/VID-038 | PPI Medication → Fall Risk | Medication Safety | 18 | 🔴 SCRIPT NEEDED |
-| I168/VID-039 | Bedtime Habit Destroying Nerves | Neurological/Sleep | 19 | 🟡 SCRIPT NEEDED |
-| I169/VID-040 | Ozempic Vascular Effects | GLP-1/Vascular | 19 | 🟡 SCRIPT NEEDED |
+| I267 | Missed Cardiac Valve | Cardiovascular/Diagnostic | 18 | 🟡 Script needed — Zero competition |
+| I268 | Fingertip Tingling — Spinal Cord Signal | Neurological | 18 | 🟡 Script needed — Zero competition |
+| I272 | Bladder Shrank — Muscle Loss | Urological | 18 | 🟡 Script needed — Zero competition |
+| I273 | Nails Curve Downward — Lung Signal | Respiratory | 18 | 🟡 Script needed — Zero competition |
+| I274 | Calf Cramps at Night — Artery Problem | Vascular/Nocturnal | 18 | 🟡 Script needed — Zero competition |
+| I275 | Gut Bacteria Changed — Mood Impact | Gut-Brain Axis | 18 | 🟡 Script needed — Zero competition |
+| I270 | Gum Recession — Bone Loss Signal | Dental/Bone | 17 | 🟡 Script needed — Zero competition |
+| I276 | Frozen Shoulder — Neck Nerve Problem | Neurological/Joint | 17 | 🟡 Script needed — Zero competition |
 
 ---
 
-## URGENT Production Pipeline (Updated June 24)
+## URGENT Production Pipeline (Updated June 25)
 
 ### Next 5 Scripts to Write (Priority Order)
-1. **I261** — Morning Symptom = Arterial Failing (Score 19, zero competition)
-2. **I258** — Ears Ring Louder When Lying Down (Score 18, zero competition)
-3. **I260** — Cholesterol Missed Particle (Score 18, zero competition)
-4. **I257** — Bedtime Snack Destroying Vessels (Score 17, thumbnail brief complete)
-5. **I259** — Sitting Cutting Spinal Blood Flow (Score 17, zero competition)
+1. **I269** — Stomach Acid + Meds (Score 19, zero competition)
+2. **I271** — Functional Iron Deficiency (Score 19, zero competition)
+3. **I267** — Missed Cardiac Valve (Score 18, zero competition)
+4. **I268** — Fingertip Tingling/Spinal Cord (Score 18, zero competition)
+5. **I272** — Bladder Muscle Loss (Score 18, zero competition)
 
 ### Next 5 Thumbnail Briefs Needed
-1. **VID-058** — Dementia Blood Test (Score 19, script complete)
-2. **VID-059** — Dentures/Anemia (Score 18, script complete)
-3. **VID-056** — Dawn Phenomenon (Score 21, script complete, brief complete)
-4. **VID-057** — Restless Legs (Score 21, script complete, brief complete)
-5. **VID-054** — Morning Joint Stiffness (Score 21, script complete)
+1. **VID-060** — Hantavirus (Score 20, script complete)
+2. **VID-061** — Stroke 48-Hour Cascade (Score 19, script complete)
+3. **VID-058** — Dementia Blood Test (Score 19, brief complete)
+4. **VID-059** — Dentures/Anemia (Score 18, brief complete)
+5. **VID-056** — Dawn Phenomenon (Score 21, script complete, brief complete)
 
 ### Upload Schedule This Week
 
 | Date | Video | Type | Status |
 |------|-------|------|--------|
-| Tue June 24 | VID-041 (Fingernail Ridges/Organ Map) | Long | Thumbnails needed |
-| Tue June 24 | VID-043 (Magnesium Mistake/Arteries) | Long | Thumbnails needed |
-| Tue June 24 | VID-045 (Morning Symptom/Heart Attack) | Long | Thumbnails needed |
-| Tue June 24 | VID-SHORT-022 (teaser) | Short | Script complete |
-| Tue June 24 | VID-SHORT-024 (teaser) | Short | Script complete |
+| Tue June 24 | VID-041 (Fingernail Ridges/Organ Map) | Long | ⚠️ OVERDUE — Thumbnails needed |
+| Tue June 24 | VID-043 (Magnesium Mistake/Arteries) | Long | ⚠️ OVERDUE — Thumbnails needed |
+| Tue June 24 | VID-045 (Morning Symptom/Heart Attack) | Long | ⚠️ OVERDUE — Thumbnails needed |
 | Thu June 26 | VID-042 (Carotid/Dementia Prediction) | Long | Thumbnails needed |
 | Thu June 26 | VID-044 (BP Medicine Timing) | Long | Thumbnails needed |
 | Thu June 26 | VID-046 (Ears Ring Louder at Night) | Long | Thumbnails needed |
-| Thu June 26 | VID-SHORT-023 (teaser) | Short | Script complete |
-| Thu June 26 | VID-SHORT-025 (teaser) | Short | Script complete |
 | Tue July 1 | VID-047 (10-Second Balance Test) | Long | ✅ Script complete |
 | Tue July 1 | VID-049 (Stair Climbing Vascular Pump) | Long | ✅ Script complete |
 | Thu July 3 | VID-048 (Hidden BP Muscle) | Long | ✅ Script + brief complete |
@@ -223,25 +196,28 @@
 | Thu July 17 | VID-055 (Scale Is Lying) | Long | ✅ Script complete |
 | Tue July 22 | VID-056 (Dawn Phenomenon) | Long | ✅ Script complete |
 | Thu July 24 | VID-057 (Restless Legs/Brain Iron) | Long | ✅ Script complete |
-| Tue July 29 | VID-058 (Dementia Blood Test) | Long | ✅ Script complete |
-| Thu July 31 | VID-059 (Dentures/Anemia) | Long | ✅ Script complete |
+| Tue July 29 | VID-058 (Dementia Blood Test) | Long | ✅ Script + brief complete |
+| Thu July 31 | VID-059 (Dentures/Anemia) | Long | ✅ Script + brief complete |
+| Tue Aug 5 | VID-060 (Hantavirus) | Long | ✅ Script complete |
+| Thu Aug 7 | VID-061 (Stroke 48-Hour Cascade) | Long | ✅ Script complete |
 
 ---
 
-## Anti-Template Compliance Verification (June 24)
+## Anti-Template Compliance Verification (June 25)
 
-✅ **All 10 new ideas (I257-I266) verified:**
+✅ **All 10 new ideas (I267-I276) verified:**
 - No formulaic hooks — Each opens with unique sensory/behavioral observation
-- No repeated structure — Ideas vary: symptom, betrayal, diagnostic gap, mechanism
+- No repeated structure — Ideas vary: diagnostic gap, mechanism, misdirection, self-assessment
 - Original insight in every idea — Each contains mechanism not found in competitor content
-- Varied pacing — Urgent (stroke prediction), reflective (body composition), diagnostic mystery
+- Varied pacing — Urgent (missed valve), reflective (iron deficiency), diagnostic mystery
 - "Remove the Name" test passed — Each script could ONLY be Dr. Victor Kane's
 - No competitor duplication — All verified against 70+ tracked competitors
 
 ✅ **All memory files updated with latest safety boundaries**
-✅ **All title patterns (P190-P192) documented**
-✅ **All competitor formats (P068-P070) documented with risk assessment**
+✅ **All title patterns (P071-P075) documented**
+✅ **All competitor formats documented with risk assessment**
+✅ **VID-060 + VID-061 SEO metadata complete**
 
 ---
 
-*Memory Curator Agent — Daily Sync Complete — 2026-06-24*
+*Memory Curator Agent — Daily Sync Complete — 2026-06-25*

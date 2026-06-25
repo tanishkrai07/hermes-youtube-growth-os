@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-24
+> **Last Updated:** 2026-06-25 (June 25 scan — P071-P075 added, new viral formats confirmed)
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -82,7 +82,25 @@
 
 25. **"Never [Verb] [Item] Alone – Always Pair Them With These [Number] Foods"** — Cross (178K)
 
-## High-Velocity Opportunities (2026-05-24)
+### New Patterns Added 2026-06-25 (from June 25 scan)
+
+### New Viral Formats (June 25)
+1. **"Most Hated Fruit to [Dramatic Action]" format** — Whitmore (353K): "#1 Most Hated Fruit to OPEN Your Arteries (You Must Eat It!)" — Superlative + negative emotion + contradiction (hated but must eat). ADAPTABLE for Dr. Kane.
+2. **"What Happens If You Drink [Substance] Every Night Before Bed" format** — Dr. Arthur Clark (904K): Bedtime ritual + health claim + curiosity about consequences. EXPANDING rapidly.
+3. **"BRAIN Doctor SHOCKED: THIS [Food Category] Raises Stroke Risk" format** — Dr. Thomas (1M+220K): Authority + shock + food category + stroke risk. Multiple variants (vegetable, fruit, exercise, walking habit). Format is REPLICATING across channels (Kent cross-posted).
+4. **"7 Early Warning Signs Your [Organ] Are Failing" format** — Dr. Michael Kent (227K-231K): Number + early warning + organ + doctor explains. ADAPTABLE to other organs.
+5. **"5 Silent [Food] Killers of Your [Organ]… and [Number] That Can Save Them" format** — Dr. Michael Kent (228K-232K): Binary killer/saver format + silent threat framing. NEW variation on food warnings.
+
+### New Title Formulas (June 25 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P071 | "#1 Most Hated [Food] to [Dramatic Action] Your [Body Part] (You Must Eat It!)" | Claire Whitmore | 353K |
+| P072 | "What Happens If You Drink [Substance] Every Night Before Bed" | Dr. Arthur Clark | 904K |
+| P073 | "As a BRAIN Doctor, I'm SHOCKED: THIS [Food Category] Raises Stroke Risk Overnight" | Dr. Thomas | 1M+220K |
+| P074 | "7 Early Warning Signs Your [Organ] Are Failing (Doctor Explains)" | Dr. Michael Kent | 227K-231K |
+| P075 | "5 Silent [Food] Killers of Your [Organ]… and [Number] That Can Save Them" | Dr. Michael Kent | 228K-232K |
+
+### High-Velocity Opportunities (2026-05-24)
 
 | Opportunity | Validation | Competition | Urgency |
 |------------|------------|-------------|---------|
@@ -1564,3 +1582,19 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 - #16: "Mechanical Malnutrition" hook — (NEW, Dr. Kane VID-059) ⚡ NEW Dr. Kane format
 
 *Last updated: 2026-06-24 by Memory Curator Agent (Cron)*
+
+### New Palettes Added (June 25)
+| Video | Primary | Accent 1 | Accent 2 | Notes |
+|-------|---------|----------|----------|-------|
+| VID-058 A | Sapphire blue (#0F2047) → Slate (#1C1C2E) | Warm gold (#D4A017) | Pearl (#E8E0D0) | 🆕 FIRST sapphire palette; knowing smile expression; brain-with-trajectory visual |
+| VID-058 B | Burgundy (#3D0016) → Graphite (#1A1A1A) | Electric magenta (#FF0080) | Clinical cyan (#00BFFF) | 🆕 DNA→brain transformation; magenta/cyan combo new for channel |
+| VID-059 A | Terracotta (#C4623A) → Umber (#2E1A0F) | Coral (#FF6B4A) | Muted gray (#8C8C8C) | 🆕 FIRST warm-terracotta palette; shrinking plate metaphor; empathetic head tilt |
+| VID-059 B | Dusty rose (#D4A0A0) / Charcoal (#3A3A3A) split | Deep coral (#E85D3A) | Pale silver (#C0C0C0) | 🆕 FIRST dusty rose; chain reaction jaw-to-blood visualization |
+
+### New Completed Thumbnail Briefs (June 25)
+| Date | Video | Variants | Status |
+|------|-------|----------|--------|
+| 2026-06-25 | VID-058 (Dementia Blood Test — Predictive Window) | A: The Time Machine (Sapphire/Gold), B: The Inherited Code (Burgundy/Magenta) | 🆕 New Brief |
+| 2026-06-25 | VID-059 (Dentures/Anemia — Mechanical Malnutrition) | A: The Shrinking Plate (Terracotta/Coral), B: The Hidden Link (Dusty Rose/Coral) | 🆕 New Brief |
+
+*Last updated: 2026-06-25 by Thumbnail Analyst Agent (Cron)*
