@@ -1,84 +1,86 @@
 # Next Actions — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-25
-> **Planning Horizon:** June 26 - July 7, 2026
+> **Last Updated:** 2026-06-26
+> **Planning Horizon:** June 27 - July 10, 2026
 
-## 🔴 IMMEDIATE (June 26, 2026)
+## 🔴 IMMEDIATE (June 27, 2026)
 
 ### Thumbnail Production — URGENT
-1. **Produce VID-060 Thumbnails** — Hantavirus (Score 20, for August 5 upload)
-   - Script complete. "Reservoir Proximity" framework. 5 hiding places + 3 warning signs.
-   - Needs: Environmental/investigative visual, calm authority tone
-2. **Produce VID-061 Thumbnails** — Stroke 48-Hour Vascular Cascade (Score 19, for August 7 upload)
-   - Script complete. "Hemodynamic Cascade" framework. "Vascular weather" concept.
-   - Needs: Artery animation/visual, internal journey framing
-3. **Produce VID-058 Thumbnails** — Dementia Blood Test (Score 19, for July 29 upload)
-   - Brief complete (June 25): Sapphire/gold (Variant A) vs Burgundy/graphite (Variant B)
-4. **Produce VID-059 Thumbnails** — Dentures/Anemia (Score 18, for July 31 upload)
-   - Brief complete (June 25): Terracotta/coral (Variant A) vs Dusty rose/charcoal (Variant B)
-5. **Produce VID-056 Thumbnails** — Dawn Phenomenon (Score 21, for July 22 upload)
-   - Brief complete: Saffron gold palette (Variant A) vs Split indigo/gold (Variant B)
-6. **Produce VID-057 Thumbnails** — Restless Legs / Brain Iron (Score 21, for July 24 upload)
-   - Brief complete: Midnight teal palette (Variant A) vs Ferritin lab card (Variant B)
+1. **Produce VID-062 Thumbnails** — Stomach Acid + Meds (Score 19, for August 12 upload)
+   - Script complete (June 26). "Pharmacological pH Threshold" framework.
+   - Brief complete: Rust-bronze/gastric orange (Variant A) vs Sandstone/espresso (Variant B)
+2. **Produce VID-063 Thumbnails** — Iron Cells Starving (Score 19, for August 14 upload)
+   - Script complete (June 26). "Ferritin Mask" framework.
+   - Brief complete: Aubergine/cracked-mirror (Variant A) vs Indigo-red/stacked cards (Variant B)
+3. **Produce VID-060 Thumbnails** — Hantavirus (Score 20, for August 5 upload)
+   - Script complete. "Reservoir Proximity" framework.
+4. **Produce VID-061 Thumbnails** — Stroke 48-Hour Vascular Cascade (Score 19, for August 7 upload)
+   - Script complete. "Hemodynamic Cascade" framework.
+5. **Produce VID-058 Thumbnails** — Dementia Blood Test (Score 19, for July 29 upload)
+6. **Produce VID-059 Thumbnails** — Dentures/Anemia (Score 18, for July 31 upload)
 
-### Script Writing
-7. **Begin I269 script** — Stomach Acid + Meds (Score 19/20)
-   - From June 25 idea list. Zero competition. Pharmacology mechanism.
-8. **Begin I271 script** — Functional Iron Deficiency (Score 19/20)
-   - From June 25 idea list. Zero competition. Diagnostic gap (ferritin masking).
-9. **Begin I267 script** — Missed Valve (Score 18/20)
-   - From June 25 idea list. Valvular heart disease missed on standard cardiac workup.
-10. **Begin I268 script** — Fingertip Tingling/Spinal Cord (Score 18/20)
-    - From June 25 idea list. Zero competition. Dermatome mapping self-assessment.
+### Script Writing (Next Batch)
+7. **Begin I278 script** — Dentist Sees Heart / 3 Gum Signals (Score 19)
+   - From June 26 idea list. Zero competition. P. gingivalis-arterial plaque mechanism.
+8. **Begin I286 script** — Vein Problem at Night (Score 19)
+   - From June 26 idea list. Zero competition. Chronic venous insufficiency mechanism.
+9. **Begin I279 script** — One Leg Balance + Brain Artery (Score 19)
+   - From June 26 idea list. Zero competition. Vertebrobasilar insufficiency mechanism.
+10. **Begin I277 script** — Voice Quieter After 60 (Score 18)
+    - From June 26 idea list. Zero competition. Diaphragm muscle decline mechanism.
+11. **Begin I267 script** — Missed Valve (Score 18)
+    - From June 25 idea list. Valvular heart disease missed on standard cardiac workup.
 
 ### CTR Monitoring
-11. **Monitor all June 19 uploads at 7-day mark** — Check CTR performance (target >6%)
-12. **Check June 24 uploads at 24h mark** — VID-041/043/045 thumbnails needed urgently
+12. **Monitor all June 19 uploads at 7-day mark** — Check CTR performance (target >6%)
+13. **Check June 24 uploads at 48h mark** — VID-041/043/045 thumbnails needed urgently
+14. **Check June 26 uploads at 24h mark** — VID-042/044/046 performance
 
 ## 🟢 NEXT WEEK (June 27 - July 5, 2026)
 
 ### Planned Content
-13. **Upload VID-041-045 (Long-form):** June 24 (thumbnails needed — OVERDUE)
-14. **Upload VID-042-046 (Long-form):** June 26 (thumbnails needed)
-15. **Upload VID-047/049 (Long-form):** July 1 (scripts complete, thumbnails needed)
-16. **Upload VID-048 (Long-form):** July 3 (script complete, thumbnail brief complete)
-17. **Upload VID-050/052 (Long-form):** July 8 (VID-050 script complete, VID-052 script needed)
-18. **Upload VID-051/053 (Long-form):** July 10 (scripts complete, thumbnails needed)
-19. **Upload VID-054/055 (Long-form):** July 15/17 (scripts complete, thumbnails needed)
-20. **Upload VID-056/057 (Long-form):** July 22/24 (scripts complete, thumbnails needed)
-21. **Upload VID-058/059 (Long-form):** July 29/31 (scripts complete, thumbnails needed)
-22. **Upload VID-060/061 (Long-form):** August 5/7 (scripts complete, thumbnails needed)
+15. **Upload VID-041-045 (Long-form):** June 24 (thumbnails needed — OVERDUE)
+16. **Upload VID-042-046 (Long-form):** June 26 (thumbnails needed)
+17. **Upload VID-047/049 (Long-form):** July 1 (scripts complete, thumbnails needed)
+18. **Upload VID-048 (Long-form):** July 3 (script complete, thumbnail brief complete)
+19. **Upload VID-050/052 (Long-form):** July 8 (VID-050 script complete, VID-052 script needed)
+20. **Upload VID-051/053 (Long-form):** July 10 (scripts complete, thumbnails needed)
+21. **Upload VID-054/055 (Long-form):** July 15/17 (scripts complete, thumbnails needed)
+22. **Upload VID-056/057 (Long-form):** July 22/24 (scripts complete, thumbnails needed)
+23. **Upload VID-058/059 (Long-form):** July 29/31 (scripts complete, thumbnails needed)
+24. **Upload VID-060/061 (Long-form):** August 5/7 (scripts complete, thumbnails needed)
+25. **Upload VID-062/063 (Long-form):** August 12/14 (scripts complete, thumbnails needed)
 
 ### Script Writing
-23. **Begin I272 script** — Bladder Muscle Loss (Score 18/20)
+26. **Begin I280 script** — 2 AM Bathroom + Heart (Score 18)
+    - From June 26 idea list. Zero competition. Nocturnal polyuria as HF signal.
+27. **Begin I282 script** — Missed Diaphragm Muscle (Score 18)
+    - From June 26 idea list. Zero competition. Spirometry misses diaphragmatic weakness.
+28. **Begin I284 script** — Taste Loss + Zinc (Score 18)
+    - From June 26 idea list. Zero competition. Zinc-taste bud regeneration mechanism.
+29. **Begin I285 script** — Dizzy Looking Up (Score 18)
+    - From June 26 idea list. Zero competition. Vertebral artery compression mechanism.
+30. **Begin I268 script** — Fingertip Tingling (Score 18)
+    - From June 25 idea list. Zero competition. Dermatome mapping self-assessment.
+31. **Begin I272 script** — Bladder Muscle Loss (Score 18)
     - From June 25 idea list. Zero competition. Detrusor muscle atrophy mechanism.
-24. **Begin I273 script** — Nail Clubbing/Lung Signal (Score 18/20)
-    - From June 25 idea list. Zero competition. Schamroth's window test.
-25. **Begin I274 script** — Calf Cramps/PAD (Score 18/20)
-    - From June 25 idea list. Zero competition. Nocturnal calf cramps as PAD signal.
-26. **Begin I275 script** — Gut-Mood Connection (Score 18/20)
-    - From June 25 idea list. Zero competition. Microbiome-serotonin axis.
-27. **Begin I270 script** — Gum Recession/Bone Loss (Score 17/20)
-    - From June 25 idea list. Zero competition. Dental-osteoporosis bridge.
-28. **Begin I276 script** — Frozen Shoulder/Cervical Nerve (Score 17/20)
-    - From June 25 idea list. Zero competition. Misdirection format.
 
 ## 🟡 STRATEGIC OPPORTUNITIES (Act This Week)
 
-29. **🔴 I269 (Score 19) — Stomach Acid + Meds** — Highest priority from June 25 ideas. Zero competition. Pharmacology mechanism (stomach pH rise → drug absorption failure).
-30. **🔴 I271 (Score 19) — Functional Iron Deficiency** — Zero competition. Diagnostic gap (ferritin as acute-phase reactant masks deficiency).
-31. **🔴 I267 (Score 18) — Missed Valve** — Zero competition. Standard cardiac workup misses valvular disease.
-32. **🔴 I268 (Score 18) — Fingertip Tingling** — Zero competition. Self-assessment format with dermatome mapping.
-33. **🟡 I272 (Score 18) — Bladder Muscle Loss** — Zero competition. Reframes frequent urination.
-34. **🟡 I273 (Score 18) — Nail Clubbing** — Zero competition. Self-check format.
-35. **🟡 I274 (Score 18) — Calf Cramps/PAD** — Vascular mechanism, misdirection reveal.
-36. **🟡 I275 (Score 18) — Gut-Mood Connection** — Emerging science, unique intersection.
-37. **✅ VID-060 + VID-061 scripts COMPLETE** — Scored 19-20. "Reservoir Proximity" and "Hemodynamic Cascade" frameworks are original Dr. Kane contributions.
-38. **✅ 10 new ideas from June 25 (I267-I276)** — All scored 17-19. All zero competition. Anti-template verified.
-39. **✅ SEO Metadata complete for VID-060/061** — Title variations, descriptions, tags, timestamps documented.
-40. **✅ Thumbnail briefs complete for VID-058/059** — A/B variants with new palettes documented.
-41. **✅ New competitor patterns P071-P075 added** — From June 25 scan.
-42. **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 17). web_search fallback active.
+32. **🔴 I278 (Score 19) — Dentist Sees Heart** — Highest priority from June 26 ideas. Zero competition. P. gingivalis-arterial plaque colonization mechanism.
+33. **🔴 I286 (Score 19) — Vein Problem at Night** — Zero competition. Chronic venous insufficiency (unowned — arterial PAD is covered but venous is open).
+34. **🔴 I279 (Score 19) — One Leg Balance + Brain Artery** — Zero competition. Vertebrobasilar insufficiency mechanism.
+35. **🟡 I277 (Score 18) — Voice Quieter** — Zero competition. Diaphragm muscle decline.
+36. **🟡 I280 (Score 18) — 2 AM Bathroom + Heart** — Zero competition. Nocturnal polyuria as HF signal.
+37. **🟡 I282 (Score 18) — Missed Diaphragm** — Zero competition. Diagnostic gap format.
+38. **🟡 I284 (Score 18) — Taste Loss + Zinc** — Zero competition. Nutritional mechanism angle.
+39. **🟡 I285 (Score 18) — Dizzy Looking Up** — Zero competition. Specific trigger hook.
+40. **✅ VID-062 + VID-063 scripts COMPLETE** — Scored 19 each. "Pharmacological pH Threshold" and "Ferritin Mask" frameworks are original Dr. Kane contributions.
+41. **✅ 10 new ideas from June 26 (I277-I286)** — All scored 17-19. All zero competition. Anti-template verified.
+42. **✅ SEO Metadata complete for VID-062/063** — Title variations, descriptions, tags, timestamps documented.
+43. **✅ Thumbnail briefs complete for VID-062/063** — A/B variants with new palettes (rust-bronze, sandstone, aubergine, indigo-red).
+44. **✅ New competitor patterns P076-P078 added** — From June 26 scan.
+45. **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 18). web_search fallback active.
 
 ## ❌ SKIP / DO NOT PRODUCE
 - ❌ Blood pressure content (general) — NOW SATURATED
@@ -143,14 +145,18 @@
 9. Zero policy violations
 10. All memory files updated and pushed
 
-## ⚡ NEW STRATEGIC NOTES (June 25)
-- **🔥🔥 VID-060 + VID-061 scripts COMPLETE** — Scored 20 and 19. "Reservoir Proximity" (hantavirus environmental clustering) and "Hemodynamic Cascade" (vascular weather before stroke) frameworks are original Dr. Kane contributions. No competitor owns these angles.
-- **🔥 10 new ideas from June 25 (I267-I276)** — All scored 17-19. All zero competition. Anti-template verified. Top: I269 (Stomach Acid + Meds, 19), I271 (Functional Iron Deficiency, 19), I267 (Missed Valve, 18), I268 (Fingertip Tingling, 18), I272 (Bladder Muscle Loss, 18).
-- **🔥 New competitor patterns P071-P075 added** — "Most Hated Fruit" (353K), "Olive Oil Before Bed" (904K), "BRAIN Doctor SHOCKED" (1M+220K), "Early Warning Signs" (227K), "Silent Killers + Savers" (228K).
-- **🔥 Dementia medications OCCUPIED** — Kent at 691K-875K + Kensington at 207K-267K. AVOID.
-- **🔥 Cross-posting networks ACCELERATING** — Kent↔Thomas, Clark multi-channel, JOD↔Podcast. Format copying becoming deliberate strategy.
-- **🔥 Dr. James Hargrove BREAKOUT** — "4 Vitamins" stroke video surged 53x (8.2K→438K). Vitamin warning format PROVEN.
-- **✅ VID-060 safety score: 17 PASS / 0 FAIL**
-- **✅ VID-061 safety score: 18 PASS / 0 FAIL**
-- **✅ Anti-template compliance verified for all 10 new ideas (I267-I276)**
-- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 17). web_search fallback active.
+## ⚡ NEW STRATEGIC NOTES (June 26)
+- **🔥🔥 VID-062 + VID-063 scripts COMPLETE** — Scored 19 each. "Pharmacological pH Threshold" (stomach acid decline → drug absorption failure) and "Ferritin Mask" (inflammation masks true iron deficiency) frameworks are original Dr. Kane contributions. No competitor owns these angles.
+- **🔥 10 new ideas from June 26 (I277-I286)** — All scored 17-19. All zero competition. Anti-template verified. Top: I278 (Dentist Sees Heart, 19), I286 (Vein Problem at Night, 19), I279 (One Leg Balance + Brain Artery, 19).
+- **🔥 New competitor patterns P076-P078 added** — Nails format (Clark RE-ENTRY), Eggs+Diabetes (Clark), Milk+Diabetes (Clark).
+- **🔥 Dr. Michael Kent DEMENTIA MEDS SURGING** — 875K-880K (was 691K, was 208K — 4x growth). Niche OCCUPIED. DO NOT COMPETE.
+- **🔥 Kidney niche TRIPLE-CLAIMED** — Kent (227K) + Healthy Aging (662K) + Thomas (NEW kidney Q&A). AVOID.
+- **🔥 Dr. Arthur Clark RE-ENTERED nail health** — "Neurologist Warns: If Your NAILS Look Like THIS After 60" (June 12-18). Nail niche CLOSED.
+- **🔥 Dr. Hargrove entering bedtime supplement space** — "Doctor: 1 Vitamin Before Bed..." Becker format replicating.
+- **🔥 Dr. Owen + Dr. Joshua Tiamson NEW cross-post network** — Joint videos at 8.9K-27K views. McGill flag risk.
+- **✅ VID-062 safety score: 18 PASS / 0 FAIL**
+- **✅ VID-063 safety score: 17 PASS / 0 FAIL**
+- **✅ Anti-template compliance verified for all 10 new ideas (I277-I286)**
+- **✅ New title patterns P014-P015 added to winning_patterns.md**
+- **✅ New safety boundaries documented for medication timing and iron supplementation**
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 18). web_search fallback active.

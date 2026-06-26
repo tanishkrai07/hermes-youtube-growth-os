@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-25 (June 25 scan — P071-P075 added, new viral formats confirmed)
+> **Last Updated:** 2026-06-26 (June 26 EOD — VID-062/063 scripts complete, P014/P015 added to channel pattern library, I277-I286 idea batch generated)
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -99,6 +99,20 @@
 | P073 | "As a BRAIN Doctor, I'm SHOCKED: THIS [Food Category] Raises Stroke Risk Overnight" | Dr. Thomas | 1M+220K |
 | P074 | "7 Early Warning Signs Your [Organ] Are Failing (Doctor Explains)" | Dr. Michael Kent | 227K-231K |
 | P075 | "5 Silent [Food] Killers of Your [Organ]… and [Number] That Can Save Them" | Dr. Michael Kent | 228K-232K |
+| P076 | "Neurologist Warns: If Your NAILS Look Like THIS After 60, Your Body May be Hiding 4 Diseases" | Dr. Arthur Clark | NEW (June 2026) |
+| P077 | "How to Eat [Common Food] Correctly If You Have Diabetes (To Keep Your [Metric] Under Control)" | Dr. Arthur Clark | Active (June 2026) |
+| P078 | "The [Beverage] Every Diabetic Should DRINK to LOWER Blood Sugar & Slower Type 2 Diabetes" | Dr. Arthur Clark | Active (June 2026) |
+
+### New Formats (June 26 Discovery)
+1. **"Nails Reveal Hidden Diseases" format** — Dr. Clark RE-ENTERED nail space (June 12-18). "Neurologist Warns: If Your NAILS Look Like THIS After 60, Your Body May be Hiding 4 Diseases." Nail niche CLOSED again.
+2. **"Eat [Common Food] Correctly If You Have Diabetes" format** — Dr. Clark. Specific food + diabetes + correct consumption method. NEW sub-niche.
+3. **"[Beverage] Every Diabetic Should DRINK" format** — Dr. Clark. Beverage recommendation + diabetes. Expanding diabetes nutrition empire.
+4. **"Walking less? Try these 5 things instead" format** — Dr. Thomas. Walking replacement for seniors 60+. Pain-point format.
+5. **"Kidney Reset" sub-theme** — Doctor Becker. Added to existing coffee format (1.4M views). Kidney health CLAIMED via different angle.
+6. **"Doctor: 1 Vitamin Before Bed..." format** — Dr. Hargrove. Bedtime supplement format replicating Becker's success.
+
+### New Cross-Post Networks (June 26)
+- **Dr. Owen Senior Health + Dr. Joshua Tiamson**: Joint videos at 8.9K-27K views. Pattern matches AI-generated cross-posting farms. McGill flag risk.
 
 ### High-Velocity Opportunities (2026-05-24)
 
@@ -302,6 +316,12 @@
 | P011 | "Why Your [Body Part] [Problem] After [Age] — The Doctor Explains" | VID-006 |
 | P012 | "[Problem] [Body Part] After [Age]? The Doctor Explains What's Really Happening" | VID-006 |
 
+### Medication Safety & Diagnostic Gap (NEW — June 26)
+| Pattern ID | Formula | Video |
+|------------|---------|-------|
+| P014 | "Your [Body Function] Dropped [X]% After [Age] — Here's What It Does to [Consequence]" | VID-062 |
+| P015 | "Your [Lab Value] Looks Normal After [Age] — But Your [Body Part] Are [Suffering Verb]" | VID-063 |
+
 ---
 
 ## Dr. Kane's Unique Positioning
@@ -424,8 +444,13 @@
 || 2026-06-21 | VID-048 (Hidden BP Muscle/Carotid Body) | A: The Neck Touch, B: The Baroreceptor Reset Scale | New Brief |
 || 2026-06-21 | VID-052 (3 AM BP Spike/Reverse Dipping) | A: The Sleeping Danger, B: The Normal But At Night | New Brief |
 | 2026-06-23 | VID-056 (Dawn Phenomenon) | A: The 4 AM Liver (saffron gold), B: Dinner vs Liver Split | 🆕 New Brief |
-| 2026-06-23 | VID-057 (Restless Legs/Brain Iron) | A: The Brain Redirect (midnight teal), B: The Ferritin Paradox | 🆕 New Brief |
-|405|405|405|405|405|
+|| 2026-06-23 | VID-057 (Restless Legs/Brain Iron) | A: The Brain Redirect (midnight teal), B: The Ferritin Paradox | 🆕 New Brief |
+|| 2026-06-24 | I257 (Bedtime Snack/Vessels) | A: The Artery Paradox, B: The 1-Hour Rule | 🆕 New Brief |
+|| 2026-06-24 | I258 (Ears Louder Lying Down) | A: Positional Escalation, B: Pressure Gauge | 🆕 New Brief |
+|| 2026-06-25 | VID-058 (Dementia Blood Test) | A: The Time Machine, B: The Inherited Code | 🆕 New Brief |
+|| 2026-06-25 | VID-059 (Dentures/Anemia) | A: The Shrinking Plate, B: The Hidden Link | 🆕 New Brief |
+|| 2026-06-26 | VID-062 (Stomach Acid/Meds) | A: The Dissolving Problem, B: The 5 Drug Blind Spot | 🆕 New Brief |
+|| 2026-06-26 | VID-063 (Iron Cells Starving) | A: The Ferritin Mirage, B: The Hidden Ratio | 🆕 New Brief |
 406|406|403|### New Palettes Added (June 15)
 401|| Video | Primary | Accent 1 | Accent 2 | Status |
 402||-------|---------|----------|----------|--------|
@@ -467,8 +492,16 @@
 |-------|---------|----------|----------|--------|
 | VID-056 A | Saffron gold (#F5A623) → Cream (#FFF8E1) | Metabolic green (#00E676) | Warning red (#D50000) / Espresso text (#3E2723) | 🆕 New — Brief |
 | VID-056 B | Split: Deep indigo (#1A1A3E) → Gold (#F5A623) | White / Red (#D50000) | Green glucose glow | 🆕 New — Brief |
-| VID-057 A | Midnight teal-black (#003B46) → (#001A1E) | Electric cyan (#00E5FF) | Iron metallic gold (#CFB53B) / Sage gray (#90A4AE) | 🆕 New — Brief |
-| VID-057 B | Dark slate blue (#1A237E) → Midnight teal (#003B46) | Iron gold (#CFB53B) | Red (#D50000) / White | 🆕 New — Brief |
+|| VID-057 A | Midnight teal-black (#003B46) → (#001A1E) | Electric cyan (#00E5FF) | Iron metallic gold (#CFB53B) / Sage gray (#90A4AE) | 🆕 New — Brief |
+|| VID-057 B | Dark slate blue (#1A237E) → Midnight teal (#003B46) | Iron gold (#CFB53B) | Red (#D50000) / White | 🆕 New — Brief |
+
+### New Palettes Added (June 26)
+|| Video | Primary | Accent 1 | Accent 2 | Status ||
+||-------|---------|----------|----------|--------|||
+|| VID-062 A | Rust-bronze (#6D3B1E) → Mahogany (#3E1C10) | Gastric orange (#FF6D00) | Pale yellow (#FFF9C4) | 🆕 New — Brief ||
+|| VID-062 B | Sandstone (#C4A882) / Espresso (#2C1810) split | Clinical coral (#E85D3A) | Muted teal (#5D9E8F) | 🆕 New — Brief ||
+|| VID-063 A | Deep aubergine (#3A004D) | Misleading green (#4CAF50) | Warning red (#D32F2F) | 🆕 New — Brief ||
+|| VID-063 B | Indigo-red (#2A003A) → Near-black (#0D000D) | Warm amber (#FFAB00) | Clinical green (#4CAF50) / Red (#FF1744) | 🆕 New — Brief ||
 ||428|
 |### New Palettes Added (June 13)|
 | Video | Primary | Accent 1 | Accent 2 | Status |

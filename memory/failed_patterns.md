@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-25
+> **Last Updated:** 2026-06-26
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -683,3 +683,44 @@
 - **Never tell viewers to stop BP medication if they have variability** — frame as "discuss BP patterns with your doctor"
 - **Never tell viewers morning headaches "mean" they will have a stroke** — frame as "one possible indicator among many"
 - **Never tell viewers to drive themselves to the ER during neurological symptoms** — explicitly say "call 911"
+
+### New Failure Patterns (June 26)
+
+#### Entering Dementia Medications Niche
+- **What happened:** Dr. Michael Kent's "9 Popular Medications That Can Trigger Rapid Dementia" surged to 875K-880K (was 691K, was 208K — 4x growth). Dr. Edward Kensington also cross-posting same format at 207K-267K.
+- **Lesson:** Dementia medications is now a DOMINATED niche with two major players. No room for Dr. Kane.
+- **Fix:** AVOID entirely. Do not produce any dementia medication content regardless of angle.
+
+#### Entering Kidney Health Niche
+- **What happened:** Dr. Thomas entered kidney Q&A (June 2026). Kidney niche now TRIPLE-CLAIMED: Kent (227K), Healthy Aging (662K), Thomas (NEW).
+- **Lesson:** Kidney health is now completely saturated. Even with a unique mechanism angle, the niche is too crowded.
+- **Fix:** AVOID entirely. Do not produce kidney health content.
+
+#### Entering Bedtime Supplement Space
+- **What happened:** Dr. Hargrove entered with "Doctor: 1 Vitamin Before Bed..." — replicating Becker's bedtime format.
+- **Lesson:** Becker's bedtime format is being replicated. The window for bedtime supplement content is closing.
+- **Fix:** AVOID unless Dr. Kane has a genuinely unique vascular mechanism angle (e.g., "the bedtime position that affects circulation").
+
+#### Nail Health Re-Closed
+- **What happened:** Dr. Arthur Clark RE-ENTERED nail health with "Neurologist Warns: If Your NAILS Look Like THIS After 60" (June 12-18).
+- **Lesson:** Nail niche was briefly open but Clark re-entered. Dr. Kane's existing nail content should be monitored for audience overlap.
+- **Fix:** No new nail content. Existing nail videos are fine but don't expand the nail portfolio.
+
+#### New Cross-Post Network Risk
+- **What happened:** Dr. Owen + Dr. Joshua Tiamson NEW cross-posting partnership detected (8.9K-27K views). Pattern matches AI-generated cross-posting farms.
+- **Lesson:** Cross-posting networks are proliferating. McGill flag risk increasing across the niche.
+- **Fix:** Dr. Kane must maintain single-channel, original content approach. Document authenticity rigorously. This is increasingly a competitive ADVANTAGE.
+
+#### New Safety Boundaries (VID-062 Stomach Acid + Meds Production)
+- **Never tell viewers to change medication timing without doctor consultation** — frame as "discuss with your doctor"
+- **Never tell viewers to stop PPIs abruptly** — rebound acid hypersecretion is dangerous
+- **Never tell viewers their medications are "useless"** — frame as "may not be absorbing optimally"
+- **Never recommend specific timing protocols as universal** — frame as "what the research suggests"
+- **Never tell viewers to take vitamin C with medications without checking** — some drug-nutrient interactions are harmful
+
+#### New Safety Boundaries (VID-063 Iron Cells Starving Production)
+- **Never tell viewers to start iron supplementation without confirming deficiency** — excess iron is dangerous
+- **Never tell viewers their doctor "missed" their iron deficiency** — frame as "standard tests have limitations"
+- **Never tell viewers ferritin is "lying"** — frame as "ferritin can be elevated by inflammation"
+- **Never recommend specific iron supplements or doses** — frame as "discuss formulation options with your doctor"
+- **Never tell viewers IV iron is "better" than oral** — frame as "in some cases, IV iron may be appropriate"

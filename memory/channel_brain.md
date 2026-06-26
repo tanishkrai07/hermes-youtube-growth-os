@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-25
+> **Last Updated:** 2026-06-26
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -46,6 +46,8 @@
 4. **Food & Supplement Interactions** (evergreen)
 5. **Body Signals & Warning Signs** (diagnostic angle)
 6. **Environmental Health** (microplastics, toxins — first-mover opportunity)
+7. **Medication Safety & Pharmacology** (NEW — stomach acid, drug absorption, timing protocols)
+8. **Diagnostic Gap / Lab Test Interpretation** (NEW — ferritin masking, sTfR, missed diagnoses)
 
 ## Target Audience
 
@@ -93,7 +95,7 @@
 - "Hot take > plain facts" — channels with opinions survive enforcement
 - Full policy reference: `knowledge/YOUTUBE_POLICY_CONSCIOUSNESS.md`
 
-## Current Production Pipeline (Updated 2026-05-25)
+## Current Production Pipeline (Updated 2026-06-26)
 
 ### Published Videos
 1. **VID-001 (Long-form):** "Why You Keep Waking Up at Night After 60 — The Doctor Explains"
@@ -1218,3 +1220,36 @@
 - **Never tell viewers to self-supplement iron without testing** — excess iron is dangerous; frame as "ask your doctor about checking iron levels"
 - **Never tell viewers standard blood panels "always miss" anemia** — frame as "in some cases, more detailed testing may be helpful"
 - **Never recommend specific supplements** — frame as "discuss your nutritional status with your healthcare provider"
+
+### New Insights from June 26 Scans
+- **⚡⚡ Dr. Michael Kent "Dementia Meds" SURGING to 875K-880K:** Was 691K on June 25. 4x growth from 208K. Dementia medications empire STILL GROWING. Niche OCCUPIED — DO NOT COMPETE.
+- **⚡ Dr. Arthur Clark RE-ENTERED nail health (June 12-18):** "Neurologist Warns: If Your NAILS Look Like THIS After 60" — Nail niche CLOSED again.
+- **⚡ Dr. Hargrove entering bedtime supplement space:** "Doctor: 1 Vitamin Before Bed..." — Becker format being replicated.
+- **⚡ Dr. Owen + Dr. Joshua Tiamson NEW cross-post network:** Joint videos at 8.9K-27K views. McGill flag risk.
+- **⚡ Dr. Thomas entering kidney Q&A:** "Kidney Questions for the Doctor" (June 2026). Kidney niche now TRIPLE-CLAIMED.
+- **⚡ Dr. Elena Pierce growing to 491K:** "REAL [Metric]" format still gaining.
+- **🆕 10 new ideas generated (I277-I286):** All scored 17-19. All verified against 70+ competitors. Top: I278 (Dentist Sees Heart, 19), I286 (Vein Problem at Night, 19), I279 (One Leg Balance + Brain Artery, 19).
+- **🆕 New title patterns P076-P078:** Nails format (Clark), Eggs+Diabetes (Clark), Milk+Diabetes (Clark).
+- **🆕 New thumbnail briefs for VID-062/063:** Both with A/B variants, new color palettes (rust-bronze, sandstone, aubergine, indigo-red).
+- **✅ VID-062 safety score: 18 PASS / 0 FAIL**
+- **✅ VID-063 safety score: 17 PASS / 0 FAIL**
+- **✅ Anti-template compliance verified:** All 10 new ideas (I277-I286) pass the "Remove the Name" test.
+- **✅ VID-062 + VID-063 scripts COMPLETE:** "Pharmacological pH Threshold" and "Ferritin Mask" frameworks are original Dr. Kane contributions.
+
+### New Safety Boundaries (VID-062 Stomach Acid + Meds Production)
+- **Never tell viewers to change medication timing without doctor consultation** — frame as "discuss with your doctor"
+- **Never tell viewers to stop PPIs abruptly** — rebound acid hypersecretion is dangerous; frame as "if you and your doctor decide to adjust, taper gradually"
+- **Never tell viewers their medications are "useless"** — frame as "may not be absorbing optimally"
+- **Never recommend specific timing protocols as universal** — frame as "what the research suggests" and "ask your doctor if this applies to your medications"
+- **Never tell viewers to take vitamin C with medications without checking** — some drug-nutrient interactions are harmful
+
+### New Safety Boundaries (VID-063 Iron Cells Starving Production)
+- **Never tell viewers to start iron supplementation without confirming deficiency** — excess iron is dangerous
+- **Never tell viewers their doctor "missed" their iron deficiency** — frame as "standard tests have limitations that are worth understanding"
+- **Never tell viewers ferritin is "lying"** — frame as "ferritin can be elevated by inflammation, which may not reflect true iron status"
+- **Never recommend specific iron supplements or doses** — frame as "discuss formulation options with your doctor"
+- **Never tell viewers IV iron is "better" than oral** — frame as "in some cases, IV iron may be appropriate; discuss with your doctor"
+
+### New Title Patterns Discovered (June 26)
+19. **"Your [Lab Value] Looks Normal After [Age] — But Your [Body Part] Are [Suffering Verb]"** — Dr. Kane (VID-063, P015). Paradox diagnostic format. NEW.
+20. **"Your [Body Function] Dropped [X]% After [Age] — Here's What It Does to [Consequence]"** — Dr. Kane (VID-062, P014). Percentage decline consequence format. NEW.

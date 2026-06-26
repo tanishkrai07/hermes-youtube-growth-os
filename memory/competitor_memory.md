@@ -1,9 +1,9 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-25 (Competitor Watcher scan — 70+ tracked, 0 new channels, 4 new title updates, 2 new viral format replications)
+> **Last Updated:** 2026-06-26 (June 26 EOD — Kent dementia meds SURGING to 880K, Clark re-entered nails, Owen+Tiamson cross-post network, Thomas entered kidney Q&A, Hargrove entering bedtime supplements)
 > **Total Tracked Competitors:** 70+ (70 active + 1 removed)
 > **Note:** Firecrawl search API still offline (credits exhausted since Jun 8). Data sourced via web_search YouTube search only.
-> **Key Changes:** Dr. Michael Kent "9 Popular Medications Trigger Rapid Dementia" SURGED to 691K-875K. Dr. Thomas "Fruit Raises Stroke Risk" NEW at 220K. Kent cross-posted Thomas's "Walking Habit Raises Stroke Risk" format (6.6K). Dr. Arthur Clark "Olive Oil Before Bed" at 904K (NEW bedtime format). Dr. Edward Kensington "Blood Sugar" content growing to 266K.
+> **Key Changes:** Dr. Michael Kent "Dementia Meds" SURGED to 875K-880K (was 691K). Dr. Arthur Clark RE-ENTERED nail health (NEW "Nails" video June 12-18). Dr. Hargrove entering bedtime vitamin space. Dr. Owen + Dr. Joshua Tiamson NEW cross-post network detected. Dr. Thomas entering kidney Q&A. Dr. Elena Pierce growing to 491K. Kidney niche now TRIPLE-CLAIMED (Kent + Healthy Aging + Thomas). VID-062 + VID-063 scripts complete (Stomach Acid + Meds, Iron Cells Starving).
 
 ## Active Competitors (Elder Health / Senior Wellness)
 
@@ -20,7 +20,7 @@
 | **Dr. Alex Carter** ⚡ MULTI-ID BP MEDS | "Taking Amlodipine, Losartan, or Lisinopril?" (601K) + "Most Dangerous Time to Take BP Medication" (122) | **601K+** | BP Meds (Medication Trio format) | 🟡 MEDIUM — Format replication working at scale. |
 | **Dr. Franklin** ⚡⚡ MULTI-ID NAIL STRATEGY | Multi-ID nail/blood type/urology | **~1.8M+** across all IDs | Body Shock → Nail Health → Urology → Blood Type | 🔴 HIGH — Multi-ID strategy at PEAK RISK. |
 | **Doctor Christopher Carter** ⚡ MULTI-ID HEART MEDS | "5 Pills Could Trigger Heart Attack" (1.25M evergreen) | **1.25M+** | Heart Medications | 🟡 MEDIUM — Evergreen dominant. |
-| **Dr. James Hargrove** ⚡⚡ WATER/BLOOD FLOW + STROKE + EYE | "Don't Drink Plain Water After 60" (50K) + "4 Vitamins SILENTLY Causing Stroke" (438K, UP from 8.2K!) + "If Your Legs Tingle, Burn, or Go Numb After 60" (48.6K) + "Doctor WARNS: 7 Mini-Stroke Signs After 60" (1K, NEW) | **~537K+** recent | Water/Blood Flow + Emergency Format + Vitamin Warning + Diagnostic Advocacy + Eye Health + Leg Nerve Warning (NEW at 48.6K) | 🟡 MEDIUM-HIGH — "4 Vitamins" video SURGED from 8.2K to 438K. Multi-format empire building. |
+|| **Dr. James Hargrove** ⚡⚡ SURGING | "Don't Drink Plain Water After 60" (50K) + "4 Vitamins SILENTLY Causing Stroke" (438K, UP from 8.2K!) + "If Your Legs Tingle, Burn, or Go Numb After 60" (48.6K) + "Doctor WARNS: 7 Mini-Stroke Signs After 60" (1K, NEW) + "Doctor: 5 Silent Killers Most Seniors Never Make It Past 80" (NEW) + "Doctor: 1 Vitamin Before Bed..." (NEW — entering Becker's niche) | **~550K+** recent | MEDIUM | "4 Vitamins" video SURGED from 8.2K to 438K. Now entering bedtime supplement space + general senior warnings. Multi-format empire building. |
 | **Doctor Becker** ⚡⚡ SURGING | "1 Spoon of THIS Before Bed Rebuilds Stem Cells & Clears Senescent Cells By Morning" (2.3K, 19h, NEW) + "After 65, You Have ONLY a 3-Year Window To REACTIVATE Your..." + Stem cell portfolio (2.4M+) + "Chew This Before Bed – Watch Your Stem Cells Rebuild" | **2.8M+ combined** | Stem Cell → Cancer Prevention → Microplastics (dead) | 🟡 MEDIUM-HIGH — Bedtime stem cell format expanding. New content at 2.3K (19h). |
 | **Dr. William Li** ⚠️ INACTIVE | "Try It For 1 Day" — REGROW Stem Cells (763.6K) + "THIS Drink REGROWS STEM CELLS & Starves Cancer" (184.5K) + "Regenerate Your Stem Cells" (582.3K) | **~1.7M+** | Stem Cells (DOMINANT) + Memory + Magnesium + Age Spots + Arterial Health + Cancer Prevention | 🟢 LOW — INACTIVE since 4 months ago. Possibly flagged/suppressed. |
 | **Dr. James Cross** | "Simple Movement Drains Swollen Legs" (40.7K) | 40.7K | Leg Health / Swollen Ankles | 🟡 MEDIUM — Growth STALLED. |
@@ -73,8 +73,10 @@
 - **Medication Warnings:** 🔴 SATURATED (+ Dr. Sarah Mitchell 125K+682K)
 - **Stem Cell (general):** 🔴 SATURATED
 - **Body Shock:** 🔴 AVOID
-- **Nail Health:** 🔴 CLOSED
+- **Nail Health:** 🔴 CLOSED (Dr. Arthur Clark RE-ENTERED June 12-18 with "Neurologist Warns: If Your NAILS Look Like THIS After 60")
 - **Microplastics + seniors:** 🔴 NOW HEATING UP — Kapadia entering with 86K podcast cross-post + new video. Window NARROWING.
+- **Bedtime Vitamins/Supplements:** 🟡 HEATING UP — Dr. Hargrove entering with "Doctor: 1 Vitamin Before Bed..." Becker format replicating.
+- **Kidney Health:** 🔴 TRIPLE-CLAIMED (Kent 227K + Healthy Aging 662K + Thomas NEW kidney Q&A June 2026)
 - **Berberine:** 🔴 OWNED by Whitmore
 - **Varicose Veins:** 🔴 CLAIMED
 - **Sciatica:** 🔴 HYPER-SATURATED (TopHealthTips entering)
@@ -107,19 +109,20 @@
 | **"Most Hated Fruit" format** | Whitmore at 353K | 🟡 WINDOW NARROWING — NEW viral format. Monitor for saturation. |
 | **Bedtime Olive Oil format** | Dr. Arthur Clark at 904K | 🟡 WINDOW NARROWING — NEW viral format. Monitor for replication. |
 
-## Key Events This Period (June 25 Scan)
+## Key Events This Period (June 26 Scan)
 
-- **⚡⚡⚡ Dr. Michael Kent DEMENTIA MEDS SURGE to 691K-875K:** "9 Popular Medications That Can Trigger Rapid Dementia" jumped from 208K to 691K-875K. Now Kent's HIGHEST-performing video (surpassing pancreatic cancer at 1.1M in absolute terms but growing faster). Dementia medication niche NOW OCCUPIED.
-- **⚡⚡ Dr. Michael Kent kidney empire EXPANDING:** "7 Early Warning Signs Your Kidneys Are Failing" at 227K-231K + "5 Silent Vegetable Killers of Your Kidneys" at 228K-232K. Kidney niche now DUAL-CLAIMED (Kent + Healthy Aging).
-- **⚡ Dr. Thomas "Fruit Raises Stroke Risk" NEW at 1M+220K:** Two videos using the "BRAIN Doctor SHOCKED: THIS Fruit Raises Stroke Risk Overnight" format. Vegetable variant at 1M (stable), fruit variant at 1M+220K (growing). Format empire expanding.
-- **⚡ Dr. Arthur Clark "Olive Oil Before Bed" at 904K:** NEW viral format — "What Happens If You Drink Olive Oil Every Night Before Bed." Bedtime ritual + health claim format EXPANDING. Clark now has 3 bedtime videos (fruit for eyes 927K + olive oil 904K).
-- **⚡ Dr. Edward Kensington diabetes foods at 266K:** "Doctor Explains: The Best Foods To Eat to Lower Blood Sugar FAST" grew from 202K-246K to 266K-268K. Multi-pillar empire (BP 192K + Diabetes 266K + Dementia 207K-267K) at 730K+ combined.
-- **⚡ Dr. James Hargrove "4 Vitamins" stroke at 438K:** SURGED from 8.2K to 438K. Vitamin warning format performing strongly.
-- **⚡ Dr. Thomas cross-posted by Kent:** "THIS Walking Habit Raises Stroke Risk Overnight" appeared on both Dr. Thomas (original) and Dr. Michael Kent (6.6K views). Cross-posting network CONFIRMED between top competitors.
-- **⚡ Whitmore "Most Hated Fruit to OPEN Your Arteries" at 353K:** NEW viral format. "Most Hated" + "You Must Eat It" contradiction format. Superlative + dramatic action + mandatory consumption.
-- **⚡ Whitmore "UNCLOG Your Arteries" at 671K:** Growing from 653K. Arterial health niche still expanding.
-- **⚡ TopHealthTips entering nocturia:** "Waking Up to Pee at Night? This Simple Exercise Could Change Everything (60+)" — NEW content expansion.
-- **➡️ Dr. Sarah Mitchell stable:** Blood tests at 681K, medications at 682K. New videos (eggs, 3AM waking) too early to assess.
+- **⚡⚡⚡ Dr. Michael Kent DEMENTIA MEDS SURGE to 875K-880K:** "9 Popular Medications That Can Trigger Rapid Dementia" jumped from 691K to 875K-880K. Now Kent's HIGHEST-performing video. Dementia medication niche NOW OCCUPIED.
+- **⚡⚡ Dr. Michael Kent channel VERIFIED:** Kent's channel is now verified (confirmed via YouTube community post). Reduces McGill-style enforcement risk.
+- **⚡ Dr. Arthur Clark RE-ENTERING nail health:** "Neurologist Warns: If Your NAILS Look Like THIS After 60" (June 12-18). Nail niche window CLOSED again.
+- **⚡ Dr. Arthur Clark diabetes nutrition expansion:** "How to Eat Eggs Correctly If You Have Diabetes" (June 8) + "The Milk Every Diabetic Should DRINK to LOWER Blood Sugar" — NEW sub-niche.
+- **⚡ Dr. Thomas entering kidney Q&A:** "Kidney Questions for the Doctor" (June 2026, Facebook Live repost). Kidney niche now TRIPLE-CLAIMED (Kent 227K + Healthy Aging 662K + Thomas NEW).
+- **⚡ Dr. Thomas walking replacement format:** "60, 70, 80 years old? Walking less? Try doing these 5 things instead!" — NEW angle on walking content.
+- **⚡ Dr. James Hargrove entering bedtime supplement space:** "Doctor: 1 Vitamin Before Bed..." — replicating Becker's bedtime format.
+- **⚡ NEW cross-posting network detected:** Dr. Owen Senior Health + Dr. Joshua Tiamson. Multiple joint videos at 8.9K-27K views. McGill flag risk.
+- **⚡ Dr. Elena Pierce growing to 491K:** "What's the REAL Ideal Blood Pressure After 65?" — "REAL [Metric]" format still gaining.
+- **⚡ Doctor Becker "Kidney Reset" sub-theme:** "Cancer Starves, Stem Cells Activate, Kidneys Reset" at 1.4M views. Kidney health CLAIMED via coffee format.
+- **⚡ Japan's Oldest Doctor memory food content:** "Ancient Japanese Food REVERSES Memory Loss" at 9.6K — entering memory/dementia nutrition.
+- **➡️ Dr. Sarah Mitchell stable:** Blood tests at 681K, medications at 682K. Surgery contradiction format active.
 - **➡️ No new competitor channels discovered this period.** All growth from existing competitors expanding within their empires.
 
 ## Key Title Formulas (Performing)
@@ -202,6 +205,7 @@
 - ❌ BP Self-Measurement Errors — Whitmore at 1M
 - ❌ Stroke/TIA symptoms — CROWDED
 - ❌ Bedtime drinks/actions — AVOID (Clark 904K + multiple competitors)
+- ❌ Bedtime vitamins/supplements — Hargrove entering (Becker format replicating)
 - ❌ General blood type longevity — Franklin owns this
 - ❌ Cancer prevention — Becker dominates
 - ❌ General food warnings — SATURATED
@@ -210,7 +214,7 @@
 - ❌ Body shock / embarrassing topics — Franklin owns this
 - ❌ Eye health content — SATURATED
 - ❌ Heart medication warnings — CROWDED
-- ❌ Nail health content — Window CLOSED
+- ❌ Nail health content — CLOSED (Clark re-entered June 2026)
 - ❌ Diabetes/nutrition general — Senior Health Blog dominates
 - ❌ Any content telling viewers to stop medications
 - ❌ Any content using alarmist language
@@ -223,15 +227,17 @@
 - ❌ BP medication timing (general) — Getting crowded
 - ❌ Multi-ID upload strategy — YouTube enforcement targeting this
 - ❌ Blood test advocacy (general) — Dr. Sarah Mitchell at 681K. Differentiate with vascular angle.
-- ❌ Kidney health (vegetables) — Healthy Aging at 662K + Kent at 227K. OCCUPIED.
+- ❌ Kidney health (vegetables) — TRIPLE-CLAIMED (Kent 227K + Healthy Aging 662K + Thomas NEW). CLOSED.
 - ❌ "Would NEVER Get/Take/Recommend" format — Now saturating (5+ channels)
 - ❌ Sleep position + stroke (direct copy) — Dr. Thomas at 251K-529K. Only enter with vascular mechanism angle.
 - ❌ Pancreatic cancer + food warning (direct copy) — Kent at 1.1M. Only enter with vascular inflammation angle.
 - ❌ Cross-posting network strategy — McGill flag risk. Dr. Kane's single-channel approach is the defensive moat.
-- ❌ Dementia medications content — Kent at 691K-875K + Kensington at 207K-267K. OCCUPIED.
+- ❌ Dementia medications content — Kent at 875K-880K + Kensington at 207K-267K. OCCUPIED.
 - ❌ "Most Hated Fruit" format — Whitmore at 353K. Window NARROWING.
 - ❌ "BRAIN Doctor SHOCKED" format — Dr. Thomas OWNS this (5+ variants). AVOID direct copy.
+- ❌ Walking replacement content — Thomas emerging. AVOID.
+- ❌ "Kidney Reset" claims — Becker expanding. AVOID.
 
 ---
 
-*Last updated: 2026-06-25 by Competitor Watcher Agent (Cron)*
+*Last updated: 2026-06-26 by Competitor Watcher Agent (Cron)*
