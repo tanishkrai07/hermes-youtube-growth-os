@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-26
+> **Last Updated:** 2026-06-27
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -724,3 +724,22 @@
 - **Never tell viewers ferritin is "lying"** — frame as "ferritin can be elevated by inflammation"
 - **Never recommend specific iron supplements or doses** — frame as "discuss formulation options with your doctor"
 - **Never tell viewers IV iron is "better" than oral** — frame as "in some cases, IV iron may be appropriate"
+
+#### New Safety Boundaries (VID-064 Dentist-Heart Connection Production)
+- **Never tell viewers their gum disease will cause a heart attack** — frame as "contributes to risk" not "causes"
+- **Never tell viewers to skip cardiology appointments** — frame dental care as complementary to cardiac monitoring
+- **Never tell viewers to self-diagnose heart disease from gum symptoms** — frame as "discuss gum bleeding patterns with your dentist and mention it to your doctor"
+- **Never recommend stopping any medication** — dental care is always "in addition to" medical care, never "instead of"
+- **Never claim periodontal treatment "cures" heart disease** — frame as "reduces inflammatory burden"
+- **Never tell viewers bleeding gums are "normal" at any age** — frame as "common but worth investigating"
+- **Never tell viewers to stop taking anticoagulants before dental work without consulting their doctor** — this is a medical decision
+
+#### New Safety Boundaries (VID-065 Arterial Age / GlycA Production)
+- **Never tell viewers their "arterial age" is a diagnosis** — frame as "risk information" not "medical fact"
+- **Never tell viewers to demand specific tests** — frame as "ask your doctor whether this test is appropriate for you"
+- **Never tell viewers that lifestyle changes "reverse" arterial aging** — frame as "may slow progression" or "associated with lower levels"
+- **Never tell viewers to stop statins based on GlycA levels** — these are complementary data, not competing data
+- **Never tell viewers GlycA is "more important" than standard tests** — frame as "additional information"
+- **Never claim GlycA testing is universally recommended** — frame as an option to discuss with their doctor
+- **Never tell viewers their GlycA number means they WILL have a heart attack** — frame as "one risk factor among many"
+- **Never recommend specific supplements to lower GlycA** — frame as "discuss any supplementation with your doctor"

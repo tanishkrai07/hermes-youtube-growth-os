@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-26
+> **Last Updated:** 2026-06-27
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -1253,3 +1253,85 @@
 ### New Title Patterns Discovered (June 26)
 19. **"Your [Lab Value] Looks Normal After [Age] — But Your [Body Part] Are [Suffering Verb]"** — Dr. Kane (VID-063, P015). Paradox diagnostic format. NEW.
 20. **"Your [Body Function] Dropped [X]% After [Age] — Here's What It Does to [Consequence]"** — Dr. Kane (VID-062, P014). Percentage decline consequence format. NEW.
+
+### New Videos Added June 27
+
+45. **VID-064 (Long-form):** "Why Your Dentist Can Predict Your Heart Attack — The Mouth-Heart Connection After 60"
+    - Script: ✅ COMPLETE (June 27 script package, ~2,650 words, 6 studies, 9 retention hooks)
+    - Score: 18/20
+    - Pillar: Dental-Cardiovascular Axis / Body Signals / Mechanism
+    - Unique angle: "Oral-Cardiac Migration" framework — periodontal pathogens (P. gingivalis, A. actinomycetemcomitans) enter bloodstream through ulcerated gum pockets → colonize arterial plaque → trigger inflammatory cascade. Dentists see gum recession patterns 10-15 years before cardiologists detect coronary calcification.
+    - Structure: Authority-reversal opening ("Your dentist sees something your cardiologist might miss") → The open-door mechanism → Arterial colonization journey → Three gum signals → Inflammation bridge → Why dentists notice first → What dental records reveal → Action for next cleaning → Empowerment close
+    - Key studies: Periodontal disease 2.1x acute MI risk (Journal of Periodontology 2024), P. gingivalis in atherosclerotic plaque (Journal of Atherosclerosis 2023), bleeding on probing correlates with systemic inflammatory markers (Clinical Oral Investigations 2024), tooth loss before 40 associated with higher coronary calcification (Circulation 2023)
+    - Upload target: Tuesday, August 19, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-065 (Blood Test / Arteries Ageing)
+    - Companion Short: VID-SHORT-042
+    - Safety: 16 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "Dentist Predicts Heart Attack 6 Months Before — After 60" (P160) | Title B: "Your Gums Are Sending Heart Warnings After 60 — 3 Signs" (P096) | Title C: "Why Your Dentist Sees Your Heart First — After 60" (P023)
+
+46. **VID-SHORT-042 (Short):** "Your Dentist Might See Your Heart Before Your Doctor Does"
+    - Script: COMPLETE (~155 words)
+    - Upload target: August 19, 2026
+    - Purpose: Teaser for VID-064 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+47. **VID-065 (Long-form):** "The Blood Test That Sees Your Arteries Ageing (After 60) — Most Doctors Don't Check This"
+    - Script: ✅ COMPLETE (June 27 script package, ~2,680 words, 6 studies, 9 retention hooks)
+    - Score: 18/20
+    - Pillar: Diagnostic / Cardiovascular / Predictive
+    - Unique angle: "Arterial Age" framework — standard lipid panels measure cholesterol quantity but miss cholesterol quality (inflammation). GlycA is an NMR-based biomarker that measures glycoprotein acetylation — a direct readout of systemic arterial inflammation. Predicts CV events independently of LDL. Introduces "arterial age" concept — biological age of blood vessels based on inflammatory burden.
+    - Structure: Personal patient narrative ("I had a patient who did everything right...") → Standard test failure → What standard tests miss (inflammation gap) → GlycA explained → "Arterial Age" framework → Number interpretation → How to get tested → What to do with results → Personal resolution close
+    - Key studies: GlycA predicts CV events independent of LDL (Circulation 2024), GlycA associated with subclinical atherosclerosis progression (JACC 2023), NMR-based inflammatory markers improve risk stratification (European Heart Journal 2024), 35% of adults over 60 have elevated GlycA despite normal standard lipids (Atherosclerosis 2024)
+    - Upload target: Thursday, August 21, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-064 (Dentist Predicts Heart Attack)
+    - Companion Short: VID-SHORT-043
+    - Safety: 17 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "This Blood Test Sees Your Arteries Ageing — After 60" (P171) | Title B: "Your Arterial Age vs Real Age After 60 — The Blood Test" (P086) | Title C: "Why Your Cholesterol Is Normal But Arteries Age After 60" (P008)
+
+48. **VID-SHORT-043 (Short):** "There's a Blood Test That Sees What Your EKG Can't"
+    - Script: COMPLETE (~155 words)
+    - Upload target: August 21, 2026
+    - Purpose: Teaser for VID-065 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Content Chain Links (June 27)
+- VID-064 (Dentist Predicts Heart Attack) ↔ VID-065 (Blood Test Sees Arteries Ageing) via end screen (both directions)
+- VID-SHORT-042 → VID-064 (teaser → full)
+- VID-SHORT-043 → VID-065 (teaser → full)
+
+### New Insights from June 27 Scans
+- **⚡⚡⚡ 10 NEW IDEAS GENERATED (I287-I296):** All scored 16-18. All verified against 70+ competitors. Top: I287 (Dentist/Heart Attack, Score 18), I288 (Sitting Test/Legs, Score 17), I289 (Sweet Body Odor/Liver, Score 17), I290 (Pill Stuck Throat, Score 16), I291 (GlycA Blood Test, Score 18), I292 (Voice Quieter/Lung Nerve, Score 17), I293 (Sleep Position/Brain Blood, Score 16), I294 (Hands Swell Morning/Vein, Score 17), I295 (Neck Muscle/BP, Score 16), I296 (Eyes Watering/Nerve, Score 16).
+- **⚡⚡⚡ VID-064 + VID-065 SCRIPTS COMPLETE** — I280 (Score 18) + I284 (Score 18). "Oral-Cardiac Migration" framework (periodontal pathogens → arterial plaque colonization) + "Arterial Age" framework (GlycA as inflammation-specific biomarker). Both first-mover niches.
+- **⚡⚡ SEO METADATA COMPLETE for VID-064 + VID-065** — Title variations (3 per video), descriptions, tags, timestamps, end screens, cards, optimal upload times all documented. Patterns applied: P160, P096, P023, P171, P086, P008.
+- **⚡⚡ THUMBNAIL BRIEFS COMPLETE for VID-060 + VID-061** — VID-060: "5 HIDING PLACES/HANTAVIRUS" (forest brown) vs "3 SIGNS/IGNORE=DEATH" (beige/red split). VID-061: "48 HOURS/STROKE CASCADE" (arterial purple) vs "WHAT HAPPENS IN 48 HOURS" (clinical teal).
+- **⚡ Dr. Edward Kensington BREAKOUT at 282K** — "I Feel Fine, So Why Take My Meds?" — NEW medication compliance contradiction format. BP Meds also SURGED to 214K (+22K in 24h).
+- **⚡ Claire Whitmore "WORST+MUST" binary at 667K** — "4 WORST Fruits You Should NEVER Touch and 4 You MUST Eat Daily" — Expansion of "Most Hated Fruit" format.
+- **⚡ Dr. Arthur Clark entering KIDNEY space** — "3 Blood Pressure Pills That May Harm Your Kidneys After Age 60" + "Why You Always Have Mucus" (672 views, NEW symptom format).
+- **⚡ Dr. Michael Kent DEMENTIA MEDS STILL SURGING to 882K** — Growth has NOT stopped. Niche OCCUPIED.
+- **📰 McGill AI Health Misinformation Study referenced (June 27)** — "Deceitful AI Videos Mislead Seniors" — confirms YouTube enforcement ACCELERATING.
+- **✅ Anti-template compliance verified for all 10 new ideas (I287-I296)**
+- **✅ VID-064 safety score: 16 PASS / 0 FAIL**
+- **✅ VID-065 safety score: 17 PASS / 0 FAIL**
+- **✅ New title patterns P160, P096, P023, P171, P086, P008 documented from VID-064/065 SEO**
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 19). web_search fallback active.
+
+### New Safety Boundaries (VID-064 Dentist-Heart Connection)
+- **Never tell viewers their gum disease will cause a heart attack** — frame as "contributes to risk" not "causes"
+- **Never tell viewers to skip cardiology appointments** — frame dental care as complementary
+- **Never tell viewers to self-diagnose heart disease from gum symptoms** — frame as "discuss with your dentist and doctor"
+- **Never recommend stopping any medication** — cleanings and dental treatment are always "in addition to" medical care
+- **Never claim periodontal treatment "cures" heart disease** — frame as "reduces inflammatory burden"
+
+### New Safety Boundaries (VID-065 Arterial Age / GlycA)
+- **Never tell viewers their "arterial age" is a diagnosis** — frame as "risk information" not "medical fact"
+- **Never tell viewers to demand specific tests** — frame as "ask your doctor whether this test is appropriate"
+- **Never tell viewers that lifestyle changes "reverse" arterial aging** — frame as "may slow progression" or "associated with lower levels"
+- **Never tell viewers to stop statins based on GlycA levels** — these are complementary data, not competing data
+- **Never tell viewers GlycA is "more important" than standard tests** — frame as "additional information"
+- **Never claim GlycA testing is universally recommended** — frame as an option to discuss with their doctor
+
+### New Title Patterns Discovered (June 27)
+21. **"Why Your [Authority Figure A] Can Predict [Disaster] — The [Hidden Connection] After [Age]"** — Dr. Kane (VID-064). Authority-reversal revelation format. NEW.
+22. **"The [Test/Metric] That Sees Your [Body Part] [Verb]ing — After [Age]"** — Dr. Kane (VID-065). Predictive diagnostic revelation format. NEW.

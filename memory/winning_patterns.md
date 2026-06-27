@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-26 (June 26 EOD — VID-062/063 scripts complete, P014/P015 added to channel pattern library, I277-I286 idea batch generated)
+> **Last Updated:** 2026-06-27 (June 27 — VID-064 + VID-065 scripts complete, new patterns P083-P084 added)
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -110,6 +110,26 @@
 4. **"Walking less? Try these 5 things instead" format** — Dr. Thomas. Walking replacement for seniors 60+. Pain-point format.
 5. **"Kidney Reset" sub-theme** — Doctor Becker. Added to existing coffee format (1.4M views). Kidney health CLAIMED via different angle.
 6. **"Doctor: 1 Vitamin Before Bed..." format** — Dr. Hargrove. Bedtime supplement format replicating Becker's success.
+
+### New Patterns Added 2026-06-27 (from June 27 scan)
+
+### New Title Formulas (June 27 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P079 | "I Feel Fine, So Why Take My Meds? \| The Truth About..." | Dr. Edward Kensington | 282K |
+| P080 | "Over 60? [Number] WORST [Food Category] You Should NEVER Touch and [Number] You MUST Eat Daily" | Claire Whitmore | 667K |
+| P081 | "Why You Always Have [Symptom]... Doctor Explains the Real Cause!" | Dr. Arthur Clark | 672 |
+| P082 | "[Number] [Medication Type] That May Harm Your [Organ] After Age [Age]" | Dr. Arthur Clark | NEW |
+| P083 | "Why Your [Authority Figure A] Can Predict [Disaster] — The [Hidden Connection] After [Age]" | Dr. Kane (VID-064) | New |
+| P084 | "The [Test/Metric] That Sees Your [Body Part] [Verb]ing — After [Age]" | Dr. Kane (VID-065) | New |
+
+### New Viral Formats (June 27)
+1. **"I Feel Fine, So Why Take My Meds?" format** — Kensington (282K): Medication compliance contradiction. Challenges patient complacency. Targets the #1 reason seniors stop taking medications. ADAPTABLE for vascular health: "I Feel Fine, So Why Worry About My Arteries?"
+2. **"WORST + MUST" binary format** — Whitmore (667K): "4 WORST Fruits You Should NEVER Touch and 4 You MUST Eat Daily." Expansion of "Most Hated Fruit" into binary prohibition + prescription. ADAPTABLE: "3 BP Meds You Should NEVER Take After 60 — And 3 You MUST Know About"
+3. **"Why You Always Have [Symptom]... Doctor Explains the Real Cause!" format** — Clark (672 views, early): Everyday symptom + authority + hidden cause revelation. ADAPTABLE: "Why Your Legs Feel Heavy Every Evening... The Doctor Explains the Real Cause"
+4. **"[Number] [Medications] That May Harm Your [Organ]" format** — Clark (NEW): Crosses medication warning + organ health. ADAPTABLE: "3 Common Medications That May Harm Your Leg Circulation After 60"
+5. **"Authority-Reversal Prediction" format** — Dr. Kane VID-064 (Score 18, script complete): "Why Your Dentist Can Predict Your Heart Attack." Flips the authority hierarchy (dentist before cardiologist) to create curiosity + surprise. ADAPTABLE: "Why Your [Authority A] Sees Your [Problem] Before Your [Authority B]."
+6. **"Predictive Test Revelation" format** — Dr. Kane VID-065 (Score 18, script complete): "The Blood Test That Sees Your Arteries Ageing." Introduces a test viewers have never heard of + gives it a memorable framework name ("Arterial Age"). ADAPTABLE: "The [Test] That Sees Your [Body Part] [Verb]ing — After [Age]"
 
 ### New Cross-Post Networks (June 26)
 - **Dr. Owen Senior Health + Dr. Joshua Tiamson**: Joint videos at 8.9K-27K views. Pattern matches AI-generated cross-posting farms. McGill flag risk.
@@ -1631,3 +1651,11 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 | 2026-06-25 | VID-059 (Dentures/Anemia — Mechanical Malnutrition) | A: The Shrinking Plate (Terracotta/Coral), B: The Hidden Link (Dusty Rose/Coral) | 🆕 New Brief |
 
 *Last updated: 2026-06-25 by Thumbnail Analyst Agent (Cron)*
+
+### New Palettes Added (June 27 — Thumbnail Brief Run)
+|| Video | Primary | Accent 1 | Accent 2 | Status |
+||-------|---------|----------|----------|--------|
+|| VID-060 A | Deep forest brown (#2D1B0E) → Warm charcoal (#3A2D1F) | Warning scarlet (#D50000) | Contamination yellow (#FFAB00) | 🆕 New — Brief |
+|| VID-060 B | Split: Warm beige (#D7CCC8) → Clinical red (#B71C1C) | Fever red (#D50000) | Warning yellow (#FFEB3B) | 🆕 New — Brief |
+|| VID-061 A | Deep arterial purple (#4A0040) → Dark brain navy (#0D0D2A) | Clot red (#D50000) | Timer amber (#FF8F00) | 🆕 New — Brief |
+|| VID-061 B | Deep clinical teal (#004D40) → Dark navy (#0D1B2A) | Ischemic orange (#E65100) | Damage red (#FF1744) | 🆕 New — Brief |
