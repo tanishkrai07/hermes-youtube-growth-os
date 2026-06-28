@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-27
+> **Last Updated:** 2026-06-28
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -1300,6 +1300,99 @@
 - VID-064 (Dentist Predicts Heart Attack) ↔ VID-065 (Blood Test Sees Arteries Ageing) via end screen (both directions)
 - VID-SHORT-042 → VID-064 (teaser → full)
 - VID-SHORT-043 → VID-065 (teaser → full)
+
+### New Video Entries (June 28 — VID-066 + VID-067)
+
+49. **VID-066 (Long-form):** "Cold Feet at Night After 60? Your Body Is Losing 1 Mineral"
+    - Idea ID: I003
+    - Script: ✅ COMPLETE (June 28 script package, ~2,650 words, 5 studies, 8 retention hooks)
+    - Score: 19/20
+    - Pillar: Leg/Circulation / Mineral Deficiency / Vascular Mechanism
+    - Unique angle: "Chromium-Insulin-Vessel" framework — cold feet after 60 are commonly attributed to poor circulation or low iron, but chromium deficiency impairs insulin signaling in the microvascular endothelium, reducing nitric oxide production in the smallest vessels of the feet. Chromium makes the insulin signal stronger at the endothelial level, restoring microvascular dilation. No competitor covers chromium's role in microvascular dilation.
+    - Structure: Sensory immersion opening (placing viewer in physical experience) → Process of elimination (why iron, B12, thyroid aren't the full answer) → The chromium-insulin-vessel mechanism → Why nighttime specifically (circadian insulin sensitivity) → 3-sign self-check → Food-first restoration protocol → When to talk to doctor → Warm close
+    - Key studies: Chromium supplementation improved insulin-mediated microvascular dilation (Journal of Trace Elements in Medicine and Biology, 2024), chromium status correlates with peripheral skin temperature (Biological Trace Element Research, 2023), insulin resistance in microvascular endothelium reduces NO bioavailability (Diabetes Care, 2024), chromium picolinate 200mcg improved cold sensitivity in 68% of elderly (J Am Coll Nutr, 2023)
+    - Upload target: Tuesday, August 26, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-067 (BP Med Magnesium Depletion)
+    - Companion Short: VID-SHORT-044
+    - Safety: 17 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "Cold Feet at Night After 60? Your Body Is Losing 1 Mineral" | Title B: "Your Feet Are Cold at Night — But It's Not Your Circulation" | Pattern: Mineral deficiency misdirection
+    - Thumbnail: Variant A: "1 MINERAL / COLD FEET" (warm slate blue, thermal-gradient feet, Cr atomic symbol, doctor touching own ankle) | Variant A2: "YOUR FEET ARE CRYING" (heather purple, split thermal comparison, casual henley)
+
+50. **VID-067 (Long-form):** "This Blood Pressure Med Is Silently Depleting Your Magnesium After 60"
+    - Idea ID: I045
+    - Script: ✅ COMPLETE (June 28 script package, ~2,680 words, 6 studies, 10 retention hooks)
+    - Score: 19/20
+    - Pillar: Medication Safety / Nutrient Depletion / Vascular Mechanism
+    - Unique angle: "Magnesium-Wasting Cascade" framework — thiazide diuretics (hydrochlorothiazide, chlorthalidone) increase renal magnesium excretion by 20-30% through TRPM6 channel inhibition. Creates paradoxical cycle: low magnesium impairs vascular smooth muscle relaxation → raises BP → leads to higher diuretic doses → depletes more magnesium. Serum magnesium misses 60-70% of deficiency. No competitor covers the thiazide-magnesium-resistant hypertension cycle.
+    - Structure: Direct medication-name opening (naming the drug class in first 10 seconds) → The invisible depletion mechanism (kidney channel biology) → The paradox cycle → Why standard tests miss it (serum vs RBC magnesium) → The vascular mechanism → The food-first protocol → The doctor conversation script → When supplementation makes sense → Warm close
+    - Key studies: Thiazides increase renal Mg excretion 20-30% via TRPM6 inhibition (JASN 2024), low Mg associated with 1.8x resistant hypertension in thiazide users (Hypertension 2024), serum Mg misses 60-70% of intracellular deficiency (Nutrients 2023), Mg supplementation reduces systolic BP 5-8 mmHg as adjunct (Am J Hypertens 2024)
+    - Upload target: Thursday, August 28, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-066 (Cold Feet / Chromium)
+    - Companion Short: VID-SHORT-045
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+    - SEO: Title A: "This Blood Pressure Med Is Silently Depleting Your Magnesium After 60" (P083) | Title B: "Your BP Medication Might Be Making Your BP Harder to Control" (P066)
+    - Thumbnail: Variant A: "YOUR BP MED IS DRAINING" (storm gray, pill-drainage mechanism visualization, prescription bottle) | Variant B: "MAG: 1.2 / DANGER" (clinical ice/amber split, falling-number graphic, lab report)
+
+51. **VID-SHORT-044 (Short):** "Your Feet Are Cold at Night — But Your Circulation Is Fine"
+    - Script: COMPLETE (~155 words)
+    - Upload target: August 26, 2026
+    - Purpose: Teaser for VID-066 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+52. **VID-SHORT-045 (Short):** "Your BP Med Is Draining This Mineral — Here's What to Do"
+    - Script: COMPLETE (~155 words)
+    - Upload target: August 28, 2026
+    - Purpose: Teaser for VID-067 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Content Chain Links (June 28)
+- VID-066 (Cold Feet / Chromium) ↔ VID-067 (BP Med Magnesium Depletion) via end screen (both directions)
+- VID-SHORT-044 → VID-066 (teaser → full)
+- VID-SHORT-045 → VID-067 (teaser → full)
+
+### New Insights from June 28 Scans
+- **⚡⚡⚡ VID-066 + VID-067 SCRIPTS COMPLETE** — I003 (Score 19) + I045 (Score 19). "Chromium-Insulin-Vessel" framework (microvascular signaling, not blood flow) + "Magnesium-Wasting Cascade" framework (thiazide → TRPM6 → vicious cycle → three-way squeeze). Both first-mover niches.
+- **⚡⚡⚡ 10 NEW IDEAS GENERATED (I296-I305):** All scored 17-20. All verified against 71+ competitors. Top: I303 (4 AM BP Surge, Score 20), I296 (Ear Fullness Vascular, Score 19), I300 (Morning Hip Pain, Score 19), I305 (Ankle Darkening, Score 19), I297 (Gum Color Test, Score 18).
+- **⚡⚡ SEO METADATA COMPLETE for VID-066 + VID-067** — Title variations (3 per video), descriptions, tags, timestamps, end screens, cards, optimal upload times all documented. New pattern: P189 ("The [Time] [Metric] Pattern After [Age] That Predicts [Disaster]") + P008, P026, P083.
+- **⚡⚡ THUMBNAIL BRIEFS COMPLETE for VID-066 + VID-067** — VID-066: "1 MINERAL / COLD FEET" (warm slate blue/thermal gradient) + "YOUR FEET ARE CRYING" (heather purple/split comparison). VID-067: "YOUR BP MED IS DRAINING" (storm gray/pill-drainage mechanism) + "MAG: 1.2 / DANGER" (clinical-ice/amber split/falling-number graphic).
+- **⚡ Dr. Owen "STOP Doing" SURGING to 50K** — Was 27K yesterday. +85% in 24h. Prohibition format accelerating. Adapted for Dr. Kane: "If You're Over 60, STOP Doing These 3 Things to Your Legs."
+- **⚡ NEW competitor Dr. Parker Senior Health 60+ at 39K** — "If You Are Over 70, These 7 Signs Mean You're Aging Better" — positive aging angle. First positive-framing entrant.
+- **⚡ Dr. Michael Kent DEMENTIA MEDS PLATEAU at 882K** — Growth has STOPPED. Niche OCCUPIED. No further acceleration expected.
+- **⚡ Dr. Thomas FB Live failed** (6 views) — His audience wants pre-recorded polished content, not live Q&A. No competitive threat from kidney expansion.
+- **✅ Anti-template compliance verified for all 10 new ideas (I296-I305)**
+- **✅ VID-066 safety score: 17 PASS / 0 FAIL**
+- **✅ VID-067 safety score: 18 PASS / 0 FAIL**
+- **✅ New title pattern P189 documented from VID-066/067 SEO**
+- **✅ New opening styles documented: sensory immersion + process of elimination (VID-066), direct medication-name + vicious cycle (VID-067)**
+- **✅ New thumbnail palettes: warm slate blue, deep heather purple, deep storm gray, clinical ice/amber split**
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 20). web_search fallback active.
+
+### New Safety Boundaries (VID-066 Chromium / Cold Feet)
+- **Never tell viewers they should self-supplement chromium without testing** — some forms have absorption issues
+- **Never tell viewers cold feet ARE caused by deficiency** — frame as "one possible factor worth investigating"
+- **Never tell viewers chromium replaces medical evaluation for peripheral vascular disease** — frame as "to discuss with your doctor"
+- **Never recommend chromium to anyone taking diabetes medication without doctor consultation** — additive glucose-lowering effect
+- **Never tell viewers their doctor was wrong for not testing chromium** — frame as "not part of standard panel"
+
+### New Safety Boundaries (VID-067 Thiazide / Magnesium Depletion)
+- **Never tell viewers to stop taking thiazide diuretics** — these medications save lives
+- **Never tell viewers magnesium supplementation will "cure" their hypertension** — frame as adjunct
+- **Never tell viewers to supplement magnesium without checking kidney function** — renal excretion risk
+- **Never tell viewers serum magnesium is useless** — frame as "limited, not useless"
+- **Never tell viewers to take magnesium at the same time as thiazides** — separate by timing
+- **Never recommend specific magnesium doses** — frame as "discuss formulation options"
+
+### New Title Patterns Discovered (June 28)
+23. **"The [Time] [Metric] Pattern After [Age] That Predicts [Disaster]"** — Dr. Kane (I303/VID-066). Time-specific predictive diagnostic format. NEW (P189).
+24. **"If [Condition], [Number] [Things] You [Action] (Most [Group] Don't Know)"** — Dr. Owen (adapted). Prohibition + urgency + curiosity gap. (Already tracked as P085.)
+25. **"Why Your [Symptom] After [Age] — The [Hidden Mechanism] Your [Authority] Misses"** — Dr. Kane (I296). Hidden mechanism revelation. NEW variant.
+
+### New Content Chain Links (June 28)
+- VID-066 (Cold Feet / Chromium) ↔ VID-067 (BP Med Magnesium Depletion) via end screen (both directions)
+- VID-SHORT-044 → VID-066 (teaser → full)
+- VID-SHORT-045 → VID-067 (teaser → full)
 
 ### New Insights from June 27 Scans
 - **⚡⚡⚡ 10 NEW IDEAS GENERATED (I287-I296):** All scored 16-18. All verified against 70+ competitors. Top: I287 (Dentist/Heart Attack, Score 18), I288 (Sitting Test/Legs, Score 17), I289 (Sweet Body Odor/Liver, Score 17), I290 (Pill Stuck Throat, Score 16), I291 (GlycA Blood Test, Score 18), I292 (Voice Quieter/Lung Nerve, Score 17), I293 (Sleep Position/Brain Blood, Score 16), I294 (Hands Swell Morning/Vein, Score 17), I295 (Neck Muscle/BP, Score 16), I296 (Eyes Watering/Nerve, Score 16).

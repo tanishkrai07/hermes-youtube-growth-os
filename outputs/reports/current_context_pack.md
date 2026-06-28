@@ -1,8 +1,8 @@
 # Current Context Pack — Dr. Victor Kane Channel
 
-**Date:** 2026-06-27 (Updated June 27 — VID-064 + VID-065 scripts complete, all memory files synced)
-**Focus:** Thumbnail production for VID-060 through VID-063 | Next scripts: I278 + I286 + I279
-**Priority:** 🔴 Thumbnail production for VID-062/063 (August 12/14) | Next scripts: I278 + I286 + I279
+**Date:** 2026-06-28 (Updated June 28 — VID-066 + VID-067 scripts complete, 10 new ideas I296-I305)
+**Focus:** Thumbnail production for VID-060 through VID-067 | Next scripts: I303 + I296 + I300 + I305
+**Priority:** 🔴 Thumbnail production for VID-066/067 (August 26/28) | Next scripts: I303 + I296 + I300 + I305
 
 ---
 
@@ -68,9 +68,13 @@
 - VID-062 (Stomach Acid + Meds — I269, Score 19) — August 12 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
 - VID-063 (Iron Cells Starving — I271, Score 19) — August 14 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
 
-### Scripts Complete, Thumbnails Needed (August 19/21 uploads) — NEW (June 27)
+### Scripts Complete, Thumbnails Needed (August 19/21 uploads)
 - VID-064 (Dentist Predicts Heart Attack — I280, Score 18) — August 19 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
 - VID-065 (Blood Test Sees Arteries Ageing — I284, Score 18) — August 21 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
+
+### Scripts Complete, Thumbnails Needed (August 26/28 uploads) — NEW (June 28)
+- VID-066 (Cold Feet / Chromium — I003, Score 19) — August 26 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
+- VID-067 (BP Med Magnesium Depletion — I045, Score 19) — August 28 upload — ✅ SCRIPT COMPLETE — THUMBNAILS NEEDED
 
 ### Scripts Needed (No SEO Yet)
 - VID-038 (PPI Fall Risk — I161, Score 18) — TBD — 🔴 SCRIPT NEEDED
@@ -79,27 +83,28 @@
 
 ---
 
-## Tomorrow's Priorities (June 28)
+## Tomorrow's Priorities (June 29)
 
 ### 🔴 Critical (TODAY)
-1. **Produce VID-064 thumbnails** — Dentist Predicts Heart Attack (Score 18, for August 19 upload)
-2. **Produce VID-065 thumbnails** — Blood Test Sees Arteries Ageing (Score 18, for August 21 upload)
-3. **Produce VID-062 thumbnails** — Stomach Acid + Meds (Score 19, for August 12 upload)
-4. **Produce VID-063 thumbnails** — Iron Cells Starving (Score 19, for August 14 upload)
-5. **Produce VID-060 thumbnails** — Hantavirus (Score 20, for August 5 upload)
-6. **Produce VID-061 thumbnails** — Stroke 48-Hour Vascular Cascade (Score 19, for August 7 upload)
-7. **Monitor CTR at 48h** — Check all June 19 uploads for CTR performance (target >6%)
+1. **Produce VID-066 thumbnails** — Cold Feet / Chromium (Score 19, for August 26 upload)
+2. **Produce VID-067 thumbnails** — BP Med Magnesium Depletion (Score 19, for August 28 upload)
+3. **Produce VID-064 thumbnails** — Dentist Predicts Heart Attack (Score 18, for August 19 upload)
+4. **Produce VID-065 thumbnails** — Blood Test Sees Arteries Ageing (Score 18, for August 21 upload)
+5. **Produce VID-062 thumbnails** — Stomach Acid + Meds (Score 19, for August 12 upload)
+6. **Produce VID-063 thumbnails** — Iron Cells Starving (Score 19, for August 14 upload)
+7. **Produce VID-060 thumbnails** — Hantavirus (Score 20, for August 5 upload)
 
 ### 🟡 Important (This Week)
-8. **Produce VID-058/059 thumbnails** — For July 29/31 uploads
-9. **Produce VID-056/057 thumbnails** — For July 22/24 uploads
-10. **Produce VID-054/055 thumbnails** — For July 15/17 uploads
-11. **Begin I287 script** — Dentist Predicts Heart Attack (Score 18, zero competition)
-12. **Begin I291 script** — GlycA Blood Test / Arterial Age (Score 18, zero competition)
+8. **Produce VID-061 thumbnails** — Stroke 48-Hour Vascular Cascade (Score 19, for August 7 upload)
+9. **Produce VID-058/059 thumbnails** — For July 29/31 uploads
+10. **Produce VID-056/057 thumbnails** — For July 22/24 uploads
+11. **Begin I303 script** — 4 AM Blood Pressure Surge Predicts Stroke (Score 20, new P189 pattern)
+12. **Begin I296 script** — Ear Fullness Vascular / Internal Carotid Siphon Compression (Score 19)
 
 ### 🟢 When Time Permits
-13. **Begin I288 script** — Sitting Test / Legs Failing (Score 17, zero competition)
-14. **Begin I292 script** — Voice Quieter / Ortner's Syndrome (Score 17, zero competition)
+13. **Begin I300 script** — Morning Hip Pain / Nocturnal Femoral Perfusion Drop (Score 19)
+14. **Begin I305 script** — Ankle Darkening / Hemosiderin Sentinel (Score 19)
+15. **Begin I297 script** — Gum Color Test / Gum Oxygenation Index (Score 18)
 
 ---
 
@@ -110,8 +115,10 @@
 | I001/VID-060 | Hantavirus: 5 Hiding Places + 3 Warning Signs | Warning/Virus | 20 | ✅ SCRIPT COMPLETE — June 25 |
 | I002/VID-061 | Stroke 48-Hour Vascular Cascade | Brain/Warning | 19 | ✅ SCRIPT COMPLETE — June 25 |
 | I269/VID-062 | Stomach Acid Dropped 40% — Meds Not Absorbing | Medication Safety | 19 | ✅ SCRIPT COMPLETE — June 26 |
-| I271/VID-063 | Iron Levels Normal but Cells Starving | Blood/Diagnostic | 19 | ✅ SCRIPT COMPLETE — June 26 |
-| I074/VID-058 | Blood Test Predicts Memory 10 Years Before | Brain/Predictive | 19 | ✅ SCRIPT COMPLETE — June 24 |
+|| I271/VID-063 | Iron Levels Normal but Cells Starving | Blood/Diagnostic | 19 | ✅ SCRIPT COMPLETE — June 26 |
+|| I003/VID-066 | Cold Feet at Night — Losing 1 Mineral | Leg/Circulation | 19 | ✅ SCRIPT COMPLETE — June 28 |
+|| I045/VID-067 | BP Med Silently Depleting Magnesium | Medication/Nutrient | 19 | ✅ SCRIPT COMPLETE — June 28 |
+|| I074/VID-058 | Blood Test Predicts Memory 10 Years Before | Brain/Predictive | 19 | ✅ SCRIPT COMPLETE — June 24 |
 | I071/VID-059 | Dentures Making You Anemic | Dental/Nutrient | 18 | ✅ SCRIPT COMPLETE — June 24 |
 | I109/VID-056 | Dawn Phenomenon — The 4-8 AM Liver Glucose Dump | Blood Sugar/Circadian | 21 | ✅ SCRIPT COMPLETE — June 23 |
 | I119/VID-057 | Restless Legs — Brain Iron Deficiency | Sleep/Neurological | 21 | ✅ SCRIPT COMPLETE — June 23 |
@@ -134,26 +141,36 @@
 | I275 | Gut Bacteria Changed — Mood Impact | Gut-Brain Axis | 18 | 🟡 Script needed — Zero competition |
 | I270 | Gum Recession — Bone Loss Signal | Dental/Bone | 17 | 🟡 Script needed — Zero competition |
 | I276 | Frozen Shoulder — Neck Nerve Problem | Neurological/Joint | 17 | 🟡 Script needed — Zero competition |
-| I280/VID-064 | Dentist Predicts Heart Attack | Dental-Cardiovascular | 18 | ✅ SCRIPT COMPLETE — June 27 |
-| I284/VID-065 | Blood Test Sees Arteries Ageing | Diagnostic/Cardiovascular | 18 | ✅ SCRIPT COMPLETE — June 27 |
+|| I280/VID-064 | Dentist Predicts Heart Attack | Dental-Cardiovascular | 18 | ✅ SCRIPT COMPLETE — June 27 |
+|| I284/VID-065 | Blood Test Sees Arteries Ageing | Diagnostic/Cardiovascular | 18 | ✅ SCRIPT COMPLETE — June 27 |
+|| I296 | Ear Fullness Vascular — Carotid Siphon | Vascular/ENT | 19 | 🟡 Script needed — Zero competition |
+|| I297 | Gum Color Test — Arterial Oxygenation | Dental-Cardiovascular | 18 | 🟡 Script needed — Zero competition |
+|| I298 | Voice Quietness — Laryngeal Perfusion | Vascular/Neurological | 18 | 🟡 Script needed — Zero competition |
+|| I299 | 2-Second Skin Pinch — Perfusion Refill | Vascular/Diagnostic | 18 | 🟡 Script needed — Zero competition |
+|| I300 | Morning Hip Pain — Femoral Perfusion | Vascular/Joint | 19 | 🟡 Script needed — Zero competition |
+|| I301 | Smooth Tongue — Lingual Papillae | Vascular/Nutritional | 17 | 🟡 Script needed — Zero competition |
+|| I302 | Finger Stiffness — Synovial Perfusion | Vascular/Joint | 18 | 🟡 Script needed — Zero competition |
+|| I303 | 4 AM BP Surge — Stroke Predictor | Vascular/Sleep | 20 | 🔴 Script needed — TOP PRIORITY |
+|| I304 | Eyelid Drooping — Oculomotor Ischemia | Vascular/Neurological | 17 | 🟡 Script needed — Zero competition |
+|| I305 | Ankle Darkening — Hemosiderin Sentinel | Vascular/Dermatological | 19 | 🟡 Script needed — Zero competition |
 
 ---
 
 ## URGENT Production Pipeline (Updated June 27)
 
 ### Next 5 Scripts to Write (Priority Order)
-1. **I287** — Dentist Predicts Heart Attack (Score 18, zero competition)
-2. **I291** — GlycA Blood Test / Arterial Age (Score 18, zero competition)
-3. **I288** — Sitting Test / Legs Failing (Score 17, zero competition)
-4. **I292** — Voice Quieter / Ortner's Syndrome (Score 17, zero competition)
-5. **I294** — Hands Swell Morning / Vein Truth (Score 17, zero competition)
+1. **I303** — 4 AM Blood Pressure Surge Predicts Stroke (Score 20, zero competition, new P189 pattern)
+2. **I296** — Ear Fullness Vascular / Internal Carotid Siphon Compression (Score 19, zero competition)
+3. **I300** — Morning Hip Pain / Nocturnal Femoral Perfusion Drop (Score 19, zero competition)
+4. **I305** — Ankle Darkening / Hemosiderin Sentinel (Score 19, zero competition)
+5. **I297** — Gum Color Test / Gum Oxygenation Index (Score 18, zero competition)
 
 ### Next 5 Thumbnail Briefs Needed
-1. **VID-064** — Dentist Predicts Heart Attack (Score 18, script complete, SEO complete)
-2. **VID-065** — Blood Test Sees Arteries Ageing (Score 18, script complete, SEO complete)
-3. **VID-062** — Stomach Acid + Meds (Score 19, script complete, brief complete)
-4. **VID-063** — Iron Cells Starving (Score 19, script complete, brief complete)
-5. **VID-060** — Hantavirus (Score 20, script complete, brief complete)
+1. **VID-066** — Cold Feet / Chromium (Score 19, script complete, brief complete — NEW June 28)
+2. **VID-067** — BP Med Magnesium Depletion (Score 19, script complete, brief complete — NEW June 28)
+3. **VID-064** — Dentist Predicts Heart Attack (Score 18, script complete, SEO complete)
+4. **VID-065** — Blood Test Sees Arteries Ageing (Score 18, script complete, SEO complete)
+5. **VID-062** — Stomach Acid + Meds (Score 19, script complete, brief complete)
 
 ---
 
@@ -194,24 +211,24 @@
 - **Never tell viewers GlycA is "more important" than standard tests** — frame as "additional information"
 - **Never claim GlycA testing is universally recommended** — frame as an option to discuss with their doctor
 
-### Anti-Template Compliance Verification (June 27)
+### Anti-Template Compliance Verification (June 28)
 
-✅ **VID-064 (Dentist Predicts Heart Attack):**
-- Unique structure: Authority-reversal opening (dentist before cardiologist) → Open-door mechanism (bleeding gums as bacterial exit) → Arterial colonization journey → Three gum signals → Inflammation bridge → Why dentists notice first → What dental records reveal → Action for next cleaning → Empowerment close
-- Different from VID-065 (personal patient narrative), VID-063 (paradox opening), VID-062 (medication mystery), VID-061 (internal journey), VID-060 (geographic investigation)
-- "Remove the Name" test: PASSED — Dr. Kane's vascular medicine framing of oral health is unmistakable
-- Original insight: "Oral-Cardiac Migration" framework + P. gingivalis colonization of coronary plaque + three dental signals that predict cardiovascular risk
+✅ **VID-066 (Cold Feet / Chromium):**
+- Unique structure: Sensory immersion opening → Process of elimination (wrong-guess series) → Mechanism reveal → Circadian timing → Self-check → Food-first protocol → Doctor conversation → Warm close
+- Different from VID-067 (direct medication-name + vicious cycle), VID-065 (personal patient narrative), VID-064 (authority-reversal), VID-063 (paradox opening), VID-062 (medication mystery)
+- "Remove the Name" test: PASSED — Dr. Kane's "chromium-insulin-vessel" mechanism is unmistakable
+- Original insight: "Chromium-Insulin-Vessel" framework — completely unowned intersection of trace mineral + microvascular + insulin signaling
 - No alarmist language, no surgeon flexes, no pharmaceutical conspiracy
 
-✅ **VID-065 (Blood Test Sees Arteries Ageing):**
-- Unique structure: Personal patient narrative ("I had a patient...") → Standard test failure → What standard tests miss (inflammation gap) → New test explanation → "Arterial Age" framework → Number interpretation → How to get tested → What to do with results → Personal resolution close
-- Different from all previous scripts — combines personal clinical narrative with conceptual innovation (arterial age) and practical health navigation
-- "Remove the Name" test: PASSED — Dr. Kane's "arterial age" concept and clinical narrative voice are unique
-- Original insight: "Arterial Age" framework + GlycA as inflammation-specific biomarker + paradigm shift from cholesterol quantity to arterial inflammation quality
+✅ **VID-067 (BP Med Magnesium Depletion):**
+- Unique structure: Direct medication-name opening → Kidney channel mechanism → Paradox cycle → Testing gap → Vascular consequences → Food-first protocol → Doctor script → James story → Action steps
+- Different from all previous scripts — opens by naming the drug class immediately, uses "vicious cycle" structure
+- "Remove the Name" test: PASSED — Dr. Kane's "three-way squeeze" framing is unique
+- Original insight: "Magnesium-Wasting Cascade" framework + TRPM6 channel mechanism + serum vs RBC testing gap
 - No alarmist language, no surgeon flexes, no pharmaceutical conspiracy
 
 ✅ **All memory files updated with latest safety boundaries**
 ✅ **All title patterns documented**
 ✅ **All competitor formats documented with risk assessment**
 
-*Script-writer agent — Daily Run Complete — 2026-06-27 | 2 scripts written: VID-064 (~2,650 words) + VID-065 (~2,680 words)*
+*Memory Curator Agent — Daily Run Complete — 2026-06-28 | VID-066 + VID-067 scripts confirmed compliant | 10 new ideas (I296-I305) added to idea bank | All memory files updated*

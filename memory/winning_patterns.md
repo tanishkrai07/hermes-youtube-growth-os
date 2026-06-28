@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-27 (June 27 — VID-064 + VID-065 scripts complete, new patterns P083-P084 added)
+> **Last Updated:** 2026-06-28 (June 28 — VID-066 + VID-067 scripts complete, new palettes added, P189 added)
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -110,6 +110,20 @@
 4. **"Walking less? Try these 5 things instead" format** — Dr. Thomas. Walking replacement for seniors 60+. Pain-point format.
 5. **"Kidney Reset" sub-theme** — Doctor Becker. Added to existing coffee format (1.4M views). Kidney health CLAIMED via different angle.
 6. **"Doctor: 1 Vitamin Before Bed..." format** — Dr. Hargrove. Bedtime supplement format replicating Becker's success.
+
+### New Patterns Added 2026-06-28 (from June 28 scan)
+
+### New Title Formulas (June 28 Discovery)
+| Pattern ID | Formula | Source | Views |
+|------------|---------|--------|-------|
+| P085 | "If You Are Over [Age], These [Number] Signs Mean You're [Positive Outcome] Than Most People" | Dr. Parker Senior Health 60+ | 39-40K |
+
+### New Viral Formats (June 28)
+1. **"STOP Doing These [Number] Things Immediately" format** — Dr. Owen (50K, +85% in 24h): Prohibition + urgency + age target + "most seniors don't know" curiosity gap. ADAPTABLE: "If You're Over 60, STOP Doing These 3 Things to Your Legs (Most Seniors Don't Know This)"
+2. **"Positive Aging" format** — Dr. Parker Senior Health 60+ (39-40K): "Aging better than most" positive framing. Differentiates from fear-based saturation. ADAPTABLE: "If You're Over 60, These 3 Signs Mean Your Arteries Are Younger Than Most People"
+
+### New Cross-Post Networks (June 28)
+- **Dr. Owen Senior Health + Dr. Joshua Tiamson**: "STOP Doing These 7 Things" now at 50K (was 27K). Accelerating. Monitor for McGill flag.
 
 ### New Patterns Added 2026-06-27 (from June 27 scan)
 
@@ -470,7 +484,9 @@
 || 2026-06-25 | VID-058 (Dementia Blood Test) | A: The Time Machine, B: The Inherited Code | 🆕 New Brief |
 || 2026-06-25 | VID-059 (Dentures/Anemia) | A: The Shrinking Plate, B: The Hidden Link | 🆕 New Brief |
 || 2026-06-26 | VID-062 (Stomach Acid/Meds) | A: The Dissolving Problem, B: The 5 Drug Blind Spot | 🆕 New Brief |
-|| 2026-06-26 | VID-063 (Iron Cells Starving) | A: The Ferritin Mirage, B: The Hidden Ratio | 🆕 New Brief |
+|||| 2026-06-26 | VID-063 (Iron Cells Starving) | A: The Ferritin Mirage, B: The Hidden Ratio | 🆕 New Brief |
+||||| 2026-06-28 | VID-066 (Cold Feet / Chromium) | A: Thermal-Gradient Empathy, A2: Split Foot Personification | 🆕 New Brief |
+||||| 2026-06-28 | VID-067 (BP Med Magnesium Depletion) | A: Pill-Drainage Mechanism, B: Falling Lab Number | 🆕 New Brief |
 406|406|403|### New Palettes Added (June 15)
 401|| Video | Primary | Accent 1 | Accent 2 | Status |
 402||-------|---------|----------|----------|--------|
@@ -520,9 +536,13 @@
 ||-------|---------|----------|----------|--------|||
 || VID-062 A | Rust-bronze (#6D3B1E) → Mahogany (#3E1C10) | Gastric orange (#FF6D00) | Pale yellow (#FFF9C4) | 🆕 New — Brief ||
 || VID-062 B | Sandstone (#C4A882) / Espresso (#2C1810) split | Clinical coral (#E85D3A) | Muted teal (#5D9E8F) | 🆕 New — Brief ||
-|| VID-063 A | Deep aubergine (#3A004D) | Misleading green (#4CAF50) | Warning red (#D32F2F) | 🆕 New — Brief ||
-|| VID-063 B | Indigo-red (#2A003A) → Near-black (#0D000D) | Warm amber (#FFAB00) | Clinical green (#4CAF50) / Red (#FF1744) | 🆕 New — Brief ||
-||428|
+||| VID-063 A | Deep aubergine (#3A004D) | Misleading green (#4CAF50) | Warning red (#D32F2F) | 🆕 New — Brief ||
+||| VID-063 B | Indigo-red (#2A003A) → Near-black (#0D000D) | Warm amber (#FFAB00) | Clinical green (#4CAF50) / Red (#FF1744) | 🆕 New — Brief ||
+||| VID-066 A | Warm slate blue (#5C6BC0) → Deep twilight (#283593) | Thermal ice-blue (#80DEEA) | Chromium gold (#FFD600) / Warm orange (#FF8F00) | 🆕 New — Brief ||
+||| VID-066 A2 | Deep heather purple (#7E57C2) → Midnight (#311B92) | Warm amber (#FFB300) | Ice cyan (#80DEEA) | 🆕 New — Brief ||
+||| VID-067 A | Deep storm gray (#37474F) → Near-black (#1A1A1A) | Magnesium white-silver (#ECEFF1) | BP red (#D50000) / Depletion amber (#FFAB00) | 🆕 New — Brief ||
+||| VID-067 B | Split: Clinical ice (#E8F5E9) → Amber warning (#FF8F00) | Danger red (#FF1744) | Lab white (#FAFAFA) | 🆕 New — Brief ||
+|||428|
 |### New Palettes Added (June 13)|
 | Video | Primary | Accent 1 | Accent 2 | Status |
 |-------|---------|----------|----------|--------|
@@ -1659,3 +1679,22 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 || VID-060 B | Split: Warm beige (#D7CCC8) → Clinical red (#B71C1C) | Fever red (#D50000) | Warning yellow (#FFEB3B) | 🆕 New — Brief |
 || VID-061 A | Deep arterial purple (#4A0040) → Dark brain navy (#0D0D2A) | Clot red (#D50000) | Timer amber (#FF8F00) | 🆕 New — Brief |
 || VID-061 B | Deep clinical teal (#004D40) → Dark navy (#0D1B2A) | Ischemic orange (#E65100) | Damage red (#FF1744) | 🆕 New — Brief |
+
+### New Palettes Added (June 28 — Thumbnail Brief Run)
+|| Video | Primary | Accent 1 | Accent 2 | Status ||
+||-------|---------|----------|----------|--------||
+|| VID-066 A | Warm slate blue (#5C6BC0) → Deep twilight (#283593) | Thermal ice-blue (#80DEEA) | Chromium gold (#FFD600) | 🆕 New — Brief ||
+|| VID-066 A2 | Deep heather purple (#7E57C2) → Midnight (#311B92) | Warm amber (#FFB300) | Ice cyan (#80DEEA) | 🆕 New — Brief ||
+|| VID-067 A | Deep storm gray (#37474F) → Near-black (#1A1A1A) | Magnesium white-silver (#ECEFF1) | Depletion amber (#FFAB00) | 🆕 New — Brief ||
+|| VID-067 B | Split: Clinical ice (#E8F5E9) → Amber warning (#FF8F00) | Danger red (#FF1744) | Lab white (#FAFAFA) | 🆕 New — Brief ||
+
+### New Title Patterns (June 28)
+- **P189:** "The [Time] [Metric] Pattern After [Age] That Predicts [Disaster]" — Dr. Kane (I303 T1). Time-specific predictive diagnostic. NEW pattern from VID-066/067 SEO work.
+- **P008 reuse:** "[Symptom] After 60 Is NOT [Common Belief] — It's [True Cause]" — Dr. Kane (I296 T2). Proven at Score 20 across multiple channels.
+- **P083 reuse:** "Why Your [Body Part] [Symptom] After [Age] — The [Hidden Organ] Connection Doctors Miss" — Dr. Kane (I296 T1).
+
+### New Competitor Patterns to Monitor (June 28)
+1. **"If You Are Over [Age], These [Number] Signs Mean You're [Positive Outcome] Than Most People"** — Dr. Parker Senior Health 60+ (39-40K). Positive aging angle. Monitor for replication.
+2. **"STOP Doing These [Number] Things Immediately"** — Dr. Owen at 50K (+85% in 24h). Prohibition + urgency format ACCELERATING.
+
+*Last updated: 2026-06-28 by Memory Curator Agent (Cron)*

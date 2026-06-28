@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-27
+> **Last Updated:** 2026-06-28
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -743,3 +743,32 @@
 - **Never claim GlycA testing is universally recommended** — frame as an option to discuss with their doctor
 - **Never tell viewers their GlycA number means they WILL have a heart attack** — frame as "one risk factor among many"
 - **Never recommend specific supplements to lower GlycA** — frame as "discuss any supplementation with your doctor"
+
+#### New Safety Boundaries (VID-066 Chromium / Cold Feet Production)
+- **Never tell viewers they should self-supplement chromium without testing** — some forms have absorption issues
+- **Never tell viewers cold feet ARE caused by deficiency** — frame as "one possible factor worth investigating"
+- **Never tell viewers chromium replaces medical evaluation for peripheral vascular disease** — frame as "to discuss with your doctor"
+- **Never recommend chromium to anyone taking diabetes medication without doctor consultation** — additive glucose-lowering effect
+- **Never tell viewers their doctor was wrong for not testing chromium** — frame as "not part of standard panel"
+
+#### New Safety Boundaries (VID-067 Thiazide / Magnesium Depletion Production)
+- **Never tell viewers to stop taking thiazide diuretics** — these medications save lives
+- **Never tell viewers magnesium supplementation will "cure" their hypertension** — frame as adjunct
+- **Never tell viewers to supplement magnesium without checking kidney function** — renal excretion risk
+- **Never tell viewers serum magnesium is useless** — frame as "limited, not useless"
+- **Never tell viewers to take magnesium at the same time as thiazides** — separate by timing
+- **Never recommend specific magnesium doses** — frame as "discuss formulation options with your doctor"
+
+#### New Safety Boundaries (I296-I305 Batch — June 28 Ideas)
+- **Never tell viewers their [body part] symptom means they have [disease]** — frame as "worth investigating"
+- **Never tell viewers to self-diagnose based on self-tests** — frame as "screening tools, not diagnostic tools"
+- **Never tell viewers to stop any medication based on mechanism explanations** — always "discuss with your doctor"
+- **Never claim any single nutrient "cures" a symptom** — frame as "contributing factor"
+- **Never use fear-based framing for body signal content** — frame as "empowerment through awareness"
+
+#### Platform Risk Update (June 28)
+- **Dr. Owen + Dr. Joshua Tiamson cross-posting partnership at 50K** — Monitor for McGill flag indicators (identical thumbnails, AI voices, template titles). Cross-posting networks increasingly targeted by YouTube enforcement.
+- **Dr. Thomas FB Live failure (6 views)** — Live Q&A format does not work for this audience. Pre-recorded polished content is expected.
+- **Dr. Parker Senior Health 60+ emerging at 39K** — Positive aging angle is unique. Monitor for growth. Not a cross-posting farm pattern (appears authentic).
+
+*Last updated: 2026-06-28 by Memory Curator Agent (Cron)*
