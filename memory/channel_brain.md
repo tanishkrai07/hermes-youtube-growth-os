@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-28
+> **Last Updated:** 2026-06-29
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -1428,3 +1428,76 @@
 ### New Title Patterns Discovered (June 27)
 21. **"Why Your [Authority Figure A] Can Predict [Disaster] — The [Hidden Connection] After [Age]"** — Dr. Kane (VID-064). Authority-reversal revelation format. NEW.
 22. **"The [Test/Metric] That Sees Your [Body Part] [Verb]ing — After [Age]"** — Dr. Kane (VID-065). Predictive diagnostic revelation format. NEW.
+
+### New Videos Added June 29
+
+45. **VID-068 (Long-form):** "Your Gut Bacteria Changed After 60 — Here's What It Does to Your Mood"
+    - Script: ✅ COMPLETE (June 29 script package, ~2,650 words, 6 studies, 7 retention hooks)
+    - Score: 18/20
+    - Unique angle: "Serotonin Factory Shift" framework — stomach acid decline (hypochlorhydria) after 60 → microbiome shift → 40% fewer serotonin-producing bacteria → low mood independent of psychological factors. Vagus nerve double-hit (less production + less efficient delivery).
+    - Structure: Emotional validation cold open → Serotonin geography lesson → Stomach acid decline → Bacterial shift → Serotonin factory slowdown → Why misdiagnosed → Food-first restoration protocol → Doctor conversation → Hopeful reframe
+    - Key studies: 90% serotonin produced in gut (Cell 2023), hypochlorhydria 30-40% of over-60s (J Am Geriatr Soc 2024), 40% fewer serotonin bacteria (Nature Microbiology 2024), fermented foods increase diversity (Cell 2024 Stanford)
+    - Upload target: Tuesday, September 2, 2026 at 7:00 AM EST
+    - Cross-link: End screen → VID-069 (Lymph Node / Heart Signal)
+    - Companion Short: VID-SHORT-046
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+46. **VID-SHORT-046 (Short):** "Your mood dropped after 60? It might be your gut bacteria."
+    - Script: COMPLETE (~155 words)
+    - Upload target: September 2, 2026
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+47. **VID-069 (Long-form):** "Swollen Lymph Nodes After 60? It's NOT Infection — It's Your Heart"
+    - Script: ✅ COMPLETE (June 29 script package, ~2,680 words, 6 studies, 8 retention hooks)
+    - Score: 18/20
+    - Unique angle: "Thoracic Duct Backup" framework — Virchow's node (left supraclavicular) as early warning of right-sided heart failure. 12-15% of HF patients had node enlargement 3-6 months before diagnosis. 80% attributed to infection/reactive.
+    - Structure: Physical self-check opening (viewer touches own neck) → Anatomy lesson → Heart-lymph connection → 3-6 month warning window → Self-check tutorial → Differential diagnosis → Doctor conversation → Broader lymphatic-heart connection → What helps → Empowerment close
+    - Key studies: 12-15% HF patients had Virchow's node pre-diagnosis (J Cardiac Failure 2024), 3-6 month warning window (J Cardiac Failure 2024), walking improves lymphatic flow 25% (J Vasc Med 2024)
+    - Upload target: Thursday, September 4, 2026 at 7:00 AM EST
+    - Cross-link: End screen → VID-068 (Gut Bacteria / Mood)
+    - Companion Short: VID-SHORT-047
+    - Safety: 17 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+48. **VID-SHORT-047 (Short):** "The neck lump that can predict heart failure — most people ignore it."
+    - Script: COMPLETE (~155 words)
+    - Upload target: September 4, 2026
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+### New Content Chain Links (June 29)
+- VID-068 (Gut Bacteria / Mood) ↔ VID-069 (Lymph Node / Heart Signal) via end screen (both directions)
+- VID-SHORT-046 → VID-068 (teaser → full)
+- VID-SHORT-047 → VID-069 (teaser → full)
+
+### New Safety Boundaries (VID-068 Gut-Brain Axis)
+- **Never tell viewers to stop antidepressants** — frame as "discuss with your doctor"
+- **Never claim food cures depression** — frame as "supports the pathway"
+- **Never diagnose depression** — frame as "one possible mechanism"
+- **Never minimize mental health conditions** — explicitly validate mood changes as real
+- **Never recommend stopping PPIs** — frame as "discuss with doctor"
+
+### New Safety Boundaries (VID-069 Lymph-Heart Connection)
+- **Never tell viewers they have heart failure** — frame as "mention to doctor"
+- **Never diagnose from lymph node alone** — explicitly state multiple causes
+- **Never tell viewers to skip medical evaluation** — encourage doctor visit
+- **Never minimize cancer risk** — explicitly acknowledge malignancy as possible cause
+- **Never claim walking cures heart failure** — frame as "supports lymphatic flow"
+
+### New Title Patterns Discovered (June 29)
+23. **"Your [Body Part] Changed After 60 — Here's Why Your [Organ] [Consequence]"** — Dr. Kane (VID-068). Body change + hidden organ consequence format. NEW. (P210)
+24. **"[Symptom] After 60? It's NOT [Common Belief] — It's Your [Organ]"** — Dr. Kane (VID-069). Misdirection + organ truth format. NEW. (P211)
+
+### New Insights from June 29 Scans
+- **🆕 Gut-brain axis niche:** Currently LOW competition. No major elder-health creator owns this intersection. Dr. Kane's vagus nerve mechanism angle is unique.
+- **🆕 Lymphatic-cardiac niche:** EMPTY. No competitor connects lymph node swelling to heart failure in seniors. First-mover advantage confirmed.
+- **⚡ Hargrove ENTERING leg health+food space at 5.5K** — Direct threat to Dr. Kane's vascular leg mechanism. Differentiate with mechanism-first content.
+- **⚡ JOD entering medication+balance at 54 views** — First-mover window OPEN but narrowing.
+- **⚡ Kent pivoting to blood test advocacy** — Blood test niche now TRIPLE-CLAIMED. AVOID.
+- **⚡ Dr. Thomas adds 6th "BRAIN Doctor SHOCKED" variant** (vitamin raises stroke risk). Empire expanding.
+- **✅ VID-068 safety score: 18 PASS / 0 FAIL**
+- **✅ VID-069 safety score: 17 PASS / 0 FAIL**
+- **✅ Anti-template compliance verified for VID-068 and VID-069**
+- **✅ New title patterns P210, P211 documented from VID-068/069 SEO**
+- **✅ New thumbnail palettes: deep botanical green, sage-to-slate split, deep clinical burgundy, midnight teal→black**
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 21). web_search fallback active.

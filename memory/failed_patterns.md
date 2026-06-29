@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-28
+> **Last Updated:** 2026-06-29
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -772,3 +772,22 @@
 - **Dr. Parker Senior Health 60+ emerging at 39K** — Positive aging angle is unique. Monitor for growth. Not a cross-posting farm pattern (appears authentic).
 
 *Last updated: 2026-06-28 by Memory Curator Agent (Cron)*
+
+### New Failure Patterns Observed (June 29)
+
+#### Competitor Format Saturation Failures
+1. **"BRAIN Doctor SHOCKED" format (6+ variants)** — Dr. Thomas has replicated this format across 6 content pillars (vegetable, morning habit, fruit, exercise, walking, vitamin). While it still works for him, the format is now CLOSED to others. Attempting to replicate it = template trap.
+2. **"Medications Destroying Balance" format** — JOD entering at 54 views. While the niche is still open, the "[Number] Medications Destroying Your [Thing]" formula is a direct copy of Whitmore's "These 3 BP Medications Are Quietly Destroying Your Heart" format. AVOID the "[Number] [Things] Destroying Your [Thing]" formula — it's saturating.
+3. **"Losing Your Legs — One Food Stops It" format** — Hargrove entering leg health+food space. The "One Food That Stops It" formula is a weaker version of Whitmore's "ONE Vitamin That..." format. AVOID the "One [Thing] That Stops It" formula — it's been done to death.
+
+#### Platform Risk Updates (June 29)
+- **"How I Built a Senior Health Channel to 200K Subscribers Using AI" video detected** — Someone is TEACHING the AI-generated senior health channel model. This will create more low-quality competitors but also accelerates McGill enforcement. POSITIVE for Dr. Kane long-term.
+- **Dr. Sarah Mitchell now on 3+ channels** — Multi-ID strategy at HIGH McGill flag risk. Dr. Kane's single-channel approach remains the defensive moat.
+- **Firecrawl API STILL DOWN (Day 21)** — web_search fallback only. Competitor data is partial. Manual YouTube checks recommended for precise view tracking.
+
+#### Content Safety Failures to Avoid (from VID-068/069 production)
+1. **Gut-brain axis content** — NEVER tell viewers to stop antidepressants based on gut mechanism. The gut-mood connection is real but it's ONE piece of a complex picture. Frame as "add to your conversation with your doctor" not "your antidepressant is wrong."
+2. **Lymph node content** — NEVER tell viewers they have heart failure based on a lymph node. Multiple causes exist (infection, cancer, cardiac). Frame as "worth mentioning to your doctor" not "this means your heart is failing."
+3. **Self-check content** — NEVER present self-checks as diagnostic tools. Frame as "screening awareness" that prompts a doctor visit, not "you can diagnose yourself at home."
+
+*Last updated: 2026-06-29 by Memory Curator Agent (Cron)*

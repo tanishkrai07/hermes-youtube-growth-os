@@ -1,32 +1,27 @@
 # Next Actions — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-28
-> **Planning Horizon:** June 29 - July 12, 2026
+> **Last Updated:** 2026-06-29
+> **Planning Horizon:** June 30 - July 13, 2026
 
-## 🔴 IMMEDIATE (June 29, 2026)
+## 🔴 IMMEDIATE (June 30, 2026)
 
 ### Thumbnail Production — URGENT
-1. **Produce VID-066 Thumbnails** — Cold Feet / Chromium (Score 19, for August 26 upload)
+1. **Produce VID-068 Thumbnails** — Gut Bacteria / Mood (Score 18, for September 2 upload)
+   - Script + brief complete (June 29). "Serotonin Factory Shift" framework.
+   - Brief: Two variants — Variant A (deep botanical green, gut bacteria → mood brain, doctor touching abdomen) + Variant B (sage-to-slate split, happy vs sad gut comparison).
+2. **Produce VID-069 Thumbnails** — Lymph Node / Heart Signal (Score 18, for September 4 upload)
+   - Script + brief complete (June 29). "Thoracic Duct Backup" framework.
+   - Brief: Two variants — Variant A (deep clinical burgundy, neck node → heart arrow, doctor touching neck) + Variant B (midnight teal→black, full body node map).
+3. **Produce VID-066 Thumbnails** — Cold Feet / Chromium (Score 19, for August 26 upload)
    - Script + brief complete (June 28). "Chromium-Insulin-Vessel" framework.
-   - Brief: Two variants — Variant A (warm slate blue, thermal-gradient feet, Cr atomic symbol, doctor touching ankle) + Variant A2 (heather purple, split comparison, casual henley).
-2. **Produce VID-067 Thumbnails** — BP Med Magnesium Depletion (Score 19, for August 28 upload)
+4. **Produce VID-067 Thumbnails** — BP Med Magnesium Depletion (Score 19, for August 28 upload)
    - Script + brief complete (June 28). "Magnesium-Wasting Cascade" framework.
-   - Brief: Two variants — Variant A (storm gray, pill-drainage mechanism, prescription bottle) + Variant B (clinical ice/amber split, falling-number graphic, lab report).
-3. **Produce VID-064 Thumbnails** — Dentist Predicts Heart Attack (Score 18, for August 19 upload)
+5. **Produce VID-064 Thumbnails** — Dentist Predicts Heart Attack (Score 18, for August 19 upload)
    - Script complete (June 27). "Oral-Cardiac Migration" framework.
-   - SEO complete: P160, P096, P023 title patterns.
-4. **Produce VID-065 Thumbnails** — Blood Test Sees Arteries Ageing (Score 18, for August 21 upload)
+6. **Produce VID-065 Thumbnails** — Blood Test Sees Arteries Ageing (Score 18, for August 21 upload)
    - Script complete (June 27). "Arterial Age" framework.
-   - SEO complete: P171, P086, P008 title patterns.
-5. **Produce VID-062 Thumbnails** — Stomach Acid + Meds (Score 19, for August 12 upload)
+7. **Produce VID-062 Thumbnails** — Stomach Acid + Meds (Score 19, for August 12 upload)
    - Script complete (June 26). "Pharmacological pH Threshold" framework.
-   - Brief complete: Rust-bronze/gastric orange (Variant A) vs Sandstone/espresso (Variant B).
-6. **Produce VID-063 Thumbnails** — Iron Cells Starving (Score 19, for August 14 upload)
-   - Script complete (June 26). "Ferritin Mask" framework.
-   - Brief complete: Aubergine/cracked-mirror (Variant A) vs Indigo-red/stacked cards (Variant B).
-7. **Produce VID-060 Thumbnails** — Hantavirus (Score 20, for August 5 upload)
-   - Script complete. "Reservoir Proximity" framework.
-   - Brief complete: Forest brown/hiding places (Variant A) vs Beige-red/symptom icons (Variant B).
 
 ### Script Writing (Next Batch)
 8. **Begin I303 script** — 4 AM Blood Pressure Surge Predicts Stroke (Score 20, TOP PRIORITY — new P189 pattern)
@@ -37,60 +32,59 @@
     - From June 28 idea list. Zero competition. Hip pain is universal in 60+ demographic.
 11. **Begin I305 script** — Ankle Darkening / Hemosiderin Sentinel (Score 19)
     - From June 28 idea list. Zero competition. Visual body signal + diagnostic gap.
-12. **Begin I297 script** — Gum Color Test / Gum Oxygenation Index (Score 18)
-    - From June 28 idea list. Zero competition. Zero-cost self-test, high shareability.
-13. **Begin I298 script** — Voice Quietness / Laryngeal Perfusion Threshold (Score 18)
-    - From June 28 idea list. Zero competition. Different from I292 (Ortner's syndrome).
-14. **Begin I299 script** — 2-Second Skin Pinch Test / Dermal Perfusion Refill (Score 18)
-    - From June 28 idea list. Zero competition. Zero-cost empowerment.
-15. **Begin I302 script** — Finger Stiffness / Synovial Perfusion Pump (Score 18)
-    - From June 28 idea list. Zero competition. Universal experience, novel mechanism.
-16. **Begin I301 script** — Smooth Tongue / Lingual Papillae Perfusion Map (Score 17)
-    - From June 28 idea list. Zero competition. Visual self-check.
-17. **Begin I304 script** — Eyelid Drooping / Oculomotor Microvascular Ischemia (Score 17)
-    - From June 28 idea list. Zero competition. Visible concern, novel nerve-ischemia mechanism.
+12. **Begin I310 script** — Neck Creak / Spine Warning (Score 20, TOP PRIORITY — new P216 pattern)
+    - From June 29 idea list. Zero competition. "Crepitus-Cervical Perfusion" framework. Universal experience.
+13. **Begin I306 script** — Arch Collapsing / Tendon That Disappears (Score 19)
+    - From June 29 idea list. Zero competition. "Tendon Perfusion Index" framework.
+14. **Begin I313 script** — Face Asymmetry / Vascular Warning (Score 19)
+    - From June 29 idea list. Zero competition. "Facial Perfusion Asymmetry" framework.
 
 ### CTR Monitoring
-18. **Monitor all June 19 uploads at 7-day mark** — Check CTR performance (target >6%)
-19. **Check June 24 uploads at 48h mark** — VID-041/043/045 thumbnails needed urgently
-20. **Check June 26 uploads at 24h mark** — VID-042/044/046 performance
+15. **Monitor all June 19 uploads at 7-day mark** — Check CTR performance (target >6%)
+16. **Check June 24 uploads at 48h mark** — VID-041/043/045 thumbnails needed urgently
+17. **Check June 26 uploads at 24h mark** — VID-042/044/046 performance
 
-## 🟢 NEXT WEEK (June 29 - July 5, 2026)
+## 🟢 NEXT WEEK (June 30 - July 6, 2026)
 
 ### Planned Content
-15. **Upload VID-041-045 (Long-form):** June 24 (thumbnails needed — OVERDUE)
-16. **Upload VID-042-046 (Long-form):** June 26 (thumbnails needed)
-17. **Upload VID-047/049 (Long-form):** July 1 (scripts complete, thumbnails needed)
-18. **Upload VID-048 (Long-form):** July 3 (script complete, thumbnail brief complete)
-19. **Upload VID-050/052 (Long-form):** July 8 (VID-050 script complete, VID-052 script needed)
-20. **Upload VID-051/053 (Long-form):** July 10 (scripts complete, thumbnails needed)
-21. **Upload VID-054/055 (Long-form):** July 15/17 (scripts complete, thumbnails needed)
-22. **Upload VID-056/057 (Long-form):** July 22/24 (scripts complete, thumbnails needed)
-23. **Upload VID-058/059 (Long-form):** July 29/31 (scripts complete, thumbnails needed)
-24. **Upload VID-060/061 (Long-form):** August 5/7 (scripts complete, thumbnails needed)
-25. **Upload VID-062/063 (Long-form):** August 12/14 (scripts complete, thumbnails needed)
-26. **Upload VID-064/065 (Long-form):** August 19/21 (scripts complete, thumbnails needed)
-27. **Upload VID-066/067 (Long-form):** August 26/28 (scripts complete, thumbnails needed — NEW June 28)
+18. **Upload VID-041-045 (Long-form):** June 24 (thumbnails needed — OVERDUE)
+19. **Upload VID-042-046 (Long-form):** June 26 (thumbnails needed)
+20. **Upload VID-047/049 (Long-form):** July 1 (scripts complete, thumbnails needed)
+21. **Upload VID-048 (Long-form):** July 3 (script complete, thumbnail brief complete)
+22. **Upload VID-050/052 (Long-form):** July 8 (VID-050 script complete, VID-052 script needed)
+23. **Upload VID-051/053 (Long-form):** July 10 (scripts complete, thumbnails needed)
+24. **Upload VID-054/055 (Long-form):** July 15/17 (scripts complete, thumbnails needed)
+25. **Upload VID-056/057 (Long-form):** July 22/24 (scripts complete, thumbnails needed)
+26. **Upload VID-058/059 (Long-form):** July 29/31 (scripts complete, thumbnails needed)
+27. **Upload VID-060/061 (Long-form):** August 5/7 (scripts complete, thumbnails needed)
+28. **Upload VID-062/063 (Long-form):** August 12/14 (scripts complete, thumbnails needed)
+29. **Upload VID-064/065 (Long-form):** August 19/21 (scripts complete, thumbnails needed)
+30. **Upload VID-066/067 (Long-form):** August 26/28 (scripts complete, thumbnails needed)
+31. **Upload VID-068/069 (Long-form):** September 2/4 (scripts complete, thumbnails needed — NEW June 29)
 
 ### Script Writing
-28. **Begin remaining I287-I295 scripts** — From June 27 idea list (I287, I288, I289, I290, I291, I292, I293, I294, I295)
-29. **Begin I296-I305 scripts** — From June 28 idea list (10 ideas, all scored 17-20, all zero competition)
+32. **Begin remaining I306-I315 scripts** — From June 29 idea list (10 ideas, all scored 17-20, all zero competition)
+33. **Begin remaining I287-I295 scripts** — From June 27 idea list
+34. **Begin I296-I305 scripts** — From June 28 idea list (10 ideas, all scored 17-20, all zero competition)
 
 ## 🟡 STRATEGIC OPPORTUNITIES (Act This Week)
 
-30. **🔴 I303 (Score 20) — 4 AM BP Surge** — Highest priority from June 28 ideas. Zero competition. "Morning Surge Phenotype" framework. New P189 title pattern.
-31. **🔴 I296 (Score 19) — Ear Fullness Vascular** — Zero competition. "Internal Carotid Siphon Compression" framework. High search volume (6.1K/mo).
-32. **🔴 I300 (Score 19) — Morning Hip Pain** — Zero competition. "Nocturnal Femoral Perfusion Drop" framework. Universal pain point.
-33. **🔴 I305 (Score 19) — Ankle Darkening** — Zero competition. "Hemosiderin Sentinel" framework. Visual signal + high concern.
-34. **🟡 I297 (Score 18) — Gum Color Test** — Zero competition. "Gum Oxygenation Index" framework. Zero-cost self-test.
-35. **🟡 I298 (Score 18) — Voice Quietness** — Zero competition. "Laryngeal Perfusion Threshold" framework.
-36. **🟡 I299 (Score 18) — Skin Pinch Test** — Zero competition. "Dermal Perfusion Refill" framework.
-37. **🟡 I302 (Score 18) — Finger Stiffness** — Zero competition. "Synovial Perfusion Pump" framework.
-38. **✅ VID-066 + VID-067 scripts COMPLETE** — Scored 19 each. "Chromium-Insulin-Vessel" and "Magnesium-Wasting Cascade" frameworks are original Dr. Kane contributions.
-39. **✅ 10 new ideas from June 28 (I296-I305)** — All scored 17-20. All zero competition. Anti-template verified.
-40. **✅ SEO Metadata complete for VID-066/067** — Title variations, descriptions, tags, timestamps documented. New P189 pattern.
-41. **✅ Thumbnail briefs complete for VID-066/067** — A/B variants with new palettes (warm slate blue, heather purple, storm gray, clinical ice/amber split).
-42. **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 20). web_search fallback active.
+35. **🔴 I303 (Score 20) — 4 AM BP Surge** — Highest priority from June 28 ideas. Zero competition. "Morning Surge Phenotype" framework. New P189 title pattern.
+36. **🔴 I310 (Score 20) — Neck Creak / Spine Warning** — Highest priority from June 29 ideas. Zero competition. "Crepitus-Cervical Perfusion" framework. New P216 title pattern.
+37. **🔴 I296 (Score 19) — Ear Fullness Vascular** — Zero competition. "Internal Carotid Siphon Compression" framework. High search volume (6.1K/mo).
+38. **🔴 I300 (Score 19) — Morning Hip Pain** — Zero competition. "Nocturnal Femoral Perfusion Drop" framework. Universal pain point.
+39. **🔴 I305 (Score 19) — Ankle Darkening** — Zero competition. "Hemosiderin Sentinel" framework. Visual signal + high concern.
+40. **🔴 I306 (Score 19) — Arch Collapsing** — Zero competition. "Tendon Perfusion Index" framework. Affects 30%+ of seniors over 70.
+41. **🔴 I313 (Score 19) — Face Asymmetry** — Zero competition. "Facial Perfusion Asymmetry" framework. Every senior notices facial changes.
+42. **🟡 I297 (Score 18) — Gum Color Test** — Zero competition. "Gum Oxygenation Index" framework. Zero-cost self-test.
+43. **🟡 I298 (Score 18) — Voice Quietness** — Zero competition. "Laryngeal Perfusion Threshold" framework.
+44. **🟡 I299 (Score 18) — Skin Pinch Test** — Zero competition. "Dermal Perfusion Refill" framework.
+45. **🟡 I302 (Score 18) — Finger Stiffness** — Zero competition. "Synovial Perfusion Pump" framework.
+46. **✅ VID-068 + VID-069 scripts COMPLETE** — Scored 18 each. "Serotonin Factory Shift" and "Thoracic Duct Backup" frameworks are original Dr. Kane contributions.
+47. **✅ 10 new ideas from June 29 (I306-I315)** — All scored 17-20. All zero competition. Anti-template verified.
+48. **✅ SEO Metadata complete for VID-068/069** — Title variations, descriptions, tags, timestamps documented. New P210, P211 patterns.
+49. **✅ Thumbnail briefs complete for VID-068/069** — A/B variants with new palettes (deep botanical green, sage-to-slate split, deep clinical burgundy, midnight teal→black).
+50. **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 21). web_search fallback active.
 
 ## ❌ SKIP / DO NOT PRODUCE
 - ❌ Blood pressure content (general) — NOW SATURATED

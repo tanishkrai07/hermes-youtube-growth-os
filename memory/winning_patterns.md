@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-28 (June 28 — VID-066 + VID-067 scripts complete, new palettes added, P189 added)
+> **Last Updated:** 2026-06-29 (June 29 — P086-P090 added, medication+balance format, Hargrove leg health entry, Kent blood test pivot, Thomas 6th BRAIN Doctor variant, VID-068/069 thumbnail briefs + SEO, P210/P211 patterns, 10 new ideas I306-I315)
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -110,6 +110,62 @@
 4. **"Walking less? Try these 5 things instead" format** — Dr. Thomas. Walking replacement for seniors 60+. Pain-point format.
 5. **"Kidney Reset" sub-theme** — Doctor Becker. Added to existing coffee format (1.4M views). Kidney health CLAIMED via different angle.
 6. **"Doctor: 1 Vitamin Before Bed..." format** — Dr. Hargrove. Bedtime supplement format replicating Becker's success.
+
+### New Patterns Added 2026-06-29 (from June 29 scan)
+
+### New Title Formulas (June 29 Discovery)
+|| Pattern ID | Formula | Source | Views |
+||------------|---------|--------|-------|
+|| P086 | "[Number] Medications Destroying Your Balance After [Age]" | Japan's Oldest Doctor / Senior Health Podcast | 54 (very early) |
+|| P087 | "Seniors Over [Age] Are Losing Their Legs — The One Food That Stops It" | Dr. James Hargrove | 5.5K |
+|| P088 | "[Number] Blood Tests Your Doctor Won't Order (But Could Save Your Life)" | Dr. Michael Kent | NEW |
+|| P089 | "[Number] Medical Decisions That Seem Right but Can Make Your Life [Worse]" | Dr. Michael Kent | NEW |
+|| P090 | "As a BRAIN Doctor, I'm SHOCKED: THIS Vitamin Raises Stroke Risk Overnight" | Dr. Thomas | NEW (6th variant) |
+
+### New Viral Formats (June 29)
+1. **"Medications Destroying Balance" format** — JOD/Senior Health Podcast (54 views, very early): Medication warnings + balance/fall prevention intersection. Previously UNOWNED. ADAPTABLE: "[Number] Medications That Destroy Your Stair-Climbing Ability After [Age]" — combines medication+balance+vascular mechanism.
+2. **"Losing Your Legs — One Food Stops It" format** — Hargrove (5.5K): Leg health + food solution. Directly competing with Dr. Kane's vascular leg mechanism. DIFFERENTIATE with MECHANISM: "WHY Your Legs Are Failing After 60 (The Doctor Explains What's Really Happening)"
+3. **"Blood Tests Your Doctor Won't Order" format** — Kent (NEW): Blood test advocacy + authority contradiction ("won't order"). Blood test niche now TRIPLE-CLAIMED.
+4. **"Medical Decisions That Seem Right but [Harm]" format** — Kent (NEW): Authority contradiction applied to medical decision-making. Challenges patient assumptions about "standard" medical decisions.
+5. **"Vitamin Raises Stroke Risk" variant** — Dr. Thomas (NEW): 6th variant of "BRAIN Doctor SHOCKED" empire. Format shows no sign of saturation. Now covers: vegetable, morning habit, fruit, exercise, walking habit, VITAMIN.
+
+### Competitive Risk Changes (June 29)
+- **Dr. Hargrove UPGRADED to 🔴🔴🔴:** Entering leg health+food space — direct threat to Dr. Kane's vascular leg mechanism niche. Must differentiate with mechanism-first content.
+- **Medication+Balance intersection:** Previously unowned, now JOD entering at 54 views. First-mover window OPEN but narrowing.
+- **Blood test advocacy:** Now triple-claimed (Mitchell 681K + Hargrove 117K + Kent NEW). Niche CLOSED.
+- **Knee pain+vascular:** Kapadia entering. Opportunity for Dr. Kane to differentiate with vascular mechanism angle.
+
+### New Title Formulas from VID-068/069 SEO (June 29)
+| Pattern ID | Pattern Name | Pattern Formula | Example | Source | Score | Date |
+|------------|--------------|-----------------|---------|--------|-------|------|
+| P210 | "Body Change + Hidden Organ Consequence" | "Your [Body Part] Changed After 60 — Here's Why Your [Organ] [Consequence]" | Your Gut Bacteria Changed After 60 — Here's Why Your Mood Crashed | Dr. Kane (VID-068 SEO) | 18 | 2026-06-29 |
+| P211 | "NOT Common Belief + Organ Truth" | "[Symptom] After 60? It's NOT [Common Belief] — It's Your [Organ]" | Swollen Lymph Nodes After 60? It's NOT Infection — It's Your Heart | Dr. Kane (VID-069 SEO) | 18 | 2026-06-29 |
+
+### New Title Patterns from June 29 Idea List (I306-I315)
+| Pattern ID | Pattern Name | Pattern Formula | Example | Score |
+|------------|--------------|-----------------|---------|-------|
+| P212 | "Hidden Anatomical Change + Misdirection" | "Your [Body Part] Is [Change] After [Age] — The [Specific Tissue] That [Action]" | Your Arch Is Collapsing After 60 — The Tendon That Disappears | 19 |
+| P213 | "Common Symptom + Hidden Mechanism + Misdirection" | "Why Your [Body Part] Feels [Symptom] After [Age] — The [Substance] That Never [Expected]" | Why Your Throat Feels Lumpy After 60 — The Acid That Never Reaches Your Stomach | 18 |
+| P214 | "Common Pain + Hidden Organ Connection" | "Your [Body Part] Hurts After [Age] — The [Joint/Area] That Predicts Your [Organ]" | Your Thumb Base Hurts After 60 — The Joint That Predicts Your Spine | 18 |
+| P215 | "Common Symptom + Hidden Vascular Mechanism" | "Why You See [Symptom] After [Age] — The [Organ] Signal Doctors Miss" | Why You See Floaters After 60 — The Retina Signal Doctors Miss | 18 |
+| P216 | "Universal Symptom + Predictive Health Revelation" | "The [Symptom] After [Age] — What Your [Body Part] Is Warning You About" | The Neck Creak After 60 — What Your Spine Is Warning You About | 20 |
+| P217 | "Common Skin Change + Hidden Metabolic Mechanism" | "Your [Skin Feature] Aren't Random After [Age] — The [Hormone] Signal on Your Skin" | Your Skin Tags Aren't Random After 60 — The Insulin Signal on Your Skin | 17 |
+| P218 | "Specific Timing Symptom + Hidden Nerve Mechanism" | "Why Your [Body Part] Hurt in the [Time] — The Nerve That [Action] at [Time]" | Why Your Heels Hurt in the Morning — The Nerve That Dies at Night | 18 |
+| P219 | "Visible Body Change + Hidden Vascular Warning" | "Your [Body Feature] After [Age] — The Vascular Warning in Your Mirror" | Your Face Asymmetry After 60 — The Vascular Warning in Your Mirror | 19 |
+| P220 | "Universal Experience + Hidden Mechanism" | "Why Your [Body Part] [Sensation] After [Age] — The Nerve That Runs Through Your [Landmark]" | Why Your Elbow Tingles After 60 — The Nerve That Runs Through Your Funny Bone | 18 |
+| P221 | "Common Sensation + Hidden Vascular Danger" | "Your [Body Part] [Sensation] After [Age] — The [Organ] Warning You Can Feel" | Your Abdomen Pulses After 60 — The Aortic Warning You Can Feel | 17 |
+
+### New Structural Frameworks Discovered (June 29)
+1. **"Tendon Perfusion Index" framework** — posterior tibial tendon has lowest blood supply of any major tendon; microvascular perfusion drops below viability threshold after 60. (I306)
+2. **"Silent Reflux Elevation" framework** — upper esophageal sphincter loses tone + supine position → micro-aspiration of acid to larynx → globus sensation. (I307)
+3. **"Cervical-Thumb Referral Map" framework** — C6-C7 nerve root compression refers pain to thumb base via radial nerve. (I308)
+4. **"Vitreous Detachment Vascular Warning" framework** — sudden shower of new floaters = retinal vessel tear until proven otherwise. 24-hour rule. (I309)
+5. **"Crepitus-Cervical Perfusion" framework** — neck grinding + dizziness on rotation = vertebral artery compromise until proven otherwise. (I310)
+6. **"Dermal Insulin Marker" framework** — skin tags as fibroepithelial polyps driven by hyperinsulinemia; number/growth rate correlates with HOMA-IR. (I311)
+7. **"Nocturnal Nerve Compression" framework** — Baxter's nerve entrapment during sleep (plantarflexed position) → morning heel pain. (I312)
+8. **"Facial Perfusion Asymmetry" framework** — progressive facial asymmetry reflects differential facial artery perfusion → correlates with ipsilateral carotid stenosis. (I313)
+9. **"Cubital Tunnel Perfusion" framework** — ulnar nerve at elbow: loss of subcutaneous fat + microvascular decline → nerve ischemia with sustained flexion. (I314)
+10. **"Palpation Screening Gap" framework** — palpable abdominal aortic pulse width >3cm warrants ultrasound. Self-check technique. (I315)
 
 ### New Patterns Added 2026-06-28 (from June 28 scan)
 
@@ -390,10 +446,14 @@
 - Text: White with black stroke
 
 ### Palette Diversification Log
-| Video | Primary | Accent 1 | Accent 2 | Status |
-|-------|---------|----------|----------|--------|
-| VID-001-006 | Navy/red | Yellow | Blue | Used |
-| VID-007 | Purple/yellow | Orange | — | Used |
+|| Video | Primary | Accent 1 | Accent 2 | Status |
+||-------|---------|----------|----------|--------|
+|| VID-068 A | Deep botanical green (#1B5E20) | Bioluminescent cyan (#00E5FF) | Mood amber (#FFB300) / Sadness blue (#1565C0) | New — Brief |
+|| VID-068 B | Sage-to-slate split (#8BC34A/#607D8B) | Happy green (#00E676) | Warning red (#FF1744) | New — Brief |
+|| VID-069 A | Deep clinical burgundy (#800020) | Lymph node amber (#FF8F00) | Heart red (#D50000) | New — Brief |
+|| VID-069 B | Midnight teal (#004D40) → black | Node warning red (#FF1744) | Connection yellow (#FFEB3B) | New — Brief |
+|| VID-001-006 | Navy/red | Yellow | Blue | Used |
+|| VID-007 | Purple/yellow | Orange | — | Used |
 | VID-008 | Orange/red | Magenta | — | Used |
 | VID-009 | Teal/coral | White | — | Used |
 | VID-010 | Forest green | Lime | — | Used |
@@ -1696,5 +1756,17 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 ### New Competitor Patterns to Monitor (June 28)
 1. **"If You Are Over [Age], These [Number] Signs Mean You're [Positive Outcome] Than Most People"** — Dr. Parker Senior Health 60+ (39-40K). Positive aging angle. Monitor for replication.
 2. **"STOP Doing These [Number] Things Immediately"** — Dr. Owen at 50K (+85% in 24h). Prohibition + urgency format ACCELERATING.
+
+### New Palettes Added (June 29 — Thumbnail Brief Run)
+||| Video | Primary | Accent 1 | Accent 2 | Status |||
+|||-------|---------|----------|----------|--------||||
+|||| VID-068 A | Deep botanical green (#1B5E20) → Dark forest (#0D2818) | Bioluminescent cyan (#00E5FF) | Mood amber (#FFB300) / Sadness blue (#1565C0) | 🆕 New — Brief |||
+||||| VID-068 B | Split: Sage green (#8BC34A) → Slate gray (#607D8B) | Happy green (#00E676) | Warning red (#FF1744) | 🆕 New — Brief |||
+|||||| VID-069 A | Deep clinical burgundy (#800020) → Dark arterial (#4A0000) | Lymph node amber (#FF8F00) | Heart red (#D50000) | 🆕 New — Brief |||
+||||||| VID-069 B | Midnight teal (#004D40) → Near-black (#0A0A0A) | Node warning red (#FF1744) | Connection yellow (#FFEB3B) | 🆕 New — Brief |||
+
+### New Title Patterns (June 29)
+- **P190:** "Your [Organ A] [Changed/Impacted] After 60 — The [Organ B] Connection" — Dr. Kane (VID-068). Gut-brain axis mechanism framing. NEW pattern.
+- **P191:** "Your [Body Part] [Signal] After 60 — The [Hidden Organ] Warning" — Dr. Kane (VID-069). Lymph node-heart diagnostic gap. NEW pattern.
 
 *Last updated: 2026-06-28 by Memory Curator Agent (Cron)*
