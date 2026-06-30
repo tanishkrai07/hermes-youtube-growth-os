@@ -1,6 +1,6 @@
 # Winning Patterns — Elder Health YouTube
 
-> **Last Updated:** 2026-06-29 (June 29 — P086-P090 added, medication+balance format, Hargrove leg health entry, Kent blood test pivot, Thomas 6th BRAIN Doctor variant, VID-068/069 thumbnail briefs + SEO, P210/P211 patterns, 10 new ideas I306-I315)
+> **Last Updated:** 2026-06-30 (June 30 — P222-P225 added, VID-070/071 SEO patterns, bladder+liver niches documented, 10 new ideas I316-I325)
 ## Top Performing Title Formulas
 
 ### Tier 1: Proven Viral (500K+ views)
@@ -1765,8 +1765,38 @@ Becker's microplastics videos at 5 and 12 views confirm that elder health audien
 |||||| VID-069 A | Deep clinical burgundy (#800020) → Dark arterial (#4A0000) | Lymph node amber (#FF8F00) | Heart red (#D50000) | 🆕 New — Brief |||
 ||||||| VID-069 B | Midnight teal (#004D40) → Near-black (#0A0A0A) | Node warning red (#FF1744) | Connection yellow (#FFEB3B) | 🆕 New — Brief |||
 
+### New Palettes Added (June 30 — Thumbnail Brief Run)
+||| Video | Primary | Accent 1 | Accent 2 | Status |||
+|||-------|---------|----------|----------|--------||||
+|| VID-070 A | Deep teal (#00695C) | Warm copper (#BF360C) | Muscle pink (#FF8A80) / Warning amber (#FFB300) | 🆕 New — Brief ||
+|| VID-070 B | Warm copper (#BF360C) → Deep teal (#00695C) split | Dissolving muscle gray (#90A4AE) | Danger red (#FF1744) | 🆕 New — Brief ||
+|| VID-071 A | Deep liver burgundy (#4A0020) | Metabolic gold (#F9A825) | Fading activity gray (#757575) / Pill bottle red (#D50000) | 🆕 New — Brief ||
+|| VID-071 B | Metabolic gold (#F9A825) → Deep liver burgundy (#4A0020) split | Accumulating pill red (#FF1744) | Healthy green (#00E676) | 🆕 New — Brief ||
+
 ### New Title Patterns (June 29)
 - **P190:** "Your [Organ A] [Changed/Impacted] After 60 — The [Organ B] Connection" — Dr. Kane (VID-068). Gut-brain axis mechanism framing. NEW pattern.
+
+### New Title Patterns (June 30 — from VID-070/071 SEO)
+| Pattern ID | Pattern Name | Pattern Formula | Example | Source | Score | Date |
+|------------|--------------|-----------------|---------|--------|-------|------|
+| P222 | "Organ Decline + Specific Mechanism Revelation" | "Your [Organ] [Action] After 60 — The [Mechanism] [Nobody/Doctors] [Verb]" | Your Bladder Muscle Is Atrophying After 60 — The Emptying Problem | Dr. Kane (VID-070 SEO) | 18 | 2026-06-30 |
+| P223 | "Quantified Rule + Age Marker" | "Your [Organ] [Action] After 60 — The [Number]% Rule" | Your Liver Processes Drugs Slower After 60 — The 30% Rule | Dr. Kane (VID-071 SEO) | 18 | 2026-06-30 |
+| P224 | "Symptom + Mechanism Nobody Warns" | "Why Your [Body Part] [Symptom] After 60 — [Condition] Nobody Warns About" | Why Your Bladder Shrank After 60 — The Detrusor Muscle Loss Nobody Warns About | Dr. Kane (VID-070 alt T2) | 18 | 2026-06-30 |
+| P225 | "Age-Reframed Medication Risk" | "The Same [Treatment], a [Number]% Bigger [Effect] After 60" | The Same Medication, a 30% Bigger Dose After 60 | Dr. Kane (VID-071 alt T2) | 18 | 2026-06-30 |
+
+### New Niche Status Changes (June 30)
+- **Urological mechanism (detrusor atrophy):** 🟢 OPEN — Zero competition. First-mover advantage confirmed. VID-070 owns this niche.
+- **Liver pharmacokinetics for seniors:** 🟢 OPEN — Zero competition. The "30% Rule" framework is completely unowned. VID-071 establishes the category.
+- **Medication safety + organ system intersection:** 🟢 OPEN — VID-071's cross-link to VID-070 creates a unique 2-video session connecting liver pharmacology + bladder function. No competitor connects these systems.
+
+### New Competitor Formats to Monitor (June 30)
+1. **"Silent Atrophy" format** — Dr. Kane VID-070: "The [Body Part] That's [Verb]ing After 60 — The [Mechanism] Nobody Warns About." Organ-deterioration framing with hidden mechanism reveal. NEW category.
+2. **"Quantified Rule" format** — Dr. Kane VID-071: "Your [Organ] [Action] After 60 — The [Number]% Rule." Creates a memorable, quantifiable anchor for abstract medical concepts. NEW category.
+3. **"Pharmacological Journey" format** — Dr. Kane VID-071: Following a single pill through the body, showing how age changes each step. Narrative through-line for medication content. NEW category.
+
+*Last updated: 2026-06-30 by Memory Curator Agent (Cron)*
+
+### New Title Patterns (June 28 — from VID-066/067 SEO)
 - **P191:** "Your [Body Part] [Signal] After 60 — The [Hidden Organ] Warning" — Dr. Kane (VID-069). Lymph node-heart diagnostic gap. NEW pattern.
 
 *Last updated: 2026-06-28 by Memory Curator Agent (Cron)*

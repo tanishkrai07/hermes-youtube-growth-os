@@ -1,9 +1,9 @@
 # Competitor Memory — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-29 (June 29 — NEW "Medications Destroying Balance" format from JOD/Senior Health Podcast (54 views), Hargrove ENTERING leg health+food at 5.5K, Dr. Thomas 6th "BRAIN Doctor SHOCKED" variant (Vitamin raises stroke risk), Kent pivoting to blood test advocacy, Kapadia entering knee pain, "How I Built Senior Health Channel Using AI" teaching video detected)
+> **Last Updated:** 2026-06-30 (June 30 — VID-070/071 scripts complete, bladder+liver niches now OWNED, 10 new ideas I316-I325 zero competition)
 > **Total Tracked Competitors:** 72+ (72 active + 1 removed)
-> **Note:** Firecrawl search API STILL exhausted (credits exhausted since Jun 8). Only 10/17 web_search calls succeeded today. Browser also unavailable. Data is partial.
-> **Key Changes:** ⚡ NEW "Medication+Balance" intersection emerging (JOD 54 views). ⚡ Hargrove SURGING into leg health+food ("Losing Your Legs" at 5.5K) — UPGRADED risk to 🔴🔴🔴. Dr. Thomas adds 6th "BRAIN Doctor SHOCKED" variant (vitamin). Kent pivoting from plateaued dementia meds into blood test advocacy + medical decision format. Kapadia entering knee pain. "AI channel building" teaching video detected — more competitors incoming but McGill enforcement escalating.
+> **Note:** Firecrawl search API STILL exhausted (credits exhausted since Jun 8). web_search fallback active. Data is partial.
+> **Key Changes:** ✅ VID-070 (Bladder/Detrusor Atrophy) + VID-071 (Liver/30% Rule) scripts COMPLETE. Two new niches now OWNED by Dr. Kane with zero competition. 🆕 Urological mechanism niche now CLAIMED. 🆕 Liver pharmacokinetics for seniors niche now CLAIMED. Previous key changes still active: Hargrove leg health (5.5K), Kent blood test pivot, Dr. Thomas 6th BRAIN Doctor variant.
 
 ## Active Competitors (Elder Health / Senior Wellness)
 
@@ -90,6 +90,8 @@
 - **Kidney Health (Vegetables):** 🔴 NOW OCCUPIED (Healthy Aging at 662K + Dr. Michael Kent 227K-232K)
 - **BP Medication Trio:** 🔴 NOW CROWDED (Kensington 192K + Carter 601K + Whitmore)
 - **Dementia Medications:** 🔴 NOW OCCUPIED (Kent 691K-875K + Kensington 207K-267K)
+- **Bladder Function / Urinary Mechanism:** 🟢 NOW CLAIMED by Dr. Kane (VID-070, detrusor atrophy mechanism — zero competition, first-mover)
+- **Liver Drug Metabolism / Pharmacokinetics:** 🟢 NOW CLAIMED by Dr. Kane (VID-071, "30% Rule" framework — zero competition, first-mover)
 
 ## Open Niches (Opportunity)
 
@@ -109,6 +111,16 @@
 | **Nighttime vascular threats** | Kapadia at 24.8K only | 🟢 VIRTUALLY EMPTY |
 | **"Reverse Dipping" BP Mechanism** | Senior Healthy Life Daily at 1K only | 🟢 VIRTUALLY EMPTY — terminology not catching on |
 | **Knee Pain + Vascular Mechanism** | Kapadia entering at early stage | 🟢 WINDOW OPEN — "WHY knee pain means circulation failing" |
+| **Postural Cerebrovascular Steal** | 🟢 EMPTY (I325, Score 20) | 🔴 NEW from June 30 ideas. Zero competition. "Dizzy reaching up after 60" = subclavian steal syndrome. |
+| **Bilateral Perfusion Asymmetry** | 🟢 EMPTY (I320, Score 19) | 🔴 NEW from June 30 ideas. Zero competition. "One foot warmer than other" = lateralized PAD screening. |
+| **Olfactory Microvascular Vulnerability** | 🟢 EMPTY (I322, Score 19) | 🔴 NEW from June 30 ideas. Zero competition. "Loss of smell after 60" = predictive neurovascular signal. |
+| **Masticatory Muscle Perfusion** | 🟢 EMPTY (I316, Score 18) | 🔴 NEW from June 30 ideas. Zero competition. "Jaw crepitus" = masseter ischemia marker. |
+| **Occipital Nerve Perfusion Passage** | 🟢 EMPTY (I324, Score 18) | 🔴 NEW from June 30 ideas. Zero competition. "Scalp tingling" = occipital nerve vascular compression. |
+| **Dermal Adhesion Failure Cascade** | 🟢 EMPTY (I319, Score 18) | 🔴 NEW from June 30 ideas. Zero competition. "Skin tears like paper" = vascular-driven fibroblast failure. |
+| **Ocular Surface Perfusion Index** | 🟢 EMPTY (I317, Score 17) | 🟡 NEW from June 30 ideas. Zero competition on vascular angle. Eye space saturated broadly but mechanism is new. |
+| **Circadian Fluid Redistribution Failure** | 🟢 EMPTY (I323, Score 17) | 🔴 NEW from June 30 ideas. Zero competition. "Legs feel different at night" = venous valve incompetence. |
+| **Alveolar Vascular Remodeling Cascade** | 🟢 EMPTY (I321, Score 17) | 🔴 NEW from June 30 ideas. Zero competition. "Dentures don't fit" = bone remodeling is vascular-dependent. |
+| **Cerebral Thermoregulatory Stress** | 🟢 EMPTY (I318, Score 16) | 🔴 NEW from June 30 ideas. Zero competition. "Excessive yawning" = brain thermoregulation failure. |
 
 ## Key Events This Period (June 29 Scan)
 

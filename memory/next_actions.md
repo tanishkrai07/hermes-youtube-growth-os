@@ -1,11 +1,11 @@
 # Next Actions — Dr. Victor Kane Channel
 
-> **Last Updated:** 2026-06-29
-> **Planning Horizon:** June 30 - July 13, 2026
+> **Last Updated:** 2026-06-30
+> **Planning Horizon:** July 1 - July 14, 2026
 
-## 🔴 IMMEDIATE (June 30, 2026)
+## 🔴 IMMEDIATE (July 1, 2026)
 
-### Thumbnail Production — URGENT
+### Thumbnail Production — URGENT (Overdue)
 1. **Produce VID-068 Thumbnails** — Gut Bacteria / Mood (Score 18, for September 2 upload)
    - Script + brief complete (June 29). "Serotonin Factory Shift" framework.
    - Brief: Two variants — Variant A (deep botanical green, gut bacteria → mood brain, doctor touching abdomen) + Variant B (sage-to-slate split, happy vs sad gut comparison).
@@ -22,6 +22,16 @@
    - Script complete (June 27). "Arterial Age" framework.
 7. **Produce VID-062 Thumbnails** — Stomach Acid + Meds (Score 19, for August 12 upload)
    - Script complete (June 26). "Pharmacological pH Threshold" framework.
+8. **Produce VID-063 Thumbnails** — Iron Cells Starving (Score 19, for August 14 upload)
+   - Script complete (June 26). "Ferritin Mask" framework.
+
+### Thumbnail Production — NEW (June 30)
+9. **Produce VID-070 Thumbnails** — Bladder Muscle Loss / Detrusor Atrophy (Score 18, for September 9 upload)
+   - Script + brief complete (June 30). "Silent Atrophy" framework. Capacity vs. force reframe.
+   - Brief: Variant A ("BLADDER SHRANK? / MUSCLE DISAPPEARING", deep teal + warm copper, empathy mechanism) + Variant B ("40% GONE / YOUR BLADDER MUSCLE", copper + dissolving muscle gray, number shock).
+10. **Produce VID-071 Thumbnails** — Liver Drug Processing / 30% Rule (Score 18, for September 11 upload)
+    - Script + brief complete (June 30). "30% Rule" framework. Pharmacological journey narrative.
+    - Brief: Variant A ("30% LESS / YOUR LIVER / MEDS AT RISK", deep liver burgundy + metabolic gold, authority + mechanism) + Variant B ("YOUR LIVER / SLOWED / MEDS BUILDING UP", metabolic gold + accumulating pill red, alarm + accumulation).
 
 ### Script Writing (Next Batch)
 8. **Begin I303 script** — 4 AM Blood Pressure Surge Predicts Stroke (Score 20, TOP PRIORITY — new P189 pattern)
@@ -44,7 +54,7 @@
 16. **Check June 24 uploads at 48h mark** — VID-041/043/045 thumbnails needed urgently
 17. **Check June 26 uploads at 24h mark** — VID-042/044/046 performance
 
-## 🟢 NEXT WEEK (June 30 - July 6, 2026)
+## 🟢 NEXT WEEK (July 1 - July 7, 2026)
 
 ### Planned Content
 18. **Upload VID-041-045 (Long-form):** June 24 (thumbnails needed — OVERDUE)
@@ -60,31 +70,51 @@
 28. **Upload VID-062/063 (Long-form):** August 12/14 (scripts complete, thumbnails needed)
 29. **Upload VID-064/065 (Long-form):** August 19/21 (scripts complete, thumbnails needed)
 30. **Upload VID-066/067 (Long-form):** August 26/28 (scripts complete, thumbnails needed)
-31. **Upload VID-068/069 (Long-form):** September 2/4 (scripts complete, thumbnails needed — NEW June 29)
+31. **Upload VID-068/069 (Long-form):** September 2/4 (scripts complete, thumbnails needed)
+32. **Upload VID-070/071 (Long-form):** September 9/11 (scripts complete, thumbnails needed — NEW June 30)
 
 ### Script Writing
-32. **Begin remaining I306-I315 scripts** — From June 29 idea list (10 ideas, all scored 17-20, all zero competition)
-33. **Begin remaining I287-I295 scripts** — From June 27 idea list
-34. **Begin I296-I305 scripts** — From June 28 idea list (10 ideas, all scored 17-20, all zero competition)
+33. **Begin I325 script** — Dizzy Reaching Up / Postural Cerebrovascular Steal (Score 20, TOP PRIORITY — zero competition)
+    - From June 30 idea list. "Effort-induced vertebrobasilar steal" framework. 10+ mmHg bilateral arm BP difference.
+34. **Begin I320 script** — One Foot Warmer / Bilateral Perfusion Asymmetry (Score 19, HIGH PRIORITY)
+    - From June 30 idea list. ">2°C differential = unilateral iliac/femoral stenosis" framework.
+35. **Begin I322 script** — Loss of Smell / Olfactory Microvascular Vulnerability (Score 19, HIGH PRIORITY)
+    - From June 30 idea list. Predictive diagnostic — highest-performing content category.
+36. **Begin I316 script** — Jaw Crunches / Masticatory Muscle Perfusion (Score 18, MEDIUM-HIGH)
+    - From June 30 idea list. Masseter ischemia + GCA connection.
+37. **Begin I324 script** — Scalp Tingles / Occipital Nerve Perfusion Passage (Score 18, MEDIUM-HIGH)
+    - From June 30 idea list. C2 dorsal ramus compression mechanism.
+38. **Begin I319 script** — Skin Tears / Dermal Adhesion Failure Cascade (Score 18, MEDIUM)
+    - From June 30 idea list. Vascular-driven fibroblast failure.
+39. **Begin I317 script** — Eyes Burn / Ocular Surface Perfusion Index (Score 17, MEDIUM)
+    - From June 30 idea list. Lacrimal artery microvascular decline.
+40. **Begin I323 script** — Evening Leg Difference / Circadian Fluid Shift (Score 17, MEDIUM)
+    - From June 30 idea list. Venous valve incompetence + calf pump decline.
+41. **Begin I321 script** — Dentures Don't Fit / Alveolar Vascular Remodeling (Score 17, MEDIUM)
+    - From June 30 idea list. Bone resorption is vascular-dependent.
+42. **Begin I318 script** — Yawning / Cerebral Thermoregulatory Stress (Score 16, MEDIUM)
+    - From June 30 idea list. Brain thermoregulation failure.
+43. **Begin remaining I306-I315 scripts** — From June 29 idea list (10 ideas, all scored 17-20, all zero competition)
+44. **Begin remaining I287-I295 scripts** — From June 27 idea list
+45. **Begin I296-I305 scripts** — From June 28 idea list (10 ideas, all scored 17-20, all zero competition)
 
 ## 🟡 STRATEGIC OPPORTUNITIES (Act This Week)
 
-35. **🔴 I303 (Score 20) — 4 AM BP Surge** — Highest priority from June 28 ideas. Zero competition. "Morning Surge Phenotype" framework. New P189 title pattern.
-36. **🔴 I310 (Score 20) — Neck Creak / Spine Warning** — Highest priority from June 29 ideas. Zero competition. "Crepitus-Cervical Perfusion" framework. New P216 title pattern.
-37. **🔴 I296 (Score 19) — Ear Fullness Vascular** — Zero competition. "Internal Carotid Siphon Compression" framework. High search volume (6.1K/mo).
-38. **🔴 I300 (Score 19) — Morning Hip Pain** — Zero competition. "Nocturnal Femoral Perfusion Drop" framework. Universal pain point.
-39. **🔴 I305 (Score 19) — Ankle Darkening** — Zero competition. "Hemosiderin Sentinel" framework. Visual signal + high concern.
-40. **🔴 I306 (Score 19) — Arch Collapsing** — Zero competition. "Tendon Perfusion Index" framework. Affects 30%+ of seniors over 70.
-41. **🔴 I313 (Score 19) — Face Asymmetry** — Zero competition. "Facial Perfusion Asymmetry" framework. Every senior notices facial changes.
-42. **🟡 I297 (Score 18) — Gum Color Test** — Zero competition. "Gum Oxygenation Index" framework. Zero-cost self-test.
-43. **🟡 I298 (Score 18) — Voice Quietness** — Zero competition. "Laryngeal Perfusion Threshold" framework.
-44. **🟡 I299 (Score 18) — Skin Pinch Test** — Zero competition. "Dermal Perfusion Refill" framework.
-45. **🟡 I302 (Score 18) — Finger Stiffness** — Zero competition. "Synovial Perfusion Pump" framework.
-46. **✅ VID-068 + VID-069 scripts COMPLETE** — Scored 18 each. "Serotonin Factory Shift" and "Thoracic Duct Backup" frameworks are original Dr. Kane contributions.
-47. **✅ 10 new ideas from June 29 (I306-I315)** — All scored 17-20. All zero competition. Anti-template verified.
-48. **✅ SEO Metadata complete for VID-068/069** — Title variations, descriptions, tags, timestamps documented. New P210, P211 patterns.
-49. **✅ Thumbnail briefs complete for VID-068/069** — A/B variants with new palettes (deep botanical green, sage-to-slate split, deep clinical burgundy, midnight teal→black).
-50. **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 21). web_search fallback active.
+46. **🔴 I325 (Score 20) — Dizzy Reaching Up / Postural Cerebrovascular Steal** — Highest priority from June 30 ideas. Zero competition. "Effort-induced vertebrobasilar steal" framework. Subclavian artery stenosis causes blood steal from brainstem during arm elevation.
+47. **🔴 I320 (Score 19) — One Foot Warmer / Bilateral Perfusion Asymmetry** — Zero competition. ">2°C differential = unilateral iliac/femoral stenosis" framework. At-home PAD screening.
+48. **🔴 I322 (Score 19) — Loss of Smell / Olfactory Microvascular Vulnerability** — Zero competition. Predictive diagnostic — highest-performing content category. Smell loss precedes Parkinson's/cognitive decline 5-7 years.
+49. **🔴 I316 (Score 18) — Jaw Crunches / Masticatory Muscle Perfusion** — Zero competition. Masseter ischemia + giant cell arteritis red flag connection.
+50. **🔴 I324 (Score 18) — Scalp Tingles / Occipital Nerve Perfusion Passage** — Zero competition. C2 dorsal ramus compression at muscular passage point.
+51. **🔴 I319 (Score 18) — Skin Tears / Dermal Adhesion Failure Cascade** — Zero competition. Vascular-driven fibroblast failure at dermal level.
+52. **🟡 I317 (Score 17) — Eyes Burn / Ocular Surface Perfusion Index** — Zero competition on vascular angle. Lacrimal artery microvascular decline. Eye space saturated broadly but mechanism is new.
+53. **🟡 I323 (Score 17) — Evening Leg Difference / Circadian Fluid Shift** — Zero competition. Venous valve incompetence + calf pump decline.
+54. **🟡 I321 (Score 17) — Dentures Don't Fit / Alveolar Vascular Remodeling** — Zero competition. Bone resorption is vascular-dependent.
+55. **🟡 I318 (Score 16) — Yawning / Cerebral Thermoregulatory Stress** — Zero competition. Brain thermoregulation failure.
+56. **✅ VID-070 + VID-071 scripts COMPLETE** — Scored 18 each. "Silent Atrophy" and "30% Rule" frameworks are original Dr. Kane contributions.
+57. **✅ 10 new ideas from June 30 (I316-I325)** — All scored 16-20. All zero competition. Anti-template verified.
+58. **✅ SEO Metadata complete for VID-070/071** — Title variations, descriptions, tags, timestamps documented. New P222-P225 patterns.
+59. **✅ Thumbnail briefs complete for VID-070/071** — A/B variants with new palettes (deep teal + warm copper, deep liver burgundy + metabolic gold).
+60. **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 22). web_search fallback active.
 
 ## ❌ SKIP / DO NOT PRODUCE
 - ❌ Blood pressure content (general) — NOW SATURATED
@@ -145,31 +175,27 @@
 - Any competitor entering: ear fullness vascular, morning hip pain, ankle darkening, gum color test, voice quietness/arterial, skin pinch test, finger stiffness/synovial, smooth tongue, eyelid drooping/oculomotor
 
 ## 🎯 Success Criteria for This Week
-1. VID-066 + VID-067 thumbnails produced (scripts + briefs complete, Score 19 each)
-2. VID-064 + VID-065 thumbnails produced (scripts complete, Score 18 each)
-3. VID-060 + VID-061 thumbnails produced (briefs complete, Score 19-20)
-4. VID-058 + VID-059 thumbnails produced (briefs complete, Score 18-19)
-5. VID-056 + VID-057 thumbnails produced (briefs complete, Score 21 each)
+1. VID-068 + VID-069 thumbnails produced (scripts + briefs complete, Score 18 each)
+2. VID-066 + VID-067 thumbnails produced (scripts + briefs complete, Score 19 each)
+3. VID-064 + VID-065 thumbnails produced (scripts complete, Score 18 each)
+4. VID-062 + VID-063 thumbnails produced (scripts complete, Score 19 each)
+5. VID-070 + VID-071 thumbnails produced (scripts + briefs complete, Score 18 each — NEW June 30)
 6. VID-041-046 thumbnails produced for June 24/26 uploads
-7. I303 script started (4 AM BP Surge — Score 20, new P189 pattern)
-8. I296 script started (Ear Fullness Vascular — Score 19)
-9. I300 script started (Morning Hip Pain — Score 19)
-10. I305 script started (Ankle Darkening — Score 19)
+7. I325 script started (Dizzy Reaching Up / Postural Cerebrovascular Steal — Score 20, zero competition)
+8. I320 script started (One Foot Warmer / Bilateral Perfusion Asymmetry — Score 19)
+9. I322 script started (Loss of Smell / Olfactory Microvascular Vulnerability — Score 19)
+10. I316 script started (Jaw Crunches / Masticatory Muscle Perfusion — Score 18)
 11. Zero policy violations
 12. All memory files updated and pushed
 
-⚡ NEW STRATEGIC NOTES (June 28)
-- **🔥🔥 VID-066 + VID-067 scripts COMPLETE** — Scored 19 each. "Chromium-Insulin-Vessel" (microvascular signaling, not blood flow) and "Magnesium-Wasting Cascade" (thiazide → TRPM6 → vicious cycle → three-way squeeze) frameworks are original Dr. Kane contributions. No competitor owns these angles.
-- **🔥 10 new ideas from June 28 (I296-I305)** — All scored 17-20. All zero competition. Anti-template verified. Top: I303 (4 AM BP Surge, Score 20), I296 (Ear Fullness Vascular, Score 19), I300 (Morning Hip Pain, Score 19), I305 (Ankle Darkening, Score 19), I297 (Gum Color Test, Score 18).
-- **🔥 New competitor patterns P189 added** — "The [Time] [Metric] Pattern After [Age] That Predicts [Disaster]" from I303 SEO.
-- **🔥 Dr. Michael Kent DEMENTIA MEDS PLATEAU at 882K** — Growth has STOPPED. Niche OCCUPIED. No further acceleration expected.
-- **🔥 Dr. Owen "STOP Doing" SURGING to 50K** — +85% in 24h. Prohibition format accelerating. Window still open for Dr. Kane adaptation.
-- **🔥 NEW competitor Dr. Parker Senior Health 60+ at 39K** — Positive aging angle. First positive-framing entrant. Monitor for growth.
-- **🔥 Dr. Thomas FB Live failed (6 views)** — His audience wants pre-recorded polished content, not live Q&A. No competitive threat from kidney expansion.
-- **✅ VID-066 safety score: 17 PASS / 0 FAIL**
-- **✅ VID-067 safety score: 18 PASS / 0 FAIL**
-- **✅ Anti-template compliance verified for all 10 new ideas (I296-I305)**
-- **✅ New title pattern P189 documented from I303 SEO**
-- **✅ New opening styles documented: sensory immersion + process of elimination (VID-066), direct medication-name + vicious cycle (VID-067)**
-- **✅ New thumbnail palettes: warm slate blue, deep heather purple, deep storm gray, clinical ice/amber split**
-- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 20). web_search fallback active.
+⚡ NEW STRATEGIC NOTES (June 30)
+- **🔥🔥 VID-070 + VID-071 scripts COMPLETE** — Scored 18 each. "Silent Atrophy" (detrusor muscle loss mechanism) and "30% Rule" (liver pharmacokinetics) frameworks are original Dr. Kane contributions. No competitor owns these niches.
+- **🔥 10 new ideas from June 30 (I316-I325)** — All scored 16-20. All zero competition. Anti-template verified. Top: I325 (Postural Cerebrovascular Steal, Score 20), I320 (Bilateral Perfusion Asymmetry, Score 19), I322 (Olfactory Microvascular Vulnerability, Score 19), I316 (Masticatory Muscle Perfusion, Score 18), I324 (Occipital Nerve Perfusion, Score 18).
+- **🔥 New competitor formats documented:** "Silent Atrophy" (organ deterioration framing), "Quantified Rule" (X% Rule framework), "Pharmacological Journey" (single-pill narrative through-line). All NEW Dr. Kane categories.
+- **🔥 VID-070 safety score: 17 PASS / 0 FAIL** | **VID-071 safety score: 18 PASS / 0 FAIL**
+- **🔥 New safety boundaries added:** Bladder content (never say "failing"), liver pharmacokinetics (never tell to stop meds), cross-link content (connection ≠ warning), quantified rule (never as medical advice).
+- **✅ Anti-template compliance verified for VID-070 and VID-071**
+- **✅ New title patterns P222-P225 documented from VID-070/071 SEO**
+- **✅ New opening styles documented:** Assumption confrontation (VID-070), pharmacological journey (VID-071)
+- **✅ New thumbnail palettes:** Deep teal + warm copper (VID-070), deep liver burgundy + metabolic gold (VID-071)
+- **⚠️ Firecrawl API STILL DOWN** — Credits exhausted since June 8 (Day 22). web_search fallback active.

@@ -1,6 +1,6 @@
 # Failed Patterns — Dr. Kane Channel
 
-> **Last Updated:** 2026-06-29
+> **Last Updated:** 2026-06-30
 > **Purpose:** Track what doesn't work so we don't repeat it.
 
 ## Structural Failures
@@ -791,3 +791,31 @@
 3. **Self-check content** — NEVER present self-checks as diagnostic tools. Frame as "screening awareness" that prompts a doctor visit, not "you can diagnose yourself at home."
 
 *Last updated: 2026-06-29 by Memory Curator Agent (Cron)*
+
+### New Failure Patterns Observed (June 30)
+
+#### Content Safety Failures to Avoid (from VID-070/071 production)
+1. **Bladder content — "appears to be" framing risk:** VID-070's "Silent Atrophy" framework uses a specific mechanism explanation (detrusor muscle atrophy) that could be construed as diagnosis if not properly hedged. The assumption confrontation structure requires careful language — "the usual explanations are incomplete" not "the usual explanations are wrong."
+2. **Medication metabolism content — dose equivalence risk:** VID-071's "30% Rule" creates a memorable quantitative anchor, but the "effective dose +30%" framing must NEVER be interpreted as medical advice. Every reference to dose changes must be accompanied by "your doctor can review this with you."
+3. **Cross-link content — synergistic risk framing:** VID-071's bidirectional cross-link to VID-070 (bladder medications affected by the 30% Rule) creates a content synergy that must be carefully worded. "Some of the medications most affected by the 30% Rule are the same ones prescribed for overactive bladder" is a connection, not a warning.
+
+#### New Safety Boundaries (VID-070 Bladder Muscle Loss Production)
+- **Never tell viewers their bladder is "failing"** — frame as "adapted" or "weakening"
+- **Never tell viewers to skip medical evaluation** — emphasize doctor conversation
+- **Never tell viewers that pelvic floor training cures bladder issues** — frame as "meaningful improvement" not "cure"
+- **Never tell viewers their symptoms are "just aging"** — validate the specific mechanism
+- **Never recommend stopping any bladder medication** — frame as "discuss with your doctor"
+
+#### New Safety Boundaries (VID-071 Liver Drug Processing Production)
+- **Never tell viewers to stop or change any medication** — frame everything as "ask your doctor"
+- **Never tell viewers their liver is diseased** — explicitly state "your liver isn't sick, it's just older"
+- **Never tell viewers that liver tests measure drug metabolism capacity** — clarify damage vs. capacity
+- **Never tell viewers to avoid grapefruit without checking their specific medication** — frame as "check whether..."
+- **Never tell viewers medications are "toxic"** — frame as "processing changes may require review"
+- **Never recommend specific medication doses or adjustments** — frame as "medication reconciliation"
+
+#### Platform Risk Updates (June 30)
+- **"Quantified Rule" format proliferation risk:** VID-071's "30% Rule" format is highly replicable. Expect competitors to create their own "X% Rule" content within 2-4 weeks. Dr. Kane should continue creating unique framework names to maintain differentiation.
+- **Urological content competition risk:** VID-070's bladder content opens a new niche. While currently zero competition, the high-search-volume symptom space (frequent urination, urgency) will attract competitors quickly. Produce follow-up content to own the niche.
+
+*Last updated: 2026-06-30 by Memory Curator Agent (Cron)*

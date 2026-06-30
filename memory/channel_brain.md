@@ -1,6 +1,6 @@
 # Channel Brain — Dr. Victor Kane
 
-> **Last Updated:** 2026-06-29
+> **Last Updated:** 2026-06-30
 > **Channel:** Dr. Victor Kane — Vascular Medicine & Senior Health
 > **Positioning:** "The Doctor Who Explains WHY"
 
@@ -321,6 +321,53 @@
     - Upload target: July 24, 2026
     - Purpose: Teaser for VID-057 long-form
     - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Videos Added June 30
+
+45. **VID-070 (Long-form):** "Why Your Bladder Shrank After 60 — The Muscle Loss Nobody Warns You About"
+    - Script: ✅ COMPLETE (June 30 script package, ~2,640 words, 6 studies, 5 retention hooks)
+    - Score: 18/20
+    - Unique angle: "Silent Atrophy" framework — detrusor muscle loses 15-20% contractile force by 65 from three mechanisms (denervation, fibroelastosis, ischemia). Core reframe: bladder didn't shrink in capacity, it lost emptying force. Vascular-ischemia angle via vesical artery atherosclerosis — only a vascular medicine specialist would make this connection.
+    - Structure: Assumption confrontation → Capacity vs. force reframe → Three mechanisms → Why usual explanations fall short → Pelvic floor compensatory mechanism → Practical protocol → Doctor conversation → Reassurance reframe
+    - Original insight: "Capacity vs. Force" framework + vesical artery ischemia as bladder weakening cause + pelvic floor release (not squeeze) as key exercise
+    - Key studies: Detrusor force decline (Neurourology and Urodynamics 2024), wall thickness/voiding efficiency (J Urol 2024), fibroelastosis (Int Urogynecol J 2023), vesical artery atherosclerosis (J Vasc Surg 2023), pelvic floor training (Cochrane 2024), timed voiding (J Am Geriatr Soc 2023)
+    - Upload target: Tuesday, September 9, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-071 (Liver Drug Processing)
+    - Companion Short: VID-SHORT-048
+    - Safety: 17 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+46. **VID-SHORT-048 (Short):** "Your Bladder Didn't Shrink After 60 — It Got Weak. Here's Why."
+    - Script: COMPLETE (~155 words)
+    - Upload target: September 9, 2026
+    - Purpose: Teaser for VID-070 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+47. **VID-071 (Long-form):** "Your Liver Processes Drugs Differently After 60 — The 30% Rule"
+    - Script: ✅ COMPLETE (June 30 script package, ~2,660 words, 6 studies, 6 retention hooks)
+    - Score: 18/20
+    - Unique angle: "30% Rule" framework — liver processes many medications ~30% more slowly after 60 from three converging mechanisms (20-30% volume loss, 30-40% blood flow decline, 15-30% CYP3A4 enzyme activity decline). Same dose = 30% higher effective dose. Grapefruit multiplier (60-80% effective increase when combined). Liver function tests measure damage, not capacity.
+    - Structure: Pharmacological journey (follow one pill) → 30% Rule revealed → Three mechanisms → Effective dose reframe → Five drug classes most affected → Grapefruit amplifier → Doctor conversation → Liver test clarification → Warm close
+    - Original insight: "The 30% Rule" framework + effective dose creep concept + grapefruit multiplier (multiplicative, not additive) + liver damage tests ≠ liver capacity tests distinction
+    - Key studies: Liver volume decline (Radiology 2024), hepatic blood flow (J Hepatol 2023), CYP3A4 activity decline (Clin Pharmacol Ther 2024), plasma concentration increase 28-45% (Clin Pharmacol Ther 2024), adverse events 2.5x in over-65s (JAMA Intern Med 2024), polypharmacy 40% (CDC NHANES 2023)
+    - Upload target: Thursday, September 11, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-070 (Bladder Muscle Loss) — bidirectional, content-driven (bladder meds affected by 30% Rule)
+    - Companion Short: VID-SHORT-049
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+48. **VID-SHORT-049 (Short):** "Same Medication, 30% Bigger Dose After 60 — The Liver Rule Nobody Tells You"
+    - Script: COMPLETE (~155 words)
+    - Upload target: September 11, 2026
+    - Purpose: Teaser for VID-071 long-form
+    - Status: SCRIPT WRITTEN — THUMBNAILS NEEDED
+
+### New Content Chain Links (June 30)
+- VID-070 (Bladder Muscle Loss) ↔ VID-071 (Liver Drug Processing) — bidirectional end screen linking
+  - VID-071 close: "some of the medications most affected by the 30% Rule are the same ones prescribed for overactive bladder"
+  - VID-070 close: "how your liver processes medications differently after 60"
+- VID-SHORT-048 → VID-070 (teaser → full)
+- VID-SHORT-049 → VID-071 (teaser → full)
 
 ### New Videos Added June 25
 
@@ -1484,9 +1531,86 @@
 - **Never minimize cancer risk** — explicitly acknowledge malignancy as possible cause
 - **Never claim walking cures heart failure** — frame as "supports lymphatic flow"
 
-### New Title Patterns Discovered (June 29)
-23. **"Your [Body Part] Changed After 60 — Here's Why Your [Organ] [Consequence]"** — Dr. Kane (VID-068). Body change + hidden organ consequence format. NEW. (P210)
-24. **"[Symptom] After 60? It's NOT [Common Belief] — It's Your [Organ]"** — Dr. Kane (VID-069). Misdirection + organ truth format. NEW. (P211)
+### New Videos Added June 30
+
+49. **VID-070 (Long-form):** "Why Your Bladder Shrank After 60 — The Muscle Loss Nobody Warns You About"
+    - Script: ✅ COMPLETE (June 30 script package, ~2,640 words, 5 studies, 4 engagement triggers)
+    - Score: 18/20
+    - Idea ID: I087
+    - Unique angle: "Silent Atrophy" framework — detrusor muscle loses 15-20% contractile force by age 65 via three mechanisms: denervation (nerve signal loss), fibroelastosis (collagen replacing muscle), and ischemia (reduced blood flow from vesical artery atherosclerosis). The capacity vs. force distinction is a completely novel reframe. No competitor explains the detrusor mechanism.
+    - Structure: Assumption confrontation opening (validates prostate/infection/"just aging" explanations, then shows why each is incomplete) → The capacity vs. force distinction (key reframe) → Three-mechanism muscle loss → Vascular-ischemia connection (Dr. Kane's unique contribution) → Why usual explanations fall short → Pelvic floor as compensatory mechanism → Practical protocol (timed voiding, pelvic floor coordination, hydration timing, double voiding) → Doctor conversation → Reassurance reframe close
+    - Key studies: Detrusor contractile force declines 15-20% by age 65 (Neurourology and Urodynamics 2024), detrusor wall thickness increases with age (Journal of Urology 2024), fibroelastosis replaces muscle with collagen (International Urogynecology Journal 2023), vesical artery atherosclerosis reduces bladder perfusion (Journal of Vascular Surgery 2023), pelvic floor training improves detrusor efficiency 18-25% (Cochrane Database 2024), timed voiding reduces urgency 40-60% (J Am Geriatr Soc 2023)
+    - Upload target: Tuesday, September 9, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-071 (Liver Drug Processing)
+    - Companion Short: VID-SHORT-048
+    - Safety: 17 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+50. **VID-SHORT-048 (Short):** "Your Bladder Didn't Shrink After 60 — It Got Weak. Here's Why."
+    - Script: COMPLETE (~155 words)
+    - Upload target: September 9, 2026
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+51. **VID-071 (Long-form):** "Your Liver Processes Drugs Differently After 60 — The 30% Rule"
+    - Script: ✅ COMPLETE (June 30 script package, ~2,660 words, 5 studies, 5 engagement triggers)
+    - Score: 18/20
+    - Idea ID: I078
+    - Unique angle: "30% Rule" framework — liver volume shrinks 20-30% by age 80, hepatic blood flow drops 30-40% by age 65, and CYP3A4 enzyme activity (processes 50% of all medications) declines 15-30%. The convergence means the same drug dose at 55 effectively becomes a 30% higher dose at 65. Side effects appearing years after starting a medication aren't new allergies — they're effective dose creep. No competitor covers age-related liver pharmacokinetics for seniors.
+    - Structure: Pharmacological journey opening (following a single pill through the body) → The 30% Rule revealed (quantitative anchor) — Three mechanisms (volume, blood flow, enzyme activity) → The effective dose reframe → Medication checklist (5 drug classes most affected) → Grapefruit amplifier (multiplicative interaction) → Doctor conversation script → Liver test clarification (damage ≠ capacity) → Warm empowering close
+    - Key studies: Liver volume decreases 20-30% by age 80 (Radiology 2024), hepatic blood flow declines 30-40% by age 65 (Journal of Hepatology 2023), CYP3A4 activity declines 15-30% with age (Clinical Pharmacology & Therapeutics 2024), adults 65+ on CYP3A4 drugs have 28-45% higher plasma concentrations (Clinical Pharmacology & Therapeutics 2024), medication adverse events 2.5x more common in over-65s (JAMA Internal Medicine 2024), polypharmacy in 40% of adults over 65 (CDC NHANES 2023)
+    - Upload target: Thursday, September 11, 2026 at 2:00 PM EST
+    - Cross-link: End screen → VID-070 (Bladder Muscle Loss)
+    - Companion Short: VID-SHORT-049
+    - Safety: 18 PASS / 0 FAIL
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+52. **VID-SHORT-049 (Short):** "Same Medication, 30% Bigger Dose After 60 — The Liver Rule Nobody Tells You"
+    - Script: COMPLETE (~155 words)
+    - Upload target: September 11, 2026
+    - Status: SCRIPT WRITTEN — THUMBNAIL BRIEF COMPLETE
+
+### New Content Chain Links (June 30)
+- VID-070 (Bladder Muscle Loss) ↔ VID-071 (Liver Drug Processing) via end screen (both directions)
+- VID-SHORT-048 → VID-070 (teaser → full)
+- VID-SHORT-049 → VID-071 (teaser → full)
+- Cross-link synergy: VID-071 script explicitly connects to VID-070 (bladder medications affected by the 30% Rule)
+
+### New Safety Boundaries (VID-070 Bladder Muscle Loss)
+- **Never tell viewers their bladder is "failing"** — frame as "adapted" or "weakening"
+- **Never tell viewers to skip medical evaluation** — emphasize doctor conversation section
+- **Never tell viewers that pelvic floor training cures bladder issues** — frame as "improves coordination" and "meaningful improvement"
+- **Never tell viewers their symptoms are "just aging"** — validate the specific mechanism
+- **Never recommend stopping any bladder medication** — frame as "discuss with your doctor"
+
+### New Safety Boundaries (VID-071 Liver Drug Processing)
+- **Never tell viewers to stop or change any medication** — frame everything as "ask your doctor"
+- **Never tell viewers their liver is diseased** — explicitly state "your liver isn't sick, it's just older"
+- **Never tell viewers that liver tests measure drug metabolism capacity** — clarify the damage vs. capacity distinction
+- **Never tell viewers to avoid grapefruit without checking their specific medication** — frame as "check whether grapefruit affects your medication"
+- **Never tell viewers that any medication is "toxic"** — frame as "processing changes may require dose review"
+- **Never recommend specific medication doses or adjustments** — frame as "medication reconciliation discussion with your doctor"
+
+### New Title Patterns Discovered (June 30)
+25. **"Your [Body Part] [Verb] After 60 — The [Mechanism] Nobody Warns You About"** — Dr. Kane (VID-070). Body part change + hidden mechanism + "nobody warns" modifier. NEW. (P222/P224)
+26. **"Your [Organ] [Processes] [Objects] Differently After 60 — The [Number]% Rule"** — Dr. Kane (VID-071). Quantified rule + organ function + age marker. NEW. (P223)
+27. **"The Same [Item], a [Number]% Bigger [Effect] After 60"** — Dr. Kane (VID-071 alt). Age-reframed risk through quantified comparison. NEW. (P225)
+
+### New Insights from June 30 Scans
+- **🆕 Urological mechanism niche:** Currently ZERO competition. No competitor covers detrusor muscle atrophy. Dr. Kane's vascular-ischemia angle on bladder function is unique.
+- **🆕 Liver pharmacokinetics for seniors:** EMPTY. No channel covers age-related liver drug metabolism. The "30% Rule" framework is completely unowned.
+- **🆕 Medication safety + body systems intersection:** VID-071's cross-link to VID-070 (bladder medications affected by the 30% Rule) creates a unique 2-video session connecting urology + pharmacology.
+- **✅ VID-070 safety score: 17 PASS / 0 FAIL**
+- **✅ VID-071 safety score: 18 PASS / 0 FAIL**
+- **✅ Anti-template compliance verified for VID-070 and VID-071**
+- **✅ New title patterns P222, P223, P224, P225 documented from VID-070/071 SEO**
+- **✅ New thumbnail palettes: deep teal + warm copper (VID-070), deep liver burgundy + metabolic gold (VID-071)**
+- **✅ 10 new ideas (I316-I325) from June 30 idea list — all zero competition, scores 16-20**
+
+### Structural Variety Log (June 30)
+| Video | Opening Style | Closing Style | Transition Pattern |
+|-------|--------------|---------------|-------------------|
+| VID-070 | Assumption confrontation (validates then reframes) | Reassurance reframe | Myth-refute → reframe → mechanism → surprise → empowerment → doctor conversation → warm close |
+| VID-071 | Pharmacological journey (following a single pill) | Gift-giving warm close | Journey → rule reveal → mechanisms → implication → checklist → multiplier → conversation → clarification → close |
 
 ### New Insights from June 29 Scans
 - **🆕 Gut-brain axis niche:** Currently LOW competition. No major elder-health creator owns this intersection. Dr. Kane's vagus nerve mechanism angle is unique.
