@@ -1770,3 +1770,38 @@ To github.com:tanishkrai07/hermes-youtube-growth-os.git
 [INFO] 2026-07-13 05:00:01   Improve: Only 5 scripts produced — need 90 by June 5
 [INFO] 2026-07-13 05:00:01 Executed 0 improvement actions
 [INFO] 2026-07-13 05:00:01 Executed 0 improvement actions
+[main a0f9ba5] Self-upgrade: 2026-07-13 05:00 - Daily improvement cycle
+ 1 file changed, 21 insertions(+)
+To github.com:tanishkrai07/hermes-youtube-growth-os.git
+   8cb9568..a0f9ba5  main -> main
+[SUCCESS] 2026-07-13 05:00:04 Changes committed and pushed
+[SUCCESS] 2026-07-13 05:00:04 Changes committed and pushed
+[INFO] 2026-07-13 05:00:04 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-07-13 05:00:04 === Self-Upgrade Orchestrator Complete ===
+[INFO] 2026-07-14 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-07-14 05:00:01 === Self-Upgrade Orchestrator Started ===
+[INFO] 2026-07-14 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-07-14 05:00:01 Loaded env from /home/ec2-user/.hermes/.env
+[INFO] 2026-07-14 05:00:01 Script production: 5 total scripts on disk
+[INFO] 2026-07-14 05:00:01 Script production: 5 total scripts on disk
+[INFO] 2026-07-14 05:00:01 Found 1 issues, 1 improvement areas
+[INFO] 2026-07-14 05:00:01 Found 1 issues, 1 improvement areas
+[WARNING] 2026-07-14 05:00:01   Issue: Competitor data 48h old (2026-07-12_competitors.csv)
+[WARNING] 2026-07-14 05:00:01   Issue: Competitor data 48h old (2026-07-12_competitors.csv)
+[INFO] 2026-07-14 05:00:01   Improve: Only 5 scripts produced — need 90 by June 5
+[INFO] 2026-07-14 05:00:01   Improve: Only 5 scripts produced — need 90 by June 5
+[INFO] 2026-07-14 05:00:01 Refreshing competitor data...
+[INFO] 2026-07-14 05:00:01 Refreshing competitor data...
+[INFO] 2026-07-14 05:00:01 Hermes Competitor Video Fetcher — 2026-07-14
+[INFO] 2026-07-14 05:00:01 Days back: 7
+[INFO] 2026-07-14 05:00:01 Output: /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-07-14_competitors.csv
+[INFO] 2026-07-14 05:00:01 Loaded 0 channels from watchlist
+[INFO] 2026-07-14 05:00:01 Using 1 API key(s)
+[INFO] 2026-07-14 05:00:01 Fetching videos published after: 2026-07-07T05:00:01Z
+[INFO] 2026-07-14 05:00:01 Wrote 0 videos to /home/ec2-user/workspaces/hermes-youtube-growth-os/data/competitors/daily/2026-07-14_competitors.csv
+[INFO] 2026-07-14 05:00:01 Estimated quota used: 0 units
+[INFO] 2026-07-14 05:00:01 Scan complete — 0 videos from 0 channels
+[SUCCESS] 2026-07-14 05:00:01 Competitor data refreshed
+[SUCCESS] 2026-07-14 05:00:01 Competitor data refreshed
+[INFO] 2026-07-14 05:00:01 Executed 1 improvement actions
+[INFO] 2026-07-14 05:00:01 Executed 1 improvement actions
